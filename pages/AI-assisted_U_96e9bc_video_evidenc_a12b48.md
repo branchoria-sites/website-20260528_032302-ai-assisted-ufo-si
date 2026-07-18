@@ -325,7 +325,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview-social.
 A clear UFO video can still be [weak evidence]({{ 'weak-evidence/' | relative_url }}). It may prove that something appeared in the camera’s field of view, but it often does not prove what the object was, how far away it was, how large it was, how fast it moved, or whether its strange behaviour came from the object rather than the camera. That is why AI-assisted UFO sighting investigation should treat video as one evidence layer inside a structured [case file]({{ 'case-file/' | relative_url }}), not as a conclusion in itself.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview.webp" | relative_url }}" alt="Overview image for Video Limits" loading="eager" decoding="sync" fetchpriority="high">
-The strongest video evidence is not simply the sharpest clip. It is the clip with the original file, reliable time and location, known camera settings, stable [reference points]({{ 'reference-points/' | relative_url }}), unbroken context before and after the sighting, and independent checks against aircraft, satellites, balloons, weather, astronomy and other sensors. NASA’s UAP study made the same basic point: UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The strongest video evidence is not simply the sharpest clip. It is the clip with the original file, reliable time and location, known camera settings, stable [reference points]({{ 'reference-points/' | relative_url }}), unbroken context before and after the sighting, and independent checks against aircraft, satellites, balloons, weather, astronomy and other sensors. NASA’s UAP study made the same basic point: UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why “clear” does not mean “measured”
 
@@ -345,7 +345,7 @@ A useful AI-assisted workflow should separate:
 
 </div>
 
-This distinction matters because an object can be genuinely filmed and still be misinterpreted. AARO’s public imagery page includes cases where infrared clips were later assessed as balloons, birds, commercial aircraft, or non-anomalous objects, as well as cases that remain unresolved because the available data does not support a confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery... video footage from an infrared sensor aboard a U.S. military platform in 2024.... sensor artifact resultant of video...</span></span></span>
+This distinction matters because an object can be genuinely filmed and still be misinterpreted. AARO’s public imagery page includes cases where infrared clips were later assessed as balloons, birds, commercial aircraft, or non-anomalous objects, as well as cases that remain unresolved because the available data does not support a confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery... video footage from an infrared sensor aboard a U.S. military platform in 2024.... sensor artifact resultant of video...</span></span></span>
 
 ## Distance, scale and camera motion
 
@@ -353,9 +353,9 @@ This distinction matters because an object can be genuinely filmed and still be 
 
 Parallax is one of the most important failure modes in UFO video analysis. It occurs when the observer or camera is moving, making nearer objects appear to move faster across the field of view than distant objects. From a moving aircraft, car, drone or handheld phone, a slow object can seem to streak across the background if the geometry is misunderstood.
 
-AARO’s paper on forced perspective and parallax explains that observers positioned far from an object while moving relative to it can misread apparent size and speed. Under those conditions, what looks like rapid object motion may partly be the motion of the observing platform or camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
+AARO’s paper on forced perspective and parallax explains that observers positioned far from an object while moving relative to it can misread apparent size and speed. Under those conditions, what looks like rapid object motion may partly be the motion of the observing platform or camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
-The “GoFast” Navy video is the clearest public example of why this matters. The clip became famous because the tracked object appears to skim rapidly above the ocean. AARO’s 2025 case resolution states that it analysed the publicly available 34-second FLIR video because the original file and metadata were no longer available, but that the display data still gave enough information to assess the object’s altitude and range of possible speeds. The conclusion was that the object was not moving at extraordinary speed; the striking apparent motion was consistent with parallax and the object’s estimated altitude and speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
+The “GoFast” Navy video is the clearest public example of why this matters. The clip became famous because the tracked object appears to skim rapidly above the ocean. AARO’s 2025 case resolution states that it analysed the publicly available 34-second FLIR video because the original file and metadata were no longer available, but that the display data still gave enough information to assess the object’s altitude and range of possible speeds. The conclusion was that the object was not moving at extraordinary speed; the striking apparent motion was consistent with parallax and the object’s estimated altitude and speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
 
 For a public viewer, this is counter-intuitive. The object really does cross the screen quickly. The error is in treating screen speed as object speed. Without distance, camera angle, platform motion and field of view, a fast-looking dot is only a fast-looking dot.
 
@@ -389,7 +389,7 @@ When these answers are missing, the video may remain interesting but weak. It ca
 
 A UFO video shared through social media is usually not the original evidence. It may have been cropped, recompressed, stabilised, slowed down, brightened, screen-recorded, captioned, edited into a compilation, or stripped of metadata. Each step can remove information or add misleading artefacts.
 
-Digital forensic guidance stresses the importance of interrogating the file to determine recording properties, comparing results from multiple tools, documenting discrepancies and, where needed, manually examining the file structure. The Scientific Working Group on Digital Evidence’s best-practice guidance for digital forensic video analysis treats file properties and discrepancies as part of the evidence, not as optional technical details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">Best Practices for Digital Forensic Video Analysis</span></span></span>
+Digital forensic guidance stresses the importance of interrogating the file to determine recording properties, comparing results from multiple tools, documenting discrepancies and, where needed, manually examining the file structure. The Scientific Working Group on Digital Evidence’s best-practice guidance for digital forensic video analysis treats file properties and discrepancies as part of the evidence, not as optional technical details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">Best Practices for Digital Forensic Video Analysis</span></span></span>
 
 For UFO investigation, the original file can help establish:
 
@@ -414,9 +414,9 @@ This does not mean metadata is always truthful. Device clocks can be wrong, GPS 
 
 ### Chain of custody for public UFO clips
 
-Open-source investigators working in human rights and conflict documentation have developed practical habits that transfer well to UFO video handling: find the earliest upload, preserve the content, document where it came from, verify time and place, and avoid treating a repost as the source. The Berkeley Protocol describes professional standards for identifying, collecting, preserving, analysing and presenting digital open-source information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[United Nations Human Rights Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">United Nations Human Rights Office Berkeley Protocol</span><span class="citation-popover-snippet">United Nations Human Rights Office Berkeley Protocol</span></span></span>
+Open-source investigators working in human rights and conflict documentation have developed practical habits that transfer well to UFO video handling: find the earliest upload, preserve the content, document where it came from, verify time and place, and avoid treating a repost as the source. The Berkeley Protocol describes professional standards for identifying, collecting, preserving, analysing and presenting digital open-source information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[United Nations Human Rights Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">United Nations Human Rights Office Berkeley Protocol</span><span class="citation-popover-snippet">United Nations Human Rights Office Berkeley Protocol</span></span></span>
 
-Bellingcat’s video verification guidance similarly starts with checking whether the footage has appeared before, while Amnesty’s Citizen Evidence Lab explains that reverse image search can reveal whether a visual claim is recycled from an earlier event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content</span></span></span>
+Bellingcat’s video verification guidance similarly starts with checking whether the footage has appeared before, while Amnesty’s Citizen Evidence Lab explains that reverse image search can reveal whether a visual claim is recycled from an earlier event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content</span></span></span>
 
 In UFO sighting analysis, this protects against common failures:
 
@@ -439,9 +439,9 @@ AI can assist by extracting keyframes, searching for earlier versions, comparing
 
 Many UFO clips are not ordinary colour videos. They may come from infrared sensors, night-vision devices, aircraft targeting pods, CCTV cameras, dashcams, doorbell cameras, [phone cameras]({{ 'phone-cameras/' | relative_url }}) using digital zoom, or social media copies of any of these. Each sensor has its own distortions.
 
-NASA’s UAP report notes that metadata about sensor type, manufacturer details, noise characteristics and time of acquisition is needed to characterise both the observed object and the sensor. It also notes that some apparent UAP have been shown to be sensor artefacts once calibration and metadata were examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
+NASA’s UAP report notes that metadata about sensor type, manufacturer details, noise characteristics and time of acquisition is needed to characterise both the observed object and the sensor. It also notes that some apparent UAP have been shown to be sensor artefacts once calibration and metadata were examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
 
-AARO’s public cases show how this plays out in practice. In one “Atmospheric Wake” case, AARO assessed that an infrared video likely showed a commercial aircraft and that the trailing wake-like effect was a sensor artefact caused by video compression. In another “Western U.S. Objects” case, full-motion video combined with commercial flight data led AARO to assess that small dots in the infrared footage were three separate commercial aircraft at significant distance from the sensor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO’s public cases show how this plays out in practice. In one “Atmospheric Wake” case, AARO assessed that an infrared video likely showed a commercial aircraft and that the trailing wake-like effect was a sensor artefact caused by video compression. In another “Western U.S. Objects” case, full-motion video combined with commercial flight data led AARO to assess that small dots in the infrared footage were three separate commercial aircraft at significant distance from the sensor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That is a crucial lesson for public-facing UFO investigation: the weirdest-looking part of a video may belong to the imaging chain rather than the sky.
 
@@ -449,7 +449,7 @@ That is a crucial lesson for public-facing UFO investigation: the weirdest-looki
 
 Video compression is especially treacherous because it does not merely blur an image. It can remove real information, create false edges, smear motion, generate blocky shapes, and make small lights pulse or split. In low-light sky footage, where the object may be only a few pixels wide, compression can become a major part of what the viewer sees.
 
-Forensic video analysts warn that compression artefacts can cause both loss and addition of visual information, making it hard to distinguish real detail from artefact in surveillance footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">Amped Blog Video Compression Artifacts in Surveillance Footage</span><span class="citation-popover-snippet">Amped Blog Video Compression Artifacts in Surveillance Footage</span></span></span> This is directly relevant to UFO clips because many public videos show tiny objects against dark sky, cloud, sea or sensor noise — exactly the conditions where compression has room to mislead.
+Forensic video analysts warn that compression artefacts can cause both loss and addition of visual information, making it hard to distinguish real detail from artefact in surveillance footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">Amped Blog Video Compression Artifacts in Surveillance Footage</span><span class="citation-popover-snippet">Amped Blog Video Compression Artifacts in Surveillance Footage</span></span></span> This is directly relevant to UFO clips because many public videos show tiny objects against dark sky, cloud, sea or sensor noise — exactly the conditions where compression has room to mislead.
 
 AI can make this worse if used carelessly. Upscaling, sharpening, frame interpolation and denoising can produce attractive images that look more informative than the original. A sharpened “craft edge” may be an algorithmic guess. A slowed-down “acceleration” may be frame interpolation. A stabilised clip may hide the camera motion that explains the object’s apparent movement. Enhancement should therefore be logged as a derivative product, not treated as the evidence itself.
 
@@ -522,194 +522,194 @@ The limits of UFO video evidence do not make video useless. A clip can confirm t
 The key is to resist the emotional force of a clear image. A sharp object with unknown distance may be less informative than a blurry object with known geometry. A dramatic short clip may be weaker than a dull long recording with a visible horizon and original metadata. For AI-assisted UFO sighting investigation, the best use of video is not to make the mystery look more impressive. It is to turn the clip into measured claims, test those claims against ordinary explanations, and leave a clear record of what remains uncertain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Clear UFO Videos Can Still Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Clear UFO Videos Can Still Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses evidential quality and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidential quality and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Helps readers think critically about image evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think critically about image evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses pitfalls in interpreting ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses pitfalls in interpreting ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Encourages disciplined evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages disciplined evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°"><img src="https://i.ebayimg.com/images/g/spEAAOSwZRJoN8QD/s-l225.jpg" alt="Listing image for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°"><img src="https://i.ebayimg.com/images/g/spEAAOSwZRJoN8QD/s-l225.jpg" alt="Listing image for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR"><img src="https://i.ebayimg.com/images/g/E8kAAOSwaaNcL3Tl/s-l225.jpg" alt="Listing image for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR"><img src="https://i.ebayimg.com/images/g/E8kAAOSwaaNcL3Tl/s-l225.jpg" alt="Listing image for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-mislead-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="why-clear-ufo-videos-can-still-mislead-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,156 +915,156 @@ The key is to resist the emotional force of a clear image. A sharp object with u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... video footage from an infrared sensor aboard a U.S. military platform in 2024.... sensor artifact resultant of video...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... video footage from an infrared sensor aboard a U.S. military platform in 2024.... sensor artifact resultant of video...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
    Published: May 8, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: swgde.org  
    Title: Best Practices for Digital Forensic Video Analysis  
-   Link: <a href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf</a>  
+   Link:<a href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bellingcat.com  
    Title: Advanced Guide on Verifying Video Content  
-   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bellingcat.com  
-   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
+   Link:<a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bellingcat.com  
-   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bellingcat.com  
    Title: searching the earth essential [geolocation](&#123;&#123; 'geolocation/' | relative_url &#125;&#125;) tools for verification  
-   Link: <a href="https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bellingcat.com  
    Title: a beginners guide to social media verification  
-   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bellingcat.com  
    Title: using the sun and the shadows for geolocation  
-   Link: <a href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amnesty.org  
-   Link: <a href="https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/</a>  
+   Link:<a href="https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lab.witness.org  
-   Link: <a href="https://lab.witness.org/portfolio_page/verification/" target="_blank" rel="noopener noreferrer nofollow">https://lab.witness.org/portfolio_page/verification/</a>  
+   Link:<a href="https://lab.witness.org/portfolio_page/verification/" target="_blank" rel="noopener noreferrer nofollow">https://lab.witness.org/portfolio_page/verification/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: humanrights.berkeley.edu  
    Title: protocol on digital open source investigations  
-   Link: <a href="https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/</a>  
+   Link:<a href="https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ohchr.org  
    Title: United Nations Human Rights Office Berkeley Protocol  
-   Link: <a href="https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf</a>  
+   Link:<a href="https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blog.ampedsoftware.com  
    Title: Amped Blog Video Compression Artifacts in Surveillance Footage  
-   Link: <a href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts</a>  
+   Link:<a href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/7844175" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/7844175</a>  
+   Link:<a href="https://zenodo.org/records/7844175" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/7844175</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
+   Link:<a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: digitallibrary.un.org  
-   Link: <a href="https://digitallibrary.un.org/record/3973652?ln=en" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/3973652?ln=en</a>  
+   Link:<a href="https://digitallibrary.un.org/record/3973652?ln=en" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/3973652?ln=en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
    Title: Bellingcat s Online Investigation Toolkit  
-   Link: <a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
+   Link:<a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Understanding Lens Flares and Camera Artifacts in UFO Videos  
-   Link: <a href="https://www.youtube.com/watch?v=0BjG_J4c75c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0BjG_J4c75c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Effect: Why Objects in the Sky Seem to Move Fast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0BjG_J4c75c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0BjG_J4c75c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Effect: Why Objects in the Sky Seem to Move Fast...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Physics of Infrared Imaging and UAP Misidentification  
-   Link: <a href="https://www.youtube.com/watch?v=tOQG6h1f7xQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tOQG6h1f7xQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Scientifically Analyze Aerial Phenomena Videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tOQG6h1f7xQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tOQG6h1f7xQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Scientifically Analyze Aerial Phenomena Videos...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Parallax Effect: Why Objects in the Sky Seem to Move Fast  
-   Link: <a href="https://www.youtube.com/watch?v=kO1-l1P1-3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kO1-l1P1-3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Camera Can&#x27;t Always Tell the Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kO1-l1P1-3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kO1-l1P1-3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Camera Can&#x27;t Always Tell the Truth...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
+   Link:<a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods</a>  
+   Link:<a href="https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gijn.org  
-   Link: <a href="https://gijn.org/stories/amnesty-internationals-sam-dubberley-on-digital-verification-and-human-rights/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/stories/amnesty-internationals-sam-dubberley-on-digital-verification-and-human-rights/</a>  
+   Link:<a href="https://gijn.org/stories/amnesty-internationals-sam-dubberley-on-digital-verification-and-human-rights/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/stories/amnesty-internationals-sam-dubberley-on-digital-verification-and-human-rights/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/Cp6ymCnjAlq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cp6ymCnjAlq/</a>
+   Link:<a href="https://www.instagram.com/reel/Cp6ymCnjAlq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cp6ymCnjAlq/</a>

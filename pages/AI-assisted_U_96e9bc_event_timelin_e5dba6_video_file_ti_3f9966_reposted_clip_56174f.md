@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f
 A viral UFO clip often looks more convincing the more widely it spreads. In forensic terms, the opposite is usually true. Each repost, screen recording, edit, crop, or platform upload can remove clues about when the footage was captured, what device recorded it, whether frames are missing, and how the image changed over time. By the time a dramatic UFO video reaches millions of viewers, investigators may be analysing a heavily transformed copy rather than the [original]({{ 'original-evidence/' | relative_url }}) recording.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-dark.svg" | relative_url }}" alt="Reposted Clips illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In AI-assisted UFO sighting investigation, this matters because timeline reconstruction depends on reliable technical anchors. A clip’s upload date is not necessarily its filming date. A smooth-looking repost may hide dropped frames, altered aspect ratios, or exposure changes introduced by social platforms. [Metadata]({{ 'metadata/' | relative_url }}) may be stripped entirely. Witness memory can then become fused with a degraded video copy, creating a false sense of certainty about what happened and when. Modern media-forensics research repeatedly notes that social platforms routinely recompress uploads and remove or regenerate metadata, weakening provenance and chain-of-custody analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s13635-021-00117-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">forensics on social media platforms: a surveyby C Pasquini · 2021 · Cited by 95 — This survey aims at describing the work done so far by...</span></span></span>
+In AI-assisted UFO sighting investigation, this matters because timeline reconstruction depends on reliable technical anchors. A clip’s upload date is not necessarily its filming date. A smooth-looking repost may hide dropped frames, altered aspect ratios, or exposure changes introduced by social platforms. [Metadata]({{ 'metadata/' | relative_url }}) may be stripped entirely. Witness memory can then become fused with a degraded video copy, creating a false sense of certainty about what happened and when. Modern media-forensics research repeatedly notes that social platforms routinely recompress uploads and remove or regenerate metadata, weakening provenance and chain-of-custody analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s13635-021-00117-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">forensics on social media platforms: a surveyby C Pasquini · 2021 · Cited by 95 — This survey aims at describing the work done so far by...</span></span></span>
 
 ## Platform recompression changes the evidence itself
 
@@ -288,23 +288,23 @@ This process affects far more than image quality. Recompression can alter:
 * Noise patterns useful for camera analysis.
 * Compression artefacts linked to the original device.
 * Embedded timestamps and device identifiers.
-* GPS and EXIF metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</span></span></span>
+* GPS and EXIF metadata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</span></span></span>
 
 </div>
 
-Research on social-media forensics describes metadata stripping as one of the central problems in source identification and authenticity work. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based...</span></span></span> Studies examining major social platforms also show that uploaded files are frequently renamed, recompressed, and rebuilt into platform-specific formats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research on social-media forensics describes metadata stripping as one of the central problems in source identification and authenticity work. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based...</span></span></span> Studies examining major social platforms also show that uploaded files are frequently renamed, recompressed, and rebuilt into platform-specific formats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For UFO investigations, this can directly damage timeline reconstruction. Suppose a witness records a light moving across the sky at 60 frames per second. After platform processing, the reposted version may run at a lower effective frame rate with duplicated or interpolated frames. An object that originally moved smoothly can appear to “jump” or accelerate unnaturally. AI motion analysis applied to the reposted copy may then misinterpret compression artefacts as unusual movement.
 
 The problem becomes worse when multiple [reposts]({{ 'reposts/' | relative_url }}) exist simultaneously. One version may have platform-generated timestamps while another has been manually edited, stabilised, or clipped for dramatic effect. Viral circulation creates parallel evidence branches, each with slightly different technical properties.
 
-The National Institute of Standards and Technology (NIST) and related forensic guidance stress that image and video processing steps should be documented because transformations can affect authenticity assessment and evidential interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">2021-S-0036 Standard Guide for Image AuthenicationThe information in the Proposed Standard, and underlying concepts and methodologies...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">OSAC 2024-N-0011 Standard Guide for Forensic Digital...6.3. All steps taken to process working images shall be documented. 174. 6.3.1. I...</span></span></span>
+The National Institute of Standards and Technology (NIST) and related forensic guidance stress that image and video processing steps should be documented because transformations can affect authenticity assessment and evidential interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">2021-S-0036 Standard Guide for Image AuthenicationThe information in the Proposed Standard, and underlying concepts and methodologies...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">OSAC 2024-N-0011 Standard Guide for Forensic Digital...6.3. All steps taken to process working images shall be documented. 174. 6.3.1. I...</span></span></span>
 
 ## Screen recordings create entirely new evidence objects
 
 One of the biggest mistakes in online UFO analysis is treating a screen recording as if it were a copy of the original footage. It is not.
 
-When somebody records a video playing on another screen, the resulting file becomes a new recording with its own metadata, encoding structure, frame cadence, brightness behaviour, and audio synchronisation. Forensic specialists explicitly warn that screen captures generate “a brand new video file” that cannot reliably demonstrate the integrity of the source recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-snippet">Amped BlogScreen Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...March 23, 2021 — 23 Mar 2021 — Finally, screen capturing generate...</span><span class="citation-popover-meta">Published: March 23, 2021</span></span></span>
+When somebody records a video playing on another screen, the resulting file becomes a new recording with its own metadata, encoding structure, frame cadence, brightness behaviour, and audio synchronisation. Forensic specialists explicitly warn that screen captures generate “a brand new video file” that cannot reliably demonstrate the integrity of the source recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-snippet">Amped BlogScreen Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...March 23, 2021 — 23 Mar 2021 — Finally, screen capturing generate...</span><span class="citation-popover-meta">Published: March 23, 2021</span></span></span>
 
 This distinction matters because many viral UFO clips survive only as screen recordings. Common examples include:
 
@@ -360,7 +360,7 @@ Tracking upload chronology means reconstructing where and when each visible vers
 
 This matters because social-media timelines frequently become distorted during viral spread. A repost on a large account can become mistaken for the original source. Later uploads may receive more attention than earlier copies, causing viewers to assume the event happened later than it actually did.
 
-Research into misleading online video context shows that false or altered metadata narratives spread easily on large video platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In UFO cases, this can produce claims such as:
+Research into misleading online video context shows that false or altered metadata narratives spread easily on large video platforms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In UFO cases, this can produce claims such as:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +372,7 @@ Research into misleading online video context shows that false or altered metada
 
 Sometimes these claims collapse once chronology is reconstructed. What appears to be independent corroboration may actually trace back to one heavily reposted source clip.
 
-AI systems can help by building media family trees. Instead of treating every upload as separate evidence, automated workflows can cluster visually similar files and identify probable derivation chains. Platform fingerprints identified in multimedia-forensics research can sometimes help determine where a repost likely passed through before reaching its current form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</span></span></span>
+AI systems can help by building media family trees. Instead of treating every upload as separate evidence, automated workflows can cluster visually similar files and identify probable derivation chains. Platform fingerprints identified in multimedia-forensics research can sometimes help determine where a repost likely passed through before reaching its current form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</span></span></span>
 
 That distinction is important in UFO investigations because timing influences explanation triage. If a clip predates a reported launch, aircraft movement, or meteor event, it may deserve closer attention. If the viral upload occurred hours after known atmospheric or aviation activity, mundane explanations become more plausible.
 
@@ -381,7 +381,7 @@ That distinction is important in UFO investigations because timing influences ex
 
 Missing metadata is often interpreted online as evidence of suppression or concealment. In most cases, it is routine platform behaviour.
 
-Studies and forensic guidance repeatedly document that social and messaging platforms remove or rewrite metadata during uploads and sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> Messaging services may also compress videos aggressively, especially when sent as ordinary media rather than document attachments. Some services preserve more metadata only under specific sharing methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and...</span></span></span>
+Studies and forensic guidance repeatedly document that social and messaging platforms remove or rewrite metadata during uploads and sharing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> Messaging services may also compress videos aggressively, especially when sent as ordinary media rather than document attachments. Some services preserve more metadata only under specific sharing methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and...</span></span></span>
 
 This creates a common pattern in UFO discussions:
 
@@ -444,7 +444,7 @@ Without those distinctions, later analytical conclusions may accidentally rely o
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-dark.svg" | relative_url }}" alt="Reposted Clips illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators prioritise originals whenever possible
 
-Forensic specialists consistently emphasise the importance of obtaining [original files]({{ 'original-files/' | relative_url }}) rather than downloaded social-media copies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://powellpath.com/photo-video-audio-authenticity-[review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powellpath.com">[PowellPath Group, LLC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powellpath.com</span><span class="citation-popover-snippet">Photo, Video, and Audio Authenticity ReviewMessaging platforms may recompress images and videos. Social-media sites may remove metadata...</span></span></span> In UFO investigations, this is less about proving aliens and more about preserving measurable context before it disappears.
+Forensic specialists consistently emphasise the importance of obtaining [original files]({{ 'original-files/' | relative_url }}) rather than downloaded social-media copies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://powellpath.com/photo-video-audio-authenticity-[review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powellpath.com">[PowellPath Group, LLC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powellpath.com</span><span class="citation-popover-snippet">Photo, Video, and Audio Authenticity ReviewMessaging platforms may recompress images and videos. Social-media sites may remove metadata...</span></span></span> In UFO investigations, this is less about proving aliens and more about preserving measurable context before it disappears.
 
 The highest-value evidence usually includes:
 
@@ -463,194 +463,194 @@ The opposite is also true. Once only reposted versions remain, certainty drops s
 That is why serious UFO case analysis separates viral visibility from forensic strength. A clip seen by millions can still be a poor evidence source if the original timeline, metadata, and capture chain have already been lost.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Viral UFO Videos Become Worse Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Viral UFO Videos Become Worse Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages verification before accepting viral UFO clips.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages verification before accepting viral UFO clips.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Relevant to why copied visuals lose investigative meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to why copied visuals lose investigative meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Supports interpreting degraded viral evidence cautiously.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports interpreting degraded viral evidence cautiously.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Relevant to preserving original files and evidence trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to preserving original files and evidence trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo"><img src="https://i.ebayimg.com/images/g/OmQAAOSwHGtn2yME/s-l225.jpg" alt="Listing image for USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo"><img src="https://i.ebayimg.com/images/g/OmQAAOSwHGtn2yME/s-l225.jpg" alt="Listing image for USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader Adapter All In One for Micro SD MMC SDHC TF M2 MS Duo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac"><img src="https://i.ebayimg.com/images/g/xmMAAeSwXERpwXrP/s-l225.jpg" alt="Listing image for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac"><img src="https://i.ebayimg.com/images/g/xmMAAeSwXERpwXrP/s-l225.jpg" alt="Listing image for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New"><img src="https://i.ebayimg.com/images/g/ylcAAeSwbIZoZcJx/s-l225.jpg" alt="Listing image for acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New"><img src="https://i.ebayimg.com/images/g/ylcAAeSwbIZoZcJx/s-l225.jpg" alt="Listing image for acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">acer SD Card Reader, USB C &amp; USB 3.0 Memory Card Reader Adapter Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black"><img src="https://i.ebayimg.com/images/g/FN0AAeSwM~Rp9aXH/s-l225.jpg" alt="Listing image for 21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black"><img src="https://i.ebayimg.com/images/g/FN0AAeSwM~Rp9aXH/s-l225.jpg" alt="Listing image for 21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">21 in 1 USB 2.0 Memory Card Reader SD CF MS MMC M2 XD TF Adapter Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-viral-ufo-videos-become-worse-evidence-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-viral-ufo-videos-become-worse-evidence-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -666,7 +666,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -686,7 +686,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -718,7 +718,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -770,7 +770,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -815,7 +815,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -856,189 +856,189 @@ That is why serious UFO case analysis separates viral visibility from forensic s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s13635-021-00117-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13635-021-00117-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>forensics on social media platforms: a surveyby C Pasquini · 2021 · Cited by 95 — This survey aims at describing the work done so far by...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s13635-021-00117-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13635-021-00117-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forensics on social media platforms: a surveyby C Pasquini · 2021 · Cited by 95 — This survey aims at describing the work done so far by...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.12133</a>  
+   Link:<a href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.12133</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metada...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
    Title: 2313 433X  
-   Link: <a href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/12/3/110</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based...</p></details>
+   Link:<a href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/12/3/110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2109.03598" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03598</a>  
+   Link:<a href="https://arxiv.org/abs/2109.03598" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03598</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nist.gov  
    Title: osac 2021 s 0036standard guide image authenticationdraft osac proposed  
-   Link: <a href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2021-S-0036 Standard Guide for Image AuthenicationThe information in the Proposed Standard, and underlying concepts and methodologies...</p></details>
+   Link:<a href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2021-S-0036 Standard Guide for Image AuthenicationThe information in the Proposed Standard, and underlying concepts and methodologies...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nist.gov  
    Title: osac 2024 n 0011 standard guide forensic digital image management version 10  
-   Link: <a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2024-N-0011 Standard Guide for Forensic Digital...6.3. All steps taken to process working images shall be documented. 174. 6.3.1. I...</p></details>
+   Link:<a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2024-N-0011 Standard Guide for Forensic Digital...6.3. All steps taken to process working images shall be documented. 174. 6.3.1. I...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/programs-projects/video-analytics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/video-analytics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>velopment of technologies that extract...</p></details>
+   Link:<a href="https://www.nist.gov/programs-projects/video-analytics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/video-analytics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>velopment of technologies that extract...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Misleading Metadata Detection on You Tube  
-   Link: <a href="https://arxiv.org/abs/1901.08759" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.08759</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misleading Metadata Detection on YouTubeJanuary 25, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1901.08759" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.08759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misleading Metadata Detection on YouTubeJanuary 25, 2019...</p></details>
    Published: January 25, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: removemd.com  
-   Link: <a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and...</p></details>
+   Link:<a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: powellpath.com  
-   Link: <a href="https://powellpath.com/photo-video-audio-authenticity-[review" target="_blank" rel="noopener noreferrer nofollow">https://powellpath.com/photo-video-audio-authenticity-[review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo, Video, and Audio Authenticity ReviewMessaging platforms may recompress images and videos. Social-media sites may remove metadata...</p></details>
+   Link:<a href="https://powellpath.com/photo-video-audio-authenticity-[review" target="_blank" rel="noopener noreferrer nofollow">https://powellpath.com/photo-video-audio-authenticity-[review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo, Video, and Audio Authenticity ReviewMessaging platforms may recompress images and videos. Social-media sites may remove metadata...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nvlpubs.nist.gov  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation Techniques: A NIST Scientific Foundation...Metadata associated with an object, such as, file MAC (Modify/Access/Create) ti...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation Techniques: A NIST Scientific Foundation...Metadata associated with an object, such as, file MAC (Modify/Access/Create) ti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9DKJ6gP5lJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9DKJ6gP5lJY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Colloquium Series: Digital ForensicsDr. Hany Farid, a distinguished professor at Dartmouth College and the &quot;father&quot; of digital image...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9DKJ6gP5lJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9DKJ6gP5lJY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Colloquium Series: Digital ForensicsDr. Hany Farid, a distinguished professor at Dartmouth College and the &quot;father&quot; of digital image...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evidence in forensic in...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-032-17300" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-032-17300</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evidence in forensic in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/index/article/download_article/id/567.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/index/article/download_article/id/567.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation of...Jun 18, 2025 — ABSTRACT: Exif metadata contained in digital photographs is an...</p></details>
+   Link:<a href="https://www.sciepublish.com/index/article/download_article/id/567.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/index/article/download_article/id/567.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation of...Jun 18, 2025 — ABSTRACT: Exif metadata contained in digital photographs is an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUzt83ZE7ne/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUzt83ZE7ne/</a>  
+   Link:<a href="https://www.instagram.com/p/DUzt83ZE7ne/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUzt83ZE7ne/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Digital Forensics: Image and Video Tampering Detection  
-   Link: <a href="https://www.youtube.com/watch?v=S01Z69s0Y8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S01Z69s0Y8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Social Media Changes Your Photos and Videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S01Z69s0Y8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S01Z69s0Y8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Social Media Changes Your Photos and Videos...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: How Social Media Changes Your Photos and Videos  
-   Link: <a href="https://www.youtube.com/watch?v=9jK-23m2m3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9jK-23m2m3k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Digital Image and Video Forensics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9jK-23m2m3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9jK-23m2m3k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Digital Image and Video Forensics...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kYv_8g9B1-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv_8g9B1-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Video Compression and Artifacts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYv_8g9B1-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv_8g9B1-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Video Compression and Artifacts...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Understanding Video Compression and Artifacts  
-   Link: <a href="https://www.youtube.com/watch?v=r6Y1y-P0oYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6Y1y-P0oYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Deepfake and Media Authenticity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r6Y1y-P0oYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6Y1y-P0oYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Deepfake and Media Authenticity...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Science of Deepfake and Media Authenticity  
-   Link: <a href="https://www.youtube.com/watch?v=lO7H8GvP6H4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lO7H8GvP6H4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lO7H8GvP6H4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lO7H8GvP6H4</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
+   Link:<a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blog.ampedsoftware.com  
-   Link: <a href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogScreen Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...March 23, 2021 — 23 Mar 2021 — Finally, screen capturing generate...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogScreen Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...March 23, 2021 — 23 Mar 2021 — Finally, screen capturing generate...</p></details>
    Published: March 23, 2021  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/numbersprotocol_most-people-think-social-platforms-strip-activity-7440212840134836224-5mD-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/numbersprotocol_most-people-think-social-platforms-strip-activity-7440212840134836224-5mD-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metadata Lost in Social Media File UploadsMost people think social platforms strip metadata from files. That&#x27;s not quite what happens. Th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/numbersprotocol_most-people-think-social-platforms-strip-activity-7440212840134836224-5mD-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/numbersprotocol_most-people-think-social-platforms-strip-activity-7440212840134836224-5mD-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metadata Lost in Social Media File UploadsMost people think social platforms strip metadata from files. That&#x27;s not quite what happens. Th...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: forensicosint.com  
-   Link: <a href="https://www.forensicosint.com/video-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/video-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video &amp; Social Media PreservationVideo and social media content gets deleted, edited, or taken down without warning. Capture it with fore...</p></details>
+   Link:<a href="https://www.forensicosint.com/video-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/video-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video &amp; Social Media PreservationVideo and social media content gets deleted, edited, or taken down without warning. Capture it with fore...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: techfusion.com  
-   Link: <a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
+   Link:<a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: lcgdiscovery.com  
-   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...12 Nov 2025 — Beyond the Screen, Part 6: Video Evidence Under the Microscope, Metadata...</p></details>
+   Link:<a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...12 Nov 2025 — Beyond the Screen, Part 6: Video Evidence Under the Microscope, Metadata...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: forensicfocus.com  
    Title: amped authenticates video mode raising the bar for forensic video analysis  
-   Link: <a href="https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amped Authenticate&#x27;s Video Mode: Raising The Bar For...28 Aug 2025 — Learn how to use Amped Authenticate&#x27;s new Video Mode to verify vide...</p></details>
+   Link:<a href="https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amped Authenticate&#x27;s Video Mode: Raising The Bar For...28 Aug 2025 — Learn how to use Amped Authenticate&#x27;s new Video Mode to verify vide...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
    Title: Forensic Analysis of Image Metadata Loss | PDFMini Project  
-   Link: <a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Preservation Framework. ABSTRACT. Digital photographs ar...</p></details>
+   Link:<a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Preservation Framework. ABSTRACT. Digital photographs ar...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caseguard.com  
    Title: how forensic specialists solve crime through metadata  
-   Link: <a href="https://caseguard.com/articles/how-forensic-specialists-solve-crime-through-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://caseguard.com/articles/how-forensic-specialists-solve-crime-through-metadata/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2020 — Forensic specialists can dig deep and find trails of digital signatures left as clues to what was initially stored on a com...</p></details>
+   Link:<a href="https://caseguard.com/articles/how-forensic-specialists-solve-crime-through-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://caseguard.com/articles/how-forensic-specialists-solve-crime-through-metadata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2020 — Forensic specialists can dig deep and find trails of digital signatures left as clues to what was initially stored on a com...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cellebrite.com  
-   Link: <a href="https://cellebrite.com/en/blog/a-picture-is-worth-a-thousand-pieces-of-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://cellebrite.com/en/blog/a-picture-is-worth-a-thousand-pieces-of-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Picture is Worth a Thousand Pieces of Evidence21 Aug 2018 — Introducing, the Screen Capture and Video Recording capability...</p></details>
+   Link:<a href="https://cellebrite.com/en/blog/a-picture-is-worth-a-thousand-pieces-of-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://cellebrite.com/en/blog/a-picture-is-worth-a-thousand-pieces-of-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Picture is Worth a Thousand Pieces of Evidence21 Aug 2018 — Introducing, the Screen Capture and Video Recording capability...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: eclipseforensics.com  
    Title: social media as a source of digital evidence  
-   Link: <a href="https://eclipseforensics.com/social-media-as-a-source-of-digital-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/social-media-as-a-source-of-digital-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 26, 2026 — Social media forensics preserves and analyzes online posts, messages, and metadata to ensure digital evidence is legally a...</p></details>
+   Link:<a href="https://eclipseforensics.com/social-media-as-a-source-of-digital-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/social-media-as-a-source-of-digital-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 26, 2026 — Social media forensics preserves and analyzes online posts, messages, and metadata to ensure digital evidence is legally a...</p></details>

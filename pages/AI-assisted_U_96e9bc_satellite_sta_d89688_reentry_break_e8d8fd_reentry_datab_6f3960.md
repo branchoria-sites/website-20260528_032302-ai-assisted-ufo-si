@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8
 
 ## Introduction
 
-Many dramatic UFO reports can be resolved within minutes once investigators compare the sighting against live spacecraft re-entry data. A large rocket stage or failing satellite breaking apart over the atmosphere often produces exactly the kind of spectacle that witnesses describe as “multiple glowing objects”, “a silent convoy”, or “a craft disintegrating in the sky”. The key difference in modern UFO investigation is that these events are increasingly traceable through public orbital tracking databases, prediction feeds, and decay-monitoring systems. Public tools operated by organisations such as the European Space Agency (ESA), The Aerospace Corporation, CelesTrak, and Space-Track allow investigators to test whether a reported sighting overlaps with a known returning object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[Space Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</span></span></span>
+Many dramatic UFO reports can be resolved within minutes once investigators compare the sighting against live spacecraft re-entry data. A large rocket stage or failing satellite breaking apart over the atmosphere often produces exactly the kind of spectacle that witnesses describe as “multiple glowing objects”, “a silent convoy”, or “a craft disintegrating in the sky”. The key difference in modern UFO investigation is that these events are increasingly traceable through public orbital tracking databases, prediction feeds, and decay-monitoring systems. Public tools operated by organisations such as the European Space Agency (ESA), The Aerospace Corporation, CelesTrak, and Space-Track allow investigators to test whether a reported sighting overlaps with a known returning object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[Space Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_reentry_datab_6f3960-Illustration-1-dark.svg" | relative_url }}" alt="Re entry Databases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_reentry_datab_6f3960-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_reentry_datab_6f3960-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within an AI-assisted UFO investigation workflow, re-entry checks are one of the fastest ways to eliminate false unknowns. A structured [case file]({{ 'case-file/' | relative_url }}) containing time, location, viewing direction, duration, and witness video can be compared automatically against known orbital decay predictions. This does not always produce a perfect match. Re-entry forecasts often contain large uncertainty windows, especially many hours before atmospheric breakup. But even imperfect correlations can quickly shift a case from “mysterious aerial event” to “likely identified spacecraft re-entry”.
@@ -281,14 +281,14 @@ Before public orbital databases became widely accessible, investigators often re
 Several databases are particularly important:
 
 * ESA’s re-entry prediction systems and space debris monitoring pages
-* The Aerospace Corporation’s CORDS re-entry database * CelesTrak decay listings and orbital element feeds <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/columns/v01n04/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[celestrak.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Orbital Propagation: Part IWith this model, known as SGP (for Simplified General Perturbation), a user can calculate a satellite...</span></span></span> * Space-Track decay and TIP prediction data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span>
+* The Aerospace Corporation’s CORDS re-entry database * CelesTrak decay listings and orbital element feeds<span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/columns/v01n04/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[celestrak.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Orbital Propagation: Part IWith this model, known as SGP (for Simplified General Perturbation), a user can calculate a satellite...</span></span></span> * Space-Track decay and TIP prediction data<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span>
 * NORAD-derived Two-Line Element (TLE) orbit sets distributed through public services
 
-These systems continuously update orbital decay estimates as atmospheric drag lowers an object’s orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+These systems continuously update orbital decay estimates as atmospheric drag lowers an object’s orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For UFO analysis, the practical value is simple: investigators can ask whether a known object was expected to re-enter at roughly the same time and along roughly the same ground track as the reported sighting.
 
-That matters because uncontrolled re-entries are now common. ESA reports that tens of thousands of tracked objects remain in orbit, while the overall debris population continues to grow rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span> Increasing launch activity means more decaying hardware and therefore more opportunities for spectacular sky events to be mistaken for anomalous craft.
+That matters because uncontrolled re-entries are now common. ESA reports that tens of thousands of tracked objects remain in orbit, while the overall debris population continues to grow rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span> Increasing launch activity means more decaying hardware and therefore more opportunities for spectacular sky events to be mistaken for anomalous craft.
 
 ## Converting Witness Times Into UTC
 
@@ -313,13 +313,13 @@ For example, a report from Manchester at 22:15 BST in summer converts to 21:15 U
 
 This sounds trivial, but automated timestamp cleaning is extremely valuable when analysing mass-report events collected from social media. Witnesses frequently post screenshots with phone clock overlays, incorrectly remembered times, or timestamps copied from reposted videos. AI extraction tools can identify likely local timezones and compare them against official re-entry prediction windows.
 
-The Aerospace Corporation and ESA both publish predictions in UTC precisely because re-entry visibility often spans multiple countries simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Aerospace Corporation and ESA both publish predictions in UTC precisely because re-entry visibility often spans multiple countries simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Comparing Sightings With Prediction Windows
 
 Re-entry predictions are not precise “impact appointments”. They are probability windows.
 
-Atmospheric drag changes constantly due to solar activity, upper-atmosphere density, spacecraft orientation, fragmentation behaviour, and geomagnetic conditions. As a result, the estimated re-entry time of an object can shift significantly over the final hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.10183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span> Janss This creates an important distinction in UFO analysis: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.janss.kr/archive/view_article?pid=jass-34-289" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[janss.kr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</span></span></span>
+Atmospheric drag changes constantly due to solar activity, upper-atmosphere density, spacecraft orientation, fragmentation behaviour, and geomagnetic conditions. As a result, the estimated re-entry time of an object can shift significantly over the final hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.10183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span> Janss This creates an important distinction in UFO analysis:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.janss.kr/archive/view_article?pid=jass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[janss.kr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -346,7 +346,7 @@ A major mistake in amateur UFO analysis is treating orbital predictions as exact
 
 In reality, uncontrolled re-entry forecasts can change dramatically in the final orbit.
 
-The Aerospace Corporation regularly publishes prediction windows with explicit uncertainty margins measured in hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span> Early predictions may span an entire hemisphere. Only during the final few orbits do estimates become narrow enough for reliable geographic matching.
+The Aerospace Corporation regularly publishes prediction windows with explicit uncertainty margins measured in hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span> Early predictions may span an entire hemisphere. Only during the final few orbits do estimates become narrow enough for reliable geographic matching.
 
 Several factors increase uncertainty:
 
@@ -360,7 +360,7 @@ Several factors increase uncertainty:
 
 </div>
 
-Research into orbital decay prediction repeatedly highlights atmospheric modelling as the main difficulty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.janss.kr/archive/view_article?pid=jass-34-289" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[Janss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</span></span></span> 2arXiv Even small density errors in the upper atmosphere can shift the predicted re-entry location by thousands of kilometres.
+Research into orbital decay prediction repeatedly highlights atmospheric modelling as the main difficulty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.janss.kr/archive/view_article?pid=jass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[Janss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</span></span></span> 2arXiv Even small density errors in the upper atmosphere can shift the predicted re-entry location by thousands of kilometres.
 
 This matters directly in UFO case assessment because false certainty creates misleading conclusions.
 
@@ -398,7 +398,7 @@ Modern UFO case workflows increasingly use AI-assisted correlation systems that 
 
 * witness reports
 * orbital decay feeds
-* satellite ephemeris data <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[github.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* satellite ephemeris data<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[github.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * geographic visibility modelling
 * social media clustering
 * video timestamp extraction
@@ -443,11 +443,11 @@ Not every re-entering object is publicly identified immediately. Some military p
 
 Public tools also vary in quality and accessibility:
 
-* CelesTrak is widely used and openly accessible <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[celestrak.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span> * Space-Track provides highly detailed tracking but requires registration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span>
+* CelesTrak is widely used and openly accessible<span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[celestrak.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span> * Space-Track provides highly detailed tracking but requires registration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-title">Space Track Help Documentation Decay Entry</span><span class="citation-popover-snippet">Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</span></span></span>
 * ESA provides prediction resources and research data
 * Independent visualisers sometimes lag behind official updates
 
-Investigators should also understand that TLE-based tracking is inherently approximate near final decay. CelesTrak itself notes that orbital propagation models become increasingly unstable during terminal orbital decay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span>
+Investigators should also understand that TLE-based tracking is inherently approximate near final decay. CelesTrak itself notes that orbital propagation models become increasingly unstable during terminal orbital decay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span>
 
 This creates an important caution in UFO work: absence of a database match does not automatically rule out a re-entry explanation.
 
@@ -471,213 +471,213 @@ A strong re-entry identification usually combines several independent indicators
 * Ground-track alignment with the sighting corridor
 * Social media video consistency across locations
 
-The Long March rocket body re-entries in recent years became textbook examples because observers worldwide recorded slow-moving fragmentation patterns later confirmed through orbital tracking systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span>
+The Long March rocket body re-entries in recent years became textbook examples because observers worldwide recorded slow-moving fragmentation patterns later confirmed through orbital tracking systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-title">Celes Trak</span><span class="citation-popover-snippet">Celes Trak</span></span></span>
 
 In practical UFO investigation, those are among the easiest “unknowns” to resolve once re-entry databases are consulted early rather than after speculation spreads online.
 
 ## Why Re-entry Checks Are Becoming More Important
 
-The number of satellites in low Earth orbit is increasing rapidly, particularly because of large commercial constellations. ESA reports around 40,000 tracked objects already in orbit, with thousands more launched regularly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span>
+The number of satellites in low Earth orbit is increasing rapidly, particularly because of large commercial constellations. ESA reports around 40,000 tracked objects already in orbit, with thousands more launched regularly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span>
 
 That changes the investigative environment.
 
 In previous decades, dramatic re-entries were comparatively rare public spectacles. Now, decaying satellites and rocket stages are becoming common enough that many future UFO reports will involve some form of orbital debris event.
 
-Research into re-entry forecasting is expanding accordingly. ESA’s Draco mission aims to gather direct atmospheric breakup data because current models still contain large uncertainties about how spacecraft fragment and burn during descent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span>
+Research into re-entry forecasting is expanding accordingly. ESA’s Draco mission aims to gather direct atmospheric breakup data because current models still contain large uncertainties about how spacecraft fragment and burn during descent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">ESA Space Environment Report 2025</span><span class="citation-popover-snippet">About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</span></span></span>
 
 For AI-assisted UFO investigation, this means re-entry databases are evolving from a niche specialist tool into a routine first-pass screening system.
 
 A modern sighting investigation that ignores orbital decay data risks misclassifying ordinary space hardware as an unexplained aerial event. Equally, a careful workflow that checks re-entry databases early can rapidly narrow the field of genuinely unresolved cases.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Space Debris Databases Solve A UFO Report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Space Debris Databases Solve A UFO Report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand satellite and fireball visibility basics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand satellite and fireball visibility basics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Relevant to comparing witness reports with sky events and predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to comparing witness reports with sky events and predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits interpreting uncertain re-entry prediction windows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits interpreting uncertain re-entry prediction windows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orbital Mechanics for Engineering Students on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rzw4wOHDpjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Orbital Mechanics for Engineering Students" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orbital Mechanics for Engineering Students">Orbital Mechanics for Engineering Students</a>
-        </h4>
-        <p class="fr-book-author">By Howard D. Curtis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orbital Mechanics for Engineering Students on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rzw4wOHDpjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Orbital Mechanics for Engineering Students" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orbital Mechanics for Engineering Students">Orbital Mechanics for Engineering Students</a>
+</h4>
+<p class="fr-book-author">By Howard D. Curtis</p>
         
-        <p class="fr-book-desc">Relevant to space debris trajectories and orbital decay.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to space debris trajectories and orbital decay.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/J5oAAeSwe2FpZM0r/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/J5oAAeSwe2FpZM0r/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="https://i.ebayimg.com/images/g/o8UAAeSwIJ9pOcZJ/s-l225.jpg" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="https://i.ebayimg.com/images/g/o8UAAeSwIJ9pOcZJ/s-l225.jpg" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-debris-databases-solve-a-ufo-report-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-space-debris-databases-solve-a-ufo-report-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -693,7 +693,7 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -713,7 +713,7 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -745,7 +745,7 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -842,7 +842,7 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -883,226 +883,226 @@ A modern sighting investigation that ignores orbital decay data risks misclassif
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reentry.esoc.esa.int  
-   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</p></details>
+   Link:<a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsDuring the workshop, ESA will release and make available new data from the re-entry eve...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationReentriesThe database below is sortable by object name, mission name, reentry type, launch date and predicted re...</p></details>
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationReentriesThe database below is sortable by object name, mission name, reentry type, launch date and predicted re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space-track.org  
    Title: Space Track Help Documentation Decay Entry  
-   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</p></details>
+   Link:<a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationDecay Entry - Historical. TIP Message - Prediction. 60day Decay - Prediction. Eccentricity: A constant defining the sha...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/satcat/decayed-with-last.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/satcat/decayed-with-last.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://celestrak.org/satcat/decayed-with-last.php...&quot;](https://celestrak.org/satcat/decayed-with-last.php...&quot;)...</p></details>
+   Link:<a href="https://celestrak.org/satcat/decayed-with-last.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/satcat/decayed-with-last.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://celestrak.org/satcat/decayed-with-last.php...&quot;](https://celestrak.org/satcat/decayed-with-last.php...&quot;)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
+   Link:<a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esa.int  
    Title: ESA Space Environment Report 2025  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Space DebrisMoving satellites to meet a plane for rare reentry data. 02/02/2026 5393... ESA reentry predictio...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Space DebrisMoving satellites to meet a plane for rare reentry data. 02/02/2026 5393... ESA reentry predictio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</p></details>
+   Link:<a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</p></details>
    Published: November 3, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: janss.kr  
    Title: view article  
-   Link: <a href="https://www.janss.kr/archive/view_article?pid=jass-34-289" target="_blank" rel="noopener noreferrer nofollow">https://www.janss.kr/archive/view_article?pid=jass-34-289</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</p></details>
+   Link:<a href="https://www.janss.kr/archive/view_article?pid=jass" target="_blank" rel="noopener noreferrer nofollow">https://www.janss.kr/archive/view_article?pid=jass</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on Re-entry Predictions of Uncontrolled Space...by EJ Choi · 2017 · Cited by 37 — In this study, we focused on reentry pred...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.10183" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.10183</a>  
+   Link:<a href="https://arxiv.org/abs/2303.10183" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.10183</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
+   Link:<a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/columns/v01n04/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/columns/v01n04/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Propagation: Part IWith this model, known as SGP (for Simplified General Perturbation), a user can calculate a satellite...</p></details>
+   Link:<a href="https://celestrak.org/columns/v01n04/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/columns/v01n04/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Propagation: Part IWith this model, known as SGP (for Simplified General Perturbation), a user can calculate a satellite...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)Sorting on BSTAR (descending) and filtering on [+] shows when Starlink satellites are havi...</p></details>
+   Link:<a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)Sorting on BSTAR (descending) and filtering on [+] shows when Starlink satellites are havi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: celestrak.org  
    Title: 48275 reentry  
-   Link: <a href="https://celestrak.org/events/48275-reentry/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/events/48275-reentry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long March-5B Rocket Body (48275) Reentry9 May 2021 — The colors are set to show the decaying altitude, starting at yellow below...</p></details>
+   Link:<a href="https://celestrak.org/events/48275-reentry/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/events/48275-reentry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long March-5B Rocket Body (48275) Reentry9 May 2021 — The colors are set to show the decaying altitude, starting at yellow below...</p></details>
    Published: May 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyMoving satellites to meet a plane for rare reentry dataScientific data about this atmospheric reentry process is urg...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Moving_satellites_to_meet_a_plane_for_rare_reentry_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyMoving satellites to meet a plane for rare reentry dataScientific data about this atmospheric reentry process is urg...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: What actually happens to a spacecraft during its fiery last moments?  
-   Link: <a href="https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why ESA wants to find outThe European Space Agency (ESA) is launching the Draco (Destructive Reentry Assessment Container Object)...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why ESA wants to find outThe European Space Agency (ESA) is launching the Draco (Destructive Reentry Assessment Container Object)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: celestrak.org  
    Title: Celes Trak  
-   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
+   Link:<a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/index.php?FORMAT=tle" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/index.php?FORMAT=tle</a>  
+   Link:<a href="https://celestrak.org/NORAD/elements/index.php?FORMAT=tle" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/index.php?FORMAT=tle</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/cords" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/cords</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space DebrisAerospace is addressing the issue of space debris and space traffic management by developing tools for analyzing potential co...</p></details>
+   Link:<a href="https://aerospace.org/cords" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/cords</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space DebrisAerospace is addressing the issue of space debris and space traffic management by developing tools for analyzing potential co...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Reentry_data_will_help_improve_prediction_models" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Reentry_data_will_help_improve_prediction_models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reentry data will help improve prediction modelsA rare reentry of a suspected rocket body from a very high orbit next month offers an exc...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Reentry_data_will_help_improve_prediction_models" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Reentry_data_will_help_improve_prediction_models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reentry data will help improve prediction modelsA rare reentry of a suspected rocket body from a very high orbit next month offers an exc...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: int S P-473  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/56/SDC3-paper56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/56/SDC3-paper56.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The method provides distributions of breakup altitude.Read more...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/56/SDC3-paper56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/56/SDC3-paper56.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The method provides distributions of breakup altitude.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sdup.esoc.esa.int  
-   Link: <a href="https://sdup.esoc.esa.int/discosweb/statistics/" target="_blank" rel="noopener noreferrer nofollow">https://sdup.esoc.esa.int/discosweb/statistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment StatisticsThe latest Space Debris Environment Report issued by ESA&#x27;s Space Debris Office is available here. The ninth edition...</p></details>
+   Link:<a href="https://sdup.esoc.esa.int/discosweb/statistics/" target="_blank" rel="noopener noreferrer nofollow">https://sdup.esoc.esa.int/discosweb/statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environment StatisticsThe latest Space Debris Environment Report issued by ESA&#x27;s Space Debris Office is available here. The ninth edition...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/European_experts_follow_satellite_reentry" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/European_experts_follow_satellite_reentry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s non-operational...Read more...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/European_experts_follow_satellite_reentry" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/European_experts_follow_satellite_reentry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s non-operational...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/361" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris Database for Re-entry Events PredictionThis work sets out to generate a database of relevant space debris objects with their surfa...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/361" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris Database for Re-entry Events PredictionThis work sets out to generate a database of relevant space debris objects with their surfa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/18" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of some basic requirements for a reentry...On average, one or two reentries per year involved objects with a dry mass greater than five...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/18" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of some basic requirements for a reentry...On average, one or two reentries per year involved objects with a dry mass greater than five...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_coordinates_international_satellite_reentry_campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_coordinates_international_satellite_reentry_campaign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA coordinates international satellite reentry campaignESA&#x27;s Space Debris Office, located at ESOC, the European Space Operations Centre...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_coordinates_international_satellite_reentry_campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ESA_coordinates_international_satellite_reentry_campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESA coordinates international satellite reentry campaignESA&#x27;s Space Debris Office, located at ESOC, the European Space Operations Centre...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/131/SDC9-paper131.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/131/SDC9-paper131.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRATEGY FOR OBJECTS ON DECAYING...by RG Danescu — We have implemented a method for generating real time predictions, projected in the i...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/131/SDC9-paper131.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/131/SDC9-paper131.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRATEGY FOR OBJECTS ON DECAYING...by RG Danescu — We have implemented a method for generating real time predictions, projected in the i...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sdup.esoc.esa.int  
-   Link: <a href="https://sdup.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://sdup.esoc.esa.int/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Space Debris User PortalThis portal addresses the user community of ESA&#x27;s Space Debris Software. It serves as entry gate for software l...</p></details>
+   Link:<a href="https://sdup.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://sdup.esoc.esa.int/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Space Debris User PortalThis portal addresses the user community of ESA&#x27;s Space Debris Software. It serves as entry gate for software l...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: ISS Update: ATV-3 Re Entry Breakup Recorder  
-   Link: <a href="https://www.youtube.com/watch?v=AHaDrVvokNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AHaDrVvokNo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay | Orbital Mechanics &amp; Astrodynamics Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AHaDrVvokNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AHaDrVvokNo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay | Orbital Mechanics &amp; Astrodynamics Explained...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Orbital Decay | Orbital Mechanics & Astrodynamics Explained  
-   Link: <a href="https://www.youtube.com/watch?v=f7aKh8HLCBc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7aKh8HLCBc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Drag Effects on Satellite Operations and Debris in Low Earth Orbit with Eelco Doornbos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f7aKh8HLCBc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7aKh8HLCBc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Drag Effects on Satellite Operations and Debris in Low Earth Orbit with Eelco Doornbos...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: satellitemap.space  
    Title: Space-Track.org Status | Space Track Monitor  
-   Link: <a href="https://satellitemap.space/space-track-status" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/space-track-status</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status | SpaceTrack Monitor - Satellite MapSpace-track.org and their API is a singular source of satellite position information, new sate...</p></details>
+   Link:<a href="https://satellitemap.space/space-track-status" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/space-track-status</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status | SpaceTrack Monitor - Satellite MapSpace-track.org and their API is a singular source of satellite position information, new sate...</p></details>
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ai-solutions.com  
-   Link: <a href="https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/" target="_blank" rel="noopener noreferrer nofollow">https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay Prediction: Machine Learning AdvancesThis paper investigates a demonstration of this process by training a ML atmosphere mo...</p></details>
+   Link:<a href="https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/" target="_blank" rel="noopener noreferrer nofollow">https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay Prediction: Machine Learning AdvancesThis paper investigates a demonstration of this process by training a ML atmosphere mo...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: github.com  
-   Link: <a href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tannerkoza/celestrak-orbital-data</a>  
+   Link:<a href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tannerkoza/celestrak-orbital-data</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468896717301003" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468896717301003</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the risk and the uncertainty affecting...by C Pardini · 2018 · Cited by 30 — Overall, the mean prediction error was about 10%...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2468896717301003" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468896717301003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the risk and the uncertainty affecting...by C Pardini · 2018 · Cited by 30 — Overall, the mean prediction error was about 10%...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: innovationnewsnetwork.com  
    Title: atmospheric re entry data is crucial for reducing risks of falling space debris  
-   Link: <a href="https://www.innovationnewsnetwork.com/atmospheric-re-entry-data-is-crucial-for-reducing-risks-of-falling-space-debris/66117/" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationnewsnetwork.com/atmospheric-re-entry-data-is-crucial-for-reducing-risks-of-falling-space-debris/66117/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric re-entry data for reducing risks of space debris3 Feb 2026 — The next goal for ESA&#x27;s atmospheric re-entry specialists is to w...</p></details>
+   Link:<a href="https://www.innovationnewsnetwork.com/atmospheric-re-entry-data-is-crucial-for-reducing-risks-of-falling-space-debris/66117/" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationnewsnetwork.com/atmospheric-re-entry-data-is-crucial-for-reducing-risks-of-falling-space-debris/66117/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric re-entry data for reducing risks of space debris3 Feb 2026 — The next goal for ESA&#x27;s atmospheric re-entry specialists is to w...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/re-entry-predictions-in-support-of-the-inter-agency-space-2v16lucqn4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/re-entry-predictions-in-support-of-the-inter-agency-space-2v16lucqn4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Database are maintained by the ESA&#x27;s Space. Operations Centre in Darmstadt, Germany, and are accessible...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/re-entry-predictions-in-support-of-the-inter-agency-space-2v16lucqn4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/re-entry-predictions-in-support-of-the-inter-agency-space-2v16lucqn4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Database are maintained by the ESA&#x27;s Space. Operations Centre in Darmstadt, Germany, and are accessible...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: aiaa.org  
    Title: nasa satellite reentry expected to exceed agency risk threshold  
-   Link: <a href="https://aiaa.org/2026/03/11/nasa-satellite-reentry-expected-to-exceed-agency-risk-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/2026/03/11/nasa-satellite-reentry-expected-to-exceed-agency-risk-threshold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Satellite Reentry Expected to Exceed Agency Risk...Mar 11, 2026 — Most of the spacecraft will burn up during reentry, but a fractio...</p></details>
+   Link:<a href="https://aiaa.org/2026/03/11/nasa-satellite-reentry-expected-to-exceed-agency-risk-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/2026/03/11/nasa-satellite-reentry-expected-to-exceed-agency-risk-threshold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Satellite Reentry Expected to Exceed Agency Risk...Mar 11, 2026 — Most of the spacecraft will burn up during reentry, but a fractio...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ntrs.nasa.gov  
    Title: Reentry Comparison ESA25 Ostrom final  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20250002905/downloads/ReentryComparison_ESA25_Ostrom_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250002905/downloads/ReentryComparison_ESA25_Ostrom_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of cnes, esa, jaxa, and nasa reentry analysis...by C Ostrom · 2025 · Cited by 1 — These programs predict whether an object will demise d...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20250002905/downloads/ReentryComparison_ESA25_Ostrom_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250002905/downloads/ReentryComparison_ESA25_Ostrom_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of cnes, esa, jaxa, and nasa reentry analysis...by C Ostrom · 2025 · Cited by 1 — These programs predict whether an object will demise d...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
    Title: How to find specific satellite TLEs on Celestrak?  
-   Link: <a href="https://www.reddit.com/r/space/comments/jrlh92/how_to_find_specific_satellite_tles_on_celestrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/jrlh92/how_to_find_specific_satellite_tles_on_celestrak/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/spaceI find Celestrak&#x27;s way of cataloging satellites confusing. Let&#x27;s say there&#x27;s a specific satellite I want to track, e.g. using Gpre...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/jrlh92/how_to_find_specific_satellite_tles_on_celestrak/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/jrlh92/how_to_find_specific_satellite_tles_on_celestrak/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/spaceI find Celestrak&#x27;s way of cataloging satellites confusing. Let&#x27;s say there&#x27;s a specific satellite I want to track, e.g. using Gpre...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: iaaspace.org  
-   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reentry Breakup Recorder (REBR) developed by collected data...Read m...</p></details>
+   Link:<a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reentry Breakup Recorder (REBR) developed by collected data...Read m...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: rhodesmill.org  
    Title: Earth Satellites — Skyfield documentation  
-   Link: <a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes MillSkyfield is able to predict the position of an Earth satellite by downloading the satellite&#x27;s standard SGP4 orbital elements.R...</p></details>
+   Link:<a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes MillSkyfield is able to predict the position of an Earth satellite by downloading the satellite&#x27;s standard SGP4 orbital elements.R...</p></details>

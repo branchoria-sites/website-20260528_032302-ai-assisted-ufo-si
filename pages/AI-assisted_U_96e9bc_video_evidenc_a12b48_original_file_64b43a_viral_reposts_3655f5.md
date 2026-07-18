@@ -272,19 +272,19 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 A viral UFO clip can appear to show impossible acceleration, shape-shifting lights or sudden directional changes even when the [original]({{ 'original-evidence/' | relative_url }}) recording was far less dramatic. In many cases, the apparent “movement” is created not by the object in the sky, but by the way the video was reposted, compressed, cropped or screen-recorded before it spread online.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-dark.svg" | relative_url }}" alt="Repost artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters directly to AI-assisted UFO sighting investigation. Automated motion tracking, frame comparison and trajectory analysis depend on stable source footage. Once a clip passes through several social platforms, the software may start analysing compression artefacts instead of the original event. Investigators can end up measuring codec errors, playback stutter or [digital zoom]({{ 'digital-zoom/' | relative_url }}) distortions as if they were real object behaviour. Modern forensic research repeatedly warns that recompression, [metadata]({{ 'metadata/' | relative_url }}) stripping and recaptured screen footage can significantly alter visible motion and weaken authenticity analysis. Amped Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
+This matters directly to AI-assisted UFO sighting investigation. Automated motion tracking, frame comparison and trajectory analysis depend on stable source footage. Once a clip passes through several social platforms, the software may start analysing compression artefacts instead of the original event. Investigators can end up measuring codec errors, playback stutter or [digital zoom]({{ 'digital-zoom/' | relative_url }}) distortions as if they were real object behaviour. Modern forensic research repeatedly warns that recompression, [metadata]({{ 'metadata/' | relative_url }}) stripping and recaptured screen footage can significantly alter visible motion and weaken authenticity analysis. Amped Blog<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
 
 Within UFO investigations, repost artefacts are therefore not a side issue. They are one of the main reasons ordinary lights can acquire apparently anomalous motion online.
 
 ## Compression artefacts that mimic unusual behaviour
 
-Most social platforms do not preserve uploaded video exactly as recorded. They transcode it into new formats with lower bitrates, altered frame structures and reduced file sizes. This process introduces visual artefacts that can resemble strange aerial behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video compression artifacts</span><span class="citation-popover-snippet">Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video compression artifacts</span><span class="citation-popover-snippet">Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</span></span></span>
+Most social platforms do not preserve uploaded video exactly as recorded. They transcode it into new formats with lower bitrates, altered frame structures and reduced file sizes. This process introduces visual artefacts that can resemble strange aerial behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video compression artifacts</span><span class="citation-popover-snippet">Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video compression artifacts</span><span class="citation-popover-snippet">Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</span></span></span>
 
 For UFO footage, the problem is especially severe because the “object” is often already tiny: a distant light against a dark background. Compression systems struggle with exactly this kind of material.
 
 ### Why distant lights become unstable
 
-Modern codecs save space by predicting what changes between frames instead of storing every frame fully. Compression systems use structures such as I-frames, P-frames and B-frames to estimate motion and reduce data load. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biamp.com">[Biamp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biamp.com</span><span class="citation-popover-title">understanding video compression artifacts</span><span class="citation-popover-snippet">Understanding Video Compression Artifacts16 Feb 2017 — I-frame-based algorithms like MJPEG are less susceptible to temporal artifact...</span></span></span>
+Modern codecs save space by predicting what changes between frames instead of storing every frame fully. Compression systems use structures such as I-frames, P-frames and B-frames to estimate motion and reduce data load.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biamp.com">[Biamp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biamp.com</span><span class="citation-popover-title">understanding video compression artifacts</span><span class="citation-popover-snippet">Understanding Video Compression Artifacts16 Feb 2017 — I-frame-based algorithms like MJPEG are less susceptible to temporal artifact...</span></span></span>
 
 When the subject is only a few bright pixels, the encoder may incorrectly estimate:
 
@@ -311,7 +311,7 @@ The result can produce:
 
 </div>
 
-A stationary planet or [aircraft]({{ 'aircraft/' | relative_url }}) light can therefore appear to wobble or dart after repeated reposting. The effect becomes stronger after multiple encode cycles because each upload creates fresh estimation errors on top of the previous ones. Video-forensics specialists describe these as temporal artefacts: distortions visible only during motion playback rather than in single still frames. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avnetwork.com">[AVNetwork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avnetwork.com</span><span class="citation-popover-title">compression artifacts why video looks bad</span><span class="citation-popover-snippet">Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — Spatial artifacts are commonly seen when the video is paused, while te...</span></span></span>
+A stationary planet or [aircraft]({{ 'aircraft/' | relative_url }}) light can therefore appear to wobble or dart after repeated reposting. The effect becomes stronger after multiple encode cycles because each upload creates fresh estimation errors on top of the previous ones. Video-forensics specialists describe these as temporal artefacts: distortions visible only during motion playback rather than in single still frames.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avnetwork.com">[AVNetwork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avnetwork.com</span><span class="citation-popover-title">compression artifacts why video looks bad</span><span class="citation-popover-snippet">Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — Spatial artifacts are commonly seen when the video is paused, while te...</span></span></span>
 
 ### Recompression can exaggerate camera shake
 
@@ -347,12 +347,12 @@ These edits can create false [geometry]({{ 'geometry/' | relative_url }}):
 * Rings around lights
 * Artificial edges
 * Square “craft-like” outlines
-* Stair-step patterns <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Is This Green Orb Communicating?</span><span class="citation-popover-snippet">A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</span></span></span>
+* Stair-step patterns<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Is This Green Orb Communicating?</span><span class="citation-popover-snippet">A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</span></span></span>
 * Halo effects
 
 </div>
 
-A recent MUFON forensic discussion of a viral orb image highlighted macroblocking and digital zoom artefacts that produced apparent segmented structures not supported by the source quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Is This Green Orb Communicating?</span><span class="citation-popover-snippet">A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</span></span></span>
+A recent MUFON forensic discussion of a viral orb image highlighted macroblocking and digital zoom artefacts that produced apparent segmented structures not supported by the source quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">Is This Green Orb Communicating?</span><span class="citation-popover-snippet">A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</span></span></span>
 
 This becomes particularly misleading when viewers pause individual frames. Compression artefacts that exist for only milliseconds can resemble solid physical shapes when frozen and enlarged.
 
@@ -393,7 +393,7 @@ Each enlargement amplifies:
 
 * Sensor noise
 * Compression artefacts
-* Rolling shutter distortion <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
+* Rolling shutter distortion<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
 * Edge ringing
 * Pixel interpolation errors
 
@@ -401,7 +401,7 @@ Each enlargement amplifies:
 
 The result can resemble shape-changing craft or rapid directional movement.
 
-Aliasing and moiré research in digital imaging shows that scaling and compression can generate patterns and apparent structures that were not part of the original scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pomfort.com/article/qc-series-aliasing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pomfort.com">[Pomfort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pomfort.com</span><span class="citation-popover-title">Aliasing might occur from scaling or compressing an image</span><span class="citation-popover-snippet">QC series – Aliasing and Moiré: Navigating quality...April 11, 2024 — 11 Apr 2024 — In this article, we look at an image artifact...</span><span class="citation-popover-meta">Published: April 11, 2024</span></span></span>
+Aliasing and moiré research in digital imaging shows that scaling and compression can generate patterns and apparent structures that were not part of the original scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pomfort.com/article/qc-series-aliasing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pomfort.com">[Pomfort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pomfort.com</span><span class="citation-popover-title">Aliasing might occur from scaling or compressing an image</span><span class="citation-popover-snippet">QC series – Aliasing and Moiré: Navigating quality...April 11, 2024 — 11 Apr 2024 — In this article, we look at an image artifact...</span><span class="citation-popover-meta">Published: April 11, 2024</span></span></span>
 
 In UFO discussions, these artefacts are often interpreted as:
 
@@ -428,7 +428,7 @@ These systems can:
 * Reconstruct missing edges
 * Interpolate motion between frames
 
-When applied to a tiny bright object, the stabiliser may deform the object itself. Editing tutorials for common stabilisation tools openly discuss rolling-shutter correction, edge synthesis and motion smoothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
+When applied to a tiny bright object, the stabiliser may deform the object itself. Editing tutorials for common stabilisation tools openly discuss rolling-shutter correction, edge synthesis and motion smoothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
 
 In UFO analysis, this means a reposted clip may no longer represent a direct optical recording at all. It may represent an algorithm’s best guess about how motion should appear.
 
@@ -439,7 +439,7 @@ Some of the most widely shared UFO clips are not uploads of the original file. T
 
 This creates a second imaging event layered on top of the first.
 
-Investigators sometimes call this “recaptured” footage: a camera filming a screen rather than filming the original scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[Lumethic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">Covers moiré patterns, pixel artifacts, and deep</span><span class="citation-popover-snippet">Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
+Investigators sometimes call this “recaptured” footage: a camera filming a screen rather than filming the original scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[Lumethic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">Covers moiré patterns, pixel artifacts, and deep</span><span class="citation-popover-snippet">Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
 
 ### Screen recordings introduce fake movement
 
@@ -448,7 +448,7 @@ When a phone records another screen, several timing systems collide:
 * The original camera frame rate
 * The playback frame rate
 * The display refresh rate
-* The recording camera shutter timing <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
+* The recording camera shutter timing<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
 
 These mismatches can create:
 
@@ -459,7 +459,7 @@ These mismatches can create:
 * Pulsing brightness
 * Moving interference patterns
 
-Moiré artefacts are especially common. These patterns arise when two pixel grids interact visually. Research on recaptured imagery and display filming shows that moiré and flicker can significantly alter perceived detail and movement. arXiv Lumethic A stationary light on the original screen may therefore appear to: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[lumethic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">Covers moiré patterns, pixel artifacts, and deep</span><span class="citation-popover-snippet">Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
+Moiré artefacts are especially common. These patterns arise when two pixel grids interact visually. Research on recaptured imagery and display filming shows that moiré and flicker can significantly alter perceived detail and movement. arXiv Lumethic A stationary light on the original screen may therefore appear to:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[lumethic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">Covers moiré patterns, pixel artifacts, and deep</span><span class="citation-popover-snippet">Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
 
 * Vibrate
 * Rotate
@@ -499,7 +499,7 @@ Once a clip has passed through repost chains, investigators may lose:
 * Recording duration
 * Audio continuity
 
-Metadata research consistently notes that social platforms often strip or alter embedded file information during upload and sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — It is important to note that these platforms o...</span></span></span>, this creates a major credibility problem. Without the source file, analysts may be unable to determine:
+Metadata research consistently notes that social platforms often strip or alter embedded file information during upload and sharing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — It is important to note that these platforms o...</span></span></span>, this creates a major credibility problem. Without the source file, analysts may be unable to determine:
 
 * Whether the clip was edited
 * Whether frames were inserted or removed
@@ -532,7 +532,7 @@ Compression artefacts can contaminate:
 * Brightness analysis
 * Speed estimation
 
-Research into video forensics and source identification repeatedly shows that social-platform transformations complicate reliable analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We use customized parsers to extract all file format...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We use customized parsers to extract all file format...Read more...</span></span></span>
+Research into video forensics and source identification repeatedly shows that social-platform transformations complicate reliable analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We use customized parsers to extract all file format...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We use customized parsers to extract all file format...Read more...</span></span></span>
 
 A practical UFO workflow therefore prioritises:
 
@@ -563,194 +563,194 @@ For investigators, the key question is therefore not whether a clip looks dramat
 In many cases, the strangeness fades as the evidence quality improves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When reposts make UFOs look stranger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When reposts make UFOs look stranger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects public UFO footage interest with serious evidence concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects public UFO footage interest with serious evidence concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong fit for viral claims becoming more dramatic than evidence allows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for viral claims becoming more dramatic than evidence allows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Matches repost artefacts and uncertainty in degraded clips.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches repost artefacts and uncertainty in degraded clips.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        <p class="fr-book-desc">Relevant to compression, cropping, and video transformations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to compression, cropping, and video transformations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/kkwAAeSwgBlpu274/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/kkwAAeSwgBlpu274/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One"><img src="https://i.ebayimg.com/images/g/tBkAAeSwqdxoyu8d/s-l225.jpg" alt="Listing image for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One"><img src="https://i.ebayimg.com/images/g/tBkAAeSwqdxoyu8d/s-l225.jpg" alt="Listing image for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/hxIAAeSwjC9qIulr/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/hxIAAeSwjC9qIulr/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-reposts-make-ufos-look-stranger-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="when-reposts-make-ufos-look-stranger-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -766,7 +766,7 @@ In many cases, the strangeness fades as the evidence quality improves.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -786,7 +786,7 @@ In many cases, the strangeness fades as the evidence quality improves.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -818,7 +818,7 @@ In many cases, the strangeness fades as the evidence quality improves.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -870,7 +870,7 @@ In many cases, the strangeness fades as the evidence quality improves.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -915,7 +915,7 @@ In many cases, the strangeness fades as the evidence quality improves.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -956,192 +956,192 @@ In many cases, the strangeness fades as the evidence quality improves.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1742287614000140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We use customized parsers to extract all file format...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1742287614000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1742287614000140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We use customized parsers to extract all file format...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: avnetwork.com  
    Title: compression artifacts why video looks bad  
-   Link: <a href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — Spatial artifacts are commonly seen when the video is paused, while te...</p></details>
+   Link:<a href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — Spatial artifacts are commonly seen when the video is paused, while te...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: biamp.com  
    Title: understanding video compression artifacts  
-   Link: <a href="https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Video Compression Artifacts16 Feb 2017 — I-frame-based algorithms like MJPEG are less susceptible to temporal artifact...</p></details>
+   Link:<a href="https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://www.biamp.com/company/blog/details/biamp-blog/2017/02/16/understanding-video-compression-artifacts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Video Compression Artifacts16 Feb 2017 — I-frame-based algorithms like MJPEG are less susceptible to temporal artifact...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mufon.com  
    Title: Is This Green Orb Communicating?  
-   Link: <a href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</p></details>
+   Link:<a href="https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2026/02/13/a-mufon-photo-analysis-is-this-green-orb-communicating-a-forensic-image-analysis-of-a-viral-uap-claim-by-seth-h-feinstein-mufon-photo-analyst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Forensic Image...13 Feb 2026 — PCA component 3 revealed square and stair-step patterns consistent with video codec macroblocks and dig...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pomfort.com  
    Title: Aliasing might occur from scaling or compressing an image  
-   Link: <a href="https://pomfort.com/article/qc-series-aliasing/" target="_blank" rel="noopener noreferrer nofollow">https://pomfort.com/article/qc-series-aliasing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>QC series – Aliasing and Moiré: Navigating quality...April 11, 2024 — 11 Apr 2024 — In this article, we look at an image artifact...</p></details>
+   Link:<a href="https://pomfort.com/article/qc-series-aliasing/" target="_blank" rel="noopener noreferrer nofollow">https://pomfort.com/article/qc-series-aliasing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QC series – Aliasing and Moiré: Navigating quality...April 11, 2024 — 11 Apr 2024 — In this article, we look at an image artifact...</p></details>
    Published: April 11, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28L2XalNr5A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r &amp; Rolling Shutter Repair effects in Adobe After Effects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28L2XalNr5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r &amp; Rolling Shutter Repair effects in Adobe After Effects...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Warp Stabilizer EXPLAINED  
-   Link: <a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9ucxKwZmec</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fix Shaky Video in Premiere Pro... Crop Less, Smooth More 11:02 Borders, Synthesize Edges 13:55 Detailed &amp; Fast Analysis 14:47 Rolling Sh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9ucxKwZmec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fix Shaky Video in Premiere Pro... Crop Less, Smooth More 11:02 Borders, Synthesize Edges 13:55 Detailed &amp; Fast Analysis 14:47 Rolling Sh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lumethic.com  
    Title: Covers moiré patterns, pixel artifacts, and deep  
-   Link: <a href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow">https://www.lumethic.com/en/articles/detecting-recaptured-images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</p></details>
+   Link:<a href="https://www.lumethic.com/en/articles/detecting-recaptured-images" target="_blank" rel="noopener noreferrer nofollow">https://www.lumethic.com/en/articles/detecting-recaptured-images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Recaptured Images: Forensic Methods and...December 22, 2025 — 22 Dec 2025 — How verification systems detect images tha...</p></details>
    Published: December 22, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2602.01559v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.01559v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combined Flicker-banding and Moiré Removal for Screen...2 Feb 2026 — Our experimental results demonstrate that our model exhibits c...</p></details>
+   Link:<a href="https://arxiv.org/html/2602.01559v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.01559v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combined Flicker-banding and Moiré Removal for Screen...2 Feb 2026 — Our experimental results demonstrate that our model exhibits c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mdpi.com  
    Title: 2313 433X  
-   Link: <a href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/12/3/110</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — It is important to note that these platforms o...</p></details>
+   Link:<a href="https://www.mdpi.com/2313-433X/12/3/110" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/12/3/110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis for Source Camera Identification from...by P Yang · 2026 · Cited by 1 — It is important to note that these platforms o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281722000713" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2666281722000713</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital forensic analysis for source video identificationby Y Akbari · 2022 · Cited by 51 — The goal of this paper is to off...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281722000713" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2666281722000713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital forensic analysis for source video identificationby Y Akbari · 2022 · Cited by 51 — The goal of this paper is to off...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Author links open overlay panel Read mor  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2215016125004765" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2215016125004765</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmasking digital deceptions: An integrative [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of...by S Singh · 2025 · Cited by 17 — Unmasking digital deceptions: An integrative...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2215016125004765" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2215016125004765</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmasking digital deceptions: An integrative [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of...by S Singh · 2025 · Cited by 17 — Unmasking digital deceptions: An integrative...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.20384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.20384</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FiLA-Video: Spatio-Temporal Compression for Fine-...by Y Guo · 2025 · Cited by 7 — We propose FiLA(Fine-grained Vision Language Model)-V...</p></details>
+   Link:<a href="https://arxiv.org/abs/2504.20384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.20384</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FiLA-Video: Spatio-Temporal Compression for Fine-...by Y Guo · 2025 · Cited by 7 — We propose FiLA(Fine-grained Vision Language Model)-V...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y4TM3rWCfNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4TM3rWCfNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as blurring and color bleeding, and explains how to identify...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y4TM3rWCfNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4TM3rWCfNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as blurring and color bleeding, and explains how to identify...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How Video Compression Works and Creates Motion Artifacts  
-   Link: <a href="https://www.youtube.com/watch?v=34wL2-7j74Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=34wL2-7j74Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Videos Look &quot;Weird&quot; and Digital Glitches Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=34wL2-7j74Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=34wL2-7j74Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Videos Look &quot;Weird&quot; and Digital Glitches Explained...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Videos Look "Weird" and Digital Glitches Explained  
-   Link: <a href="https://www.youtube.com/watch?v=nN4nF4u76qM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nN4nF4u76qM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Motion Estimation and Codec Errors...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nN4nF4u76qM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nN4nF4u76qM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Motion Estimation and Codec Errors...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Understanding Motion Estimation and Codec Errors  
-   Link: <a href="https://www.youtube.com/watch?v=68q2J-c0QhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=68q2J-c0QhY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics of Digital Compression and Visual Artefacts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=68q2J-c0QhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=68q2J-c0QhY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics of Digital Compression and Visual Artefacts...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Physics of Digital Compression and Visual Artefacts  
-   Link: <a href="https://www.youtube.com/watch?v=1F99wVn_g5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F99wVn_g5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Video Analysis: Distinguishing Real Motion from Digital Noise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1F99wVn_g5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F99wVn_g5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Video Analysis: Distinguishing Real Motion from Digital Noise...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Forensic Video Analysis: Distinguishing Real Motion from Digital Noise  
-   Link: <a href="https://www.youtube.com/watch?v=S01Z-nS2MhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S01Z-nS2MhI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=S01Z-nS2MhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S01Z-nS2MhI</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blog.ampedsoftware.com  
    Title: video compression artifacts  
-   Link: <a href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/04/13/video-compression-artifacts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogVideo Compression Artifacts in Surveillance Footage13 Apr 2021 — We&#x27;ll explore how video compression artifacts can cause both t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to the...</p></details>
+   Link:<a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blog.ampedsoftware.com  
    Title: video codecs and formats  
-   Link: <a href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifacts, particularly...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifacts, particularly...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blog.ampedsoftware.com  
    Title: screen capture its not the evidence its a video of the evidence  
-   Link: <a href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...23 Mar 2021 — In this blog post we talk about screen capture, this approach still...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2021/03/23/screen-capture-its-not-the-evidence-its-a-video-of-the-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capture: It&#x27;s Not the Evidence, It&#x27;s a Video of the...23 Mar 2021 — In this blog post we talk about screen capture, this approach still...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Investigating methods for forensic analysis of social...16 Jun 2025 — This research evaluates the effectiveness of existing forens...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Investigating methods for forensic analysis of social...16 Jun 2025 — This research evaluates the effectiveness of existing forens...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396967209_Through_the_Lens_Benchmarking_Deepfake_Detectors_Against_Moire-Induced_Distortions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396967209_Through_the_Lens_Benchmarking_Deepfake_Detectors_Against_Moire-Induced_Distortions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Deepfake Detectors Against Moiré-Induced...31 Oct 2025 — Across 15 top-performing detectors, our results show that Moiré ar...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396967209_Through_the_Lens_Benchmarking_Deepfake_Detectors_Against_Moire-Induced_Distortions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396967209_Through_the_Lens_Benchmarking_Deepfake_Detectors_Against_Moire-Induced_Distortions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Deepfake Detectors Against Moiré-Induced...31 Oct 2025 — Across 15 top-performing detectors, our results show that Moiré ar...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/oe2tzl/psa_how_image_compression_works/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oe2tzl/psa_how_image_compression_works/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PSA: How image compression works: r/UFOsPeople don&#x27;t realise that compression Artifacts are in all digital media to some degree. Sometim...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/oe2tzl/psa_how_image_compression_works/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oe2tzl/psa_how_image_compression_works/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PSA: How image compression works: r/UFOsPeople don&#x27;t realise that compression Artifacts are in all digital media to some degree. Sometim...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings upscaled to 4K show clearer shapes and...UFO, Aliens, Other Plan...... No photo description available. UFOS VIEWS. Media/...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings upscaled to 4K show clearer shapes and...UFO, Aliens, Other Plan...... No photo description available. UFOS VIEWS. Media/...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: techfusion.com  
-   Link: <a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
+   Link:<a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: powellpath.com  
-   Link: <a href="https://powellpath.com/photo-video-audio-authenticity-review.php" target="_blank" rel="noopener noreferrer nofollow">https://powellpath.com/photo-video-audio-authenticity-review.php</a>  
+   Link:<a href="https://powellpath.com/photo-video-audio-authenticity-review.php" target="_blank" rel="noopener noreferrer nofollow">https://powellpath.com/photo-video-audio-authenticity-review.php</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: openaccess.thecvf.com  
-   Link: <a href="https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessEvaluating Deepfake Detectors under Moiré Pattern Effectsby R Tariq · 2024 · Cited by 13 — Moiré patterns, often visually...</p></details>
+   Link:<a href="https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessEvaluating Deepfake Detectors under Moiré Pattern Effectsby R Tariq · 2024 · Cited by 13 — Moiré patterns, often visually...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: lcgdiscovery.com  
-   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A video file is more than pictures in motion. It is a container of data and metadata, recorded by a...Read more...</p></details>
+   Link:<a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A video file is more than pictures in motion. It is a container of data and metadata, recorded by a...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: eclipseforensics.com  
    Title: exposing the truth detecting altered footage through forensic video  
-   Link: <a href="https://eclipseforensics.com/exposing-the-truth-detecting-altered-footage-through-forensic-video/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/exposing-the-truth-detecting-altered-footage-through-forensic-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing the Truth: Detecting Altered Footage Through...21 Oct 2025 — Uncover how digital forensic engineers expose tampered footage usi...</p></details>
+   Link:<a href="https://eclipseforensics.com/exposing-the-truth-detecting-altered-footage-through-forensic-video/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/exposing-the-truth-detecting-altered-footage-through-forensic-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing the Truth: Detecting Altered Footage Through...21 Oct 2025 — Uncover how digital forensic engineers expose tampered footage usi...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: us.ktcplay.com  
    Title: Master Sync Track validation, distinguish ghosting from overshoot  
-   Link: <a href="https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl" target="_blank" rel="noopener noreferrer nofollow">https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Test Results: Pursuit Camera Methodology6 days ago — Learn how to interpret UFO Test results using pursuit camera methodology...</p></details>
+   Link:<a href="https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl" target="_blank" rel="noopener noreferrer nofollow">https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Test Results: Pursuit Camera Methodology6 days ago — Learn how to interpret UFO Test results using pursuit camera methodology...</p></details>

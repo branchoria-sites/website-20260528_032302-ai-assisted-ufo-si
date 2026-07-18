@@ -297,9 +297,9 @@ Once a viewing direction exists, investigators can search for ordinary sources t
 
 This is where geographic databases become more useful than generic UFO catalogues. Marine Automatic Identification System (AIS) feeds can reconstruct ship positions. Flight-tracking archives can identify aircraft. Terrain elevation models reveal hidden coastlines or mountain ridges. Offshore infrastructure maps may show fixed platforms exactly where the witness reported a hovering light.
 
-Superior mirages and looming effects can raise distant objects above the horizon so they appear suspended in open sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</span></span></span> A Fata Morgana can distort those objects so heavily that the original source becomes almost unrecognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
+Superior mirages and looming effects can raise distant objects above the horizon so they appear suspended in open sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</span></span></span> A Fata Morgana can distort those objects so heavily that the original source becomes almost unrecognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
 
-A practical example is the recurring “floating ship” phenomenon photographed off the coasts of Britain and North America. News images often circulate online as apparent anti-gravity events or UFOs before meteorologists identify strong temperature inversions over cold water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ship hovering above sea cornwall optical illusion</span><span class="citation-popover-snippet">The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</span></span></span> In those cases, the source object is real and identifiable: a vessel positioned just below the normal geometric horizon.
+A practical example is the recurring “floating ship” phenomenon photographed off the coasts of Britain and North America. News images often circulate online as apparent anti-gravity events or UFOs before meteorologists identify strong temperature inversions over cold water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ship hovering above sea cornwall optical illusion</span><span class="citation-popover-snippet">The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</span></span></span> In those cases, the source object is real and identifiable: a vessel positioned just below the normal geometric horizon.
 
 For UFO case analysis, the important distinction is this:
 
@@ -319,11 +319,11 @@ The Earth’s curvature normally hides distant low-altitude objects beyond the h
 * observer elevation
 * target elevation
 * geometric horizon distance
-* additional visibility required from atmospheric refraction <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</span></span></span>
+* additional visibility required from atmospheric refraction<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</span></span></span>
 
 </div>
 
-For example, a ship 50 kilometres away may already be partially hidden below the horizon in standard atmospheric conditions. Under a strong inversion, however, refracted light can bend downward enough to lift the ship into view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</span></span></span>
+For example, a ship 50 kilometres away may already be partially hidden below the horizon in standard atmospheric conditions. Under a strong inversion, however, refracted light can bend downward enough to lift the ship into view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</span></span></span>
 
 AI systems can automate this process by combining:
 
@@ -372,7 +372,7 @@ This distinction is critical because atmospheric optics can easily become a catc
 
 ### Elevation angle reconstruction
 
-Witnesses frequently describe hovering UFOs “just above the horizon”. That detail is significant because mirage effects are strongest in a narrow band close to the horizon line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Looming and similar refraction phenomena</span><span class="citation-popover-snippet">Looming and similar refraction phenomenaLooming and similar refraction phenomena do not produce mirages. Mirages show an extra image o...</span></span></span>
+Witnesses frequently describe hovering UFOs “just above the horizon”. That detail is significant because mirage effects are strongest in a narrow band close to the horizon line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Looming and similar refraction phenomena</span><span class="citation-popover-snippet">Looming and similar refraction phenomenaLooming and similar refraction phenomena do not produce mirages. Mirages show an extra image o...</span></span></span>
 
 AI-assisted reconstruction can estimate viewing elevation by:
 
@@ -385,7 +385,7 @@ A source object that requires an impossible elevation shift is unlikely to be th
 
 ## Why water horizons produce so many mirage UFO reports
 
-Large bodies of water create especially favourable conditions for superior mirages because cold surface air and warmer air above it naturally produce inversion layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ship hovering above sea cornwall optical illusion</span><span class="citation-popover-snippet">The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsidc.org">[2nsidc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsidc.org</span><span class="citation-popover-snippet">The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</span></span></span>
+Large bodies of water create especially favourable conditions for superior mirages because cold surface air and warmer air above it naturally produce inversion layers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ship hovering above sea cornwall optical illusion</span><span class="citation-popover-snippet">The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsidc.org">[2nsidc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsidc.org</span><span class="citation-popover-snippet">The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</span></span></span>
 
 That is why many mirage-related UFO cases cluster around:
 
@@ -399,7 +399,7 @@ That is why many mirage-related UFO cases cluster around:
 
 </div>
 
-Historical reports of “ghost ships”, phantom islands and hovering cities often emerged from exactly these environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refractionAstronomical or celestial refraction causes astronomical objects to appear higher above the horizon than they ac...</span></span></span> Some famous maritime legends, including aspects of the Flying Dutchman story, have long been linked to superior mirage phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</span></span></span>
+Historical reports of “ghost ships”, phantom islands and hovering cities often emerged from exactly these environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refractionAstronomical or celestial refraction causes astronomical objects to appear higher above the horizon than they ac...</span></span></span> Some famous maritime legends, including aspects of the Flying Dutchman story, have long been linked to superior mirage phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</span></span></span>
 
 For investigators, coastal UFO reports deserve particular attention when witnesses describe:
 
@@ -450,12 +450,12 @@ Patterns that often repeat include:
 
 * winter coastal sightings
 * stable calm evenings
-* low viewing angles <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">nasa.govGaia&#x27;s Crown: A Deep Space Mirageby K Blank · 2025 — deep space due to larger viewing angles, causing greater distortion because...</span></span></span>
+* low viewing angles<span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">nasa.govGaia&#x27;s Crown: A Deep Space Mirageby K Blank · 2025 — deep space due to larger viewing angles, causing greater distortion because...</span></span></span>
 * reports of hovering rectangular or cigar-like lights
 * rapidly changing object shape
 * multiple witnesses seeing different forms simultaneously
 
-A Fata Morgana can alter appearance from moment to moment as air layers shift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> That instability explains why witnesses sometimes disagree sharply about the same object’s shape or motion.
+A Fata Morgana can alter appearance from moment to moment as air layers shift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> That instability explains why witnesses sometimes disagree sharply about the same object’s shape or motion.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-dark.svg" | relative_url }}" alt="Source Match illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Image enhancement and skyline matching
@@ -463,7 +463,7 @@ A Fata Morgana can alter appearance from moment to moment as air layers shift. <
 Photographs frequently contain more information than witnesses realise. AI-assisted image analysis can:
 
 * stabilise shaky footage
-* identify hidden horizon lines <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</span></span></span>
+* identify hidden horizon lines<span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</span></span></span>
 * enhance distant silhouettes
 * compare skyline contours with known coastlines or ships
 * detect layered mirage distortion
@@ -480,7 +480,7 @@ That does not automatically prove the sighting was extraordinary. Several other 
 * untracked vessels
 * undocumented drones
 * witness bearing error
-* transient atmospheric conditions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Mirage &#124; Science &#124; Research StartersSuperior mirages, conversely, appear above the horizon. They are formed when light passes through a r...</span></span></span>
+* transient atmospheric conditions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Mirage &#124; Science &#124; Research StartersSuperior mirages, conversely, appear above the horizon. They are formed when light passes through a r...</span></span></span>
 * missing weather observations
 
 Still, a failed source search weakens the mirage explanation substantially.
@@ -505,7 +505,7 @@ A demonstrated mirage explanation usually includes:
 
 * identified source object
 * verified bearing
-* known weather inversion <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsidc.org">[nsidc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsidc.org</span><span class="citation-popover-snippet">The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</span></span></span>
+* known weather inversion<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsidc.org">[nsidc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsidc.org</span><span class="citation-popover-snippet">The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</span></span></span>
 * successful line-of-sight reconstruction
 * visual similarity to the reported object
 
@@ -515,199 +515,199 @@ A merely plausible explanation may include only:
 * a general resemblance
 * broad environmental similarity
 
-That distinction matters because many genuine atmospheric mirages are highly convincing and visually dramatic. Fata Morgana effects can create stacked, stretched and distorted structures that look artificial or airborne. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span> Witnesses are not irrational for finding them extraordinary.
+That distinction matters because many genuine atmospheric mirages are highly convincing and visually dramatic. Fata Morgana effects can create stacked, stretched and distorted structures that look artificial or airborne.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span> Witnesses are not irrational for finding them extraordinary.
 
 The investigative goal is therefore not ridicule or automatic dismissal. It is to determine whether a real object can be traced through the atmospheric conditions into the reported observation. When that chain can be reconstructed, a seemingly anomalous UFO often becomes a valuable case study in how weather, geography and perception interact. When the chain cannot be reconstructed, the sighting may remain unresolved even if a mirage remains one possible explanation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was There a Real Object Beyond the Horizon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was There a Real Object Beyond the Horizon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="https://i.ebayimg.com/images/g/qp8AAOSw1VBfypmU/s-l225.jpg" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="https://i.ebayimg.com/images/g/qp8AAOSw1VBfypmU/s-l225.jpg" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/ihwAAOSwBf1fCvTN/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/ihwAAOSwBf1fCvTN/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Control Professional 7-in-1 Wireless Sensor"><img src="https://i.ebayimg.com/images/g/-gQAAOSwPDtf0MgS/s-l225.jpg" alt="Listing image for Weather Station Radio Control Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Control Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Control Professional 7-in-1 Wireless Sensor"><img src="https://i.ebayimg.com/images/g/-gQAAOSwPDtf0MgS/s-l225.jpg" alt="Listing image for Weather Station Radio Control Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Control Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-there-a-real-object-beyond-the-horizon-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="was-there-a-real-object-beyond-the-horizon-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -723,7 +723,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -743,7 +743,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -775,7 +775,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -827,7 +827,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -872,7 +872,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -913,148 +913,148 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsidc.org  
-   Link: <a href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow">https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</p></details>
+   Link:<a href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow">https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Looming and similar refraction phenomena  
-   Link: <a href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looming and similar refraction phenomenaLooming and similar refraction phenomena do not produce mirages. Mirages show an extra image o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looming and similar refraction phenomenaLooming and similar refraction phenomena do not produce mirages. Mirages show an extra image o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric refractionAstronomical or celestial refraction causes astronomical objects to appear higher above the horizon than they ac...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric refractionAstronomical or celestial refraction causes astronomical objects to appear higher above the horizon than they ac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mirage of astronomical objects  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceLocal · Graphical · Aviation · Marine · Rivers and Lakes · Hurricanes · Severe Weather · Fire Weather · Sunrise/S...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceLocal · Graphical · Aviation · Marine · Rivers and Lakes · Hurricanes · Severe Weather · Fire Weather · Sunrise/S...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</p></details>
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A typical example is a mirage of a ship formed over cool water in an area where the temperature increases...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aty.sdsu.edu  
-   Link: <a href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirtypes.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</p></details>
+   Link:<a href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirtypes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: ship hovering above sea cornwall optical illusion  
-   Link: <a href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...5 Mar 2021 — “Superior mirages occur because of the weather condi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aty.sdsu.edu  
-   Link: <a href="https://aty.sdsu.edu/explain/principles.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/explain/principles.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageUnderstanding atmospheric refraction: Basic PrinciplesWhen there are thermal inversions nearer the surface, as happens...</p></details>
+   Link:<a href="https://aty.sdsu.edu/explain/principles.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/explain/principles.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageUnderstanding atmospheric refraction: Basic PrinciplesWhen there are thermal inversions nearer the surface, as happens...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aty.sdsu.edu  
-   Link: <a href="https://aty.sdsu.edu/bibliog/bibliog.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/bibliog/bibliog.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageBibliography of atmospheric refraction, mirages, and...The oldest account of mirages seems to be Aristotle&#x27;s brief men...</p></details>
+   Link:<a href="https://aty.sdsu.edu/bibliog/bibliog.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/bibliog/bibliog.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageBibliography of atmospheric refraction, mirages, and...The oldest account of mirages seems to be Aristotle&#x27;s brief men...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersSuperior mirages, conversely, appear above the horizon. They are formed when light passes through a r...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersSuperior mirages, conversely, appear above the horizon. They are formed when light passes through a r...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oikofuge.com  
    Title: fata morgana  
-   Link: <a href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://oikofuge.com/fata-morgana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of light rays, as increasi...</p></details>
+   Link:<a href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://oikofuge.com/fata-morgana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of light rays, as increasi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gov.hk  
-   Link: <a href="https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory&#x27;s Blog25 May 2020 — Contrary to inferior mirage, superior mirage appears as an image riding on the actual object and this oft...</p></details>
+   Link:<a href="https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory&#x27;s Blog25 May 2020 — Contrary to inferior mirage, superior mirage appears as an image riding on the actual object and this oft...</p></details>
    Published: May 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lovesail.com  
    Title: fata morgana  
-   Link: <a href="https://www.lovesail.com/ls-news/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.lovesail.com/ls-news/fata-morgana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirages Explained11 Aug 2020 — A fata morgana is an optical illusion caused by atmospheric conditions. These complex superior mirages app...</p></details>
+   Link:<a href="https://www.lovesail.com/ls-news/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.lovesail.com/ls-news/fata-morgana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirages Explained11 Aug 2020 — A fata morgana is an optical illusion caused by atmospheric conditions. These complex superior mirages app...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eoas.ubc.ca  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth, Ocean, and Atmosphere SciencesOptical PhenomenaFata Morgana. When the temperature inversion is not even, you may see a Fata Morgan...</p></details>
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth, Ocean, and Atmosphere SciencesOptical PhenomenaFata Morgana. When the temperature inversion is not even, you may see a Fata Morgan...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana/&quot;Superior Mirages&quot;: r/RetconnedFata Morgana is a superior mirage because warm air resting on patches of colder air in an at...</p></details>
+   Link:<a href="https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana/&quot;Superior Mirages&quot;: r/RetconnedFata Morgana is a superior mirage because warm air resting on patches of colder air in an at...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you witnessed this mirage while in #GlacierBay...Fata Morgana is a mirage seen within a narrow band on Earth&#x27;s horizon.... We shou...</p></details>
+   Link:<a href="https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you witnessed this mirage while in #GlacierBay...Fata Morgana is a mirage seen within a narrow band on Earth&#x27;s horizon.... We shou...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I am very curious about this phenomenon: r/geologyThe optical illusion of seeing something beyond the horizon is called a &quot; Fata Morgana...</p></details>
+   Link:<a href="https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1iomdbd/i_am_very_curious_about_this_phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I am very curious about this phenomenon: r/geologyThe optical illusion of seeing something beyond the horizon is called a &quot; Fata Morgana...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/[astronomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirages vs. Optical IllusionsSuperior mirages happen because a temperature inversion bends light rays downwards, making an object appear...</p></details>
+   Link:<a href="https://www.timeanddate.com/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/[astronomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirages vs. Optical IllusionsSuperior mirages happen because a temperature inversion bends light rays downwards, making an object appear...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: physicsforums.com  
    Title: the illusion of anti gravity aka a superior mirage.1000508  
-   Link: <a href="https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Anti-Gravity (aka a Superior Mirage)5 Mar 2021 — The discussion revolves around the phenomenon of a ship appearing to hov...</p></details>
+   Link:<a href="https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Anti-Gravity (aka a Superior Mirage)5 Mar 2021 — The discussion revolves around the phenomenon of a ship appearing to hov...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govGaia&#x27;s Crown: A Deep Space Mirageby K Blank · 2025 — deep space due to larger viewing angles, causing greater distortion because...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250005322/downloads/Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govGaia&#x27;s Crown: A Deep Space Mirageby K Blank · 2025 — deep space due to larger viewing angles, causing greater distortion because...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cally when a layer of warm air sits above cooler air near the surface.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cally when a layer of warm air sits above cooler air near the surface.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Optics/comments/ns7exy/just_found_this_excellent_video_that_combines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Optics/comments/ns7exy/just_found_this_excellent_video_that_combines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spheric refraction - looming, lofting, fata Morgana, etc - with partial...</p></details>
+   Link:<a href="https://www.reddit.com/r/Optics/comments/ns7exy/just_found_this_excellent_video_that_combines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Optics/comments/ns7exy/just_found_this_excellent_video_that_combines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spheric refraction - looming, lofting, fata Morgana, etc - with partial...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: surfertoday.com  
    Title: Fata Morgana: the strange ocean mirage optical  
-   Link: <a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and ghost vessels... Temperature inversions happen when a layer of warmer air traps cooler air beneath it, leading to a bending of...</p></details>
+   Link:<a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and ghost vessels... Temperature inversions happen when a layer of warmer air traps cooler air beneath it, leading to a bending of...</p></details>

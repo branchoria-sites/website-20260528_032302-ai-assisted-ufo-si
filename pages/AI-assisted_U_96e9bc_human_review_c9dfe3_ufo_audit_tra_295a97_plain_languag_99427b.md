@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295
 Ordinary readers can only audit a UFO verdict if investigators explain the reasoning in plain language, preserve disagreement, and show how conclusions changed over time. In disputed UFO or UAP cases, technical data alone is rarely persuasive. A radar trace, infrared clip, AI classification score or satellite match may look decisive to one reviewer and deeply uncertain to another. Public trust depends on whether outside readers can follow the logic from the [original]({{ 'original-evidence/' | relative_url }}) sighting report to the final status label.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-dark.svg" | relative_url }}" alt="Review Notes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many modern UFO investigations combine automated checks with human judgement. AI systems may compare a witness account against aircraft databases, astronomy software, weather archives, drone activity or historical [case libraries]({{ 'case-libraries/' | relative_url }}) in seconds, but the resulting verdict still needs a readable explanation. NASA’s independent UAP study warned that analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and incomplete measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practice, that means a case summary saying “likely aircraft” or “probably lens flare” is not enough on its own. Readers need to know why investigators think that explanation fits better than the alternatives, and where uncertainty remains.
+This matters because many modern UFO investigations combine automated checks with human judgement. AI systems may compare a witness account against aircraft databases, astronomy software, weather archives, drone activity or historical [case libraries]({{ 'case-libraries/' | relative_url }}) in seconds, but the resulting verdict still needs a readable explanation. NASA’s independent UAP study warned that analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and incomplete measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practice, that means a case summary saying “likely aircraft” or “probably lens flare” is not enough on its own. Readers need to know why investigators think that explanation fits better than the alternatives, and where uncertainty remains.
 
 ## Why plain-language notes matter in disputed UFO cases
 
@@ -288,7 +288,7 @@ A useful review note does three things at once:
 
 </div>
 
-This is especially important when AI tools are involved. Explainable AI research repeatedly stresses that public trust depends on users understanding how a system reached a conclusion, what evidence it relied on, and how confident it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edps.europa.eu">[European Data Protection Supervisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edps.europa.eu</span><span class="citation-popover-snippet">European Data Protection SupervisorEXPLAINABLE ARTIFICIAL INTELLIGENCEA transparent AI system enables accountability by allowing stakehol...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rai.ac.uk">[Responsible AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rai.ac.uk</span><span class="citation-popover-title">Responsible AITransparency toolkit Report</span><span class="citation-popover-snippet">Responsible AI UKThis report is intended as a practical primer for SMEs aiming to improve their AI transparency but unsure how to do so e...</span></span></span> A UFO investigation platform that produces opaque verdicts risks creating exactly the same credibility problems that already surround many historic UFO cases.
+This is especially important when AI tools are involved. Explainable AI research repeatedly stresses that public trust depends on users understanding how a system reached a conclusion, what evidence it relied on, and how confident it actually is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edps.europa.eu">[European Data Protection Supervisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edps.europa.eu</span><span class="citation-popover-snippet">European Data Protection SupervisorEXPLAINABLE ARTIFICIAL INTELLIGENCEA transparent AI system enables accountability by allowing stakehol...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rai.ac.uk">[Responsible AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rai.ac.uk</span><span class="citation-popover-title">Responsible AITransparency toolkit Report</span><span class="citation-popover-snippet">Responsible AI UKThis report is intended as a practical primer for SMEs aiming to improve their AI transparency but unsure how to do so e...</span></span></span> A UFO investigation platform that produces opaque verdicts risks creating exactly the same credibility problems that already surround many historic UFO cases.
 
 The strongest review notes therefore avoid dramatic wording. Instead of declaring that a sighting was “debunked”, the notes explain which observations matched a known explanation and which did not. Equally, they avoid presenting unresolved cases as proof of extraordinary craft. A careful note may say that no current explanation fully accounts for the available evidence while also explaining the limitations of the data.
 
@@ -310,13 +310,13 @@ The second version gives readers something to evaluate. They can ask whether the
 
 Good review notes also explain technical limits plainly. If a video was digitally zoomed, compressed by social media platforms or recorded through a dirty window, the notes should say so directly because those factors can distort apparent movement and brightness.
 
-NASA’s UAP study repeatedly stressed that missing metadata and inconsistent sensor quality make many cases difficult to analyse reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span> Plain-language notes should therefore explain what data was missing, not only what data existed.
+NASA’s UAP study repeatedly stressed that missing metadata and inconsistent sensor quality make many cases difficult to analyse reliably.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span> Plain-language notes should therefore explain what data was missing, not only what data existed.
 
 ### Explaining optical and perception effects without sounding dismissive
 
 One reason UFO verdicts become contentious is that witnesses sometimes feel mocked when investigators mention perception errors or optical effects. A review note should explain these mechanisms carefully rather than treating them as obvious mistakes.
 
-For example, the US Department of Defense’s All-domain Anomaly Resolution Office (AARO) has published explanatory material on parallax and forced perspective effects in UFO observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP</span><span class="citation-popover-snippet">May 8, 2024 — In this example, forced perspective distorts the distance between the tower and the person, causing both the person to appe...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span> In simple terms, an object can appear to move rapidly or hover unnaturally because the observer is moving, the background is distant, or the camera lacks stable reference points.
+For example, the US Department of Defense’s All-domain Anomaly Resolution Office (AARO) has published explanatory material on parallax and forced perspective effects in UFO observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP</span><span class="citation-popover-snippet">May 8, 2024 — In this example, forced perspective distorts the distance between the tower and the person, causing both the person to appe...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span> In simple terms, an object can appear to move rapidly or hover unnaturally because the observer is moving, the background is distant, or the camera lacks stable reference points.
 
 A poor explanation says:
 
@@ -366,12 +366,12 @@ A disputed case might therefore contain notes such as:
 
 This approach is more trustworthy than pretending the case reached perfect consensus.
 
-Research on AI transparency and accountability repeatedly shows that users lose confidence when systems hide uncertainty or disagreement behind overly confident summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.comExplainability, Transparency, and Accountability in AI...12 May 2026 — This paper synthesises the explainability, transparency...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> UFO investigations face the same problem, especially when cases attract strong public attention online.
+Research on AI transparency and accountability repeatedly shows that users lose confidence when systems hide uncertainty or disagreement behind overly confident summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.comExplainability, Transparency, and Accountability in AI...12 May 2026 — This paper synthesises the explainability, transparency...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> UFO investigations face the same problem, especially when cases attract strong public attention online.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-dark.svg" | relative_url }}" alt="Review Notes illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Preventing “confidence inflation”
 
-One major risk in AI-assisted UFO investigation is that software-generated summaries can sound more certain than the underlying evidence deserves. Researchers studying AI-assisted analysis have warned that confident wording can obscure uncertainty and make weak conclusions appear stronger than they are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</span></span></span>
+One major risk in AI-assisted UFO investigation is that software-generated summaries can sound more certain than the underlying evidence deserves. Researchers studying AI-assisted analysis have warned that confident wording can obscure uncertainty and make weak conclusions appear stronger than they are.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</span></span></span>
 
 This matters because UFO evidence is often fragmentary:
 
@@ -444,7 +444,7 @@ Plain-language review systems work better when they use layered categories such 
 
 </div>
 
-AARO’s public UAP material sometimes uses similar cautious wording, noting that a physical object may be visible while also stating that its behaviour appears unremarkable or that more information would be required for conclusive attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphological fe...</span></span></span> That style is less dramatic than internet UFO culture often prefers, but it is far more useful for public auditing.
+AARO’s public UAP material sometimes uses similar cautious wording, noting that a physical object may be visible while also stating that its behaviour appears unremarkable or that more information would be required for conclusive attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphological fe...</span></span></span> That style is less dramatic than internet UFO culture often prefers, but it is far more useful for public auditing.
 
 ## What ordinary readers should be able to check themselves
 
@@ -482,194 +482,194 @@ Most importantly, they preserve the difference between three very different situ
 That distinction is essential for any serious AI-assisted UFO investigation system that wants to remain transparent, challengeable and scientifically credible over time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can ordinary readers audit a UFO verdict?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can ordinary readers audit a UFO verdict?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent fit for making UFO reasoning understandable without overclaiming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for making UFO reasoning understandable without overclaiming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Relevant to explaining technical findings clearly to ordinary readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to explaining technical findings clearly to ordinary readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Supports communicating evidence strength and uncertainty plainly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports communicating evidence strength and uncertainty plainly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Useful for transparent case notes, timelines and public tables.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for transparent case notes, timelines and public tables.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz"><img src="https://i.ebayimg.com/images/g/MUgAAeSw1vVoqI46/s-l225.jpg" alt="Listing image for Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz"><img src="https://i.ebayimg.com/images/g/MUgAAeSw1vVoqI46/s-l225.jpg" alt="Listing image for Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Mug Chemistry Science Coffee Tea Cup Gift Novelty Ceramic 11oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup"><img src="https://i.ebayimg.com/images/g/jyIAAOSwJzFhVwoM/s-l225.jpg" alt="Listing image for Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup"><img src="https://i.ebayimg.com/images/g/jyIAAOSwJzFhVwoM/s-l225.jpg" alt="Listing image for Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Astronomy Mug Gift Idea Astronomer Stars Galaxy Space Science Tea Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup"><img src="https://i.ebayimg.com/images/g/8sAAAOSwPoFg-ASn/s-l225.jpg" alt="Listing image for Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup"><img src="https://i.ebayimg.com/images/g/8sAAAOSwPoFg-ASn/s-l225.jpg" alt="Listing image for Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Biologist White 11oz Mug Biology Science Subject School Cool Gift Coffee Tea Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup"><img src="https://i.ebayimg.com/images/g/c-8AAOSw6w5dJ9NX/s-l225.jpg" alt="Listing image for Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup"><img src="https://i.ebayimg.com/images/g/c-8AAOSw6w5dJ9NX/s-l225.jpg" alt="Listing image for Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">Caffeine Molecule Mug Can Personalise Teacher Student Science Chemistry Gift Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: science mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ordinary-readers-audit-a-ufo-verdict-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="can-ordinary-readers-audit-a-ufo-verdict-science-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -685,7 +685,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -705,7 +705,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -737,7 +737,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -789,7 +789,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -834,7 +834,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -875,130 +875,130 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rai.ac.uk  
    Title: Responsible AITransparency toolkit Report  
-   Link: <a href="https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible AI UKThis report is intended as a practical primer for SMEs aiming to improve their AI transparency but unsure how to do so e...</p></details>
+   Link:<a href="https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rai.ac.uk/wp-content/uploads/2025/02/Transparency-toolkit-Report-2.1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible AI UKThis report is intended as a practical primer for SMEs aiming to improve their AI transparency but unsure how to do so e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2024 — In this example, forced perspective distorts the distance between the tower and the person, causing both the person to appe...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2024 — In this example, forced perspective distorts the distance between the tower and the person, causing both the person to appe...</p></details>
    Published: May 8, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphological fe...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphological fe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.23136</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.23136</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comExplainability, Transparency, and Accountability in AI...12 May 2026 — This paper synthesises the explainability, transparency...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comExplainability, Transparency, and Accountability in AI...12 May 2026 — This paper synthesises the explainability, transparency...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
    Published: May 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: edps.europa.eu  
-   Link: <a href="https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Data Protection SupervisorEXPLAINABLE ARTIFICIAL INTELLIGENCEA transparent AI system enables accountability by allowing stakehol...</p></details>
+   Link:<a href="https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edps.europa.eu/system/files/2023-11/23-11-16_techdispatch_xai_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Data Protection SupervisorEXPLAINABLE ARTIFICIAL INTELLIGENCEA transparent AI system enables accountability by allowing stakehol...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sight...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sight...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astro.org  
-   Link: <a href="https://www.astro.org/interest-groups/arro/resident-resources/educational-resources/arrocase" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.org/interest-groups/arro/resident-resources/educational-resources/arrocase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARROCaseARROCase is a peer-reviewed publicly accessible educational database including case vignettes and contouring examples for residen...</p></details>
+   Link:<a href="https://www.astro.org/interest-groups/arro/resident-resources/educational-resources/arrocase" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.org/interest-groups/arro/resident-resources/educational-resources/arrocase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARROCaseARROCase is a peer-reviewed publicly accessible educational database including case vignettes and contouring examples for residen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: zhihu.com  
-   Link: <a href="https://www.zhihu.com/en/answer/3211845828" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/3211845828</a>  
+   Link:<a href="https://www.zhihu.com/en/answer/3211845828" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/3211845828</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OEfKfzvjiko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OEfKfzvjiko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOPE AS HECK VIDEOS using motion parallaxParallax: the Ultimate Video Cheat! Motion parallax makes your viewers feel like they&#x27;re RIGHT T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OEfKfzvjiko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OEfKfzvjiko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOPE AS HECK VIDEOS using motion parallaxParallax: the Ultimate Video Cheat! Motion parallax makes your viewers feel like they&#x27;re RIGHT T...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nextgov.com  
-   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>

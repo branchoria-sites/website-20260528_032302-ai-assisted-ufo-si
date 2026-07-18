@@ -291,7 +291,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e0
 A UFO sighting cannot be tested properly unless investigators can place it inside a reliable time window. Even a difference of ten or fifteen minutes can change whether a bright object matches Venus, an [aircraft]({{ 'aircraft/' | relative_url }}) approach path, a Starlink train, a military exercise, a meteor shower or nothing obvious at all. Time is the anchor that allows every other comparison step to happen.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That sounds simple, but witness timing is often uncertain. People remember “around 9pm”, confuse the start and end of an event, misread clocks under stress, or later reconstruct details from memory after discussing the sighting with others. Phone videos may carry incorrect [metadata]({{ 'metadata/' | relative_url }}) if the device clock was wrong or the file was re-exported. Public reporting databases such as the National UFO Reporting Center explicitly ask whether the reported date and time are approximate because timing uncertainty is common and materially affects investigation quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</span></span></span>
+That sounds simple, but witness timing is often uncertain. People remember “around 9pm”, confuse the start and end of an event, misread clocks under stress, or later reconstruct details from memory after discussing the sighting with others. Phone videos may carry incorrect [metadata]({{ 'metadata/' | relative_url }}) if the device clock was wrong or the file was re-exported. Public reporting databases such as the National UFO Reporting Center explicitly ask whether the reported date and time are approximate because timing uncertainty is common and materially affects investigation quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</span></span></span>
 
 For AI-assisted UFO sighting investigation, the goal is not to force vague memories into [false precision]({{ 'false-precision/' | relative_url }}). The goal is to reconstruct the narrowest defensible timeline, preserve uncertainty openly, and make every timing assumption testable against external records.
 
@@ -299,7 +299,7 @@ For AI-assisted UFO sighting investigation, the goal is not to force vague memor
 
 Most ordinary explanations for UFO reports are time-sensitive. Aircraft positions change by the second. Satellite passes may only be visible for a few minutes. [Bright planets]({{ 'bright-planets/' | relative_url }}) can sink below the horizon within a short interval. A flare, rocket launch, re-entry or drone display may match one exact window but not another.
 
-This is why modern UAP analysis repeatedly emphasises data quality and metadata. NASA’s independent UAP study stated that analysis is often weakened by missing sensor metadata, lack of multiple measurements and poor baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> The same problem appears in public AARO case summaries, where some incidents are resolved as balloons, birds or ordinary objects while others remain unresolved largely because the available data are incomplete or too limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod working to better understand resolve anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</span></span></span>
+This is why modern UAP analysis repeatedly emphasises data quality and metadata. NASA’s independent UAP study stated that analysis is often weakened by missing sensor metadata, lack of multiple measurements and poor baseline data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> The same problem appears in public AARO case summaries, where some incidents are resolved as balloons, birds or ordinary objects while others remain unresolved largely because the available data are incomplete or too limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod working to better understand resolve anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</span></span></span>
 
 A vague sighting report such as “late evening in early summer” blocks meaningful correlation work. A bounded event window such as “between 21:07 and 21:12 BST” allows investigators to check:
 
@@ -527,7 +527,7 @@ For example:
 
 The system should then score fit quality rather than declaring certainty prematurely.
 
-This matters because unresolved does not automatically mean anomalous. Government and scientific reviews repeatedly note that some cases remain unresolved simply because the data are incomplete. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</span></span></span>
+This matters because unresolved does not automatically mean anomalous. Government and scientific reviews repeatedly note that some cases remain unresolved simply because the data are incomplete. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</span></span></span>
 
 ### Preserve the original wording alongside structured data
 
@@ -560,194 +560,194 @@ That format does not sensationalise the event. It makes the case testable.
 And that is the real purpose of timeline reconstruction in AI-assisted UFO sighting investigation: not proving extraordinary claims, but reducing ambiguity enough that ordinary and unusual explanations can both be evaluated against the same transparent record.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the sighting time actually be tested?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the sighting time actually be tested?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented cases and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented cases and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful testing of claims rather than false precision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful testing of claims rather than false precision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand time-sensitive sky checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand time-sensitive sky checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explains why timing uncertainty changes conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why timing uncertainty changes conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-sighting-time-actually-be-tested-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="can-the-sighting-time-actually-be-tested-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -763,7 +763,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -783,7 +783,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -815,7 +815,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -867,7 +867,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -912,7 +912,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -953,155 +953,155 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</p></details>
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>te, enter your best guess and check this box. Duration *.Read more...</p></details>
+   Link:<a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>te, enter your best guess and check this box. Duration *.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor [calibration](&amp;#123;&amp;#123; &#x27;calibration/&#x27; | relative_url &amp;#125;&amp;#125;), the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor [calibration](&amp;#123;&amp;#123; &#x27;calibration/&#x27; | relative_url &amp;#125;&amp;#125;), the lack of multiple me...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous PhenomenaNov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its ho...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous PhenomenaNov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its ho...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/madar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
+   Link:<a href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/madar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
    Title: 1039 new reports posted  
-   Link: <a href="https://nuforc.org/1039-new-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/1039-new-reports-posted/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
+   Link:<a href="https://nuforc.org/1039-new-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/1039-new-reports-posted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA and the rest of the world.Read more...</p></details>
+   Link:<a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA and the rest of the world.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing the Zeitoun Data: Are We Studying Unexplained...NASA has noted that without an extensive set of data, it is very hard to verify...</p></details>
+   Link:<a href="https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing the Zeitoun Data: Are We Studying Unexplained...NASA has noted that without an extensive set of data, it is very hard to verify...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
+   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
+   Link:<a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Data Sources: Publicly submitted UFO sighting reports. Metadata for each report: location, time, duratio...</p></details>
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Data Sources: Publicly submitted UFO sighting reports. Metadata for each report: location, time, duratio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itself incl...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itself incl...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cs.ubc.ca  
-   Link: <a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — NUFORC sighting reports through simple descriptives such as report...</p></details>
+   Link:<a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — NUFORC sighting reports through simple descriptives such as report...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: github.com  
-   Link: <a href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/planetsig/ufo-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsBasically the locations needed to be geocoded and the duration time normalized to seconds. Full acknowledgement to t...</p></details>
+   Link:<a href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/planetsig/ufo-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsBasically the locations needed to be geocoded and the duration time normalized to seconds. Full acknowledgement to t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
+   Link:<a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
    Published: April 26, 2021  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nature.com  
    Title: The documentation, covering all reports, is organized  
-   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Each report (observation) includes date, ti...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Each report (observation) includes date, ti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
-   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
+   Link:<a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO has failed to resolve some incidents, but it&#x27;s not because something is inexplic...</p></details>
+   Link:<a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO has failed to resolve some incidents, but it&#x27;s not because something is inexplic...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/[astronomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
+   Link:<a href="https://skyandtelescope.org/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/[astronomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>

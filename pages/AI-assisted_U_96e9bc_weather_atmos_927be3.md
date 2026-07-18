@@ -325,7 +325,7 @@ The key is not to dismiss witnesses with “it was just weather”. Atmospheric 
 
 Cloud and fog matter because they change what the witness can see around the light. A bright [aircraft]({{ 'aircraft/' | relative_url }}), drone, planet, searchlight or ground light looks very different when seen through broken cloud, low mist or haze. Edges blur, colours spread, motion becomes harder to judge, and distance cues disappear. A light behind moving cloud may appear to pulse, vanish, accelerate or hover even when the source itself is steady.
 
-This is especially important in short witness accounts. Phrases such as “it disappeared into a cloud”, “it was glowing inside the mist”, “it hovered above the hill”, or “it had no visible body” should trigger a visibility check before more unusual explanations are considered. Fog is not merely “bad weather”; aviation meteorology treats it as a cloud at the surface that can seriously reduce visibility, and official aviation weather systems track visibility, cloud base, wind, temperature, dew point and precipitation precisely because those conditions affect what pilots and observers can see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">aviation weather services guide</span><span class="citation-popover-snippet">August 11, 2017 — AWOS has a full suite of sensors that measures cloud base height, sky cover, visibility, temperature, dew point, wind v...</span><span class="citation-popover-meta">Published: August 11, 2017</span></span></span>
+This is especially important in short witness accounts. Phrases such as “it disappeared into a cloud”, “it was glowing inside the mist”, “it hovered above the hill”, or “it had no visible body” should trigger a visibility check before more unusual explanations are considered. Fog is not merely “bad weather”; aviation meteorology treats it as a cloud at the surface that can seriously reduce visibility, and official aviation weather systems track visibility, cloud base, wind, temperature, dew point and precipitation precisely because those conditions affect what pilots and observers can see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">aviation weather services guide</span><span class="citation-popover-snippet">August 11, 2017 — AWOS has a full suite of sensors that measures cloud base height, sky cover, visibility, temperature, dew point, wind v...</span><span class="citation-popover-meta">Published: August 11, 2017</span></span></span>
 
 For UFO investigation, the practical weather questions are simple:
 
@@ -339,7 +339,7 @@ For UFO investigation, the practical weather questions are simple:
 
 </div>
 
-Lenticular clouds are the most visually obvious cloud-related example. The Met Office notes that these smooth, lens-shaped clouds form downwind of hills or mountains when moist air rides over standing waves, and that their “flying saucer” shape has made them one of the common explanations for UFO sightings worldwide. They can look artificial because they are smooth, isolated and apparently stationary, even though the air is moving through the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Lenticular clouds are the most visually obvious cloud-related example. The Met Office notes that these smooth, lens-shaped clouds form downwind of hills or mountains when moist air rides over standing waves, and that their “flying saucer” shape has made them one of the common explanations for UFO sightings worldwide. They can look artificial because they are smooth, isolated and apparently stationary, even though the air is moving through the wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean every saucer-shaped report is a lenticular cloud. The match is strongest when the sighting occurs near mountains or hills, in windy stable air, with a smooth oval or stacked-disc shape that remains fixed relative to the terrain. It is weaker when the report describes sharp turns, close-range structure, sound, multiple independent angles, radar correlation, or movement inconsistent with local wind and cloud behaviour. AI can help by comparing the witness description with terrain, wind direction, cloud type, satellite imagery and nearby reports, but it should keep the result as “consistent with lenticular cloud” rather than overstate it as proof.
 
@@ -348,17 +348,17 @@ That does not mean every saucer-shaped report is a lenticular cloud. The match i
 
 Atmospheric optics can make ordinary light appear displaced, stretched, multiplied or suspended in the sky. The most common mechanisms involve refraction, reflection, scattering and diffraction: light bends through layers of air, reflects from ice crystals, scatters through droplets, or spreads around tiny particles. These effects can be dramatic because the observer sees a real optical image, not a hallucination.
 
-Ice-crystal effects are especially relevant for UFO reports because they can create shapes away from the obvious light source. The Met Office explains that common 22-degree halos form when light passes through hexagonal ice crystals, while the US National Weather Service describes halos, sundogs and sun pillars as products of sunlight interacting with ice crystals in thin cirrus cloud. Similar [geometry]({{ 'geometry/' | relative_url }}) can involve moonlight or artificial lights at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ice-crystal effects are especially relevant for UFO reports because they can create shapes away from the obvious light source. The Met Office explains that common 22-degree halos form when light passes through hexagonal ice crystals, while the US National Weather Service describes halos, sundogs and sun pillars as products of sunlight interacting with ice crystals in thin cirrus cloud. Similar [geometry]({{ 'geometry/' | relative_url }}) can involve moonlight or artificial lights at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-[Light pillars]({{ 'light-pillars/' | relative_url }}) are a useful case type for investigators. They can look like vertical beams, columns or hovering luminous shafts, sometimes in colours matching streetlights, industrial lights or vehicle lights below. Space.com reported that Niagara Falls light pillars have been linked to UFO reports because mist and upward-facing spotlights can interact with cold-air ice crystals, while atmospheric-optics specialist material explains that artificial-light pillars are produced by reflection from tiny plate-like ice crystals between the observer and the light source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Alien Glow? Brilliant Light Pillars Appear Over Canada</span><span class="citation-popover-snippet">Alien Glow? Brilliant Light Pillars Appear Over Canada</span></span></span>
+[Light pillars]({{ 'light-pillars/' | relative_url }}) are a useful case type for investigators. They can look like vertical beams, columns or hovering luminous shafts, sometimes in colours matching streetlights, industrial lights or vehicle lights below. Space.com reported that Niagara Falls light pillars have been linked to UFO reports because mist and upward-facing spotlights can interact with cold-air ice crystals, while atmospheric-optics specialist material explains that artificial-light pillars are produced by reflection from tiny plate-like ice crystals between the observer and the light source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Alien Glow? Brilliant Light Pillars Appear Over Canada</span><span class="citation-popover-snippet">Alien Glow? Brilliant Light Pillars Appear Over Canada</span></span></span>
 
 A strong light-pillar hypothesis usually needs cold air, calm conditions, ice crystals or freezing fog, and a plausible ground light source below the apparent column. It becomes less convincing if the object moves independently across the sky, passes in front of clouds, changes bearing relative to the ground lights, or is observed from widely separated positions without the geometry lining up.
 
-Temperature inversions are another classic mechanism. In a normal lower atmosphere, air generally cools with height. In an inversion, warmer air sits above cooler air near the surface, which can bend light and radio waves in unusual ways. The 1952 Washington, DC UFO events are often discussed in this context: The Guardian summarised the US Air Force explanation that temperature inversion could produce visual and radar mirage effects, with distant ground lights appearing as shimmering aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Weatherwatch: UFOs or temperature?</span><span class="citation-popover-snippet">The Guardian Weatherwatch: UFOs or temperature?</span></span></span>
+Temperature inversions are another classic mechanism. In a normal lower atmosphere, air generally cools with height. In an inversion, warmer air sits above cooler air near the surface, which can bend light and radio waves in unusual ways. The 1952 Washington, DC UFO events are often discussed in this context: The Guardian summarised the US Air Force explanation that temperature inversion could produce visual and radar mirage effects, with distant ground lights appearing as shimmering aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Weatherwatch: UFOs or temperature?</span><span class="citation-popover-snippet">The Guardian Weatherwatch: UFOs or temperature?</span></span></span>
 
 This remains disputed in some historical cases, and that is precisely why a modern workflow should not use “inversion” as a magic answer. It should test whether the reported geometry fits: horizon-level viewing, distant bright sources, stable air, strong temperature gradients, and returns or lights that behave like ducted or refracted signals rather than solid objects. The case status may end up as “plausible inversion effect”, “weak weather match”, or “unresolved after inversion check”.
 
-Sprites, elves and other transient luminous events belong in a different category. They are not reflections of ordinary lights, but brief electrical phenomena above thunderstorms. NOAA’s National Severe Storms Laboratory describes sprites as large, weak, usually red discharges above active thunderstorms, often linked to powerful positive cloud-to-ground lightning, extending up to around 60 miles from the cloud top and lasting no more than a few seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sprites, elves and other transient luminous events belong in a different category. They are not reflections of ordinary lights, but brief electrical phenomena above thunderstorms. NOAA’s National Severe Storms Laboratory describes sprites as large, weak, usually red discharges above active thunderstorms, often linked to powerful positive cloud-to-ground lightning, extending up to around 60 miles from the cloud top and lasting no more than a few seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a witness, such a flash can seem otherworldly: high above a storm, silent, coloured, and gone almost instantly. For an investigator, the check is highly specific. Was there a thunderstorm in the right direction? Was there major lightning at the same moment? Did the report describe a red, jellyfish-like, column-like, ring-like or branching flash rather than a continuous craft? If yes, an AI workflow can correlate the sighting time with lightning detection networks, weather radar and storm-cell position. If not, sprites should not be forced into the explanation.
 
@@ -376,7 +376,7 @@ The strongest weather reconstruction combines several layers:
 * **Local geography:** hills, coastlines, valleys, industrial lights, airports, water surfaces and reflective snow or ice.
 * **Witness geometry:** bearing, [elevation]({{ 'elevation/' | relative_url }}), line of sight, obstructions and whether the object was near the horizon.
 
-NASA’s UAP study stressed that progress depends on better data, robust collection and well-characterised observations rather than isolated anecdotes; it also noted that satellite and environmental data can help provide context around reported events. That principle applies directly to weather: atmospheric conditions should be captured as structured case-file fields, not added later as a vague afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA’s UAP study stressed that progress depends on better data, robust collection and well-characterised observations rather than isolated anecdotes; it also noted that satellite and environmental data can help provide context around reported events. That principle applies directly to weather: atmospheric conditions should be captured as structured case-file fields, not added later as a vague afterthought.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 AI is useful here because the work is repetitive and time-sensitive. It can pull the nearest weather station data, fetch archived radar frames, check cloud and visibility reports, flag inversion risk, look for lightning within a time window, and compare the sighting description with known optical mechanisms. It can also warn the investigator when the available data are too coarse: a weather station 30 miles away may not describe fog in a valley, and a clear surface report may miss high cirrus capable of producing halos.
 
@@ -397,194 +397,194 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-dark.svg" | relative_url }}" alt="Weather illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Weather Make a UFO Look Stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Weather Make a UFO Look Stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains atmospheric effects that can mislead observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric effects that can mislead observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Useful for understanding sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Helps explain cloud-driven visual misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain cloud-driven visual misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMS Weather Book">AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMS Weather Book">AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Geography, Life sciences, Earth Sciences, Atmospheric Sciences, Popular Science in Nature and Environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Geography, Life sciences, Earth Sciences, Atmospheric Sciences, Popular Science in Nature and Environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK"><img src="https://i.ebayimg.com/images/g/ou0AAeSwwplp2qLk/s-l225.jpg" alt="Listing image for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK"><img src="https://i.ebayimg.com/images/g/ou0AAeSwwplp2qLk/s-l225.jpg" alt="Listing image for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature"><img src="https://i.ebayimg.com/images/g/cqUAAeSwoyNqIS3A/s-l225.jpg" alt="Listing image for Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature"><img src="https://i.ebayimg.com/images/g/cqUAAeSwoyNqIS3A/s-l225.jpg" alt="Listing image for Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">Baldr Wireless Weather Station with Moon Phase Indoor Outdoor Temperature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/rxAAAOSwu5BfLl4x/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/rxAAAOSwu5BfLl4x/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-weather-make-a-ufo-look-stranger-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="can-weather-make-a-ufo-look-stranger-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,134 +790,134 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: navcanada.ca  
    Title: aviation weather services guide  
-   Link: <a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 11, 2017 — AWOS has a full suite of sensors that measures cloud base height, sky cover, visibility, temperature, dew point, wind v...</p></details>
+   Link:<a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 11, 2017 — AWOS has a full suite of sensors that measures cloud base height, sky cover, visibility, temperature, dew point, wind v...</p></details>
    Published: August 11, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: Alien Glow? Brilliant Light Pillars Appear Over Canada  
-   Link: <a href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/35324-light-pillars-photo-ontario.html</a>  
+   Link:<a href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/35324-light-pillars-photo-ontario.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nssl.noaa.gov  
-   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
+   Link:<a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: noaa.gov  
    Title: types of weather phenomena  
-   Link: <a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nesdis.noaa.gov  
    Title: silent threat how noaa satellites help save lives low visibility and fog  
-   Link: <a href="https://www.nesdis.noaa.gov/news/silent-threat-how-noaa-satellites-help-save-lives-low-visibility-and-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/news/silent-threat-how-noaa-satellites-help-save-lives-low-visibility-and-fog</a>  
+   Link:<a href="https://www.nesdis.noaa.gov/news/silent-threat-how-noaa-satellites-help-save-lives-low-visibility-and-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/news/silent-threat-how-noaa-satellites-help-save-lives-low-visibility-and-fog</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/otx/full_weather_glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/otx/full_weather_glossary</a>  
+   Link:<a href="https://www.weather.gov/otx/full_weather_glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/otx/full_weather_glossary</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: atoptics.org.uk  
    Title: Light Pillars  
-   Link: <a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
+   Link:<a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Weatherwatch: UFOs or temperature?  
-   Link: <a href="https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers</a>  
+   Link:<a href="https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/2011/jul/13/weatherwatch-flying-saucers</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Atmospheric optics  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_optics</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/Daily_Record/status/1768307457271509191" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Daily_Record/status/1768307457271509191</a>  
+   Link:<a href="https://x.com/Daily_Record/status/1768307457271509191" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Daily_Record/status/1768307457271509191</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blog.metservice.com  
    Title: atmospheric optics  
-   Link: <a href="https://blog.metservice.com/atmospheric-optics" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/atmospheric-optics</a>  
+   Link:<a href="https://blog.metservice.com/atmospheric-optics" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/atmospheric-optics</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: static.e-publishing.af.mil  
-   Link: <a href="https://static.e-publishing.af.mil/production/1/af_a3/publication/afh15-101/afh15-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_a3/publication/afh15-101/afh15-101.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force5 Nov 2019 — The visibility in fog depends on the amount of water vapor available... AWC—Aviation Weather Center. BKFG—Baroklin...</p></details>
+   Link:<a href="https://static.e-publishing.af.mil/production/1/af_a3/publication/afh15-101/afh15-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_a3/publication/afh15-101/afh15-101.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force5 Nov 2019 — The visibility in fog depends on the amount of water vapor available... AWC—Aviation Weather Center. BKFG—Baroklin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Mirage and [Fata Morgana](&#123;&#123; 'fata-morgana/' | relative_url &#125;&#125;): How Temperature Inversions Trick the Eye  
-   Link: <a href="http://www.youtube.com/watch?v=Yp56c3t9c4g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Yp56c3t9c4g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Planes Look Like UFOs: The Role of Atmospheric Haze and Light...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Yp56c3t9c4g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Yp56c3t9c4g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Planes Look Like UFOs: The Role of Atmospheric Haze and Light...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/help/</a>  
+   Link:<a href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/help/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Atmospheric Optics: Why the Sky is Blue and Sunsets are Red  
-   Link: <a href="http://www.youtube.com/watch?v=0hK2s-qU9vQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hK2s-qU9vQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light Pillars: The Science Behind the Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0hK2s-qU9vQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hK2s-qU9vQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light Pillars: The Science Behind the Mystery...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Rare Optical Phenomena in the Atmosphere  
-   Link: <a href="http://www.youtube.com/watch?v=kU_Ua0z5j_k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kU_Ua0z5j_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage and Fata Morgana: How Temperature Inversions Trick the Eye...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kU_Ua0z5j_k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kU_Ua0z5j_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage and Fata Morgana: How Temperature Inversions Trick the Eye...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/</a>  
+   Link:<a href="https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/</a>  
+   Link:<a href="https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: byjus.com  
-   Link: <a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>
+   Link:<a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>

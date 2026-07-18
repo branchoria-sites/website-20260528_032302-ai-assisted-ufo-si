@@ -269,16 +269,16 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 ## Introduction
 
-A temperature inversion can make an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) light, ship, oil platform, coastline, or even a bright planet appear to hover motionless in the sky. In UFO investigations, this matters because witnesses often interpret unusual hovering behaviour as evidence that an object is defying normal flight physics, when the atmosphere itself may be distorting the view. Under inversion conditions, layers of warm and cool air bend light in unusual ways, especially close to the horizon. The result can be a distant object that appears elevated, enlarged, duplicated, stretched, or suspended above the ground or sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
+A temperature inversion can make an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) light, ship, oil platform, coastline, or even a bright planet appear to hover motionless in the sky. In UFO investigations, this matters because witnesses often interpret unusual hovering behaviour as evidence that an object is defying normal flight physics, when the atmosphere itself may be distorting the view. Under inversion conditions, layers of warm and cool air bend light in unusual ways, especially close to the horizon. The result can be a distant object that appears elevated, enlarged, duplicated, stretched, or suspended above the ground or sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-dark.svg" | relative_url }}" alt="Inversion Illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within an AI-assisted UFO sighting investigation, inversion conditions are therefore not a side detail. They are a testable environmental factor. By combining upper-air [weather]({{ 'weather/' | relative_url }}) profiles, witness viewing direction, terrain or sea conditions, and known sources of distant light, investigators can often determine whether a “hovering UFO” report matches the signature of atmospheric refraction rather than an unexplained aerial object.
 
 ## How inversion layers bend light
 
-Under normal atmospheric conditions, air becomes colder with altitude. A temperature inversion reverses that pattern, placing warmer air above cooler, denser air near the surface. Because light bends when it moves through air layers of different density, inversion layers can curve light rays downward toward the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
+Under normal atmospheric conditions, air becomes colder with altitude. A temperature inversion reverses that pattern, placing warmer air above cooler, denser air near the surface. Because light bends when it moves through air layers of different density, inversion layers can curve light rays downward toward the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
 
-That bending changes apparent position. An object physically below the horizon may appear lifted above it. A distant ship can seem to float in the sky. Aircraft lights can appear unnaturally steady and suspended. Coastlines may stretch vertically into towering shapes. In strong cases, multiple distorted images stack together into complex mirages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsThe Novaya Zemlya effect is a mirage caused by high refraction of sunlight between atmospheric thermocli...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</span></span></span>
+That bending changes apparent position. An object physically below the horizon may appear lifted above it. A distant ship can seem to float in the sky. Aircraft lights can appear unnaturally steady and suspended. Coastlines may stretch vertically into towering shapes. In strong cases, multiple distorted images stack together into complex mirages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsThe Novaya Zemlya effect is a mirage caused by high refraction of sunlight between atmospheric thermocli...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</span></span></span>
 
 This matters in UFO reports because witnesses usually assume light travels in a straight line. Human perception automatically traces the bent light path backwards, placing the object in the wrong apparent location. A distant aircraft flying level toward the observer may therefore appear to:
 
@@ -295,7 +295,7 @@ This matters in UFO reports because witnesses usually assume light travels in a 
 
 These effects are strongest near the horizon because light travels through more atmosphere at shallow viewing angles. That is why many inversion-related UFO reports involve low-[elevation]({{ 'elevation/' | relative_url }}) lights over oceans, lakes, deserts, or flat terrain.
 
-Atmospheric optics researchers note that superior mirages and related looming effects occur when cooler dense air sits beneath warmer air. In these conditions, light curves downward strongly enough to create displaced or elevated images. Skybrary <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth, Ocean, and Atmosphere Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">PhenomenaWhen the temperature inversion is not even, you may see a Fata Morgana. This could be caused by several layers of warm and cold...</span></span></span>
+Atmospheric optics researchers note that superior mirages and related looming effects occur when cooler dense air sits beneath warmer air. In these conditions, light curves downward strongly enough to create displaced or elevated images. Skybrary<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth, Ocean, and Atmosphere Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">PhenomenaWhen the temperature inversion is not even, you may see a Fata Morgana. This could be caused by several layers of warm and cold...</span></span></span>
 
 ## Why hovering lights are especially convincing at night
 
@@ -314,7 +314,7 @@ An aircraft beyond the normal visual horizon can become visible through refracte
 
 Without visible [reference points]({{ 'reference-points/' | relative_url }}), the brain struggles to estimate distance and motion. A distant aircraft travelling almost directly toward the witness can appear nearly stationary for long periods. When inversion refraction stabilises the light near the horizon, the effect can resemble a hovering craft. Small course changes or turbulence can then make the light appear to dart or wobble suddenly.
 
-Pilot safety literature repeatedly warns that haze, darkness, and atmospheric distortion can produce severe visual misjudgements. Aviation guidance documents describe how atmospheric conditions alter perceived distance, altitude, and orientation. Medium <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</span></span></span>
+Pilot safety literature repeatedly warns that haze, darkness, and atmospheric distortion can produce severe visual misjudgements. Aviation guidance documents describe how atmospheric conditions alter perceived distance, altitude, and orientation. Medium<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</span></span></span>
 
 For UFO case analysis, an important clue is the combination of “hovering” with extreme distance uncertainty. Witnesses often report a light that seemed close enough to be a nearby craft, yet produced no sound and showed little relative motion. Under inversion conditions, the source may actually have been many kilometres away.
 
@@ -322,9 +322,9 @@ For UFO case analysis, an important clue is the combination of “hovering” wi
 
 ## Fata Morgana effects over water and deserts
 
-The most dramatic inversion-related illusion is the [Fata Morgana]({{ 'fata-morgana/' | relative_url }}), a complex superior mirage caused by strong thermal layering and atmospheric ducting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
+The most dramatic inversion-related illusion is the [Fata Morgana]({{ 'fata-morgana/' | relative_url }}), a complex superior mirage caused by strong thermal layering and atmospheric ducting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
-A Fata Morgana can transform ordinary distant objects into bizarre hovering structures. Ships become floating towers. Islands appear suspended above the horizon. Coastlines stretch into vertical walls. Lights split into stacked layers that shimmer and morph over seconds or minutes. Because the atmosphere is constantly changing, the illusion itself evolves continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology</span></span></span>
+A Fata Morgana can transform ordinary distant objects into bizarre hovering structures. Ships become floating towers. Islands appear suspended above the horizon. Coastlines stretch into vertical walls. Lights split into stacked layers that shimmer and morph over seconds or minutes. Because the atmosphere is constantly changing, the illusion itself evolves continuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology</span></span></span>
 
 These effects are especially common in environments with strong surface temperature contrasts:
 
@@ -338,7 +338,7 @@ These effects are especially common in environments with strong surface temperat
 
 </div>
 
-Many classic “floating ship” photographs are examples of superior mirages produced by inversion layers over water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[Surfertoday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...Fata Morgana is an optical phenomenon that occurs due to the bending of ligh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</span></span></span>, coastal reports deserve particular caution because marine [inversions]({{ 'inversions/' | relative_url }}) are common. A witness observing lights over the sea may unknowingly be seeing refracted ships, offshore structures, or aircraft beyond the geometric horizon.
+Many classic “floating ship” photographs are examples of superior mirages produced by inversion layers over water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[Surfertoday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...Fata Morgana is an optical phenomenon that occurs due to the bending of ligh...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</span></span></span>, coastal reports deserve particular caution because marine [inversions]({{ 'inversions/' | relative_url }}) are common. A witness observing lights over the sea may unknowingly be seeing refracted ships, offshore structures, or aircraft beyond the geometric horizon.
 
 One reason these reports can appear extraordinary is that the mirage often removes familiar scale cues. A distorted ship silhouette may no longer resemble a ship at all. Multiple stacked images can resemble layered craft or glowing platforms. Rapid atmospheric changes may make the object appear to transform shape in real time.
 
@@ -359,7 +359,7 @@ Several mechanisms contribute to this misunderstanding:
 
 </div>
 
-A Fata Morgana can also create duplicated or inverted images that resemble structured craft formations. Historical accounts sometimes describe stacked glowing discs or elongated aerial shapes that closely match known mirage behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
+A Fata Morgana can also create duplicated or inverted images that resemble structured craft formations. Historical accounts sometimes describe stacked glowing discs or elongated aerial shapes that closely match known mirage behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span>
 
 This does not mean every hovering-light report is solved by inversion conditions. Many cases lack sufficient environmental data, and some involve close-range observations where refraction is unlikely to explain the report. The key investigative question is whether the atmospheric conditions were capable of producing the claimed visual effect.
 
@@ -376,7 +376,7 @@ Useful evidence sources include:
 * Radiosonde balloon soundings
 * Aviation weather profiles
 * Marine weather observations
-* Boundary-layer temperature models <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</span></span></span>
+* Boundary-layer temperature models<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</span></span></span>
 * Atmospheric stability forecasts
 * Surface-to-air temperature differentials
 
@@ -395,7 +395,7 @@ AI-assisted reconstruction becomes especially valuable when multiple datasets ar
 * Atmospheric soundings
 * Satellite cloud imagery
 * Visibility and haze records
-* Temperature inversion forecasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
+* Temperature inversion forecasts<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 
 </div>
 
@@ -438,194 +438,194 @@ A modern workflow can evaluate this systematically rather than relying on intuit
 That distinction helps prevent both extremes: dismissing witnesses automatically or treating every hovering light as evidence of extraordinary technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some UFO Lights Seem To Hover Motionless. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some UFO Lights Seem To Hover Motionless. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Keeps atmospheric explanation checks tied to UAP investigation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps atmospheric explanation checks tied to UAP investigation context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Directly supports understanding inversions, haze and atmospheric effects behind sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports understanding inversions, haze and atmospheric effects behind sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Useful for readers checking real atmospheric conditions in UFO timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers checking real atmospheric conditions in UFO timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports testing natural explanations before accepting extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports testing natural explanations before accepting extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK"><img src="https://i.ebayimg.com/images/g/ou0AAeSwwplp2qLk/s-l225.jpg" alt="Listing image for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK"><img src="https://i.ebayimg.com/images/g/ou0AAeSwwplp2qLk/s-l225.jpg" alt="Listing image for LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">LCD Digital Thermometer Hygrometer Indoor Outdoor Weather Station Clock HTC-1 UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor"><img src="https://i.ebayimg.com/images/g/u5sAAeSwPJRpFdsq/s-l225.jpg" alt="Listing image for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor"><img src="https://i.ebayimg.com/images/g/u5sAAeSwPJRpFdsq/s-l225.jpg" alt="Listing image for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-lights-seem-to-hover-motionless-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="why-some-ufo-lights-seem-to-hover-motionless-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -641,7 +641,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -661,7 +661,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -693,7 +693,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -745,7 +745,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -790,7 +790,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -831,173 +831,173 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Inversion (meteorology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</p></details>
    Published: September 15, 2016  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: surfertoday.com  
-   Link: <a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: the strange ocean mirage optical...Fata Morgana is an optical phenomenon that occurs due to the bending of ligh...</p></details>
+   Link:<a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: the strange ocean mirage optical...Fata Morgana is an optical phenomenon that occurs due to the bending of ligh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</p></details>
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/is-that-the-flying-dutchman-what-youre-seeing-is-actually-a-rare-mirage-called-a/1330069468977696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is that The Flying Dutchman? 👀 What you&#x27;re seeing is...Fata Morgana mirages are caused by temperature inversions, where a layer...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/imfromcle/posts/a-rare-temperature-inversion-over-lake-erie-is-making-distant-objects-visible-in/1333334492127443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/imfromcle/posts/a-rare-temperature-inversion-over-lake-erie-is-making-distant-objects-visible-in/1333334492127443/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y move through mediums of different density, typically...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/imfromcle/posts/a-rare-temperature-inversion-over-lake-erie-is-making-distant-objects-visible-in/1333334492127443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/imfromcle/posts/a-rare-temperature-inversion-over-lake-erie-is-making-distant-objects-visible-in/1333334492127443/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y move through mediums of different density, typically...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/471788599637917/posts/3467786726704741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/471788599637917/posts/3467786726704741/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>light bending through layers of air of different temperatures...Specifically, a temperature inversion happens—where a layer of warm air...</p></details>
+   Link:<a href="https://www.facebook.com/groups/471788599637917/posts/3467786726704741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/471788599637917/posts/3467786726704741/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>light bending through layers of air of different temperatures...Specifically, a temperature inversion happens—where a layer of warm air...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SpaceScienceOfficial/posts/what-looks-like-a-floating-ship-in-the-sky-is-actually-a-rare-optical-illusion-c/965577222898214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceScienceOfficial/posts/what-looks-like-a-floating-ship-in-the-sky-is-actually-a-rare-optical-illusion-c/965577222898214/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of warm air sits above a cooler layer, bending light rays downward...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceScienceOfficial/posts/what-looks-like-a-floating-ship-in-the-sky-is-actually-a-rare-optical-illusion-c/965577222898214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceScienceOfficial/posts/what-looks-like-a-floating-ship-in-the-sky-is-actually-a-rare-optical-illusion-c/965577222898214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of warm air sits above a cooler layer, bending light rays downward...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Title: <<Fog>> Flying into fog can create an illusion of pitching up.Read more  
-   Link: <a href="https://www.facebook.com/aviacao.oatc/posts/night-flying-provides-several-perceptional-illusions-that-may-hamper-flight-safe/712919580879090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aviacao.oatc/posts/night-flying-provides-several-perceptional-illusions-that-may-hamper-flight-safe/712919580879090/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night flying provides several perceptional illusions...18 Sept 2023 — Unlike daytime flying, where visual references are abundant, night...</p></details>
+   Title:<<Fog>> Flying into fog can create an illusion of pitching up.Read more  
+   Link:<a href="https://www.facebook.com/aviacao.oatc/posts/night-flying-provides-several-perceptional-illusions-that-may-hamper-flight-safe/712919580879090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aviacao.oatc/posts/night-flying-provides-several-perceptional-illusions-that-may-hamper-flight-safe/712919580879090/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night flying provides several perceptional illusions...18 Sept 2023 — Unlike daytime flying, where visual references are abundant, night...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceHeavy Rainfall in the Southern Plains and Mississippi Valley; Thunderstorms in Eastern Colorado on Thursday · Lak...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceHeavy Rainfall in the Southern Plains and Mississippi Valley; Thunderstorms in Eastern Colorado on Thursday · Lak...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Mirage of astronomical objects  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage of astronomical objectsThe Novaya Zemlya effect is a mirage caused by high refraction of sunlight between atmospheric thermocli...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage of astronomical objectsThe Novaya Zemlya effect is a mirage caused by high refraction of sunlight between atmospheric thermocli...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rnating layers of hot and cold air. It bends in ways that...Read more...</p></details>
+   Link:<a href="https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40astroporjecting/fata-morgana-temperature-inversion-and-inferior-superior-mirages-eb24c604b050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rnating layers of hot and cold air. It bends in ways that...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eoas.ubc.ca  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhenomenaWhen the temperature inversion is not even, you may see a Fata Morgana. This could be caused by several layers of warm and cold...</p></details>
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PhenomenaWhen the temperature inversion is not even, you may see a Fata Morgana. This could be caused by several layers of warm and cold...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faasafety.gov  
    Title: FAA Safety Your Senses in the Shadows  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timsweather.au  
-   Link: <a href="https://timsweather.au/mirages" target="_blank" rel="noopener noreferrer nofollow">https://timsweather.au/mirages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim&#x27;s Severe Weather AustraliaMirages: Optical illusions due to refraction of light in...23 Sept 2024 — A mirage is fundamentally an opt...</p></details>
+   Link:<a href="https://timsweather.au/mirages" target="_blank" rel="noopener noreferrer nofollow">https://timsweather.au/mirages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tim&#x27;s Severe Weather AustraliaMirages: Optical illusions due to refraction of light in...23 Sept 2024 — A mirage is fundamentally an opt...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings where there are larg...</p></details>
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and other atomospheric optic phenomenaMirages are produced by atmospheric refraction and are mainly seen in settings where there are larg...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britastro.org  
    Title: atmospheric refraction  
-   Link: <a href="https://britastro.org/2019/atmospheric-refraction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2019/atmospheric-refraction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Mar 2019 — This short tutorial looks at the some of the effects that the refraction (bending) of light in the atmosphere has on our vie...</p></details>
+   Link:<a href="https://britastro.org/2019/atmospheric-refraction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2019/atmospheric-refraction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Mar 2019 — This short tutorial looks at the some of the effects that the refraction (bending) of light in the atmosphere has on our vie...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXR2g73E0J-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeather | Is that The Flying Dutchman? 👀 What you’re...Fata Morgana is a rare illusion caused by bending light and changing air temp...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXR2g73E0J-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeather | Is that The Flying Dutchman? 👀 What you’re...Fata Morgana is a rare illusion caused by bending light and changing air temp...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: texashomeandhangar.com  
-   Link: <a href="https://texashomeandhangar.com/2025/12/fata-morgana-the-fascinating-atmospheric-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://texashomeandhangar.com/2025/12/fata-morgana-the-fascinating-atmospheric-illusion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: The Fascinating Atmospheric IllusionFata Morgana is a type of superior mirage caused by a strong temperature inversion, whe...</p></details>
+   Link:<a href="https://texashomeandhangar.com/2025/12/fata-morgana-the-fascinating-atmospheric-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://texashomeandhangar.com/2025/12/fata-morgana-the-fascinating-atmospheric-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: The Fascinating Atmospheric IllusionFata Morgana is a type of superior mirage caused by a strong temperature inversion, whe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXR2g73E0J-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXR2g73E0J-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXR2g73E0J-/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=34rD5XuTu5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=34rD5XuTu5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Your Way In The Dark. Night FlyingNight operations present additional challenges to every pilot... Night Flying Ground Lesson fo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=34rD5XuTu5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=34rD5XuTu5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Your Way In The Dark. Night FlyingNight operations present additional challenges to every pilot... Night Flying Ground Lesson fo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYNHB-FFgmk/?img_index=8" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYNHB-FFgmk/?img_index=8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emperature in the air, making distant ships look like they...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYNHB-FFgmk/?img_index=8" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYNHB-FFgmk/?img_index=8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emperature in the air, making distant ships look like they...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: boldmethod.com  
    Title: 8 optical illusions pilots should understand  
-   Link: <a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the FAA, &quot;atmospheric haze can create an illusion of being at a greater distance and height from the runway. As a result...</p></details>
+   Link:<a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the FAA, &quot;atmospheric haze can create an illusion of being at a greater distance and height from the runway. As a result...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: metabunk.org  
    Title: simulating atmospheric refraction.7881  
-   Link: <a href="https://www.metabunk.org/threads/simulating-atmospheric-refraction.7881/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/simulating-atmospheric-refraction.7881/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating Atmospheric Refraction28 Aug 2016 — The refraction simulator aims to be a physically accurate simulation of the refraction of...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/simulating-atmospheric-refraction.7881/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/simulating-atmospheric-refraction.7881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating Atmospheric Refraction28 Aug 2016 — The refraction simulator aims to be a physically accurate simulation of the refraction of...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: hartzellprop.com  
    Title: watch out for night flight illusions  
-   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Out for These 5 Night Flight Illusions24 Sept 2019 — To prevent this illusion, pilots flying at night should rely on the aircraft&#x27;s...</p></details>
+   Link:<a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Out for These 5 Night Flight Illusions24 Sept 2019 — To prevent this illusion, pilots flying at night should rely on the aircraft&#x27;s...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fog, smog, haze, dust, ice particles...Read more...</p></details>
+   Link:<a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fog, smog, haze, dust, ice particles...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: learntoflyblog.com  
    Title: Human Factors: Optical Illusions  
-   Link: <a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn to Fly Blog7 Aug 2017 — Anticipate the possibility of visual illusions during approaches to unfamiliar airports, particularly at ni...</p></details>
+   Link:<a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn to Fly Blog7 Aug 2017 — Anticipate the possibility of visual illusions during approaches to unfamiliar airports, particularly at ni...</p></details>

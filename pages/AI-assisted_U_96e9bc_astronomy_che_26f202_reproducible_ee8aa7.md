@@ -313,7 +313,7 @@ A common failure in UFO discussions is the unsupported assertion that “it was 
 
 </div>
 
-A proper reconstruction creates a stable record that another investigator can rerun and challenge. This mirrors broader scientific practice: astronomical ephemerides and almanacs exist precisely so observations can be checked consistently across observers and institutions. The U.S. Naval Observatory and the UK’s His Majesty’s Nautical Almanac Office publish standardised astronomical data for that purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span>
+A proper reconstruction creates a stable record that another investigator can rerun and challenge. This mirrors broader scientific practice: astronomical ephemerides and almanacs exist precisely so observations can be checked consistently across observers and institutions. The U.S. Naval Observatory and the UK’s His Majesty’s Nautical Almanac Office publish standardised astronomical data for that purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span>
 
 For UFO casework, reproducibility also protects against hindsight bias. Once an investigator suspects Venus or Jupiter, it becomes easy to unconsciously reshape the witness description around that hypothesis. A frozen sky reconstruction limits that drift.
 
@@ -396,7 +396,7 @@ Screenshots alone are weak evidence. A reproducible astronomy check should prese
 
 ### Planetarium software is only reproducible if the settings are preserved
 
-Programs such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-title">Stellarium Astronomy Software Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like w</span><span class="citation-popover-snippet">StellariumStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, ju...</span></span></span> and <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-title">Stellarium Web Online Star Map Stellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span> are widely used because they can reconstruct historical skies from specific locations and times. Stellarium <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026">[2stellarium-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span>
+Programs such as<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-title">Stellarium Astronomy Software Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like w</span><span class="citation-popover-snippet">StellariumStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, ju...</span></span></span> and<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-title">Stellarium Web Online Star Map Stellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span> are widely used because they can reconstruct historical skies from specific locations and times. Stellarium<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026">[2stellarium-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span>
 
 However, different settings can produce different apparent skies. A saved case should therefore document:
 
@@ -415,7 +415,7 @@ However, different settings can produce different apparent skies. A saved case s
 
 Without those details, a later reviewer may unknowingly reproduce a different scene.
 
-The Stellarium project itself emphasises its role as a realistic sky simulator and research tool capable of reconstructing skies from other times and places. Stellarium <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. https://arxiv.org/abs/2104.01">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. https://arxiv.org/abs/2104.01</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Stellarium project itself emphasises its role as a realistic sky simulator and research tool capable of reconstructing skies from other times and places. Stellarium<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. https://arxiv.org/abs/2104.01">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. https://arxiv.org/abs/2104.01</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Save numerical ephemeris data alongside images
 
@@ -437,7 +437,7 @@ For UFO casework, this allows later reviewers to test claims such as:
 * “The object climbed higher over time”
 * “The object stayed fixed”
 
-Official astronomical almanacs and ephemeris services exist specifically to provide reproducible positional data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2U.S.">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2U.S.</span><span class="citation-popover-snippet">Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</span></span></span>
+Official astronomical almanacs and ephemeris services exist specifically to provide reproducible positional data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/publications/asa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. https://aa.usno.navy.mil/publications/asa. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2U.S.">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2U.S.</span><span class="citation-popover-snippet">Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</span></span></span>
 
 A strong UFO astronomy appendix often includes both:
 
@@ -607,194 +607,194 @@ The goal is not to “win” an argument about UFOs. It is to leave behind a rec
 That standard matters because many UFO disputes are not really about astronomy. They are disputes about missing documentation, hidden assumptions and unreproducible analysis.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to make a UFO sky check repeatable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to make a UFO sky check repeatable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers reproduce sky checks using practical night-sky observing methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers reproduce sky checks using practical night-sky observing methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports repeatable identification of planets, stars and bright sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports repeatable identification of planets, stars and bright sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Gives practical observing context for documenting sky conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives practical observing context for documenting sky conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Reinforces careful documentation and evidence-led claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces careful documentation and evidence-led claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/AL8AAOSw6y1hEU-I/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/AL8AAOSw6y1hEU-I/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-ufo-sky-check-repeatable-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-make-a-ufo-sky-check-repeatable-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -810,7 +810,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -830,7 +830,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -862,7 +862,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -914,7 +914,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -959,7 +959,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1010,7 +1010,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
 
 [2] stellarium-web.orgStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what you see with the naked eye, binoculars or a.... [https://stellarium-web.org/](https://stellarium-web.org/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [3] arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. [https://arxiv.org/abs/2104.01](https://arxiv.org/abs/2104.01)
 
@@ -1033,41 +1033,41 @@ That standard matters because many UFO disputes are not really about astronomy. 
 2
 
 5.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [6] stellarium.orgguide.pdfPermission is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later.... [https://stellarium.org/files/guide.pdf](https://stellarium.org/files/guide.pdf).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [7] stellarium.orgStellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at developers of scripts, plugins and the core program. Program...Read more. [https://stellarium.org/doc/1.x/](https://stellarium.org/doc/1.x/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at develo.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at develo.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [8] stellarium.orgStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://stellarium.org/eo/](https://stellarium.org/eo/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like wh.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like wh.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [9] astronomy.comThe history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Müller von Königsberg. Better known as Regiomontanus.. [https://www.astronomy.com/science/the-history-of-astronomical-almanacs/](https://www.astronomy.com/science/the-history-of-astronomical-almanacs/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Mülle.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Mülle.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [10] US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. [https://aa.usno.navy.mil/publications/asa](https://aa.usno.navy.mil/publications/asa). Source panel: Citations. Accessed May 27, 2026.
 
 [11] US Naval ObservatoryUS Naval Observatory Astronomical Applications DepartmentWelcome to the web pages of the Astronomical Applications Department of the U.S.. [https://aa.usno.navy.mil/](https://aa.usno.navy.mil/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Observatory. Our products -- almanacs, software, and web services --...Read more. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Observatory. Our products -- almanacs, software, and web services --...Read more. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [12] US Naval ObservatoryAstronomical and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs.. [https://aa.usno.navy.mil/publications/almanacs](https://aa.usno.navy.mil/publications/almanacs).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs. Each edition contains.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs. Each edition contains.... Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [13] GitHubStellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://github.com/stellarium/stellarium](https://github.com/stellarium/stellarium).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the.... Source panel: More. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the.... Source panel: More. Accessed May 27, 2026...</p></details>
 
 [14] It also has.... [https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/](https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skysafari 7 pro controls starsense explorer app - FacebookJanuary 8, 2026 — With SkySafari you can keep track of observing lists and note.... Source panel: More. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skysafari 7 pro controls starsense explorer app - FacebookJanuary 8, 2026 — With SkySafari you can keep track of observing lists and note.... Source panel: More. Accessed May 27, 2026...</p></details>
 
 [15] skyhound.comExporting observing lists to Skysafari - Skyhound ForumsApril 2, 2025 — I've checked all over the internet and I cannot find one single logical explanation how to export to skysafari?. [https://forums.skyhound.com/showthread.php?tid=3](https://forums.skyhound.com/showthread.php?tid=3)
 
@@ -1079,38 +1079,38 @@ That standard matters because many UFO disputes are not really about astronomy. 
 
 [16] using stellarium web. [https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web](https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web | Imaging the UniverseHow to Use Stellarium Web. When first navigating to the webpage, your browser display will be filled. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web | Imaging the UniverseHow to Use Stellarium Web. When first navigating to the webpage, your browser display will be filled. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [17] Stellarium software introductory course This course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellar. [https://rascto.ca/content/stellarium-software-introductory-course](https://rascto.ca/content/stellarium-software-introductory-course).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium software introductory courseThis course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellari. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium software introductory courseThis course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellari. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [18] How to use Stellarium to identify objects in the night sky. [https://www.youtube.com/watch?v=kYv9x4p15oE](https://www.youtube.com/watch?v=kYv9x4p15oE).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying planets and stars for UFO investigations. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying planets and stars for UFO investigations. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [19] Identifying planets and stars for UFO investigations. [https://www.youtube.com/watch?v=kZ5f4aU-VvI](https://www.youtube.com/watch?v=kZ5f4aU-VvI).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using astronomy software to explain sky phenomena. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using astronomy software to explain sky phenomena. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [20] Using astronomy software to explain sky phenomena. [https://www.youtube.com/watch?v=N_p3N9-NqA](https://www.youtube.com/watch?v=N_p3N9-NqA)
 
 0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to mobile sky mapping apps for amateur astronomy. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to mobile sky mapping apps for amateur astronomy. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [21] Introduction to mobile sky mapping apps for amateur astronomy. [https://www.youtube.com/watch?v=Cq26k3uH78A](https://www.youtube.com/watch?v=Cq26k3uH78A).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Checking historical sky positions with planetarium software. Source panel: Citations. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checking historical sky positions with planetarium software. Source panel: Citations. Accessed May 27, 2026...</p></details>
 
 [22] Observing Lists. [https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/](https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsApril 14, 2024 — I have been making lists by constellation. I have a bunch of books and so I&#x27;ll read the books and the objec. Source panel: More. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsApril 14, 2024 — I have been making lists by constellation. I have a bunch of books and so I&#x27;ll read the books and the objec. Source panel: More. Accessed May 27, 2026...</p></details>
 
 [23] Then export it to my IPAD for use that evening. I just boot up SS, import the. [https://www.facebook.com/groups/seestar/posts/400303286115293/](https://www.facebook.com/groups/seestar/posts/400303286115293/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>How are other SkySafari users utilizing Sessions and Observations?April 5, 2024 — I can create an observing session in Sky Safari on my M. Source panel: More. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How are other SkySafari users utilizing Sessions and Observations?April 5, 2024 — I can create an observing session in Sky Safari on my M. Source panel: More. Accessed May 27, 2026...</p></details>
 
 [24] Sky Safari Pro Part 2 Observing Lists. [https://www.youtube.com/watch?v=C0ACTQXXHg](https://www.youtube.com/watch?v=C0ACTQXXHg)
 
 0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkySafari Pro Part 2 Observing Lists - YouTubeJanuary 27, 2021 — This introduces the concept of observing lists. How to create and popula. Source panel: More. Accessed May 27, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkySafari Pro Part 2 Observing Lists - YouTubeJanuary 27, 2021 — This introduces the concept of observing lists. How to create and popula. Source panel: More. Accessed May 27, 2026...</p></details>

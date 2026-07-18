@@ -329,11 +329,11 @@ The key question is not simply “was a satellite somewhere overhead?” It is w
 
 ## Why satellites can look stranger than expected
 
-Most satellites do not shine by producing their own light. They become visible when sunlight reflects from their surfaces while the observer is already in darkness. SpaceX’s own brightness-mitigation guidance explains that satellites are typically visible near the day-night boundary, especially in the first hours after sunset or before dawn, and that brightness depends on altitude, geometry, surface material, and whether reflection is diffuse or mirror-like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starlink.com">[Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starlink.com</span><span class="citation-popover-title">Brightness Mitigation Best Practices Satellite Operators</span><span class="citation-popover-snippet">Brightness Mitigation Best Practices Satellite Operators</span></span></span>
+Most satellites do not shine by producing their own light. They become visible when sunlight reflects from their surfaces while the observer is already in darkness. SpaceX’s own brightness-mitigation guidance explains that satellites are typically visible near the day-night boundary, especially in the first hours after sunset or before dawn, and that brightness depends on altitude, geometry, surface material, and whether reflection is diffuse or mirror-like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starlink.com">[Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starlink.com</span><span class="citation-popover-title">Brightness Mitigation Best Practices Satellite Operators</span><span class="citation-popover-snippet">Brightness Mitigation Best Practices Satellite Operators</span></span></span>
 
 That geometry matters in UFO investigation because witnesses often judge distance and speed poorly when a light is high in a dark sky. A satellite may look like a nearby [aircraft]({{ 'aircraft/' | relative_url }}) with no flashing lights. A group of recently launched Starlink satellites may look like a controlled formation. A flare may look like an object “powering up” or “vanishing”. A re-entering rocket body may look like a slow fireball breaking into several pieces.
 
-Starlink has made this check more important because the constellation is large and frequently replenished. Jonathan McDowell’s Starlink statistics page tracks individual Starlink satellites and their orbital history, with data updated as recently as May 2026 in the live table viewed for this report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Heavens-Above also lists Starlink launch-pass predictions, daily bright-satellite predictions, live sky views, and satellite databases, showing the kind of observer-specific tools that can be used to test a sighting rather than rely on guesswork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-Above...</span></span></span>
+Starlink has made this check more important because the constellation is large and frequently replenished. Jonathan McDowell’s Starlink statistics page tracks individual Starlink satellites and their orbital history, with data updated as recently as May 2026 in the live table viewed for this report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Heavens-Above also lists Starlink launch-pass predictions, daily bright-satellite predictions, live sky views, and satellite databases, showing the kind of observer-specific tools that can be used to test a sighting rather than rely on guesswork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-Above...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V8lWQrtLQvE" title="How to Track the ISS with Heavens-Above.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer">How to Track the ISS with Heavens-Above.com</a></p><p class="youtube-embed-meta">Channel: Space Comms &middot; Views: 15.1K &middot; Uploaded: August 2016 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V8lWQrtLQvE">Open on YouTube</a></p></div></div></div>
 
@@ -353,9 +353,9 @@ A strong case-file intake should therefore ask for the exact pattern, not just �
 
 </div>
 
-The March 2025 spiral seen across parts of the UK and Europe is a useful cautionary example. BBC Sky at Night Magazine reported the Met Office explanation that the illuminated swirl was likely caused by a SpaceX Falcon 9 rocket, with frozen exhaust or fuel reflecting sunlight and forming a spiral as the stage rotated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This kind of event can be mistaken for something hovering or atmospheric, but it is checked through launch timing, trajectory, illumination geometry, and the fact that many witnesses across a wide area reported the same broad feature.
+The March 2025 spiral seen across parts of the UK and Europe is a useful cautionary example. BBC Sky at Night Magazine reported the Met Office explanation that the illuminated swirl was likely caused by a SpaceX Falcon 9 rocket, with frozen exhaust or fuel reflecting sunlight and forming a spiral as the stage rotated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This kind of event can be mistaken for something hovering or atmospheric, but it is checked through launch timing, trajectory, illumination geometry, and the fact that many witnesses across a wide area reported the same broad feature.
 
-Re-entries form a different pattern. The Aerospace Corporation explains that natural meteors usually last only seconds, while human-made re-entries are slower and can last 20–90 seconds or more; a tight cluster of bright points moving together and leaving streaks is very probably a re-entry breakup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Its CORDS re-entry database documents payloads and objects that have re-entered Earth’s atmosphere since 2000 and can be sorted by object, mission, type, launch date, and predicted re-entry time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Re-entries form a different pattern. The Aerospace Corporation explains that natural meteors usually last only seconds, while human-made re-entries are slower and can last 20–90 seconds or more; a tight cluster of bright points moving together and leaving streaks is very probably a re-entry breakup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Its CORDS re-entry database documents payloads and objects that have re-entered Earth’s atmosphere since 2000 and can be sorted by object, mission, type, launch date, and predicted re-entry time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using orbital predictions carefully
@@ -376,7 +376,7 @@ A practical workflow looks like this:
 
 </div>
 
-The biggest technical trap is stale [orbital data]({{ 'orbital-data/' | relative_url }}). Skyfield’s satellite documentation warns that orbital elements go rapidly out of date, that the epoch date is when the element set is most accurate, and that older sightings require old archived elements while later predictions need fresh elements. It also notes that Two-Line Element data is only accurate to about a kilometre at epoch and degrades quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">Rhodes Mill Earth Satellites — Skyfield documentation</span></span></span>
+The biggest technical trap is stale [orbital data]({{ 'orbital-data/' | relative_url }}). Skyfield’s satellite documentation warns that orbital elements go rapidly out of date, that the epoch date is when the element set is most accurate, and that older sightings require old archived elements while later predictions need fresh elements. It also notes that Two-Line Element data is only accurate to about a kilometre at epoch and degrades quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">Rhodes Mill Earth Satellites — Skyfield documentation</span></span></span>
 
 That limitation is not fatal for public UFO case triage. A kilometre-scale orbital uncertainty is often small compared with a witness’s uncertainty about time, bearing, and elevation. But it matters when analysts try to make a very tight claim, such as “this exact light in the video is satellite X”. In those cases, the workflow should prefer archived orbital elements close to the sighting time, multiple prediction tools, and explicit error margins.
 
@@ -421,7 +421,7 @@ There are also several common failure modes:
 
 </div>
 
-NASA’s UAP work is relevant here because it frames the problem as one of data quality. NASA says its UAP study focused on identifying available data, how best to collect future data, and how NASA could use that data to move understanding forward; the final report was presented as a step towards more systematic, evidence-led analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> In a satellite check, that means preserving the raw witness account while adding verifiable orbital context, rather than replacing one unsupported claim with another.
+NASA’s UAP work is relevant here because it frames the problem as one of data quality. NASA says its UAP study focused on identifying available data, how best to collect future data, and how NASA could use that data to move understanding forward; the final report was presented as a step towards more systematic, evidence-led analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> In a satellite check, that means preserving the raw witness account while adding verifiable orbital context, rather than replacing one unsupported claim with another.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
@@ -438,194 +438,194 @@ This distinction is central to public-facing UFO investigation. Satellite checks
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could It Be Starlink or a Satellite?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could It Be Starlink or a Satellite?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand visible satellites, sky geometry, and night observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand visible satellites, sky geometry, and night observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Good companion for interpreting objects in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Good companion for interpreting objects in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful evaluation of satellite explanations and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful evaluation of satellite explanations and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Keeps satellite checks inside the broader UFO-investigation lane.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps satellite checks inside the broader UFO-investigation lane.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-it-be-starlink-or-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="could-it-be-starlink-or-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -641,7 +641,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -661,7 +661,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -693,7 +693,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -745,7 +745,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -790,7 +790,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -831,249 +831,249 @@ This distinction is central to public-facing UFO investigation. Satellite checks
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: starlink.com  
    Title: Brightness Mitigation Best Practices Satellite Operators  
-   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh</a>  
+   Link:<a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: planet4589.org  
-   Link: <a href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/con/star/stats.html</a>  
+   Link:<a href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/con/star/stats.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-Above...</p></details>
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-Above...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aerospace.org  
    Title: The Aerospace Corporation Reentries  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: 24839 satellites  
-   Link: <a href="https://www.space.com/24839-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/24839-satellites.html</a>  
+   Link:<a href="https://www.space.com/24839-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/24839-satellites.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
+   Link:<a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: UAPISTTermsof Reference Signed  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spaceplace.nasa.gov  
-   Link: <a href="https://spaceplace.nasa.gov/satellite/en/" target="_blank" rel="noopener noreferrer nofollow">https://spaceplace.nasa.gov/satellite/en/</a>  
+   Link:<a href="https://spaceplace.nasa.gov/satellite/en/" target="_blank" rel="noopener noreferrer nofollow">https://spaceplace.nasa.gov/satellite/en/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: planet4589.org  
-   Link: <a href="https://planet4589.org/space/stats/active.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/stats/active.html</a>  
+   Link:<a href="https://planet4589.org/space/stats/active.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/stats/active.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: celestrak.org  
    Title: Celes Trak  
-   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
+   Link:<a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+   Link:<a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/columns/v03n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v03n03/</a>  
+   Link:<a href="https://www.celestrak.org/columns/v03n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v03n03/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
+   Link:<a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
+   Link:<a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v04n03/</a>  
+   Link:<a href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v04n03/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf</a>  
+   Link:<a href="https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: heavens-above.com  
-   Link: <a href="https://heavens-above.com/statsdaily.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/statsdaily.aspx</a>  
+   Link:<a href="https://heavens-above.com/statsdaily.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/statsdaily.aspx</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
+   Link:<a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v</a>  
+   Link:<a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5</a>  
+   Link:<a href="https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: celestrak.com  
-   Link: <a href="https://celestrak.com/SpaceTrack/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.com/SpaceTrack/</a>  
+   Link:<a href="https://celestrak.com/SpaceTrack/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.com/SpaceTrack/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: space-track.org  
-   Link: <a href="https://www.space-track.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/</a>  
+   Link:<a href="https://www.space-track.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space-track.org  
-   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
+   Link:<a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rhodesmill.org  
    Title: Rhodes Mill Earth Satellites — Skyfield documentation  
-   Link: <a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
+   Link:<a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/</a>  
+   Link:<a href="https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/</a>  
+   Link:<a href="https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/</a>  
+   Link:<a href="https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Heavens Above  
-   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/</a>  
+   Link:<a href="https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/satellite-missions/starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/satellite-missions/starlink</a>  
+   Link:<a href="https://www.eoportal.org/satellite-missions/starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/satellite-missions/starlink</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: satflare.com  
    Title: STARLIN K Train  
-   Link: <a href="https://www.satflare.com/track.asp?q=starlinklaunch" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlinklaunch</a>  
+   Link:<a href="https://www.satflare.com/track.asp?q=starlinklaunch" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlinklaunch</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: spaceweatherarchive.com  
    Title: Starlink Satellite Flares (Part 1)  
-   Link: <a href="https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/</a>  
+   Link:<a href="https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: keeptrack.space  
-   Link: <a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
+   Link:<a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/satellite" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/satellite</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/satellite" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/satellite</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: britastro.org  
    Title: starlink satellites brightness reduction  
-   Link: <a href="https://britastro.org/forums/topic/starlink-satellites-brightness-reduction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/starlink-satellites-brightness-reduction</a>  
+   Link:<a href="https://britastro.org/forums/topic/starlink-satellites-brightness-reduction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/starlink-satellites-brightness-reduction</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Are Those Lights in the Sky Satellites or UFOs?  
-   Link: <a href="https://www.youtube.com/watch?v=zJg5k6aH_aA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5k6aH_aA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What SpaceX Starlink Satellites Look Like in the Night Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zJg5k6aH_aA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5k6aH_aA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What SpaceX Starlink Satellites Look Like in the Night Sky...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: How to Track the ISS and Satellites with Heavens-Above  
-   Link: <a href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V8lWQrtLQvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Those Lights in the Sky Satellites or UFOs?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V8lWQrtLQvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Those Lights in the Sky Satellites or UFOs?...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
+   Link:<a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
+   Link:<a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: thebaldgeek.github.io  
-   Link: <a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
+   Link:<a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177859700191023/posts/1258822865428029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177859700191023/posts/1258822865428029/</a>  
+   Link:<a href="https://www.facebook.com/groups/177859700191023/posts/1258822865428029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177859700191023/posts/1258822865428029/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/</a>  
+   Link:<a href="https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: github.com  
-   Link: <a href="https://github.com/CelesTrak" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CelesTrak</a>  
+   Link:<a href="https://github.com/CelesTrak" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CelesTrak</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: iauoutreach.org  
-   Link: <a href="https://iauoutreach.org/global-projects/dark-and-quiet-skies" target="_blank" rel="noopener noreferrer nofollow">https://iauoutreach.org/global-projects/dark-and-quiet-skies</a>  
+   Link:<a href="https://iauoutreach.org/global-projects/dark-and-quiet-skies" target="_blank" rel="noopener noreferrer nofollow">https://iauoutreach.org/global-projects/dark-and-quiet-skies</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: x.com  
-   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>
+   Link:<a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>

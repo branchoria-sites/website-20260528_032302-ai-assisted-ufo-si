@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 Many UFO sightings that appear to involve glowing, shape-shifting, or rapidly manoeuvring objects turn out to involve reflective foil balloons seen under difficult viewing conditions. These balloons can flash intensely, disappear against the sky, darken within seconds, or appear to change shape as they rotate. In phone footage and infrared imagery, the effect can become even more dramatic. A harmless party balloon drifting at altitude may briefly resemble a metallic sphere, a pulsing orb, a structured craft, or an object making impossible movements.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88-Illustration-1-dark.svg" | relative_url }}" alt="Foil flashes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO investigation, this matters because brightness behaviour is one of the most commonly misinterpreted features in witness reports. Automated triage systems that compare new reports against resolved [balloon cases]({{ 'balloon-cases/' | relative_url }}) can often identify repeating optical patterns before investigators spend time pursuing more exotic explanations. The key question is not whether an object looked strange, but whether its brightness changes match known reflective behaviour from lightweight metallic balloons moving through sunlight, wind layers, and changing camera angles. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">what things look like in ir.13783</span><span class="citation-popover-snippet">What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</span></span></span>
+For AI-assisted UFO investigation, this matters because brightness behaviour is one of the most commonly misinterpreted features in witness reports. Automated triage systems that compare new reports against resolved [balloon cases]({{ 'balloon-cases/' | relative_url }}) can often identify repeating optical patterns before investigators spend time pursuing more exotic explanations. The key question is not whether an object looked strange, but whether its brightness changes match known reflective behaviour from lightweight metallic balloons moving through sunlight, wind layers, and changing camera angles. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">what things look like in ir.13783</span><span class="citation-popover-snippet">What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</span></span></span>
 
 ## Why a foil balloon can look self-illuminated
 
@@ -300,7 +300,7 @@ From a distance, the human eye often interprets these flashes as active illumina
 
 This effect becomes stronger at high altitude because the balloon can remain in direct sunlight even after the ground observer is in twilight. Witnesses sometimes report glowing objects appearing after sunset with no visible structure. In reality, the balloon may still be strongly sunlit against a darkening background sky.
 
-AI-assisted comparison systems increasingly use this behaviour as a triage clue. If a report includes intermittent flashes without corresponding acceleration, propulsion, or structured movement, the system can compare the timing and intensity changes against known reflective balloon footage. AARO case material has repeatedly highlighted morphology and motion characteristics consistent with balloons rather than controlled craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
+AI-assisted comparison systems increasingly use this behaviour as a triage clue. If a report includes intermittent flashes without corresponding acceleration, propulsion, or structured movement, the system can compare the timing and intensity changes against known reflective balloon footage. AARO case material has repeatedly highlighted morphology and motion characteristics consistent with balloons rather than controlled craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
 ## Reflection angles and sudden brightness shifts
 
@@ -345,7 +345,7 @@ This combines with poor human depth estimation. Without [reference points]({{ 'r
 
 A foil balloon moving with wind shear can therefore appear to accelerate or manoeuvre despite following passive atmospheric drift. This is one reason resolved balloon cases are valuable training material for comparison systems in UFO investigations.
 
-Online UFO discussions repeatedly show this pattern. In footage later suspected to involve balloons, observers often focus on reflective flashes or apparent directional changes, while other viewers notice drifting behaviour and sunlight reflections consistent with lightweight metallic objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bizarre metallic object flys by plane: r/High Strangeness</span><span class="citation-popover-snippet">Bizarre metallic object flys by plane: r/HighStrangenessApril 6, 2023 — You can see the ufo from the first frames of the video alr...</span><span class="citation-popover-meta">Published: April 6, 2023</span></span></span>
+Online UFO discussions repeatedly show this pattern. In footage later suspected to involve balloons, observers often focus on reflective flashes or apparent directional changes, while other viewers notice drifting behaviour and sunlight reflections consistent with lightweight metallic objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bizarre metallic object flys by plane: r/High Strangeness</span><span class="citation-popover-snippet">Bizarre metallic object flys by plane: r/HighStrangenessApril 6, 2023 — You can see the ufo from the first frames of the video alr...</span><span class="citation-popover-meta">Published: April 6, 2023</span></span></span>
 
 ## Partial deflation and strange shapes
 
@@ -367,7 +367,7 @@ From the ground, this can resemble a transforming craft or a structured object c
 
 This is especially common in long-range zoom footage. Compression artefacts, autofocus instability, and atmospheric shimmer can exaggerate every contour change. A wrinkled foil surface reflecting sunlight unevenly may appear liquid, mechanical, or biologically shaped depending on viewing conditions.
 
-Several viral UFO clips interpreted as “metallic morphing objects” have later been compared against damaged or partially collapsed foil balloons because the brightness behaviour and drifting motion matched known balloon dynamics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DVd6e5UiT8u/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">A skywatcher captured this unusual reflective object...A damaged decorative foil balloon • Light distortion from camera... We&#x27;...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Wife sent me this</span><span class="citation-popover-snippet">she&#x27;s 100% positive it wasn&#x27;t a bunch of...She said it looks like balloons in the video, but in-person it moved like some black slime th...</span></span></span>
+Several viral UFO clips interpreted as “metallic morphing objects” have later been compared against damaged or partially collapsed foil balloons because the brightness behaviour and drifting motion matched known balloon dynamics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DVd6e5UiT8u/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">A skywatcher captured this unusual reflective object...A damaged decorative foil balloon • Light distortion from camera... We&#x27;...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Wife sent me this</span><span class="citation-popover-snippet">she&#x27;s 100% positive it wasn&#x27;t a bunch of...She said it looks like balloons in the video, but in-person it moved like some black slime th...</span></span></span>
 
 For investigators, the important point is not that every unusual shape is a balloon. It is that reflective deformation is a known mechanism that repeatedly creates misleading visual impressions.
 
@@ -421,7 +421,7 @@ This is one reason AI-assisted workflows increasingly separate “reported behav
 
 Infrared and thermal cameras are often treated by the public as more objective than ordinary video, but they have their own pitfalls. Reflective balloons can look highly unusual in infrared imagery depending on temperature contrast, emissivity, atmospheric conditions, and camera processing.
 
-In some military and civilian infrared footage, balloons appear as bright glowing targets or dark cold objects with little visible structure. This can create the impression of advanced technology even when the underlying object is mundane. Public discussion around several infrared UFO clips has included balloon hypotheses for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">be a weather balloon shot down – moments before a bright white...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">to be a weather balloon shot down – moments before a bright white...</span></span></span>
+In some military and civilian infrared footage, balloons appear as bright glowing targets or dark cold objects with little visible structure. This can create the impression of advanced technology even when the underlying object is mundane. Public discussion around several infrared UFO clips has included balloon hypotheses for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">be a weather balloon shot down – moments before a bright white...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">to be a weather balloon shot down – moments before a bright white...</span></span></span>
 
 ### Thermal appearance is not always intuitive
 
@@ -436,7 +436,7 @@ Infrared cameras do not simply show “heat”. They display interpreted thermal
 
 A metallic balloon may reflect thermal radiation from the sky or surrounding environment in confusing ways. Some reflective materials can appear unexpectedly cold or hot depending on viewing angle and atmospheric conditions.
 
-Technical discussions comparing ordinary balloons in visible and infrared imaging have shown that foil balloons can produce striking thermal signatures despite being mundane objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">what things look like in ir.13783</span><span class="citation-popover-snippet">What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</span></span></span>
+Technical discussions comparing ordinary balloons in visible and infrared imaging have shown that foil balloons can produce striking thermal signatures despite being mundane objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">what things look like in ir.13783</span><span class="citation-popover-snippet">What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PlRp63tAC-M" title="How Weather Balloons Work and Why They&#x27;re So Crucial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer">How Weather Balloons Work and Why They&#x27;re So Crucial</a></p><p class="youtube-embed-meta">Channel: WPRI &middot; Views: 9.2K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PlRp63tAC-M">Open on YouTube</a></p></div></div></div>
 
@@ -450,7 +450,7 @@ Infrared systems also generate their own visual distortions:
 * Internal reflections
 * Tracking instability
 
-Industrial guidance for IR camera systems notes that reflective glare and ghost effects can create misleading bright forms and false structures under certain viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: i-pro.com">[i-PRO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">i-pro.com</span><span class="citation-popover-title">How to prevent IR reflection in black &amp; white mode</span><span class="citation-popover-snippet">How to prevent IR reflection in black &amp; white modeJuly 21, 2022 — To prevent IR reflection in black &amp; white mode as much as possible...</span><span class="citation-popover-meta">Published: July 21, 2022</span></span></span>
+Industrial guidance for IR camera systems notes that reflective glare and ghost effects can create misleading bright forms and false structures under certain viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: i-pro.com">[i-PRO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">i-pro.com</span><span class="citation-popover-title">How to prevent IR reflection in black &amp; white mode</span><span class="citation-popover-snippet">How to prevent IR reflection in black &amp; white modeJuly 21, 2022 — To prevent IR reflection in black &amp; white mode as much as possible...</span><span class="citation-popover-meta">Published: July 21, 2022</span></span></span>
 
 In UFO investigations, this matters because many viewers assume infrared footage removes ambiguity. In practice, thermal imagery often requires even more careful interpretation than standard daylight video.
 
@@ -471,194 +471,194 @@ The goal is not automatic debunking. It is structured prioritisation. A report s
 This distinction is important because many UFO reports become compelling precisely when brightness behaviour appears unnatural. Reflective foil balloons demonstrate how easily ordinary materials can produce extraordinary-looking effects under real-world viewing conditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why foil balloons flash like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why foil balloons flash like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent for interpreting deceptive visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for interpreting deceptive visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Relevant to distinguishing real signals from reflective false positives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to distinguishing real signals from reflective false positives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Supports careful interpretation of phone and infrared footage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful interpretation of phone and infrared footage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Covers evidence handling for sighting investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence handling for sighting investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal"><img src="https://i.ebayimg.com/images/g/jM8AAOSw2MVoToxL/s-l225.jpg" alt="Listing image for Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal"><img src="https://i.ebayimg.com/images/g/jM8AAOSw2MVoToxL/s-l225.jpg" alt="Listing image for Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">Number Birthday Balloon Self Standing Party Decoration Glossy Foil 42&quot; Self Seal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING"><img src="https://i.ebayimg.com/images/g/nmwAAOSww~5jDGz-/s-l225.jpg" alt="Listing image for 16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING"><img src="https://i.ebayimg.com/images/g/nmwAAOSww~5jDGz-/s-l225.jpg" alt="Listing image for 16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">16&quot; Alphabet Gold &amp; Silver A-Z Letter Number Foil Balloons NAME PARTY WEDDING</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS"><img src="https://i.ebayimg.com/images/g/JhcAAOSwsRxk-Zj1/s-l225.jpg" alt="Listing image for 16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS"><img src="https://i.ebayimg.com/images/g/JhcAAOSwsRxk-Zj1/s-l225.jpg" alt="Listing image for 16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">16&quot; 32&quot; 40&quot; INCH LARGE FOIL HAPPY BIRTHDAY NUMBERS BALLOONS PARTY HELIUM BALOONS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon"><img src="https://i.ebayimg.com/images/g/-TQAAOSwCGFmqMjD/s-l225.jpg" alt="Listing image for 40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon"><img src="https://i.ebayimg.com/images/g/-TQAAOSwCGFmqMjD/s-l225.jpg" alt="Listing image for 40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">40&quot;Number Foil Balloon SET GIANT Self Inflating Wedding Birthday Age Party Balon</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for foil balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: foil balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=foil+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-foil-balloons-flash-like-ufos-foil-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="foil balloon" data-ebay-reference="why-foil-balloons-flash-like-ufos-foil-balloon" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ This distinction is important because many UFO reports become compelling precise
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ This distinction is important because many UFO reports become compelling precise
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ This distinction is important because many UFO reports become compelling precise
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -778,7 +778,7 @@ This distinction is important because many UFO reports become compelling precise
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -823,7 +823,7 @@ This distinction is important because many UFO reports become compelling precise
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -864,152 +864,152 @@ This distinction is important because many UFO reports become compelling precise
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: what things look like in ir.13783  
-   Link: <a href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/what-things-look-like-in-ir.13783/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What things look like in IR26 Nov 2024 — &quot;Mylar&quot; foil balloon and latex balloon, visual and IR white=hot.... Moreover, the Earth...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Bizarre metallic object flys by plane: r/High Strangeness  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre metallic object flys by plane: r/HighStrangenessApril 6, 2023 — You can see the ufo from the first frames of the video alr...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12dqext/bizarre_metallic_object_flys_by_plane/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre metallic object flys by plane: r/HighStrangenessApril 6, 2023 — You can see the ufo from the first frames of the video alr...</p></details>
    Published: April 6, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Wife sent me this  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>she&#x27;s 100% positive it wasn&#x27;t a bunch of...She said it looks like balloons in the video, but in-person it moved like some black slime th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1kuz8rw/wife_sent_me_this_shes_100_positive_it_wasnt_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>she&#x27;s 100% positive it wasn&#x27;t a bunch of...She said it looks like balloons in the video, but in-person it moved like some black slime th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVd6e5UiT8u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVd6e5UiT8u/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A skywatcher captured this unusual reflective object...A damaged decorative foil balloon • Light distortion from camera... We&#x27;...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVd6e5UiT8u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVd6e5UiT8u/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A skywatcher captured this unusual reflective object...A damaged decorative foil balloon • Light distortion from camera... We&#x27;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWbhpanj6Bl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWbhpanj6Bl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This looks dramatic, but it&#x27;s almost certainly not a UFO....Skeptics argue the footage could show a balloon release or a miside...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWbhpanj6Bl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWbhpanj6Bl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This looks dramatic, but it&#x27;s almost certainly not a UFO....Skeptics argue the footage could show a balloon release or a miside...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>be a [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) balloon shot down – moments before a bright white...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1461628182671641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be a [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) balloon shot down – moments before a bright white...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to be a weather balloon shot down – moments before a bright white...</p></details>
+   Link:<a href="https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1526877108801569/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to be a weather balloon shot down – moments before a bright white...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: i-pro.com  
    Title: How to prevent IR reflection in black & white mode  
-   Link: <a href="https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection" target="_blank" rel="noopener noreferrer nofollow">https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to prevent IR reflection in black &amp; white modeJuly 21, 2022 — To prevent IR reflection in black &amp; white mode as much as possible...</p></details>
+   Link:<a href="https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection" target="_blank" rel="noopener noreferrer nofollow">https://i-pro.com/products_and_solutions/en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to prevent IR reflection in black &amp; white modeJuly 21, 2022 — To prevent IR reflection in black &amp; white mode as much as possible...</p></details>
    Published: July 21, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
+   Link:<a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1399832345244240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1399832345244240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video later went viral, with UFO researchers including...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1399832345244240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1399832345244240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video later went viral, with UFO researchers including...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Motion Parallax of a Balloon or a REAL UFO sighting?  
-   Link: <a href="https://www.facebook.com/StarTalk/posts/motion-parallax-of-a-balloon-or-a-real-ufo-sighting-reel-science-parallax-balloo/1346342877124768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/motion-parallax-of-a-balloon-or-a-real-ufo-sighting-reel-science-parallax-balloo/1346342877124768/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was then visually confirmed by the pilot and picked up by the pilots IR sensors. Even birds and balloons don&#x27;t maneuver in the same wa...</p></details>
+   Link:<a href="https://www.facebook.com/StarTalk/posts/motion-parallax-of-a-balloon-or-a-real-ufo-sighting-reel-science-parallax-balloo/1346342877124768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/motion-parallax-of-a-balloon-or-a-real-ufo-sighting-reel-science-parallax-balloo/1346342877124768/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was then visually confirmed by the pilot and picked up by the pilots IR sensors. Even birds and balloons don&#x27;t maneuver in the same wa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be a weather balloon shot down – moments before a bright white...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be a weather balloon shot down – moments before a bright white...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYpwvZFDseg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYpwvZFDseg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be a weather balloon shot down – moments before a bright white...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYpwvZFDseg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYpwvZFDseg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be a weather balloon shot down – moments before a bright white...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
    Title: Fireball through a thermal camera 🎥🔥  
-   Link: <a href="https://www.instagram.com/p/C4cg1gGs-tx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C4cg1gGs-tx/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here my mate and...When the balloon ignites you can see the edges of the fire in bright yellow. But then the middle is dramatically (but...</p></details>
+   Link:<a href="https://www.instagram.com/p/C4cg1gGs-tx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C4cg1gGs-tx/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here my mate and...When the balloon ignites you can see the edges of the fire in bright yellow. But then the middle is dramatically (but...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spinoff.nasa.gov  
    Title: Ballooning Business for Shrinking Cameras  
-   Link: <a href="https://spinoff.nasa.gov/Ballooning_Business_for_Shrinking_Cameras" target="_blank" rel="noopener noreferrer nofollow">https://spinoff.nasa.gov/Ballooning_Business_for_Shrinking_Cameras</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business for Shrinking Cameras29 Jan 2024 — A camera mounted on a zero-pressure balloon takes panoramic pictures of areas as wide as a sa...</p></details>
+   Link:<a href="https://spinoff.nasa.gov/Ballooning_Business_for_Shrinking_Cameras" target="_blank" rel="noopener noreferrer nofollow">https://spinoff.nasa.gov/Ballooning_Business_for_Shrinking_Cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business for Shrinking Cameras29 Jan 2024 — A camera mounted on a zero-pressure balloon takes panoramic pictures of areas as wide as a sa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cigman.com  
    Title: Discover the physics of CMOS clipping, DIY aperture  
-   Link: <a href="https://cigman.com/blogs/night-vision/how-to-fix-night-vision-glare-and-ir-splashback-in-snow-and-fog?srsltid=AfmBOoqKjQUwtdlm6S0u_F6-m2fCPlTW2V5txjfPKIhQaNV2WJMGu7AN" target="_blank" rel="noopener noreferrer nofollow">https://cigman.com/blogs/night-vision/how-to-fix-night-vision-glare-and-ir-splashback-in-snow-and-fog?srsltid=AfmBOoqKjQUwtdlm6S0u_F6-m2fCPlTW2V5txjfPKIhQaNV2WJMGu7AN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Fix Night Vision Glare and IR Splashback in Snow...28 Jan 2026 — Learn how to fix night vision glare, stop IR splashback, and see...</p></details>
+   Link:<a href="https://cigman.com/blogs/night-vision/how-to-fix-night-vision-glare-and-ir-splashback-in-snow-and-fog?srsltid=AfmBOoqKjQUwtdlm6S0u_F6-m2fCPlTW2V5txjfPKIhQaNV2WJMGu7AN" target="_blank" rel="noopener noreferrer nofollow">https://cigman.com/blogs/night-vision/how-to-fix-night-vision-glare-and-ir-splashback-in-snow-and-fog?srsltid=AfmBOoqKjQUwtdlm6S0u_F6-m2fCPlTW2V5txjfPKIhQaNV2WJMGu7AN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Fix Night Vision Glare and IR Splashback in Snow...28 Jan 2026 — Learn how to fix night vision glare, stop IR splashback, and see...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: flir.com  
    Title: can thermal imaging see through fog and rain  
-   Link: <a href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?30 Dec 2020 — Thermal imaging cameras see in total darkness, producing clear, crisp images without the need for any light. This makes IR...</p></details>
+   Link:<a href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?30 Dec 2020 — Thermal imaging cameras see in total darkness, producing clear, crisp images without the need for any light. This makes IR...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: defensescoop.com  
    Title: dod ufo workshop uap research aaro  
-   Link: <a href="https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s AARO quietly held an invite-only workshop to...16 Mar 2026 — The Defense Department&#x27;s All-domain Anomaly Resolution Office (A...</p></details>
+   Link:<a href="https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s AARO quietly held an invite-only workshop to...16 Mar 2026 — The Defense Department&#x27;s All-domain Anomaly Resolution Office (A...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2011ESASP.700..371J" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2011ESASP.700..371J</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Pointing Mechanism for Stratospheric...by J Jaworski · 2011 · Cited by 2 — The proposed system is a 3-DOF pointing mechanism that...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2011ESASP.700..371J" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2011ESASP.700..371J</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Pointing Mechanism for Stratospheric...by J Jaworski · 2011 · Cited by 2 — The proposed system is a 3-DOF pointing mechanism that...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Debunking UFO Sightings: Reflective Objects and Atmospheric Motion  
-   Link: <a href="https://www.youtube.com/watch?v=s359hG22nPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s359hG22nPs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Declassified UFO Videos Released by the Pentagon - YouTube The Navy Channel · 8.7K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s359hG22nPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s359hG22nPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top Declassified UFO Videos Released by the Pentagon - YouTube The Navy Channel · 8.7K views...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How Mylar Balloons Appear in Thermal and Optical Sensors  
-   Link: <a href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PlRp63tAC-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO Sightings: Reflective Objects and Atmospheric Motion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PlRp63tAC-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO Sightings: Reflective Objects and Atmospheric Motion...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Understanding Infrared and Visual Reflections in UAP Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=S-xanuhKPPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S-xanuhKPPs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Mylar Balloons Appear in Thermal and Optical Sensors...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S-xanuhKPPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S-xanuhKPPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Mylar Balloons Appear in Thermal and Optical Sensors...</p></details>

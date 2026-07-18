@@ -272,13 +272,13 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 A missing Remote ID signal is not strong evidence that a reported UFO was something exotic. In UK drone-related sighting checks after 2026, Remote ID is useful only under the right conditions: the [aircraft]({{ 'aircraft/' | relative_url }}) must fall into a category that legally broadcasts identification, the signal must be detectable from the observer’s location, and somebody must actually have been recording or monitoring it at the time.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-dark.svg" | relative_url }}" alt="Remote ID illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because witnesses increasingly assume the opposite. A glowing night object with no visible operator and no captured Remote ID can quickly become framed as “not a drone”. In practice, the absence of Remote ID evidence often says more about receiver coverage, aircraft class exemptions, terrain, timing, hardware limitations or [incomplete]({{ 'incomplete-data/' | relative_url }}) records than it does about the nature of the sighting itself. UK investigators using AI-assisted UFO workflows therefore need to treat Remote ID as a conditional data source rather than a definitive truth test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+That matters because witnesses increasingly assume the opposite. A glowing night object with no visible operator and no captured Remote ID can quickly become framed as “not a drone”. In practice, the absence of Remote ID evidence often says more about receiver coverage, aircraft class exemptions, terrain, timing, hardware limitations or [incomplete]({{ 'incomplete-data/' | relative_url }}) records than it does about the nature of the sighting itself. UK investigators using AI-assisted UFO workflows therefore need to treat Remote ID as a conditional data source rather than a definitive truth test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 ## Which drone flights should broadcast ID
 
 The first question in any post-2026 UK sighting check is whether the suspected drone would legally have been expected to transmit Remote ID at all.
 
-The UK Civil Aviation Authority introduced phased Remote ID requirements tied to drone class marks and operational categories. From January 2026, many UK1 and higher class drones require Direct Remote ID during flight, while additional categories and some legacy aircraft fall under later deadlines extending toward 2028. Very small UK0-class drones under 250 g can remain exempt in many ordinary operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+The UK Civil Aviation Authority introduced phased Remote ID requirements tied to drone class marks and operational categories. From January 2026, many UK1 and higher class drones require Direct Remote ID during flight, while additional categories and some legacy aircraft fall under later deadlines extending toward 2028. Very small UK0-class drones under 250 g can remain exempt in many ordinary operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 That creates an important investigative trap. Some of the most commonly misidentified night drones are exactly the kinds of compact consumer aircraft that may not always produce legally required broadcasts:
 
@@ -295,15 +295,15 @@ That creates an important investigative trap. Some of the most commonly misident
 
 A witness may therefore observe a genuine drone flight while no compliant Remote ID signal ever existed to capture.
 
-This is especially relevant in UK night-light reports because many modern mini drones can still carry bright anti-collision lighting despite sitting below some regulatory thresholds. A flashing green light combined with no recorded Remote ID is therefore not automatically contradictory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t3.com">[T3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t3.com</span><span class="citation-popover-snippet">Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</span></span></span>
+This is especially relevant in UK night-light reports because many modern mini drones can still carry bright anti-collision lighting despite sitting below some regulatory thresholds. A flashing green light combined with no recorded Remote ID is therefore not automatically contradictory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t3.com">[T3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t3.com</span><span class="citation-popover-snippet">Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</span></span></span>
 
 Investigators also need to separate legal expectation from real-world compliance. Remote ID rules create obligations, but not universal adherence. Some operators fail to enable the feature, use outdated firmware, attach incompatible modules, or intentionally disable identification systems. In UFO case work, “should have broadcast” is weaker than “definitely did broadcast”.
 
 ## Why local receivers and range matter
 
-Remote ID is often described as a “digital number plate” for drones, but that analogy can mislead the public into imagining a nationwide tracking network with complete coverage. Most current systems are not designed that way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">remote id</span><span class="citation-popover-snippet">Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</span></span></span>
+Remote ID is often described as a “digital number plate” for drones, but that analogy can mislead the public into imagining a nationwide tracking network with complete coverage. Most current systems are not designed that way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">remote id</span><span class="citation-popover-snippet">Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</span></span></span>
 
-In many implementations, Remote ID relies on short-range radio broadcasts using technologies such as Bluetooth or Wi-Fi. Those signals may only be receivable within hundreds of metres under good conditions. Technical standards discussions have repeatedly noted that range and reliability limitations remain a known constraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsma.com">[GSMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsma.com</span><span class="citation-popover-snippet">Regulators must recognise the role of mobile connectivity...Apr 30, 2021 — The FAA&#x27;s ruling mandates that Remote ID must be broadcas...</span></span></span>
+In many implementations, Remote ID relies on short-range radio broadcasts using technologies such as Bluetooth or Wi-Fi. Those signals may only be receivable within hundreds of metres under good conditions. Technical standards discussions have repeatedly noted that range and reliability limitations remain a known constraint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsma.com">[GSMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsma.com</span><span class="citation-popover-snippet">Regulators must recognise the role of mobile connectivity...Apr 30, 2021 — The FAA&#x27;s ruling mandates that Remote ID must be broadcas...</span></span></span>
 
 For UFO investigation, that creates several practical blind spots.
 
@@ -398,7 +398,7 @@ A useful AI-assisted case workflow should therefore classify Remote ID outcomes 
 * plausible but unverified drone candidate;
 * no reliable receiver coverage known;
 * expected broadcast but no capture;
-* aircraft class uncertain; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+* aircraft class uncertain;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 * Remote ID status indeterminate.
 
 </div>
@@ -410,7 +410,7 @@ That framing preserves uncertainty instead of prematurely escalating a sighting 
 
 Even a detected Remote ID signal is not automatically perfect evidence.
 
-Researchers and technical analysts have repeatedly highlighted weaknesses around authentication, spoofing and privacy in current Remote ID ecosystems. Some academic work has explored replay attacks, forged broadcasts and unauthenticated identifiers. Other studies discuss the ease of receiving and decoding certain drone-identification transmissions with relatively inexpensive hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.11343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">TBRD: TESLA Authenticated UAS Broadcast Remote IDOctober 13, 2025...</span><span class="citation-popover-meta">Published: October 13, 2025</span></span></span>
+Researchers and technical analysts have repeatedly highlighted weaknesses around authentication, spoofing and privacy in current Remote ID ecosystems. Some academic work has explored replay attacks, forged broadcasts and unauthenticated identifiers. Other studies discuss the ease of receiving and decoding certain drone-identification transmissions with relatively inexpensive hardware.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.11343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">TBRD: TESLA Authenticated UAS Broadcast Remote IDOctober 13, 2025...</span><span class="citation-popover-meta">Published: October 13, 2025</span></span></span>
 
 For UFO investigation this creates a second misconception:
 
@@ -453,7 +453,7 @@ The distinction is important because many UFO reports emerge from gaps in availa
 
 ## The practical takeaway for UFO screening
 
-Remote ID improves drone filtering, but it does not eliminate ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.dronedesk.io/remote-identification-drone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.dronedesk.io">[blog.dronedesk.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.dronedesk.io</span><span class="citation-popover-title">remote identification drone</span><span class="citation-popover-snippet">Guide to Remote Identification Drone TechnologySep 28, 2025 — Discover what a remote identification drone is, why it&#x27;s crucial for safety...</span></span></span>
+Remote ID improves drone filtering, but it does not eliminate ambiguity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.dronedesk.io/remote-identification-drone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.dronedesk.io">[blog.dronedesk.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.dronedesk.io</span><span class="citation-popover-title">remote identification drone</span><span class="citation-popover-snippet">Guide to Remote Identification Drone TechnologySep 28, 2025 — Discover what a remote identification drone is, why it&#x27;s crucial for safety...</span></span></span>
 
 For UK night-light investigations after 2026, the technology is best understood as a partial local sensor layer rather than a universal sky registry. It can help rule in ordinary drone activity surprisingly quickly when a match exists. But a missing match rarely settles the question on its own.
 
@@ -470,194 +470,194 @@ The strongest investigative approach combines Remote ID checks with:
 When those layers point consistently toward ordinary drone activity, Remote ID can strengthen [confidence]({{ 'confidence/' | relative_url }}). When they conflict, the absence of a signal should be treated as uncertainty, not proof of anomaly.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why no Remote ID does not solve it. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why no Remote ID does not solve it. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains drone rules, operation and identification context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains drone rules, operation and identification context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Provides broader drone-system context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader drone-system context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Directly fits the meaning of missing Remote ID evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly fits the meaning of missing Remote ID evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports cautious interpretation of incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports cautious interpretation of incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection"><img src="https://i.ebayimg.com/images/g/RxwAAeSwMXtpk1nn/s-l225.jpg" alt="Listing image for Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection"><img src="https://i.ebayimg.com/images/g/RxwAAeSwMXtpk1nn/s-l225.jpg" alt="Listing image for Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">Lightweight UAV Remote ID Module - 3m GPS Accuracy and Overcharge Protection</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount"><img src="https://i.ebayimg.com/images/g/NVwAAOSwtXFmsEYK/s-l225.jpg" alt="Listing image for DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount"><img src="https://i.ebayimg.com/images/g/NVwAAOSwtXFmsEYK/s-l225.jpg" alt="Listing image for DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">DJI Mavic Pro and Pro Platinum Ruko R111 Remote ID Module Mount</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Remote ID Module Spare Parts - FAA Compliant"><img src="https://i.ebayimg.com/images/g/7yUAAeSw4jdo-iDH/s-l225.jpg" alt="Listing image for Drone Remote ID Module Spare Parts - FAA Compliant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">Drone Remote ID Module Spare Parts - FAA Compliant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Remote ID Module Spare Parts - FAA Compliant"><img src="https://i.ebayimg.com/images/g/7yUAAeSw4jdo-iDH/s-l225.jpg" alt="Listing image for Drone Remote ID Module Spare Parts - FAA Compliant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">Drone Remote ID Module Spare Parts - FAA Compliant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID"><img src="https://i.ebayimg.com/images/g/M-AAAOSwPC5lXhzf/s-l225.jpg" alt="Listing image for DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID"><img src="https://i.ebayimg.com/images/g/M-AAAOSwPC5lXhzf/s-l225.jpg" alt="Listing image for DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">DJI Mavic Mini and Mini 2 DroneTag Beacon Mount for Remote ID RID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone remote id">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone remote id</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+remote+id&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-remote-id-does-not-solve-it-drone-remote-id&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone remote id" data-ebay-reference="why-no-remote-id-does-not-solve-it-drone-remote-id" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -822,7 +822,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -863,144 +863,144 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: techradar.com  
    Title: Tech Radar UK drone laws have just changed  
-   Link: <a href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
+   Link:<a href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techradar.com  
    Title: Tech Radar UK drone laws just changed  
-   Link: <a href="https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, drone classification now factors in both weight and certain safety features, rather than weight alone. Second, most drones will no...</p></details>
+   Link:<a href="https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, drone classification now factors in both weight and certain safety features, rather than weight alone. Second, most drones will no...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gsma.com  
-   Link: <a href="https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulators must recognise the role of mobile connectivity...Apr 30, 2021 — The FAA&#x27;s ruling mandates that Remote ID must be broadcas...</p></details>
+   Link:<a href="https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsma.com/solutions-and-impact/industries/smart-mobility/news/regulators-must-recognise-the-role-of-mobile-connectivity-for-commercial-drones-to-flourish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulators must recognise the role of mobile connectivity...Apr 30, 2021 — The FAA&#x27;s ruling mandates that Remote ID must be broadcas...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.11343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.11343</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TBRD: TESLA Authenticated UAS Broadcast Remote IDOctober 13, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.11343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.11343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TBRD: TESLA Authenticated UAS Broadcast Remote IDOctober 13, 2025...</p></details>
    Published: October 13, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv DJI drone IDs are not encrypted  
-   Link: <a href="https://arxiv.org/abs/2207.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.10795</a>  
+   Link:<a href="https://arxiv.org/abs/2207.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.10795</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Obfuscated Location Disclosure for Remote ID Enabled Drones  
-   Link: <a href="https://arxiv.org/abs/2407.14256" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.14256</a>  
+   Link:<a href="https://arxiv.org/abs/2407.14256" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.14256</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
    Title: why 5m gift investigation is so dangerous for farage 13543720  
-   Link: <a href="https://news.sky.com/video/why-5m-gift-investigation-is-so-dangerous-for-farage-13543720" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/why-5m-gift-investigation-is-so-dangerous-for-farage-13543720</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>£5m gift investigation is so dangerous for Farage...</p></details>
+   Link:<a href="https://news.sky.com/video/why-5m-gift-investigation-is-so-dangerous-for-farage-13543720" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/why-5m-gift-investigation-is-so-dangerous-for-farage-13543720</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>£5m gift investigation is so dangerous for Farage...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>set for hottest day of the year so far with temperatures set to reach 28C...</p></details>
+   Link:<a href="https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>set for hottest day of the year so far with temperatures set to reach 28C...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Remote ID (RID)  
-   Link: <a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</p></details>
    Published: January 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) | UK Civil Aviation AuthorityFrom 1 January 2026, there is a legal requirement for operators to f...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) | UK Civil Aviation AuthorityFrom 1 January 2026, there is a legal requirement for operators to f...</p></details>
    Published: January 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: t3.com  
-   Link: <a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
+   Link:<a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Identification of Unmanned AircraftThe remote identification of unmanned aircraft in the airspace of the United States will addres...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Identification of Unmanned AircraftThe remote identification of unmanned aircraft in the airspace of the United States will addres...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blog.dronedesk.io  
    Title: remote identification drone  
-   Link: <a href="https://blog.dronedesk.io/remote-identification-drone/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dronedesk.io/remote-identification-drone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Remote Identification Drone TechnologySep 28, 2025 — Discover what a remote identification drone is, why it&#x27;s crucial for safety...</p></details>
+   Link:<a href="https://blog.dronedesk.io/remote-identification-drone/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dronedesk.io/remote-identification-drone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Remote Identification Drone TechnologySep 28, 2025 — Discover what a remote identification drone is, why it&#x27;s crucial for safety...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uavcoach.com  
    Title: remote id  
-   Link: <a href="https://uavcoach.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/remote-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Arrived—Here&#x27;s Everything You Need to...Jan 24, 2026 — The FAA&#x27;s Remote ID rule is now in effect for both recreational flyers and co...</p></details>
+   Link:<a href="https://uavcoach.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/remote-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Arrived—Here&#x27;s Everything You Need to...Jan 24, 2026 — The FAA&#x27;s Remote ID rule is now in effect for both recreational flyers and co...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: study-uk.britishcouncil.org  
    Title: about uk  
-   Link: <a href="https://study-uk.britishcouncil.org/why-study/about-uk" target="_blank" rel="noopener noreferrer nofollow">https://study-uk.britishcouncil.org/why-study/about-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the UK - Study UK - British CouncilThe UK is a union of four nations - England, Northern Ireland, Scotland and Wales, with similarities a...</p></details>
+   Link:<a href="https://study-uk.britishcouncil.org/why-study/about-uk" target="_blank" rel="noopener noreferrer nofollow">https://study-uk.britishcouncil.org/why-study/about-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the UK - Study UK - British CouncilThe UK is a union of four nations - England, Northern Ireland, Scotland and Wales, with similarities a...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ucdrones.github.io  
-   Link: <a href="https://ucdrones.github.io/remote-identification.html" target="_blank" rel="noopener noreferrer nofollow">https://ucdrones.github.io/remote-identification.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 12 Remote IdentificationIn order to move broadcast modules between drones, you also need to update both drone&#x27;s serial number and...</p></details>
+   Link:<a href="https://ucdrones.github.io/remote-identification.html" target="_blank" rel="noopener noreferrer nofollow">https://ucdrones.github.io/remote-identification.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 12 Remote IdentificationIn order to move broadcast modules between drones, you also need to update both drone&#x27;s serial number and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dedrone.com  
-   Link: <a href="https://www.dedrone.com/drone-remote-id" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/drone-remote-id</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Remote ID for Enhanced Identification and SecurityRemote ID helps to provide security teams with detailed information, including th...</p></details>
+   Link:<a href="https://www.dedrone.com/drone-remote-id" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/drone-remote-id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Remote ID for Enhanced Identification and SecurityRemote ID helps to provide security teams with detailed information, including th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/uavLegalNews/posts/3655226184603410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uavLegalNews/posts/3655226184603410/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA broadcast information access limitations?Yes, anyone will be able to see where you are or where you launched from, depending on which...</p></details>
+   Link:<a href="https://www.facebook.com/groups/uavLegalNews/posts/3655226184603410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uavLegalNews/posts/3655226184603410/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA broadcast information access limitations?Yes, anyone will be able to see where you are or where you launched from, depending on which...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: titletowndrones.com  
-   Link: <a href="https://titletowndrones.com/remote-id-making-sense-of-the-new-rule/" target="_blank" rel="noopener noreferrer nofollow">https://titletowndrones.com/remote-id-making-sense-of-the-new-rule/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote ID; making sense of the new ruleThe FAA has released a new rule that would require unmanned aircraft weighing over 250g (.55 lbs o...</p></details>
+   Link:<a href="https://titletowndrones.com/remote-id-making-sense-of-the-new-rule/" target="_blank" rel="noopener noreferrer nofollow">https://titletowndrones.com/remote-id-making-sense-of-the-new-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote ID; making sense of the new ruleThe FAA has released a new rule that would require unmanned aircraft weighing over 250g (.55 lbs o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: visitbritain.com  
-   Link: <a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainFrom bustling city experiences to countryside rambles and coastal dips – discover adven...</p></details>
+   Link:<a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainFrom bustling city experiences to countryside rambles and coastal dips – discover adven...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: travelandtourworld.com  
-   Link: <a href="https://www.travelandtourworld.com/news/article/uk-airline-liquidation-shakes-aviation-ascend-airways-ceases-operations-due-to-fuel-crisis-how-this-affects-charter-flights-and-passengers/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelandtourworld.com/news/article/uk-airline-liquidation-shakes-aviation-ascend-airways-ceases-operations-due-to-fuel-crisis-how-this-affects-charter-flights-and-passengers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Airline Liquidation Shakes Aviation: Ascend Airways Ceases Operations Due to Fuel Crisis – How This Affects Charter Flights and Passen...</p></details>
+   Link:<a href="https://www.travelandtourworld.com/news/article/uk-airline-liquidation-shakes-aviation-ascend-airways-ceases-operations-due-to-fuel-crisis-how-this-affects-charter-flights-and-passengers/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelandtourworld.com/news/article/uk-airline-liquidation-shakes-aviation-ascend-airways-ceases-operations-due-to-fuel-crisis-how-this-affects-charter-flights-and-passengers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Airline Liquidation Shakes Aviation: Ascend Airways Ceases Operations Due to Fuel Crisis – How This Affects Charter Flights and Passen...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theregister.com  
-   Link: <a href="https://www.theregister.com/offbeat/2026/05/06/uk-puts-205m-behind-numberplate-for-the-skies-to-keep-tabs-on-drones/5230609" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2026/05/06/uk-puts-205m-behind-numberplate-for-the-skies-to-keep-tabs-on-drones/5230609</a>  
+   Link:<a href="https://www.theregister.com/offbeat/2026/05/06/uk-puts-205m-behind-numberplate-for-the-skies-to-keep-tabs-on-drones/5230609" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2026/05/06/uk-puts-205m-behind-numberplate-for-the-skies-to-keep-tabs-on-drones/5230609</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thecommonwealth.org  
-   Link: <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
+   Link:<a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: help.dronetag.cz  
-   Link: <a href="https://help.dronetag.cz/knowledge-base/remote-id-explained/" target="_blank" rel="noopener noreferrer nofollow">https://help.dronetag.cz/knowledge-base/remote-id-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ID ExplainedAll drones above 250 grams flying below 120 meters in the Open or Specific category must be equipped with Remote ID systems t...</p></details>
+   Link:<a href="https://help.dronetag.cz/knowledge-base/remote-id-explained/" target="_blank" rel="noopener noreferrer nofollow">https://help.dronetag.cz/knowledge-base/remote-id-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ID ExplainedAll drones above 250 grams flying below 120 meters in the Open or Specific category must be equipped with Remote ID systems t...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: easa.europa.eu  
-   Link: <a href="https://www.easa.europa.eu/en" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Union Aviation Safety AgencyEurope&#x27;s aviation safety authority · EASA Light · EASA Pro. for aviation authorities, industry pro...</p></details>
+   Link:<a href="https://www.easa.europa.eu/en" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Union Aviation Safety AgencyEurope&#x27;s aviation safety authority · EASA Light · EASA Pro. for aviation authorities, industry pro...</p></details>

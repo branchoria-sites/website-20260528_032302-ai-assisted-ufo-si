@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 Many UFO reports begin to look less mysterious once investigators compare the object’s movement against recorded winds at different altitudes. This is one of the fastest and most effective screening steps in AI-assisted UFO investigation because balloons often produce motion that appears intelligent from the ground even when the object is simply drifting through changing air currents.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-dark.svg" | relative_url }}" alt="Wind drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A balloon can seem to hover, reverse direction, accelerate, or follow a curved path without any propulsion at all. The key question is not whether the movement looked unusual to witnesses, but whether it matched the layered wind structure above the sighting area at that time. Modern investigation workflows therefore treat wind drift analysis as an early triage filter. If the object’s track aligns with known atmospheric motion, the probability of a balloon explanation rises sharply. If the reported behaviour consistently conflicts with measured winds, the case becomes more difficult to dismiss as passive drift alone. AARO’s published balloon resolutions repeatedly cite “drifting at wind speed and direction” as a central reason for identifying objects as lighter-than-air balloons rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</span></span></span>
+A balloon can seem to hover, reverse direction, accelerate, or follow a curved path without any propulsion at all. The key question is not whether the movement looked unusual to witnesses, but whether it matched the layered wind structure above the sighting area at that time. Modern investigation workflows therefore treat wind drift analysis as an early triage filter. If the object’s track aligns with known atmospheric motion, the probability of a balloon explanation rises sharply. If the reported behaviour consistently conflicts with measured winds, the case becomes more difficult to dismiss as passive drift alone. AARO’s published balloon resolutions repeatedly cite “drifting at wind speed and direction” as a central reason for identifying objects as lighter-than-air balloons rather than unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</span></span></span>
 
 ## How wind layers change apparent movement
 
@@ -280,7 +280,7 @@ One reason balloon reports repeatedly enter UFO databases is that the atmosphere
 
 To a ground observer with no altitude reference, this can resemble deliberate manoeuvring. A balloon moving into a crosswind may appear to “turn”. A balloon entering a slower wind layer can appear to pause or hover. In some geometries, perspective effects can even create the impression of reversal.
 
-[Weather]({{ 'weather/' | relative_url }}) services rely on this exact behaviour to measure upper-air winds. Radiosondes attached to weather balloons are tracked by GPS and radar specifically because their drift reveals wind speed and direction at different heights. NOAA and the US National Weather Service describe upper-air balloon observations as a primary source of atmospheric wind profiling. NOAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
+[Weather]({{ 'weather/' | relative_url }}) services rely on this exact behaviour to measure upper-air winds. Radiosondes attached to weather balloons are tracked by GPS and radar specifically because their drift reveals wind speed and direction at different heights. NOAA and the US National Weather Service describe upper-air balloon observations as a primary source of atmospheric wind profiling. NOAA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
 
 This matters for UFO investigation because witnesses naturally interpret movement from a human-scale perspective. A high-altitude object drifting slowly across a distant sky may look stationary. A reflective party balloon moving in gusty lower winds may appear erratic and reactive. AI-assisted comparison systems therefore examine whether the reported motion changed in ways expected from vertical wind shear rather than from powered flight.
 
@@ -309,12 +309,12 @@ Modern UFO investigation workflows increasingly automate this process. A structu
 * Witness-estimated direction of travel
 * Estimated [elevation]({{ 'elevation/' | relative_url }}) angle
 * Duration and time stamps
-* Known balloon launch locations * Radiosonde and upper-air sounding data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span> * Surface weather observations <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
+* Known balloon launch locations * Radiosonde and upper-air sounding data<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span> * Surface weather observations<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
 * Terrain and viewing [geometry]({{ 'geometry/' | relative_url }})
 
 The goal is not merely to ask whether the object moved with the wind at ground level. Many witnesses already know surface winds and report that the object appeared inconsistent with them. The more important comparison is with upper-air winds, because high-altitude balloons may be travelling through completely different flow patterns from those felt by observers on the ground.
 
-This distinction repeatedly causes confusion in public UFO discussions. A witness may insist that “the wind was blowing east, but the object moved north”, yet upper-air soundings may show a strong northerly flow several kilometres above the surface. Weather balloon operations depend on these layered atmospheric conditions every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span> Wikipedia AI systems are useful here because they can rapidly align multiple data sources against the sighting timeline. A workflow may automatically: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</span></span></span>
+This distinction repeatedly causes confusion in public UFO discussions. A witness may insist that “the wind was blowing east, but the object moved north”, yet upper-air soundings may show a strong northerly flow several kilometres above the surface. Weather balloon operations depend on these layered atmospheric conditions every day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span> Wikipedia AI systems are useful here because they can rapidly align multiple data sources against the sighting timeline. A workflow may automatically:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAFgAYaxqr0" title="UAP Report Resolved as a Balloon, Europe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer">UAP Report Resolved as a Balloon, Europe</a></p><p class="youtube-embed-meta">Channel: ISP Kapatid &middot; Views: 19 &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAFgAYaxqr0">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +330,7 @@ This distinction repeatedly causes confusion in public UFO discussions. A witnes
 
 This process is far more reliable than relying on visual intuition alone.
 
-A concrete example appears in AARO’s published balloon assessments. Several military-recorded UAP videos from Europe in 2022 were resolved as balloons partly because their “performance characteristics” aligned with lighter-than-air drift behaviour. The identification was not based solely on shape or imagery quality. Motion relative to wind direction was treated as evidentially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">ological balloon; a large Mylar balloon; or...Read more...</span></span></span>
+A concrete example appears in AARO’s published balloon assessments. Several military-recorded UAP videos from Europe in 2022 were resolved as balloons partly because their “performance characteristics” aligned with lighter-than-air drift behaviour. The identification was not based solely on shape or imagery quality. Motion relative to wind direction was treated as evidentially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">ological balloon; a large Mylar balloon; or...Read more...</span></span></span>
 
 ## Why balloons can look like controlled flight
 
@@ -351,7 +351,7 @@ If sunlight suddenly catches a reflective balloon, the object may become visible
 
 A balloon ascending through opposing wind layers can genuinely curve across the sky. From the ground, that curve may look like a deliberate turn.
 
-Upper-level wind shear is a well-known meteorological phenomenon and is monitored closely in aviation and launch operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">weather balloons and rocket science</span><span class="citation-popover-snippet">Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</span></span></span>
+Upper-level wind shear is a well-known meteorological phenomenon and is monitored closely in aviation and launch operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">weather balloons and rocket science</span><span class="citation-popover-snippet">Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</span></span></span>
 
 ### Apparent pacing behaviour
 
@@ -378,7 +378,7 @@ The strongest [balloon matches]({{ 'balloon-matches/' | relative_url }}) usually
 
 </div>
 
-Weather balloons routinely travel very large distances during ascent. The US National Weather Service notes that a typical radiosonde balloon can drift more than 300 kilometres from its launch point while rising above 35 kilometres altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
+Weather balloons routinely travel very large distances during ascent. The US National Weather Service notes that a typical radiosonde balloon can drift more than 300 kilometres from its launch point while rising above 35 kilometres altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span>
 
 That scale matters in UFO investigation because witnesses often assume that an object seen overhead must have originated locally. In reality, a balloon may have travelled across regions or national borders before observation.
 
@@ -424,194 +424,194 @@ For AI-assisted systems, resolved balloon cases therefore serve two important pu
 That does not mean every unresolved case is extraordinary. It means the investigative process becomes more disciplined. Once a sighting survives detailed wind-drift comparison instead of merely surviving casual visual inspection, the remaining uncertainty becomes more meaningful.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When balloon drift looks like controlled flight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When balloon drift looks like controlled flight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains wind, atmosphere and weather patterns behind balloon drift.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains wind, atmosphere and weather patterns behind balloon drift.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Useful for interpreting wind direction and changing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting wind direction and changing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence discipline in UFO explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence discipline in UFO explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits cautious interpretation of partial wind matches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits cautious interpretation of partial wind matches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon"><img src="https://i.ebayimg.com/images/g/eXsAAOSw-UtnKenU/s-l225.jpg" alt="Listing image for Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon"><img src="https://i.ebayimg.com/images/g/eXsAAOSw-UtnKenU/s-l225.jpg" alt="Listing image for Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Balloon Professional Weather Balloon Entertainment White 300G 120inch Balloon</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He"><img src="https://i.ebayimg.com/images/g/TK0AAeSw4u1p5Rew/s-l225.jpg" alt="Listing image for 200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He"><img src="https://i.ebayimg.com/images/g/TK0AAeSw4u1p5Rew/s-l225.jpg" alt="Listing image for 200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">200g : HAB | SOUNDING | WEATHER | METEOROLOGICAL BALLOON - 200g - 48&quot; - H2 / He</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute"><img src="https://i.ebayimg.com/images/g/ZS4AAOSwhEtdjhY~/s-l225.jpg" alt="Listing image for 200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute"><img src="https://i.ebayimg.com/images/g/ZS4AAOSwhEtdjhY~/s-l225.jpg" alt="Listing image for 200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">200g High Altitude Meteorological/Weather Balloon ( foil sealed ) + Parachute</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather"><img src="https://i.ebayimg.com/images/g/h70AAeSwzMVpzxmt/s-l225.jpg" alt="Listing image for Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather"><img src="https://i.ebayimg.com/images/g/h70AAeSwzMVpzxmt/s-l225.jpg" alt="Listing image for Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Red 48 Inch Weather Balloon - Round Giant Latex Balloon for Scientific Weather</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloon-drift-looks-like-controlled-flight-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="when-balloon-drift-looks-like-controlled-flight-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ That does not mean every unresolved case is extraordinary. It means the investig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ That does not mean every unresolved case is extraordinary. It means the investig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ That does not mean every unresolved case is extraordinary. It means the investig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ That does not mean every unresolved case is extraordinary. It means the investig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ That does not mean every unresolved case is extraordinary. It means the investig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,131 +817,131 @@ That does not mean every unresolved case is extraordinary. It means the investig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maps of upper air data from radiosondes is...Read more...</p></details>
+   Link:<a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maps of upper air data from radiosondes is...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Goes Into the Weather Balloon Launches?A GPS sensor within the radiosonde sends back the exact position of the instrument; this data...</p></details>
+   Link:<a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Goes Into the Weather Balloon Launches?A GPS sensor within the radiosonde sends back the exact position of the instrument; this data...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceA Brief History of Upper-air ObservationsAlthough winds aloft data could be obtained in near real-time, the ballo...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceA Brief History of Upper-air ObservationsAlthough winds aloft data could be obtained in near real-time, the ballo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet)...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wpo.noaa.gov  
    Title: windborne weather balloon reaches new heights  
-   Link: <a href="https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
+   Link:<a href="https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aoml.noaa.gov  
    Title: These sensors are  
-   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — As the balloon rises, sensors on the radiosonde measure values of atmosph...</p></details>
+   Link:<a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — As the balloon rises, sensors on the radiosonde measure values of atmosph...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ological balloon; a large Mylar balloon; or...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ological balloon; a large Mylar balloon; or...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Radiosondes  
-   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes - an overviewVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using radiosond...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes - an overviewVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using radiosond...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: af.mil  
    Title: weather balloons and rocket science  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</p></details>
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Safety TipsThe real difference from a pilot&#x27;s view- point is the location of the occurrence. False lift occurs from a known posit...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Safety TipsThe real difference from a pilot&#x27;s view- point is the location of the occurrence. False lift occurs from a known posit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theeyewall.com  
    Title: weather balloon launch cuts an honest look at how it should impact forecasts  
-   Link: <a href="https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon launch cuts: An honest look at how it...23 Mar 2025 — The data from balloon launches can be plotted on a chart called a...</p></details>
+   Link:<a href="https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon launch cuts: An honest look at how it...23 Mar 2025 — The data from balloon launches can be plotted on a chart called a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pcLkkoR2LS4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloons and RadiosondesLearn about how weather balloons are used to study upper-levels of the atmosphere and how the data are co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pcLkkoR2LS4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloons and RadiosondesLearn about how weather balloons are used to study upper-levels of the atmosphere and how the data are co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is used to assess atmospheric stability, wind shear, [freezing](&amp;#123;&amp;#123; &#x27;freezing-fog/&#x27; | relative_url &amp;#125;&amp;#125;) levels, and the overall...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is used to assess atmospheric stability, wind shear, [freezing](&amp;#123;&amp;#123; &#x27;freezing-fog/&#x27; | relative_url &amp;#125;&amp;#125;) levels, and the overall...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: intermetsystems.com  
    Title: Radiosondes measure atmospheric pressure, air temperature, water  
-   Link: <a href="https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/" target="_blank" rel="noopener noreferrer nofollow">https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde Overview - InterMet Systems - Grand Rapids, MIRadiosondes are carried into the air by latex weather balloons filled with heliu...</p></details>
+   Link:<a href="https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/" target="_blank" rel="noopener noreferrer nofollow">https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde Overview - InterMet Systems - Grand Rapids, MIRadiosondes are carried into the air by latex weather balloons filled with heliu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wind. So maybe it&#x27;s not a balloon, but it seems to be a lighter than air object that wind is pushing. And we shot it down. This isn&#x27;t the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wind. So maybe it&#x27;s not a balloon, but it seems to be a lighter than air object that wind is pushing. And we shot it down. This isn&#x27;t the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: twz.com  
    Title: china sees balloon launched drone swarms in its future  
-   Link: <a href="https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China Sees Balloon-Launched Drone Swarms In Its Future2 Mar 2023 — Researchers in China and elsewhere have demonstrated that high-altitud...</p></details>
+   Link:<a href="https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China Sees Balloon-Launched Drone Swarms In Its Future2 Mar 2023 — Researchers in China and elsewhere have demonstrated that high-altitud...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>res temperature, moisture, pressure, wind speed, and wind direction...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>res temperature, moisture, pressure, wind speed, and wind direction...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: x.com  
-   Link: <a href="https://x.com/praddy06/status/2055445368448635301/photo/4" target="_blank" rel="noopener noreferrer nofollow">https://x.com/praddy06/status/2055445368448635301/photo/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>edicting severe damal dumeels. The radiosonde flight can last for...Read more...</p></details>
+   Link:<a href="https://x.com/praddy06/status/2055445368448635301/photo/4" target="_blank" rel="noopener noreferrer nofollow">https://x.com/praddy06/status/2055445368448635301/photo/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>edicting severe damal dumeels. The radiosonde flight can last for...Read more...</p></details>

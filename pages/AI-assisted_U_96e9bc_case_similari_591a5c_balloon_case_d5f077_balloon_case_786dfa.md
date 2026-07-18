@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 AI-assisted UFO investigation becomes far more effective when the system can compare a new sighting against a large library of already solved [balloon cases]({{ 'balloon-cases/' | relative_url }}). Instead of treating every glowing orb, reflective object, or drifting light as unique, the software can ask a more practical question: does this report resemble earlier incidents that were ultimately explained by [weather]({{ 'weather/' | relative_url }}) balloons, hobby balloons, advertising balloons, research payloads, or drifting foil objects?
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-dark.svg" | relative_url }}" alt="Case libraries illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That comparison process matters because balloons repeatedly generate features that witnesses describe as anomalous. They can appear stationary, suddenly brighten, shift shape, seem to reverse direction, or produce strange infrared signatures depending on altitude, lighting, wind layers, and camera zoom. Public assessments released by the US All-domain Anomaly Resolution Office (AARO) explicitly reference this pattern, noting “morphological consistency” with earlier balloon imagery and motion “aligning with” wind-driven lighter-than-air behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
+That comparison process matters because balloons repeatedly generate features that witnesses describe as anomalous. They can appear stationary, suddenly brighten, shift shape, seem to reverse direction, or produce strange infrared signatures depending on altitude, lighting, wind layers, and camera zoom. Public assessments released by the US All-domain Anomaly Resolution Office (AARO) explicitly reference this pattern, noting “morphological consistency” with earlier balloon imagery and motion “aligning with” wind-driven lighter-than-air behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
 
 A well-structured balloon case library therefore acts less like a UFO archive and more like a forensic comparison database. The better the labelled examples, the faster investigators can separate likely ordinary objects from reports that genuinely remain difficult to explain.
 
@@ -298,9 +298,9 @@ This matters because balloons behave in repeatable ways. A weather balloon ascen
 
 Without labelled examples, AI systems tend to over-weight novelty. With labelled examples, they can measure similarity.
 
-Public weather-balloon infrastructure also makes this comparison process unusually data-rich. Radiosondes launched by meteorological agencies transmit wind and position information during ascent, creating extensive historical records for comparison. NOAA’s Integrated Global Radiosonde Archive contains observations from thousands of stations worldwide, including long-term wind and altitude records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">bservations from more than 2,800 globally distributed stations.Read more...</span></span></span>
+Public weather-balloon infrastructure also makes this comparison process unusually data-rich. Radiosondes launched by meteorological agencies transmit wind and position information during ascent, creating extensive historical records for comparison. NOAA’s Integrated Global Radiosonde Archive contains observations from thousands of stations worldwide, including long-term wind and altitude records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">bservations from more than 2,800 globally distributed stations.Read more...</span></span></span>
 
-Because many launches occur on fixed schedules, investigators can correlate sightings against known release windows. The US National Weather Service notes that radiosondes are typically launched twice daily at standard observation times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span>
+Because many launches occur on fixed schedules, investigators can correlate sightings against known release windows. The US National Weather Service notes that radiosondes are typically launched twice daily at standard observation times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span>
 
 That routine behaviour is valuable for UFO triage because repeated launch patterns create predictable signatures in the data.
 
@@ -314,7 +314,7 @@ One of the strongest balloon indicators is alignment with upper-air wind data. M
 
 If witnesses report an object drifting north-east at roughly the same speed and direction as recorded winds at 30,000 feet, the confidence score for a balloon explanation rises significantly. If the object instead appears to move independently of surrounding winds, the balloon hypothesis weakens.
 
-This is why upper-air data remain operationally important in meteorology. Radiosonde systems directly measure wind speed and direction throughout ascent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span>
+This is why upper-air data remain operationally important in meteorology. Radiosonde systems directly measure wind speed and direction throughout ascent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">National Weather Service - Wikipedia...</span></span></span>
 
 A comparison engine can therefore test several questions automatically:
 
@@ -335,7 +335,7 @@ These checks help prevent investigators from relying purely on visual impression
 
 Balloons are deceptively variable in appearance. Depending on inflation level, viewing angle, lens zoom, glare, and atmospheric haze, the same object can appear spherical, triangular, cylindrical, or irregular.
 
-AARO’s released assessments repeatedly emphasise shape similarity when identifying probable balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsOfficial UAP Imagery... This reconstruction also demonstrates that the objects traveled in a straight line at...</span></span></span>
+AARO’s released assessments repeatedly emphasise shape similarity when identifying probable balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsOfficial UAP Imagery... This reconstruction also demonstrates that the objects traveled in a straight line at...</span></span></span>
 
 For an AI system, morphology becomes more useful when paired with contextual metadata. A silver sphere photographed near sunset may visually resemble multiple unrelated objects. But if similar archived balloon cases also showed:
 
@@ -434,7 +434,7 @@ A transparent comparison system might report:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* 82% similarity to archived weather-balloon trajectories, <span class="citation-chip-wrap"><a class="citation-chip" href="https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlab.noaa.gov">[vlab.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlab.noaa.gov</span><span class="citation-popover-title">the trusty weather balloon</span><span class="citation-popover-snippet">Trusty Weather Balloon8 Dec 2019 — They are filled with hydrogen or helium, and once launched, the balloon will typically ascend to an al...</span></span></span>
+* 82% similarity to archived weather-balloon trajectories,<span class="citation-chip-wrap"><a class="citation-chip" href="https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlab.noaa.gov">[vlab.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlab.noaa.gov</span><span class="citation-popover-title">the trusty weather balloon</span><span class="citation-popover-snippet">Trusty Weather Balloon8 Dec 2019 — They are filled with hydrogen or helium, and once launched, the balloon will typically ascend to an al...</span></span></span>
 * strong wind alignment,
 * moderate visual similarity,
 * but weak confidence in altitude estimation.
@@ -443,7 +443,7 @@ A transparent comparison system might report:
 
 That approach helps investigators understand where the explanation is strong and where uncertainty remains.
 
-AARO’s public language reflects this graded approach. Its statements commonly use phrases such as “almost certainly” and specify confidence levels rather than claiming absolute proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
+AARO’s public language reflects this graded approach. Its statements commonly use phrases such as “almost certainly” and specify confidence levels rather than claiming absolute proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
 
 That style is important for public trust. Balloon libraries are most useful when they accelerate elimination of ordinary explanations without turning into a reflexive dismissal mechanism.
 
@@ -458,7 +458,7 @@ Without automated comparison, investigators may spend hours manually checking wi
 A modern workflow can:
 
 1. Ingest a witness report.
-2. Pull historical upper-air weather data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</span></span></span>
+2. Pull historical upper-air weather data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</span></span></span>
 3. Compare the motion against archived balloon trajectories.
 4. Analyse image morphology against known balloon footage.
 5. Score similarity across previous solved incidents.
@@ -471,194 +471,194 @@ Cases with extremely strong balloon similarity can move quickly into likely-expl
 That distinction is central to AI-assisted UFO investigation. The goal is not to force every report into a mundane category. The goal is to identify ordinary explanations efficiently enough that genuinely difficult cases become easier to isolate and study.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How solved balloon cases train better triage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How solved balloon cases train better triage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful comparison of mundane explanations before anomaly claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful comparison of mundane explanations before anomaly claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Strong fit for AI triage and pattern matching in solved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for AI triage and pattern matching in solved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Anchors the page in serious UFO case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors the page in serious UFO case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Relevant to structured case comparison and triage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to structured case comparison and triage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed"><img src="https://i.ebayimg.com/images/g/DMUAAOSwZIddB5uh/s-l225.jpg" alt="Listing image for 500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed"><img src="https://i.ebayimg.com/images/g/DMUAAOSwZIddB5uh/s-l225.jpg" alt="Listing image for 500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">500 g 53&quot; HIGH ALTITUDE METEOROLOGICAL SOUNDING / WEATHER BALLOON Foil Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for"><img src="https://i.ebayimg.com/images/g/quwAAeSw7X1pQ8Q8/s-l225.jpg" alt="Listing image for Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for"><img src="https://i.ebayimg.com/images/g/quwAAeSw7X1pQ8Q8/s-l225.jpg" alt="Listing image for Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Giant Balloon, Professional Weather Balloon, 96&#x27;&#x27; Large Inflatable Ball for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional Weather Balloon Meteorological Giant Latex Balloons"><img src="https://i.ebayimg.com/images/g/j-UAAeSwQMdqEDCX/s-l225.jpg" alt="Listing image for Professional Weather Balloon Meteorological Giant Latex Balloons" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Professional Weather Balloon Meteorological Giant Latex Balloons</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional Weather Balloon Meteorological Giant Latex Balloons"><img src="https://i.ebayimg.com/images/g/j-UAAeSwQMdqEDCX/s-l225.jpg" alt="Listing image for Professional Weather Balloon Meteorological Giant Latex Balloons" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">Professional Weather Balloon Meteorological Giant Latex Balloons</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White 300G Entertainment Professional Weather for Anniversary Wedding Festival"><img src="https://i.ebayimg.com/images/g/G20AAOSwDPdnKfNH/s-l225.jpg" alt="Listing image for White 300G Entertainment Professional Weather for Anniversary Wedding Festival" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">White 300G Entertainment Professional Weather for Anniversary Wedding Festival</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White 300G Entertainment Professional Weather for Anniversary Wedding Festival"><img src="https://i.ebayimg.com/images/g/G20AAOSwDPdnKfNH/s-l225.jpg" alt="Listing image for White 300G Entertainment Professional Weather for Anniversary Wedding Festival" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">White 300G Entertainment Professional Weather for Anniversary Wedding Festival</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solved-balloon-cases-train-better-triage-weather-balloon&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon" data-ebay-reference="how-solved-balloon-cases-train-better-triage-weather-balloon" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -778,7 +778,7 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -823,7 +823,7 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -864,183 +864,183 @@ That distinction is central to AI-assisted UFO investigation. The goal is not to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bservations from more than 2,800 globally distributed stations.Read more...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bservations from more than 2,800 globally distributed stations.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BalloonThese data are obtained from radiosondes, which are instrument packages tethered to balloons that are launched from the ground, as...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BalloonThese data are obtained from radiosondes, which are instrument packages tethered to balloons that are launched from the ground, as...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceCollecting Meteorological Data by Radiosonde or...In North Carolina, radiosondes are launched twice daily from G...</p></details>
+   Link:<a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceCollecting Meteorological Data by Radiosonde or...In North Carolina, radiosondes are launched twice daily from G...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWhat Goes Into the Weather Balloon Launches?The National Weather Service in Lincoln launches weather balloons twi...</p></details>
+   Link:<a href="https://www.weather.gov/ilx/ua-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/ua-tour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWhat Goes Into the Weather Balloon Launches?The National Weather Service in Lincoln launches weather balloons twi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationRadiosondes provide a primary source of upper-air data and will remain so into the foreseea...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationRadiosondes provide a primary source of upper-air data and will remain so into the foreseea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration HomeWeather · Climate · Ocean &amp; Coasts · Fisheries · Satellites · Research · Marine &amp; Avi...</p></details>
+   Link:<a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration HomeWeather · Climate · Ocean &amp; Coasts · Fisheries · Satellites · Research · Marine &amp; Avi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 16, 2025 — The radiosonde is a small instrument package that is suspended below balloon filled with either hydrogen or helium. As the...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 16, 2025 — The radiosonde is a small instrument package that is suspended below balloon filled with either hydrogen or helium. As the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00145" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00145</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Winds Aloft - WBAN 120Provisions exist on these forms for listing wind direction and speed at heights up to 42,000 meters. The first p...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00145" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00145</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Winds Aloft - WBAN 120Provisions exist on these forms for listing wind direction and speed at heights up to 42,000 meters. The first p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vlab.noaa.gov  
    Title: the trusty weather balloon  
-   Link: <a href="https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusty Weather Balloon8 Dec 2019 — They are filled with hydrogen or helium, and once launched, the balloon will typically ascend to an al...</p></details>
+   Link:<a href="https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://vlab.noaa.gov/web/nws-heritage/-/the-trusty-weather-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trusty Weather Balloon8 Dec 2019 — They are filled with hydrogen or helium, and once launched, the balloon will typically ascend to an al...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wpo.noaa.gov  
    Title: windborne weather balloon reaches new heights  
-   Link: <a href="https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
+   Link:<a href="https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aoml.noaa.gov  
    Title: upper air observations  
-   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</p></details>
+   Link:<a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice a day. Balloons are lau...</p></details>
+   Link:<a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon / Upper Air ObservationsThe NWS at Charleston, SC conducts rawinsonde observations at least twice a day. Balloons are lau...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsOfficial UAP Imagery... This reconstruction also demonstrates that the objects traveled in a straight line at...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsOfficial UAP Imagery... This reconstruction also demonstrates that the objects traveled in a straight line at...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tspr.org  
    Title: national weather service cuts forecast midwest storms  
-   Link: <a href="https://www.tspr.org/2025-04-02/national-weather-service-cuts-forecast-midwest-storms" target="_blank" rel="noopener noreferrer nofollow">https://www.tspr.org/2025-04-02/national-weather-service-cuts-forecast-midwest-storms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unprecedented&#x27; cuts to Midwest weather balloon launches...2 Apr 2025 — National Weather Service offices across the country are suspendi...</p></details>
+   Link:<a href="https://www.tspr.org/2025-04-02/national-weather-service-cuts-forecast-midwest-storms" target="_blank" rel="noopener noreferrer nofollow">https://www.tspr.org/2025-04-02/national-weather-service-cuts-forecast-midwest-storms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unprecedented&#x27; cuts to Midwest weather balloon launches...2 Apr 2025 — National Weather Service offices across the country are suspendi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: National Weather Service  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Weather_Service</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather Service - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Weather_Service" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Weather_Service</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather Service - Wikipedia...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonBalloons meant to stay at a constant altitude for long periods are known as transosondes. Weather balloons that do not...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonBalloons meant to stay at a constant altitude for long periods are known as transosondes. Weather balloons that do not...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration (NOAA)National Oceanic and Atmospheric Administration (NOAA), Washington D. C. 730492 lik...</p></details>
+   Link:<a href="https://www.facebook.com/NOAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration (NOAA)National Oceanic and Atmospheric Administration (NOAA), Washington D. C. 730492 lik...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spectrumlocalnews.com  
-   Link: <a href="https://spectrumlocalnews.com/us/snplus/weather/2025/03/26/noaa-national-weather-service-suspends-balloon-launches" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/us/snplus/weather/2025/03/26/noaa-national-weather-service-suspends-balloon-launches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather Service cuts back weather balloon...Mar 26, 2025 — These balloons reach up to 100,000 feet in the atmosphere with a rad...</p></details>
+   Link:<a href="https://spectrumlocalnews.com/us/snplus/weather/2025/03/26/noaa-national-weather-service-suspends-balloon-launches" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/us/snplus/weather/2025/03/26/noaa-national-weather-service-suspends-balloon-launches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather Service cuts back weather balloon...Mar 26, 2025 — These balloons reach up to 100,000 feet in the atmosphere with a rad...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview | ScienceDirect TopicsVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overview | ScienceDirect TopicsVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hurricanescience.org  
-   Link: <a href="https://hurricanescience.org/science/observation/landbased/radiosonde/index.html" target="_blank" rel="noopener noreferrer nofollow">https://hurricanescience.org/science/observation/landbased/radiosonde/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-Air Observations: The RadiosondeData on wind speed and direction aloft are also obtained by tracking the position of the radiosonde...</p></details>
+   Link:<a href="https://hurricanescience.org/science/observation/landbased/radiosonde/index.html" target="_blank" rel="noopener noreferrer nofollow">https://hurricanescience.org/science/observation/landbased/radiosonde/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-Air Observations: The RadiosondeData on wind speed and direction aloft are also obtained by tracking the position of the radiosonde...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DKcb-Uegtx3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKcb-Uegtx3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO quietly released a &quot;UAP&quot; video yesterday which they...... consistency with other resolved imagery depicting balloons and its behavi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DKcb-Uegtx3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKcb-Uegtx3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO quietly released a &quot;UAP&quot; video yesterday which they...... consistency with other resolved imagery depicting balloons and its behavi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/noaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA (@noaa) • Instagram photos and videosOfficial feed for the U.S. National Oceanic and Atmospheric Administration. Our mission: Scienc...</p></details>
+   Link:<a href="https://www.instagram.com/noaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA (@noaa) • Instagram photos and videosOfficial feed for the U.S. National Oceanic and Atmospheric Administration. Our mission: Scienc...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: aaro quietly released a uap video yesterday which they say is likely a balloon i  
-   Link: <a href="https://www.facebook.com/100063628085386/posts/aaro-quietly-released-a-uap-video-yesterday-which-they-say-is-likely-a-balloon-i/1300504012080523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063628085386/posts/aaro-quietly-released-a-uap-video-yesterday-which-they-say-is-likely-a-balloon-i/1300504012080523/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO quietly released a &quot;UAP&quot; video yesterday which they...Jun 4, 2025 — AARO bases its assessment on the object&#x27;s strong morphological...</p></details>
+   Link:<a href="https://www.facebook.com/100063628085386/posts/aaro-quietly-released-a-uap-video-yesterday-which-they-say-is-likely-a-balloon-i/1300504012080523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063628085386/posts/aaro-quietly-released-a-uap-video-yesterday-which-they-say-is-likely-a-balloon-i/1300504012080523/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO quietly released a &quot;UAP&quot; video yesterday which they...Jun 4, 2025 — AARO bases its assessment on the object&#x27;s strong morphological...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolut...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolut...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: alabamareflector.com  
    Title: noaa cuts weather balloon launches due to staff shortages after doge layoffs  
-   Link: <a href="https://alabamareflector.com/2025/04/01/noaa-cuts-weather-balloon-launches-due-to-staff-shortages-after-doge-layoffs/" target="_blank" rel="noopener noreferrer nofollow">https://alabamareflector.com/2025/04/01/noaa-cuts-weather-balloon-launches-due-to-staff-shortages-after-doge-layoffs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA cuts weather balloon launches due to staff...Apr 1, 2025 — The NWS uses these weather balloons, until recently launched twice per d...</p></details>
+   Link:<a href="https://alabamareflector.com/2025/04/01/noaa-cuts-weather-balloon-launches-due-to-staff-shortages-after-doge-layoffs/" target="_blank" rel="noopener noreferrer nofollow">https://alabamareflector.com/2025/04/01/noaa-cuts-weather-balloon-launches-due-to-staff-shortages-after-doge-layoffs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA cuts weather balloon launches due to staff...Apr 1, 2025 — The NWS uses these weather balloons, until recently launched twice per d...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/weather/comments/1j6b2o4/two_more_radiosonde_launches_suspended_to_due_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1j6b2o4/two_more_radiosonde_launches_suspended_to_due_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ut the United States and the Caribbean. Radiosondes are...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/weather/comments/1j6b2o4/two_more_radiosonde_launches_suspended_to_due_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1j6b2o4/two_more_radiosonde_launches_suspended_to_due_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ut the United States and the Caribbean. Radiosondes are...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/weather/comments/1jfzz4j/weather_balloon_observations_reduced_or_suspended/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1jfzz4j/weather_balloon_observations_reduced_or_suspended/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>offices due to staffing. Sources: [https://www.weather...Read](https://www.weather...Read) more...</p></details>
+   Link:<a href="https://www.reddit.com/r/weather/comments/1jfzz4j/weather_balloon_observations_reduced_or_suspended/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1jfzz4j/weather_balloon_observations_reduced_or_suspended/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offices due to staffing. Sources: [https://www.weather...Read](https://www.weather...Read) more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: conchheaven.shop  
-   Link: <a href="https://conchheaven.shop/news/355/2026-03-13-aaro-confirms-the-end-of-the-weather-balloon-era-today/" target="_blank" rel="noopener noreferrer nofollow">https://conchheaven.shop/news/355/2026-03-13-aaro-confirms-the-end-of-the-weather-balloon-era-today/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO confirms the end of the &quot;Weather Balloon&quot; era today4 days ago — If the data is insufficient to identify an object, we classify it as...</p></details>
+   Link:<a href="https://conchheaven.shop/news/355/2026-03-13-aaro-confirms-the-end-of-the-weather-balloon-era-today/" target="_blank" rel="noopener noreferrer nofollow">https://conchheaven.shop/news/355/2026-03-13-aaro-confirms-the-end-of-the-weather-balloon-era-today/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO confirms the end of the &quot;Weather Balloon&quot; era today4 days ago — If the data is insufficient to identify an object, we classify it as...</p></details>

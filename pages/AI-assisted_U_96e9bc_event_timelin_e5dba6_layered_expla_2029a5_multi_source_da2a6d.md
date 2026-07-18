@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 A UFO timeline only becomes useful when different clocks agree with each other. A witness may report a glowing object at “about 10pm”, but the phone recording may actually begin at 21:47:13, a nearby [aircraft]({{ 'aircraft/' | relative_url }}) may have crossed the same line of sight at 21:47:41, and a satellite flare may have peaked at 21:48. Those differences matter because many apparently extraordinary sightings collapse once timings are synchronised properly.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern AI-assisted UFO investigation increasingly treats timing as a form of evidence rather than background detail. The strongest reconstructions compare witness memory, device [metadata]({{ 'metadata/' | relative_url }}), aircraft transponder logs, satellite predictions, launch schedules, weather observations, and astronomical events against the same clock. NASA’s 2023 UAP study stressed that serious analysis is often limited by poor metadata, weak [calibration]({{ 'calibration/' | relative_url }}), and lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+Modern AI-assisted UFO investigation increasingly treats timing as a form of evidence rather than background detail. The strongest reconstructions compare witness memory, device [metadata]({{ 'metadata/' | relative_url }}), aircraft transponder logs, satellite predictions, launch schedules, weather observations, and astronomical events against the same clock. NASA’s 2023 UAP study stressed that serious analysis is often limited by poor metadata, weak [calibration]({{ 'calibration/' | relative_url }}), and lack of multiple measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 The goal is not to force every case into a mundane explanation. It is to test whether an explanation still fits once all known timing sources are aligned. A layered timeline keeps that process transparent and falsifiable.
 
@@ -314,7 +314,7 @@ Most modern phones embed EXIF metadata into photos and videos. That metadata may
 
 </div>
 
-But metadata is only as accurate as the device clock. Phones drifting after battery failure, cameras left on old daylight-saving settings, imported files, edited clips, social media recompression, and cloud-sync changes can all distort timing. Photography communities regularly discuss corrupted or incorrect EXIF timestamps after battery resets or imports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-title">how to shift exif date time created by time in days hours minutes</span><span class="citation-popover-snippet">· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</span></span></span>
+But metadata is only as accurate as the device clock. Phones drifting after battery failure, cameras left on old daylight-saving settings, imported files, edited clips, social media recompression, and cloud-sync changes can all distort timing. Photography communities regularly discuss corrupted or incorrect EXIF timestamps after battery resets or imports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-title">how to shift exif date time created by time in days hours minutes</span><span class="citation-popover-snippet">· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</span></span></span>
 
 AI-assisted workflows therefore treat timestamps probabilistically rather than absolutely. A reconstruction system may assign [confidence]({{ 'confidence/' | relative_url }}) levels such as:
 
@@ -461,7 +461,7 @@ One advantage of automated reconstruction is that AI can compare many timing lay
 
 A robust system can flag:
 
-* Metadata inconsistent with local sunset time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Metadata inconsistent with local sunset time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * Witness direction incompatible with celestial position
 * Aircraft trajectories that only fit after time offsets
 * Edited [media files]({{ 'media-files/' | relative_url }}) with altered timestamps
@@ -469,7 +469,7 @@ A robust system can flag:
 
 This does not prove that a sighting is ordinary. It simply prevents explanations from surviving on timing errors alone.
 
-NASA’s UAP study repeatedly emphasised the importance of calibrated measurements, multiple observations, and reliable metadata because apparently anomalous events can disappear once sensor context is properly reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
+NASA’s UAP study repeatedly emphasised the importance of calibrated measurements, multiple observations, and reliable metadata because apparently anomalous events can disappear once sensor context is properly reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 ## When Timelines Still Refuse To Align
 
@@ -500,7 +500,7 @@ That structure keeps the investigation testable rather than narrative-driven.
 
 Many UFO discussions focus on the most visually dramatic detail: sudden acceleration, hovering, impossible turns, or glowing structure. But reconstruction quality usually depends on something far less exciting: whether the clocks agree.
 
-Accident investigators, aviation analysts, and forensic video specialists routinely reconstruct events by combining independent timelines into a single evidence-tested sequence. The same logic increasingly shapes serious UFO analysis. The US National Transportation Safety Board describes accident investigation as a process of piecing together sequences of events from gathered evidence to determine what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</span></span></span>
+Accident investigators, aviation analysts, and forensic video specialists routinely reconstruct events by combining independent timelines into a single evidence-tested sequence. The same logic increasingly shapes serious UFO analysis. The US National Transportation Safety Board describes accident investigation as a process of piecing together sequences of events from gathered evidence to determine what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</span></span></span>
 
 In UFO investigation, timing checks act as a filter against both exaggeration and premature dismissal. They help separate:
 
@@ -512,194 +512,194 @@ In UFO investigation, timing checks act as a filter against both exaggeration an
 A layered timeline does not guarantee an answer. What it does provide is something more valuable for serious investigation: a transparent way to test whether the explanation actually fits the event minute by minute.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do The Timelines Really Match The UFO Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do The Timelines Really Match The UFO Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Keeps the recommendation tied to UFO evidence and official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the recommendation tied to UFO evidence and official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Directly fits synchronising multiple timelines and avoiding false anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly fits synchronising multiple timelines and avoiding false anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-led treatment of extraordinary-looking timing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-led treatment of extraordinary-looking timing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Useful for weighing competing time-based explanations without overclaiming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for weighing competing time-based explanations without overclaiming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="do-the-timelines-really-match-the-ufo-claim-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,137 +905,137 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</p></details>
+   Link:<a href="https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</p></details>
    Published: May 31, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/default.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/default.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ntsb.gov  
    Title: i AVIATION INVESTIGATION MANUAL  
-   Link: <a href="https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
+   Link:<a href="https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/Pages/Investigations.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/Pages/Investigations.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/Pages/Investigations.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/Pages/Investigations.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flightradar24.com  
    Title: How to investigate an air crash  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>according to the NTSB11 Feb 2025 — Flight data recorders contain hundreds of parameters that must be analyzed to reconstruct the sequence...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>according to the NTSB11 Feb 2025 — Flight data recorders contain hundreds of parameters that must be analyzed to reconstruct the sequence...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...We should explore anomalous objects by seeking new data agnostica...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...We should explore anomalous objects by seeking new data agnostica...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: photo.stackexchange.com  
    Title: how to shift exif date time created by time in days hours minutes  
-   Link: <a href="https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</p></details>
+   Link:<a href="https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: National Transportation Safety Board  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Transportation_Safety_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Transportation_Safety_Board</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Transportation_Safety_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Transportation_Safety_Board</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: strategic-risk-global.com  
-   Link: <a href="https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article" target="_blank" rel="noopener noreferrer nofollow">https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
+   Link:<a href="https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article" target="_blank" rel="noopener noreferrer nofollow">https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/about_atsb/investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/about_atsb/investigation-process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
+   Link:<a href="https://www.atsb.gov.au/about_atsb/investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/about_atsb/investigation-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibratio...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibratio...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hicaonline.in  
-   Link: <a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
+   Link:<a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/</a>  
+   Link:<a href="https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/</a>  
+   Link:<a href="https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mchip.net  
-   Link: <a href="https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
+   Link:<a href="https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to UAP reporting and the importance of...NASA&#x27;s report points directly at the social cost: stigma reduces reporting, and po...</p></details>
+   Link:<a href="https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to UAP reporting and the importance of...NASA&#x27;s report points directly at the social cost: stigma reduces reporting, and po...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: safetymaterials.argus.aero  
    Title: aero NTS B Investigation Process & the Party System• Defining an Accident  
-   Link: <a href="https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>
+   Link:<a href="https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

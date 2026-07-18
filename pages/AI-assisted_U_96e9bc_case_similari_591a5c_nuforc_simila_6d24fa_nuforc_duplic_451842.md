@@ -269,18 +269,18 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d
 
 ## Introduction
 
-Large UFO databases are useful only if investigators treat them as noisy human reporting systems rather than clean scientific catalogues. The National UFO Reporting Center (NUFORC) contains a huge archive of witness accounts stretching across decades, but that scale creates a serious problem for AI-assisted UFO sighting investigation: weak reports, duplicate submissions, copied stories, vague narratives, and viral-event waves can generate misleading patterns that look meaningful when they are not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Large UFO databases are useful only if investigators treat them as noisy human reporting systems rather than clean scientific catalogues. The National UFO Reporting Center (NUFORC) contains a huge archive of witness accounts stretching across decades, but that scale creates a serious problem for AI-assisted UFO sighting investigation: weak reports, duplicate submissions, copied stories, vague narratives, and viral-event waves can generate misleading patterns that look meaningful when they are not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-1-dark.svg" | relative_url }}" alt="False Matches illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For modern case analysis, this matters directly. An AI comparison system trained on raw NUFORC entries may incorrectly conclude that a new sighting resembles dozens of earlier cases when many of those reports actually describe the same event, contain missing timestamps, or repeat folklore-driven language rather than independent observations. Filtering weak and duplicated records is therefore not a minor database-cleaning exercise. It is one of the central safeguards that separates useful historical comparison from automated pattern illusion.
 
 ## How Weak UFO Reports Create False Patterns
 
-NUFORC was built as a public reporting archive, not as a tightly controlled scientific instrument. Witnesses can submit reports online using free-text descriptions with varying levels of detail, precision, and reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCApril 17, 2026 — Use a word processor to carefully compose and spell check your report, then copy...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span> That openness gives investigators access to large numbers of observations, but it also introduces severe consistency problems for machine analysis.
+NUFORC was built as a public reporting archive, not as a tightly controlled scientific instrument. Witnesses can submit reports online using free-text descriptions with varying levels of detail, precision, and reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCApril 17, 2026 — Use a word processor to carefully compose and spell check your report, then copy...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span> That openness gives investigators access to large numbers of observations, but it also introduces severe consistency problems for machine analysis.
 
 A modern AI search system may attempt to cluster reports using terms like “triangle”, “orb”, “silent object”, or “hovering lights”. The problem is that these descriptions are highly unstable. One witness may describe three [aircraft]({{ 'aircraft/' | relative_url }}) lights as a “triangle craft”, while another observer files the same event as “three stars moving slowly”. A third may describe it as a “black military vehicle”. Without filtering and normalisation, the AI may incorrectly classify these as either multiple unrelated anomalies or a coherent wave of identical craft.
 
-This problem becomes worse during highly publicised UFO moments. Studies examining reporting behaviour in UFO databases have shown that media attention strongly affects reporting volume and timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> Viral stories can trigger retrospective submissions, copied narratives, and reinterpretations of ordinary events as UFO sightings. In practical terms, this means a sudden spike in reports may reflect social attention rather than unusual aerial activity.
+This problem becomes worse during highly publicised UFO moments. Studies examining reporting behaviour in UFO databases have shown that media attention strongly affects reporting volume and timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> Viral stories can trigger retrospective submissions, copied narratives, and reinterpretations of ordinary events as UFO sightings. In practical terms, this means a sudden spike in reports may reflect social attention rather than unusual aerial activity.
 
 For event-specific investigation, the safest assumption is usually that raw report count alone means very little. Ten weak reports submitted after a viral news cycle may contain less investigative value than one carefully documented witness statement with accurate timing and environmental detail.
 
@@ -375,7 +375,7 @@ Narrative quality creates a second filtering problem. NUFORC’s open text forma
 
 These reports may still hold cultural or sociological interest, but they are weak inputs for automated comparison systems.
 
-Researchers studying UFO reporting patterns have repeatedly noted that reporting behaviour reflects human perception and social context as much as external stimuli. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span> That distinction matters because AI systems are extremely good at detecting statistical regularities even when those regularities are generated by human storytelling habits rather than external events.
+Researchers studying UFO reporting patterns have repeatedly noted that reporting behaviour reflects human perception and social context as much as external stimuli.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span> That distinction matters because AI systems are extremely good at detecting statistical regularities even when those regularities are generated by human storytelling habits rather than external events.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-2-dark.svg" | relative_url }}" alt="False Matches illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Shape Labels Alone Mislead AI Systems
@@ -403,7 +403,7 @@ Likewise, “orb” reports often collapse many unrelated phenomena into one cat
 * bright satellites
 * defocused smartphone video artifacts
 
-Reddit-based amateur analyses of large NUFORC datasets frequently show how heavily free-text interpretation shapes apparent patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span> This does not make the reports useless. It means the wording itself becomes part of the phenomenon being analysed.
+Reddit-based amateur analyses of large NUFORC datasets frequently show how heavily free-text interpretation shapes apparent patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span> This does not make the reports useless. It means the wording itself becomes part of the phenomenon being analysed.
 
 For AI-assisted investigation, movement behaviour and environmental correlation usually matter more than witness-assigned object type. A reliable comparison engine should weight:
 
@@ -423,7 +423,7 @@ more heavily than dramatic labels such as “craft”, “orb”, or “triangle
 
 ## Confidence Scoring In AI Comparison Systems
 
-Modern AI filtering systems increasingly use confidence scoring to separate potentially useful cases from low-value noise. This approach resembles credibility ranking methods now being discussed in broader UAP research literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Toward a Reliability Scale for Assessing Reports of...by D Schulze-Makuch · 2025 — Unidentified Anomalous Phenomena (UAP) observatio...</span></span></span>
+Modern AI filtering systems increasingly use confidence scoring to separate potentially useful cases from low-value noise. This approach resembles credibility ranking methods now being discussed in broader UAP research literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Toward a Reliability Scale for Assessing Reports of...by D Schulze-Makuch · 2025 — Unidentified Anomalous Phenomena (UAP) observatio...</span></span></span>
 
 In practical investigation workflows, a confidence score is not a declaration that a UFO is “real”. It is simply an estimate of how useful a report is for structured comparison.
 
@@ -453,7 +453,7 @@ A well-designed AI system can assign lower analytical weight to weak reports wit
 One useful approach is layered ranking:
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-dark.svg" | relative_url }}" alt="False Matches illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Raw witness report <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+1. Raw witness report<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 2. Cleaned and standardised report
 3. Duplicate probability estimate
 4. Environmental correlation score
@@ -510,194 +510,194 @@ In many investigations, filtering actually strengthens the remaining unresolved 
 That matters for AI-assisted UFO sighting investigation because the most useful question is rarely “how many UFO reports exist?” The more important question is whether a specific, dated, located sighting still looks unusual after duplicate removal, environmental checks, and confidence weighting have been applied.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Weak UFO Reports Create False Patterns. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Weak UFO Reports Create False Patterns. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Anchors data-quality discussion in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors data-quality discussion in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Excellent fit for false patterns in large UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for false patterns in large UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why weak reports and expectations create misleading patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why weak reports and expectations create misleading patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports skeptical use of anecdotal evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports skeptical use of anecdotal evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-weak-ufo-reports-create-false-patterns-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -817,7 +817,7 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -862,7 +862,7 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -903,149 +903,149 @@ That matters for AI-assisted UFO sighting investigation because the most useful 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCApril 17, 2026 — Use a word processor to carefully compose and spell check your report, then copy...</p></details>
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCApril 17, 2026 — Use a word processor to carefully compose and spell check your report, then copy...</p></details>
    Published: April 17, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</p></details>
    Published: July 10, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseThe data: A lot of people asked. It is the NUFORC database. I realized I needed to...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseThe data: A lot of people asked. It is the NUFORC database. I realized I needed to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/11/10/326</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Reliability Scale for Assessing Reports of...by D Schulze-Makuch · 2025 — Unidentified Anomalous Phenomena (UAP) observatio...</p></details>
+   Link:<a href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/11/10/326</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Reliability Scale for Assessing Reports of...by D Schulze-Makuch · 2025 — Unidentified Anomalous Phenomena (UAP) observatio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Month68 New UFO Images Added to Gallery · NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Anal...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Month68 New UFO Images Added to Gallery · NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Anal...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotspots in NUFORC Reports – An AnalysisNov 8, 2023 — This is particularly interesting when looking at UFO reports because it can show us...</p></details>
+   Link:<a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hotspots in NUFORC Reports – An AnalysisNov 8, 2023 — This is particularly interesting when looking at UFO reports because it can show us...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NYNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NYNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ortant records of UFO sightings and...Read more...</p></details>
+   Link:<a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ortant records of UFO sightings and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 675; USA - Alabama, 1523; USA - Arkansas...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 120; USA - Alaska, 675; USA - Alabama, 1523; USA - Arkansas...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/</a>  
+   Link:<a href="https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social factors and UFO reports: was the SARS-CoV...To measure UFO reports we utilized two public databases of UFO reports for sigh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social factors and UFO reports: was the SARS-CoV...To measure UFO reports we utilized two public databases of UFO reports for sigh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blog.stackademic.com  
-   Link: <a href="https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47" target="_blank" rel="noopener noreferrer nofollow">https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The...27 Mar 2026 — The database is the largest independently collected and vetted set of UAP reports available to the public anywhere i...</p></details>
+   Link:<a href="https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47" target="_blank" rel="noopener noreferrer nofollow">https://blog.stackademic.com/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The...27 Mar 2026 — The database is the largest independently collected and vetted set of UAP reports available to the public anywhere i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: according to the national ufo reporting center nuforc roughly 2000 unidentified  
-   Link: <a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the National UFO Reporting Center (NUFORC...According to the National UFO Reporting Center (NUFORC), roughly 2,000 unidenti...</p></details>
+   Link:<a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the National UFO Reporting Center (NUFORC...According to the National UFO Reporting Center (NUFORC), roughly 2,000 unidenti...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perform some standardization and cleaning, and geocode the sightings at the city/...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perform some standardization and cleaning, and geocode the sightings at the city/...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
    Title: global ufo uap report april 2026 e824bcadcce7  
-   Link: <a href="https://medium.com/%40pauljones_85805/global-ufo-uap-report-april-2026-e824bcadcce7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/global-ufo-uap-report-april-2026-e824bcadcce7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFO / UAP Report — April 2026 | by Paul JonesMultiple civilian sightings were logged via NUFORC across the continental United Stat...</p></details>
+   Link:<a href="https://medium.com/%40pauljones_85805/global-ufo-uap-report-april-2026-e824bcadcce7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/global-ufo-uap-report-april-2026-e824bcadcce7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFO / UAP Report — April 2026 | by Paul JonesMultiple civilian sightings were logged via NUFORC across the continental United Stat...</p></details>
    Published: april 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40senaaravichandran/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40senaaravichandran/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of public UAP sightings and sky view...Read more...</p></details>
+   Link:<a href="https://medium.com/%40senaaravichandran/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40senaaravichandran/someone-mapped-every-ufo-sighting-on-earth-the-patterns-are-more-unsettling-than-the-sightings-70329ee7ef47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of public UAP sightings and sky view...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n 2024, has collected 1,184 reports in Louisiana.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n 2024, has collected 1,184 reports in Louisiana.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: enigmaticideas.com  
    Title: Let's start with why I wanted to try  
-   Link: <a href="https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Patterns in 152,000 UFO/UAP Sightings5 Jan 2026 — If you&#x27;ve never explored their database, I highly recommend checking out the NU...</p></details>
+   Link:<a href="https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Patterns in 152,000 UFO/UAP Sightings5 Jan 2026 — If you&#x27;ve never explored their database, I highly recommend checking out the NU...</p></details>

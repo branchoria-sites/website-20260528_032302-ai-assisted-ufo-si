@@ -305,7 +305,7 @@ AI-assisted reconstruction helps because humans are poor at estimating:
 * Whether movement is object motion or observer perspective
 * Timing accuracy during stressful or surprising events
 
-Modern aircraft tracking systems provide several independent measurements that can be compared against the witness account. ADS-B and Mode S transponders can broadcast position, altitude, speed, and aircraft identity. Public tracking platforms such as Flightradar24 and ADS-B Exchange aggregate those broadcasts using volunteer receiver networks, multilateration systems, radar feeds, and satellite relays. Flightradar24 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span>
+Modern aircraft tracking systems provide several independent measurements that can be compared against the witness account. ADS-B and Mode S transponders can broadcast position, altitude, speed, and aircraft identity. Public tracking platforms such as Flightradar24 and ADS-B Exchange aggregate those broadcasts using volunteer receiver networks, multilateration systems, radar feeds, and satellite relays. Flightradar24<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span>
 
 That data becomes far more useful when placed into a layered UFO event timeline rather than treated as a simple yes-or-no lookup.
 
@@ -330,7 +330,7 @@ When coverage is good, aircraft data can establish:
 
 </div>
 
-ADS-B broadcasts can update aircraft position roughly once per second and are generally more precise than older radar sweeps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span>
+ADS-B broadcasts can update aircraft position roughly once per second and are generally more precise than older radar sweeps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span>
 
 For a UFO investigation timeline, that precision matters because apparent anomalies often occur during short transitions. A witness may report that a light “suddenly accelerated” at 21:14:32. The flight path may show the aircraft beginning a banking turn at 21:14:28, changing its visible [geometry]({{ 'geometry/' | relative_url }}) and apparent brightness from the observer’s position.
 
@@ -351,9 +351,9 @@ Public aircraft data has important limitations:
 
 </div>
 
-Flightradar24 notes that many military aircraft and older aircraft rely on Mode S rather than full ADS-B transmissions, requiring multilateration calculations instead of direct position broadcasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span>
+Flightradar24 notes that many military aircraft and older aircraft rely on Mode S rather than full ADS-B transmissions, requiring multilateration calculations instead of direct position broadcasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span>
 
-That distinction matters in UFO cases because MLAT-derived tracks can contain gaps or lower positional precision. Community discussions among flight-tracking operators also note that MLAT accuracy can vary substantially depending on receiver geometry and coverage density. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.flightaware.com/t/postime-and-mlat-questions/24989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.flightaware.com">[FlightAware Discussions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.flightaware.com</span><span class="citation-popover-title">Flight Aware Discussions Pos Time and MLAT questions</span><span class="citation-popover-snippet">This is a...Read more...</span></span></span>
+That distinction matters in UFO cases because MLAT-derived tracks can contain gaps or lower positional precision. Community discussions among flight-tracking operators also note that MLAT accuracy can vary substantially depending on receiver geometry and coverage density.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.flightaware.com/t/postime-and-mlat-questions/24989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.flightaware.com">[FlightAware Discussions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.flightaware.com</span><span class="citation-popover-title">Flight Aware Discussions Pos Time and MLAT questions</span><span class="citation-popover-snippet">This is a...Read more...</span></span></span>
 
 An investigator therefore cannot safely conclude: “No aircraft appears on the app, therefore no aircraft was present.”
 
@@ -473,7 +473,7 @@ That does not mean all unexplained sightings are military aircraft. It means abs
 
 Military aircraft visibility varies widely.
 
-Some military flights broadcast ADS-B normally. Others reduce or disable public visibility. Some appear only through MLAT estimation if receivers detect Mode S signals. Flightradar24 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">open source flight tracking called threat to military aircraft</span><span class="citation-popover-snippet">6 Feb 2023 — In other words, if an airplane is not using ADS-B to transpond as military aircraft sometimes do, MLAT receivers can still p...</span></span></span>
+Some military flights broadcast ADS-B normally. Others reduce or disable public visibility. Some appear only through MLAT estimation if receivers detect Mode S signals. Flightradar24<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">open source flight tracking called threat to military aircraft</span><span class="citation-popover-snippet">6 Feb 2023 — In other words, if an airplane is not using ADS-B to transpond as military aircraft sometimes do, MLAT receivers can still p...</span></span></span>
 
 This inconsistency creates misleading gaps for casual investigators. A witness may see:
 
@@ -500,7 +500,7 @@ Even when the aircraft itself is hidden, secondary clues may still appear in the
 
 Modern flight tracking also depends on receiver coverage and GPS reliability.
 
-Flightradar24 explains that it combines ADS-B, MLAT, radar, and satellite sources because no single tracking method covers everything consistently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how does fr24 track aircraft</span><span class="citation-popover-snippet">How does Flightradar24 track aircraft?4 Apr 2024 — We combine data from several data sources including ADS-B, MLAT, satellit...</span></span></span>
+Flightradar24 explains that it combines ADS-B, MLAT, radar, and satellite sources because no single tracking method covers everything consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how does fr24 track aircraft</span><span class="citation-popover-snippet">How does Flightradar24 track aircraft?4 Apr 2024 — We combine data from several data sources including ADS-B, MLAT, satellit...</span></span></span>
 
 Coverage problems become more noticeable:
 
@@ -511,7 +511,7 @@ Coverage problems become more noticeable:
 * In conflict or jamming areas
 * Near sparse receiver networks
 
-Researchers studying ADS-B infrastructure have also noted that sensor placement and redundancy strongly affect visibility and resilience against interference or signal disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards Security-Optimized Placement of ADS-B Sensors</span><span class="citation-popover-snippet">Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
+Researchers studying ADS-B infrastructure have also noted that sensor placement and redundancy strongly affect visibility and resilience against interference or signal disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards Security-Optimized Placement of ADS-B Sensors</span><span class="citation-popover-snippet">Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
 
 For UFO timeline work, this means missing track segments should be marked as uncertainty zones rather than treated as proof of anomalous behaviour.
 
@@ -542,7 +542,7 @@ A single coincidence in time is weak. Multiple correlated factors are much stron
 
 ### Weak or inconclusive matches
 
-An aircraft explanation weakens when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[flightaware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">ADS-B Flight TrackingADS-B equipped aircraft emit their exact position and Mode S aircraft can be tracked via multilateration (MLAT) when...</span></span></span>
+An aircraft explanation weakens when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[flightaware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">ADS-B Flight TrackingADS-B equipped aircraft emit their exact position and Mode S aircraft can be tracked via multilateration (MLAT) when...</span></span></span>
 
 * Flight path geometry does not fit the witness angle
 * The object manoeuvres incompatibly with aircraft motion
@@ -596,194 +596,194 @@ In practice, that means the question is rarely just “Was there a plane nearby?
 That narrower and more testable question is where aircraft timeline analysis becomes genuinely valuable in AI-assisted UFO investigation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was it a plane after all?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was it a plane after all?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration</p>
         
-        <p class="fr-book-desc">Explains aircraft behaviour, navigation and flight principles behind many UFO checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains aircraft behaviour, navigation and flight principles behind many UFO checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects aircraft checks to serious UFO case investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects aircraft checks to serious UFO case investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful testing before declaring a sighting unexplained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful testing before declaring a sighting unexplained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps readers understand apparent aircraft motion from the ground.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand apparent aircraft motion from the ground.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware"><img src="https://i.ebayimg.com/images/g/WSkAAOSwFwJn7mWw/s-l225.jpg" alt="Listing image for RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware"><img src="https://i.ebayimg.com/images/g/WSkAAOSwFwJn7mWw/s-l225.jpg" alt="Listing image for RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">RTL2832U ADS-B Mode-S USB SDR Receiver RF Amplifier 1090MHz Bandpass Flightaware</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation"><img src="https://i.ebayimg.com/images/g/7VkAAeSwgPxpDZwn/s-l225.jpg" alt="Listing image for ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation"><img src="https://i.ebayimg.com/images/g/7VkAAeSwgPxpDZwn/s-l225.jpg" alt="Listing image for ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB Decoder Full-Band Receiver ADSB And AIS Support AM FM SSB Demodulation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀"><img src="https://i.ebayimg.com/images/g/TXYAAeSwmCZqJ4gI/s-l225.jpg" alt="Listing image for 1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀"><img src="https://i.ebayimg.com/images/g/TXYAAeSwmCZqJ4gI/s-l225.jpg" alt="Listing image for 1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">1090MHZ ADSB Receiver Antenna W/ SMA Connector 36dbi Omnidirectional Antenna❀</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB Antenna Active Receiving Antenna 1090MHZ"><img src="https://i.ebayimg.com/images/g/Ot0AAeSw635pumFw/s-l225.jpg" alt="Listing image for ADSB Antenna Active Receiving Antenna 1090MHZ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB Antenna Active Receiving Antenna 1090MHZ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB Antenna Active Receiving Antenna 1090MHZ"><img src="https://i.ebayimg.com/images/g/Ot0AAeSw635pumFw/s-l225.jpg" alt="Listing image for ADSB Antenna Active Receiving Antenna 1090MHZ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB Antenna Active Receiving Antenna 1090MHZ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-a-plane-after-all-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="was-it-a-plane-after-all-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -799,7 +799,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -819,7 +819,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -851,7 +851,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -903,7 +903,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -948,7 +948,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -989,174 +989,174 @@ That narrower and more testable question is where aircraft timeline analysis bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
    Title: how does fr24 track aircraft  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?4 Apr 2024 — We combine data from several data sources including ADS-B, MLAT, satellit...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?4 Apr 2024 — We combine data from several data sources including ADS-B, MLAT, satellit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/ads-b/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction into ADS-B | Flightradar24 BlogADS-B enables aircraft to broadcast their position, altitude, speed, and other data to gro...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction into ADS-B | Flightradar24 BlogADS-B enables aircraft to broadcast their position, altitude, speed, and other data to gro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>find out more about the technology...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>find out more about the technology...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discussions.flightaware.com  
    Title: Flight Aware Discussions Pos Time and MLAT questions  
-   Link: <a href="https://discussions.flightaware.com/t/postime-and-mlat-questions/24989" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/postime-and-mlat-questions/24989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a...Read more...</p></details>
+   Link:<a href="https://discussions.flightaware.com/t/postime-and-mlat-questions/24989" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/postime-and-mlat-questions/24989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is a...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Towards Security-Optimized Placement of ADS-B Sensors  
-   Link: <a href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.01994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.01994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</p></details>
    Published: April 5, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2025 — Flightradar24 uses Multilateration (MLAT), which allows us to compute the position of the aircraft based on the time differ...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2025 — Flightradar24 uses Multilateration (MLAT), which allows us to compute the position of the aircraft based on the time differ...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: flightradar24.com  
    Title: how the world tracked the b2 diversion flights  
-   Link: <a href="https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>how the world tracked the B-2 diversion flights22 Jun 2025 — The most tracked flights on Flightradar24 during 21 June were US Air Force t...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how the world tracked the B-2 diversion flights22 Jun 2025 — The most tracked flights on Flightradar24 during 21 June were US Air Force t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/glossary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation glossary &amp; flight tracking terminologyAn aircraft that has a transponder that is ADS-B equipped enables extensive flight details...</p></details>
+   Link:<a href="https://www.flightradar24.com/glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/glossary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation glossary &amp; flight tracking terminologyAn aircraft that has a transponder that is ADS-B equipped enables extensive flight details...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with ADS-B22 May 2015 — How flight tracking works. Flightradar24 combines data from several data sources including A...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with ADS-B22 May 2015 — How flight tracking works. Flightradar24 combines data from several data sources including A...</p></details>
    Published: May 2015  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/tag/mlat/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/tag/mlat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT | Flightradar24 BlogEach month we send out complete ADS-B receiver kits that include an ADS-B receiver, antennas, and all necessary...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/tag/mlat/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/tag/mlat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT | Flightradar24 BlogEach month we send out complete ADS-B receiver kits that include an ADS-B receiver, antennas, and all necessary...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flightradar24.com  
    Title: Build your own ADS-B receiver  
-   Link: <a href="https://www.flightradar24.com/build-your-own" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/build-your-own</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pi24 client for flight trackingYour receiver will run Flightradar24&#x27;s Pi24 client to track flights within 200-400 miles and will automati...</p></details>
+   Link:<a href="https://www.flightradar24.com/build-your-own" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/build-your-own</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pi24 client for flight trackingYour receiver will run Flightradar24&#x27;s Pi24 client to track flights within 200-400 miles and will automati...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: multilateration.info  
-   Link: <a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>systems provide airline and airport personnel with real-time, shared situational awareness and tracking that supports Collaborative Decis...</p></details>
+   Link:<a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>systems provide airline and airport personnel with real-time, shared situational awareness and tracking that supports Collaborative Decis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.flightaware.com  
    Title: from radar to revolution the story of ads b  
-   Link: <a href="https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This allows FlightAware to track additional aircraft than would be possible with ADS-B...Read more...</p></details>
+   Link:<a href="https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This allows FlightAware to track additional aircraft than would be possible with ADS-B...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flightaware.com  
-   Link: <a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingADS-B equipped aircraft emit their exact position and Mode S aircraft can be tracked via multilateration (MLAT) when...</p></details>
+   Link:<a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingADS-B equipped aircraft emit their exact position and Mode S aircraft can be tracked via multilateration (MLAT) when...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationaldefensemagazine.org  
    Title: open source flight tracking called threat to military aircraft  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2023 — In other words, if an airplane is not using ADS-B to transpond as military aircraft sometimes do, MLAT receivers can still p...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2023 — In other words, if an airplane is not using ADS-B to transpond as military aircraft sometimes do, MLAT receivers can still p...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Flightradar24 is a Swedish Internet-based service that shows real-time aircraft flight tracking information on a map. It...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Flightradar24 is a Swedish Internet-based service that shows real-time aircraft flight tracking information on a map. It...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adsinc.com  
-   Link: <a href="https://www.adsinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS | Military Equipment &amp; Tactical Gear SuppliersADS provides military equipment, army procurement, logistics, and supply chain solution...</p></details>
+   Link:<a href="https://www.adsinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS | Military Equipment &amp; Tactical Gear SuppliersADS provides military equipment, army procurement, logistics, and supply chain solution...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: x.com  
-   Link: <a href="https://x.com/flightradar24/status/1884841093046661480" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24/status/1884841093046661480</a>  
+   Link:<a href="https://x.com/flightradar24/status/1884841093046661480" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24/status/1884841093046661480</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B 101. What It Is, and What It Means to You | by FAA...ADS-B is a foundational NextGen technology that uses GPS information to track...</p></details>
+   Link:<a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B 101. What It Is, and What It Means to You | by FAA...ADS-B is a foundational NextGen technology that uses GPS information to track...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: l3harris.com  
-   Link: <a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Air Traffic SurveillanceADS-B enables near instantaneous position update (about one second) as opposed to 5–12 seconds from traditi...</p></details>
+   Link:<a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Air Traffic SurveillanceADS-B enables near instantaneous position update (about one second) as opposed to 5–12 seconds from traditi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeUltra-low-latency global aircraft positions every 500ms for real-time tracking at scale. Live operations. Precision real-ti...</p></details>
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeUltra-low-latency global aircraft positions every 500ms for real-time tracking at scale. Live operations. Precision real-ti...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cutteraviation.com  
-   Link: <a href="https://cutteraviation.com/aircraft-service-avionics-support/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://cutteraviation.com/aircraft-service-avionics-support/ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BADS-B allows air traffic controllers to route traffic more efficiently, reducing congestion, noise, emission and fuel consumption.Re...</p></details>
+   Link:<a href="https://cutteraviation.com/aircraft-service-avionics-support/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://cutteraviation.com/aircraft-service-avionics-support/ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BADS-B allows air traffic controllers to route traffic more efficiently, reducing congestion, noise, emission and fuel consumption.Re...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retrieval of detailed...</p></details>
+   Link:<a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retrieval of detailed...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?Satellites equipped with ADS-B receivers collect data from aircraft outside our terrestrial ADS-B n...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?Satellites equipped with ADS-B receivers collect data from aircraft outside our terrestrial ADS-B n...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT, PI, ADSB Exchange???Ok so I have adsb exchange image on my Pi. Everything works great. I see about 60 to 100 aircraft in a 100 mile...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT, PI, ADSB Exchange???Ok so I have adsb exchange image on my Pi. Everything works great. I see about 60 to 100 aircraft in a 100 mile...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/APAC/Documents/edocs/mlat_concept.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Documents/edocs/mlat_concept.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT) Concept of useIn this document: ADS-B IN means the reception of ADS-B position reports by an aircraft. ADS-B OUT m...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/APAC/Documents/edocs/mlat_concept.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Documents/edocs/mlat_concept.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT) Concept of useIn this document: ADS-B IN means the reception of ADS-B position reports by an aircraft. ADS-B OUT m...</p></details>

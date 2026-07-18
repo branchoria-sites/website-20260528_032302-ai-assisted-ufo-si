@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 A single UFO video can look convincing while still being heavily shaped by the camera that recorded it. That is why investigators increasingly compare several sensor types at once rather than relying on one dramatic clip. If a thermal camera shows a rotating object but visible-light footage does not, or if radar tracks steady motion while video appears to show impossible acceleration, the disagreement often points to a sensor artefact instead of extraordinary flight behaviour.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern UFO and UAP investigations therefore treat multi-sensor comparison as one of the fastest ways to separate genuine movement from camera-generated illusion. NASA’s independent UAP study warned that many cases are difficult to interpret because of “poor sensor [calibration]({{ 'calibration/' | relative_url }})”, missing [metadata]({{ 'metadata/' | relative_url }}) and a lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>, that means a sighting supported by only one imaging mode is far more vulnerable to glare, tracking errors, stabilisation artefacts, parallax mistakes and depth illusions than a case independently confirmed across radar, infrared, visible-light and environmental data.
+Modern UFO and UAP investigations therefore treat multi-sensor comparison as one of the fastest ways to separate genuine movement from camera-generated illusion. NASA’s independent UAP study warned that many cases are difficult to interpret because of “poor sensor [calibration]({{ 'calibration/' | relative_url }})”, missing [metadata]({{ 'metadata/' | relative_url }}) and a lack of multiple measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>, that means a sighting supported by only one imaging mode is far more vulnerable to glare, tracking errors, stabilisation artefacts, parallax mistakes and depth illusions than a case independently confirmed across radar, infrared, visible-light and environmental data.
 
 ## Comparing Thermal and Visible-Light Footage
 
@@ -280,7 +280,7 @@ Thermal imaging and visible-light cameras do not record the world in the same wa
 
 This difference becomes especially important in military UFO footage. A distant [aircraft]({{ 'aircraft/' | relative_url }}) engine, hot exhaust plume or sun-heated surface may appear as a featureless glowing blob in infrared while looking ordinary in daylight footage. When only the thermal image survives, viewers may mistake sensor bloom or optical glare for the actual shape of the object.
 
-The Navy “Gimbal” footage became a major example of this problem. Many viewers interpreted the rotating bright form as evidence of a rotating craft. Alternative technical analyses argued that the apparent rotation aligned more closely with infrared glare and camera mechanics than with physical object rotation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — But this glare would not rotate in sync with the rotating gimbal since the derotation devic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">A New Analysis14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and rotating only because the camera rotate...</span></span></span> The debate remains contested, but the case demonstrated an important investigative principle: if the object truly rotated in space, the motion should ideally appear consistently across multiple sensing systems rather than only through one infrared presentation mode.
+The Navy “Gimbal” footage became a major example of this problem. Many viewers interpreted the rotating bright form as evidence of a rotating craft. Alternative technical analyses argued that the apparent rotation aligned more closely with infrared glare and camera mechanics than with physical object rotation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — But this glare would not rotate in sync with the rotating gimbal since the derotation devic...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">A New Analysis14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and rotating only because the camera rotate...</span></span></span> The debate remains contested, but the case demonstrated an important investigative principle: if the object truly rotated in space, the motion should ideally appear consistently across multiple sensing systems rather than only through one infrared presentation mode.
 
 Multi-sensor comparison changes the question from “does the object look strange?” to “do different instruments agree about the same behaviour?”
 
@@ -303,7 +303,7 @@ AI-assisted workflows can automate some of these comparisons. Image-analysis sys
 
 Radar often provides the most useful external check on dramatic video claims because radar measures reflected radio energy rather than visible appearance. A camera may exaggerate motion through zoom, tracking jitter or parallax while radar shows slow, ordinary travel.
 
-The “GoFast” Navy video illustrates this problem clearly. The infrared footage appeared to show a fast-moving object skimming low over the ocean at extreme speed. Later analyses from the All-domain Anomaly Resolution Office (AARO) concluded that the apparent velocity was largely caused by parallax and viewing [geometry]({{ 'geometry/' | relative_url }}) rather than extraordinary propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high c...</span><span class="citation-popover-meta">Published: February 2025</span></span></span> DefenseScoop This matters because the dramatic impression came mainly from the camera perspective. The tracking system locked onto a distant object while <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro findings go fast puerto rico mt etna objects</span><span class="citation-popover-snippet">Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resolu...</span></span></span> the observing aircraft itself moved rapidly. Without stable depth references, the target appeared to race across the water even though its actual motion was much slower.
+The “GoFast” Navy video illustrates this problem clearly. The infrared footage appeared to show a fast-moving object skimming low over the ocean at extreme speed. Later analyses from the All-domain Anomaly Resolution Office (AARO) concluded that the apparent velocity was largely caused by parallax and viewing [geometry]({{ 'geometry/' | relative_url }}) rather than extraordinary propulsion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high c...</span><span class="citation-popover-meta">Published: February 2025</span></span></span> DefenseScoop This matters because the dramatic impression came mainly from the camera perspective. The tracking system locked onto a distant object while<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro findings go fast puerto rico mt etna objects</span><span class="citation-popover-snippet">Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resolu...</span></span></span> the observing aircraft itself moved rapidly. Without stable depth references, the target appeared to race across the water even though its actual motion was much slower.
 
 When radar and video disagree, investigators usually examine four possibilities:
 
@@ -322,7 +322,7 @@ Slight timestamp mismatches between radar logs and video feeds can create false 
 
 A strong multi-sensor case therefore depends on independent agreement. If radar, optical footage, infrared footage and flight telemetry all indicate the same acceleration, direction and altitude change, [confidence]({{ 'confidence/' | relative_url }}) increases that the movement was physically real. If only one system records the dramatic behaviour, investigators become more cautious.
 
-This is one reason NASA and other research groups emphasise calibrated, multi-source observation networks rather than isolated clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
+This is one reason NASA and other research groups emphasise calibrated, multi-source observation networks rather than isolated clips.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sensor Disagreement Often Reveals the Artefact
@@ -376,13 +376,13 @@ Machine-learning systems can also compare new footage against libraries of known
 * autofocus hunting
 * sensor washout
 * rolling-shutter wobble
-* gimbal rotation signatures <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">gimbal lock and derotation in flir atflir systems.10792</span><span class="citation-popover-snippet">Gimbal Lock and Derotation in FLIR/ATFLIR systemsJun 27, 2019 — In order to correct for the rotation of the image, the derotation device...</span></span></span>
+* gimbal rotation signatures<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">gimbal lock and derotation in flir atflir systems.10792</span><span class="citation-popover-snippet">Gimbal Lock and Derotation in FLIR/ATFLIR systemsJun 27, 2019 — In order to correct for the rotation of the image, the derotation device...</span></span></span>
 
 </div>
 
 The goal is not to dismiss unusual footage automatically. Instead, AI acts as a triage layer that highlights where the evidence diverges across instruments.
 
-Several scientific UAP projects now emphasise multimodal observation systems for exactly this reason. The Galileo Project, for example, has described integrated observatories combining infrared cameras, optical systems and auxiliary sensors so that unusual observations can be cross-checked instead of interpreted from a single viewpoint alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Several scientific UAP projects now emphasise multimodal observation systems for exactly this reason. The Galileo Project, for example, has described integrated observatories combining infrared cameras, optical systems and auxiliary sensors so that unusual observations can be cross-checked instead of interpreted from a single viewpoint alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_4_2xD66wB0" title="Chilean Navy UFO sighting explained | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer">Chilean Navy UFO sighting explained | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 11.9K &middot; Uploaded: August 2022 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_4_2xD66wB0">Open on YouTube</a></p></div></div></div>
 
@@ -397,7 +397,7 @@ Investigators generally place greater weight on cases where:
 * multiple independent sensors recorded the same event
 * timestamps align accurately
 * environmental conditions are known
-* sensor calibration data exists <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
+* sensor calibration data exists<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 * radar and imagery support the same motion profile
 * the object remains unusual after geometry and optics checks
 
@@ -408,194 +408,194 @@ By contrast, many famous UFO clips remain disputed precisely because the apparen
 That does not mean every unresolved case has a mundane explanation. Some sightings remain unexplained because the available data is incomplete, contradictory or too limited for firm conclusions. But multi-sensor comparison remains one of the most reliable tools for determining whether extraordinary-looking behaviour belongs to the object itself or to the camera system observing it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Multiple Sensors Disagree About a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Multiple Sensors Disagree About a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to pilot, radar, and official multi-source cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to pilot, radar, and official multi-source cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports cautious interpretation when sensors disagree.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports cautious interpretation when sensors disagree.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Explains camera behaviour, light and image distortions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Explains camera behaviour, light and image distortions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        <p class="fr-book-desc">Covers camera capture limits that matter in sensor comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers camera capture limits that matter in sensor comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc"><img src="https://i.ebayimg.com/images/g/1BAAAeSwdbJqGHNU/s-l225.jpg" alt="Listing image for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc"><img src="https://i.ebayimg.com/images/g/1BAAAeSwdbJqGHNU/s-l225.jpg" alt="Listing image for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography"><img src="https://i.ebayimg.com/images/g/9bAAAeSwultprUUL/s-l225.jpg" alt="Listing image for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography"><img src="https://i.ebayimg.com/images/g/9bAAAeSwultprUUL/s-l225.jpg" alt="Listing image for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192"><img src="https://i.ebayimg.com/images/g/e3gAAOSwk9RoPtrM/s-l225.jpg" alt="Listing image for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192"><img src="https://i.ebayimg.com/images/g/e3gAAOSwk9RoPtrM/s-l225.jpg" alt="Listing image for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life"><img src="https://i.ebayimg.com/images/g/t8cAAeSw-P1osmTR/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life"><img src="https://i.ebayimg.com/images/g/t8cAAeSw-P1osmTR/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,248 +801,248 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: a gimbal glare explainer.12230  
-   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — But this glare would not rotate in sync with the rotating gimbal since the derotation devic...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — But this glare would not rotate in sync with the rotating gimbal since the derotation devic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: Gimbal UFO  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Analysis14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and rotating only because the camera rotate...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Analysis14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and rotating only because the camera rotate...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: gimbal lock and derotation in flir atflir systems.10792  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal Lock and Derotation in FLIR/ATFLIR systemsJun 27, 2019 — In order to correct for the rotation of the image, the derotation device...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-lock-and-derotation-in-flir-atflir-systems.10792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal Lock and Derotation in FLIR/ATFLIR systemsJun 27, 2019 — In order to correct for the rotation of the image, the derotation device...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resolu...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resolu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
    Published: November 12, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryForward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S. Navy F/A-18F in 2015. &quot;Go F...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryForward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S. Navy F/A-18F in 2015. &quot;Go F...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
    Title: A dataset comprising daily data (  
-   Link: <a href="https://www.metabunk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A dataset comprising daily data (November 19, 1949 -April 28,1957) regarding identified transients, nuclear testing, and UAP repo...</p></details>
+   Link:<a href="https://www.metabunk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A dataset comprising daily data (November 19, 1949 -April 28,1957) regarding identified transients, nuclear testing, and UAP repo...</p></details>
    Published: November 19, 1949  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
    Title: gimbal glare rotation clouds and angles.14625  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GImbal Glare, Rotation, Clouds, and Angles8 Dec 2025 — Cue this thread where I am again challenging &quot;how did it get there&quot; assumptions, i...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GImbal Glare, Rotation, Clouds, and Angles8 Dec 2025 — Cue this thread where I am again challenging &quot;how did it get there&quot; assumptions, i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that has never been clearly demonstrated as necessary from the actual video...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that has never been clearly demonstrated as necessary from the actual video...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/hypothesis-rotation-of-gimbal-not-caused-by-lens-glare.11782/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hypothesis-rotation-of-gimbal-not-caused-by-lens-glare.11782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rotation of Gimbal not caused by lens glare.Jun 4, 2021 — The rotation on screen is due to the object rotating, or some other hitherto un...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/hypothesis-rotation-of-gimbal-not-caused-by-lens-glare.11782/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hypothesis-rotation-of-gimbal-not-caused-by-lens-glare.11782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rotation of Gimbal not caused by lens glare.Jun 4, 2021 — The rotation on screen is due to the object rotating, or some other hitherto un...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/</a>  
+   Link:<a href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metabunk.org  
    Title: calculating and visualizing gimbal angles.12237  
-   Link: <a href="https://www.metabunk.org/threads/calculating-and-visualizing-gimbal-angles.12237/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/calculating-and-visualizing-gimbal-angles.12237/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculating and visualizing Gimbal angles.Jan 10, 2022 — In the default loadout it gives a pitch-up angle of around 6 or 7 degrees for 25...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/calculating-and-visualizing-gimbal-angles.12237/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/calculating-and-visualizing-gimbal-angles.12237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calculating and visualizing Gimbal angles.Jan 10, 2022 — In the default loadout it gives a pitch-up angle of around 6 or 7 degrees for 25...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: GIMBA L Video of U.S  
-   Link: <a href="https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/page-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Jet Encounter with Unknown...16 Dec 2017 — So what we are seeing is the [IR glare](&amp;#123;&amp;#123; &#x27;ir-glare/&#x27; | relative_url &amp;#125;&amp;#125;) being bigger than the actual plane, and covering u...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/page-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Jet Encounter with Unknown...16 Dec 2017 — So what we are seeing is the [IR glare](&amp;#123;&amp;#123; &#x27;ir-glare/&#x27; | relative_url &amp;#125;&amp;#125;) being bigger than the actual plane, and covering u...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metabunk.org  
    Title: mick vs marik rotation glare gimbal.13739  
-   Link: <a href="https://www.metabunk.org/threads/mick-vs-marik-rotation-glare-gimbal.13739/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/mick-vs-marik-rotation-glare-gimbal.13739/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick vs Marik (rotation glare gimbal)4 Nov 2024 — That said, the claim that IR systems don&#x27;t generate glare does not seem to hold water...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/mick-vs-marik-rotation-glare-gimbal.13739/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/mick-vs-marik-rotation-glare-gimbal.13739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick vs Marik (rotation glare gimbal)4 Nov 2024 — That said, the claim that IR systems don&#x27;t generate glare does not seem to hold water...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the beginning part of Gimbal debunk the claim that...Oct 13, 2021 — It&#x27;s the &quot;rotating glare&quot; hypothesis, but might better be calle...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the beginning part of Gimbal debunk the claim that...Oct 13, 2021 — It&#x27;s the &quot;rotating glare&quot; hypothesis, but might better be calle...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: metabunk.org  
    Title: some refinements to the gimbal sim.12590  
-   Link: <a href="https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Refinements to the Gimbal Sim20 Aug 2022 — I&#x27;m using the glare angle to drive the pod roll in both, but previously it was just glare...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some Refinements to the Gimbal Sim20 Aug 2022 — I&#x27;m using the glare angle to drive the pod roll in both, but previously it was just glare...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metabunk.org  
    Title: why does the gimbal shape change.12574  
-   Link: <a href="https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Gimbal shape change?14 Aug 2022 — Glare is just the spread of the light reaching the camera on the physical elements of the...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Gimbal shape change?14 Aug 2022 — Glare is just the spread of the light reaching the camera on the physical elements of the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: metabunk.org  
    Title: UF O Reports from the US Military and Government War.gov/UFO  
-   Link: <a href="https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zaine M. GImbal Glare, Rotation, Clouds, and Angles · Zaine M. Dec 8, 2025 · 2 3.Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zaine M. GImbal Glare, Rotation, Clouds, and Angles · Zaine M. Dec 8, 2025 · 2 3.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: metabunk.org  
    Title: page 3  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-distance-and-speed-range-estimates-using-lines-of-bearing-and-or-dcs.11836/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-distance-and-speed-range-estimates-using-lines-of-bearing-and-or-dcs.11836/page-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal distance and Speed Range Estimates using Lines...6 Jun 2021 — The real ATFLIR tracking uses contrast based centroid tracking, so...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/gimbal-distance-and-speed-range-estimates-using-lines-of-bearing-and-or-dcs.11836/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-distance-and-speed-range-estimates-using-lines-of-bearing-and-or-dcs.11836/page-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal distance and Speed Range Estimates using Lines...6 Jun 2021 — The real ATFLIR tracking uses contrast based centroid tracking, so...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
+   Link:<a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and incomp...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and incomp...</p></details>
    Published: May 2025  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high c...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high c...</p></details>
    Published: February 2025  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 —... data, it is often incomplete or of poor quality. In terms of military reporting, the se...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 —... data, it is often incomplete or of poor quality. In terms of military reporting, the se...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — ODNI&#x27;s declassified preliminary intelligence assessment on UAP that outlines what...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — ODNI&#x27;s declassified preliminary intelligence assessment on UAP that outlines what...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — Examples of AARO&#x27;s resolved reports also included a now-famous U.S...</p></details>
+   Link:<a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — Examples of AARO&#x27;s resolved reports also included a now-famous U.S...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+   Link:<a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Oficina de Resolución de Anomalías en Todos los Dominios  
-   Link: <a href="https://es.wikipedia.org/wiki/Oficina_de_Resoluci%C3%B3n_de_Anomal%C3%ADas_en_Todos_los_Dominios" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Oficina_de_Resoluci%C3%B3n_de_Anomal%C3%ADas_en_Todos_los_Dominios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oficina de Resolución de Anomalías en Todos los DominiosLa Oficina de Resolución de Anomalías en Todos los Dominios (del inglés: All-d...</p></details>
+   Link:<a href="https://es.wikipedia.org/wiki/Oficina_de_Resoluci%C3%B3n_de_Anomal%C3%ADas_en_Todos_los_Dominios" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Oficina_de_Resoluci%C3%B3n_de_Anomal%C3%ADas_en_Todos_los_Dominios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oficina de Resolución de Anomalías en Todos los DominiosLa Oficina de Resolución de Anomalías en Todos los Dominios (del inglés: All-d...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases 33 Page Report On UFOs After Yearlong...14 Sept 2023 — At present, analysis of UAP data is hampered by poor sensor calibra...</p></details>
+   Link:<a href="https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases 33 Page Report On UFOs After Yearlong...14 Sept 2023 — At present, analysis of UAP data is hampered by poor sensor calibra...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: academia.edu  
    Title: UF Os and NASA: There is No Reliable Data, But We Still  
-   Link: <a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP depends cri cally upon the quality of the data … At present, UAP... low quality of the data exis ng today. In my opinion, NASA has f...</p></details>
+   Link:<a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP depends cri cally upon the quality of the data … At present, UAP... low quality of the data exis ng today. In my opinion, NASA has f...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>

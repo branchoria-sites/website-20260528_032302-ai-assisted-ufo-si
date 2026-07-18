@@ -272,13 +272,13 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 Precise timing checks are one of the fastest ways to eliminate many UFO and UAP reports as ordinary satellite events. A witness may describe a silent light that appeared suddenly, brightened, drifted steadily for a few seconds, then vanished without warning. On first impression the behaviour can seem extraordinary. In practice, though, that sequence often matches a known satellite pass combined with a brief flare or entry into Earth’s shadow.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In AI-assisted UFO sighting investigation, timing matters more than dramatic description. A report that matches a satellite trajectory within seconds, aligns with the correct sky position, and disappears at the exact point where orbital models predict shadow entry is usually no longer a strong unexplained case. Automated cross-checking against orbital databases has therefore become one of the most effective early-stage filtering tools in modern sighting analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+In AI-assisted UFO sighting investigation, timing matters more than dramatic description. A report that matches a satellite trajectory within seconds, aligns with the correct sky position, and disappears at the exact point where orbital models predict shadow entry is usually no longer a strong unexplained case. Automated cross-checking against orbital databases has therefore become one of the most effective early-stage filtering tools in modern sighting analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Matching witness reports to orbital passes
 
 The core investigative question is simple: was a known satellite in the reported part of the sky at the reported time?
 
-Modern satellite tracking systems make this surprisingly testable. Public tools such as Heavens-Above and Satflare use orbital elements, observer location, and solar [geometry]({{ 'geometry/' | relative_url }}) to calculate when satellites become visible, where they appear in the sky, and when flares or shadow transitions occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=iridium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[Satflare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-snippet">the 3D desktop version is still available for download) This page is interactive...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For an AI-assisted workflow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the minimum useful case-file fields are usually:
+Modern satellite tracking systems make this surprisingly testable. Public tools such as Heavens-Above and Satflare use orbital elements, observer location, and solar [geometry]({{ 'geometry/' | relative_url }}) to calculate when satellites become visible, where they appear in the sky, and when flares or shadow transitions occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=iridium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[Satflare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-snippet">the 3D desktop version is still available for download) This page is interactive...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For an AI-assisted workflow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the minimum useful case-file fields are usually:
 
 * Date and local time
 * Viewing location
@@ -312,9 +312,9 @@ This is especially important because witness memory is often less precise than o
 
 ## Why flare timing is unusually diagnostic
 
-Satellite flares are valuable because they are governed by geometry rather than subjective interpretation. The brightness peak occurs only when sunlight reflects toward a specific observer on the ground. That makes flare timing highly predictable for stable satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</span></span></span>
+Satellite flares are valuable because they are governed by geometry rather than subjective interpretation. The brightness peak occurs only when sunlight reflects toward a specific observer on the ground. That makes flare timing highly predictable for stable satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</span></span></span>
 
-The classic Iridium flares demonstrated this dramatically. Observers could predict the exact second of maximum brightness years in advance because the spacecraft orientation was tightly controlled. Investigators learned an important lesson from this era: a witness description that sounds extraordinary may still follow a completely calculable orbital event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-snippet">Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span>
+The classic Iridium flares demonstrated this dramatically. Observers could predict the exact second of maximum brightness years in advance because the spacecraft orientation was tightly controlled. Investigators learned an important lesson from this era: a witness description that sounds extraordinary may still follow a completely calculable orbital event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-snippet">Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span>
 
 A typical flare-based misidentification sequence looks like this:
 
@@ -340,7 +340,7 @@ Investigators increasingly use automation to compare witness timestamps against:
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * Sun altitude and twilight conditions
-* Earth-shadow calculations <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbital-mechanics.space">[orbital-mechanics.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbital-mechanics.space</span><span class="citation-popover-snippet">Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</span></span></span>
+* Earth-shadow calculations<span class="citation-chip-wrap"><a class="citation-chip" href="https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbital-mechanics.space">[orbital-mechanics.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbital-mechanics.space</span><span class="citation-popover-snippet">Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</span></span></span>
 * Known flare-capable satellites or tumbling objects
 
 </div>
@@ -359,7 +359,7 @@ AI-assisted analysis can test this by reconstructing the sky path frame-by-frame
 
 ### Straight-line motion versus “intelligent manoeuvres”
 
-Most satellites move smoothly across the sky at constant angular speed. [Aircraft]({{ 'aircraft/' | relative_url }}) usually show navigation lights or blinking patterns. Satellites do not. A silent white light with steady linear movement is therefore often more consistent with orbital motion than with nearby aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span>
+Most satellites move smoothly across the sky at constant angular speed. [Aircraft]({{ 'aircraft/' | relative_url }}) usually show navigation lights or blinking patterns. Satellites do not. A silent white light with steady linear movement is therefore often more consistent with orbital motion than with nearby aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span>
 
 A useful timing clue is symmetry. Many flare events brighten and fade over similar durations. If witness accounts describe:
 
@@ -392,7 +392,7 @@ That does not prove anything extraordinary occurred. It simply weakens the satel
 
 Witnesses often insist a satellite explanation is impossible because the light “switched off instantly”. Ironically, that behaviour can strongly support a satellite interpretation.
 
-Satellites are visible only while illuminated by the Sun. Once they cross into Earth’s shadow, reflected sunlight stops abruptly. Depending on orbital geometry, the fade can appear nearly instantaneous to the naked eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">595915 satellites visible at midnight</span><span class="citation-popover-snippet">Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">can you see earths shadow</span><span class="citation-popover-snippet">Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</span></span></span>
+Satellites are visible only while illuminated by the Sun. Once they cross into Earth’s shadow, reflected sunlight stops abruptly. Depending on orbital geometry, the fade can appear nearly instantaneous to the naked eye.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">595915 satellites visible at midnight</span><span class="citation-popover-snippet">Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">can you see earths shadow</span><span class="citation-popover-snippet">Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</span></span></span>
 
 This becomes especially common:
 
@@ -434,7 +434,7 @@ Some apparent anomalies still result from perception errors, atmospheric distort
 
 ### Multiple independent witnesses with precise timing
 
-Cases become more difficult when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[bco.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span>
+Cases become more difficult when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[bco.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</span></span></span>
 
 * several observers recorded the event independently,
 * timings agree closely,
@@ -447,7 +447,7 @@ AI systems are useful here because they can compare witness timelines against on
 
 Not all satellites are easy to model.
 
-Dead spacecraft and rocket bodies can tumble unpredictably, producing irregular flashes that are harder to forecast accurately. Modern Starlink reflections have also generated repeated flare-like patterns that some pilots and observers initially interpreted as unusual aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Dead spacecraft and rocket bodies can tumble unpredictably, producing irregular flashes that are harder to forecast accurately. Modern Starlink reflections have also generated repeated flare-like patterns that some pilots and observers initially interpreted as unusual aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 This creates an important investigative caution: a poor timing fit does not automatically eliminate a satellite explanation if the object involved was uncontrolled or poorly catalogued.
 
@@ -488,210 +488,210 @@ A witness may sincerely believe an object behaved impossibly. Yet if orbital cal
 
 * an exact satellite pass,
 * matching direction,
-* predicted flare timing, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span>
+* predicted flare timing,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span>
 * and disappearance at shadow entry,
 
 the event is no longer strongly anomalous.
 
-This does not trivialise the witness experience. Many satellite flares are genuinely startling, especially to people unfamiliar with orbital behaviour. Historically, even experienced observers have mistaken bright satellite reflections for something extraordinary before checking timing data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Is that a UFO?!</span><span class="citation-popover-snippet">There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
+This does not trivialise the witness experience. Many satellite flares are genuinely startling, especially to people unfamiliar with orbital behaviour. Historically, even experienced observers have mistaken bright satellite reflections for something extraordinary before checking timing data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Is that a UFO?!</span><span class="citation-popover-snippet">There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
 
 In practical investigation work, timing correlation is therefore one of the quickest ways to separate:
 
-* likely satellite events, <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalradar.com/iridium-flares" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[orbitalradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">iridium flares</span><span class="citation-popover-snippet">The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</span></span></span>
+* likely satellite events,<span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalradar.com/iridium-flares" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[orbitalradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">iridium flares</span><span class="citation-popover-snippet">The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</span></span></span>
 * weakly explained sightings,
 * and cases that remain genuinely unresolved after routine screening.
 
 That filtering role is central to AI-assisted UFO investigation. The goal is not to dismiss reports automatically, but to reduce ambiguity where the physics of known orbital objects already provides a strong, testable explanation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Timing Data Solve A UFO Sighting Quickly?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Timing Data Solve A UFO Sighting Quickly?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Strong fit for using timing, sky position and visible passes to resolve sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for using timing, sky position and visible passes to resolve sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Relevant to matching observed lights with satellite and night-sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to matching observed lights with satellite and night-sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports basic sky orientation for checking reported positions and motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports basic sky orientation for checking reported positions and motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits distinguishing strong timing matches from weak correlations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits distinguishing strong timing matches from weak correlations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover"><img src="https://i.ebayimg.com/images/g/jhAAAOSwthFoQ0pc/s-l225.jpg" alt="Listing image for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover"><img src="https://i.ebayimg.com/images/g/jhAAAOSwthFoQ0pc/s-l225.jpg" alt="Listing image for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-timing-data-solve-a-ufo-sighting-quickly-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="can-timing-data-solve-a-ufo-sighting-quickly-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -707,7 +707,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -727,7 +727,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -759,7 +759,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -811,7 +811,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -856,7 +856,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -897,128 +897,128 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: satflare.com  
-   Link: <a href="https://www.satflare.com/track.asp?q=iridium" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=iridium</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(the 3D desktop version is still available for download) This page is interactive...Read more...</p></details>
+   Link:<a href="https://www.satflare.com/track.asp?q=iridium" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=iridium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(the 3D desktop version is still available for download) This page is interactive...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=41.5947&amp;lng=-109.221&amp;loc=Rock+Springs&amp;tz=MST" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=41.5947&amp;lng=-109.221&amp;loc=Rock+Springs&amp;tz=MST</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>even those during daylight, and then compare these...Read more...</p></details>
+   Link:<a href="https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=41.5947&amp;lng=-109.221&amp;loc=Rock+Springs&amp;tz=MST" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=41.5947&amp;lng=-109.221&amp;loc=Rock+Springs&amp;tz=MST</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>even those during daylight, and then compare these...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: earthsky.org  
    Title: Earth Sky Is that a UFO?!  
-   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</p></details>
+   Link:<a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</p></details>
    Published: December 15, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: orbital-mechanics.space  
-   Link: <a href="https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html" target="_blank" rel="noopener noreferrer nofollow">https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</p></details>
+   Link:<a href="https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html" target="_blank" rel="noopener noreferrer nofollow">https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</p></details>
+   Link:<a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bco.ie  
    Title: MTU Blackrock Castle How To Identify A UFO  
-   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</p></details>
+   Link:<a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</p></details>
+   Link:<a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: orbitalradar.com  
    Title: iridium flares  
-   Link: <a href="https://orbitalradar.com/iridium-flares" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/iridium-flares</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</p></details>
+   Link:<a href="https://orbitalradar.com/iridium-flares" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/iridium-flares</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: livescience.com  
    Title: can you see earths shadow  
-   Link: <a href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/can-you-see-earths-shadow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</p></details>
+   Link:<a href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/can-you-see-earths-shadow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cloudynights.com  
    Title: 595915 satellites visible at midnight  
-   Link: <a href="https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apollosat.com  
-   Link: <a href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow">https://apollosat.com/iridium-coverage-map/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Coverage Map Live View of SatellitesOn this page you can track in real time all the satellites orbiting the Earth, with a 2D repr...</p></details>
+   Link:<a href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow">https://apollosat.com/iridium-coverage-map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Coverage Map Live View of SatellitesOn this page you can track in real time all the satellites orbiting the Earth, with a 2D repr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dangl.at  
-   Link: <a href="https://www.dangl.at/iridhelp.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dangl.at/iridhelp.htm</a>  
+   Link:<a href="https://www.dangl.at/iridhelp.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dangl.at/iridhelp.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/419274534218168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/419274534218168/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Could this be a meteor? Edit: Based on several comments (thank you all), it seems most likely to be a satellite flare...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/419274534218168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/419274534218168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Could this be a meteor? Edit: Based on several comments (thank you all), it seems most likely to be a satellite flare...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the website heavens-above.com I was able to know the time and location to spot these marvels. An Iridium...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using the website heavens-above.com I was able to know the time and location to spot these marvels. An Iridium...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/389362420542713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/389362420542713/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a plane as normally you see flashing different colours... But it fades away...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/389362420542713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/389362420542713/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not a plane as normally you see flashing different colours... But it fades away...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: I just saw the ISS disappear in Earth's shadow  
-   Link: <a href="https://www.reddit.com/r/[Astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Astronomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyIf you have some binoculars you can see the station change from bright white to a deep gold/orange color before it disappears...</p></details>
+   Link:<a href="https://www.reddit.com/r/[Astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Astronomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyIf you have some binoculars you can see the station change from bright white to a deep gold/orange color before it disappears...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Getting oriented to better learn the night sky: Stargazing Basics 1 of 3  
-   Link: <a href="http://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XUbG8jboh4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying satellites in the night sky for beginners Getting oriented to better learn the night sky: Stargazing Basics 1 of 3...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XUbG8jboh4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying satellites in the night sky for beginners Getting oriented to better learn the night sky: Stargazing Basics 1 of 3...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: astronomy.stackexchange.com  
    Title: recurring flying object near the big dipper  
-   Link: <a href="https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: astronomy.stackexchange.com  
    Title: two luminous points disappearing in the sky  
-   Link: <a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>

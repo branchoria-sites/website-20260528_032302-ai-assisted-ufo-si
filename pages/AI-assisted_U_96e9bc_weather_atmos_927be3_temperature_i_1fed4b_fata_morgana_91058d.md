@@ -272,11 +272,11 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 A Fata Morgana can turn an ordinary distant object into something that looks startlingly artificial. Ships become floating platforms, coastlines resemble giant mechanical walls, and lights split into stacked glowing tiers that resemble structured craft. In UFO investigations, this matters because witnesses often describe rigid shapes, metallic silhouettes or hovering “machines” that later turn out to be heavily distorted horizon objects seen through unstable layers of air.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-dark.svg" | relative_url }}" alt="Fata Morgana illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not that every structured UFO is a mirage. It is that a Fata Morgana can create forms that genuinely look engineered rather than vague or blurry. The effect is especially important in coastal sightings, polar regions, deserts and cold clear nights where strong temperature [inversions]({{ 'inversions/' | relative_url }}) bend light into layered, stretched and inverted images. AI-assisted UFO analysis can test whether atmospheric conditions, viewing angle and distant source objects match the [geometry]({{ 'geometry/' | relative_url }}) of the reported shape instead of treating “mirage” as a hand-waving explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
+The key point is not that every structured UFO is a mirage. It is that a Fata Morgana can create forms that genuinely look engineered rather than vague or blurry. The effect is especially important in coastal sightings, polar regions, deserts and cold clear nights where strong temperature [inversions]({{ 'inversions/' | relative_url }}) bend light into layered, stretched and inverted images. AI-assisted UFO analysis can test whether atmospheric conditions, viewing angle and distant source objects match the [geometry]({{ 'geometry/' | relative_url }}) of the reported shape instead of treating “mirage” as a hand-waving explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 
 ## How layered air creates stacked images
 
-A Fata Morgana is an extreme form of superior mirage produced by multiple layers of air at different temperatures. Instead of light travelling in a straight line, the rays curve through the atmosphere because warm and cold air have different densities and refractive properties. Under strong inversion conditions, the atmosphere behaves almost like a shifting optical lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
+A Fata Morgana is an extreme form of superior mirage produced by multiple layers of air at different temperatures. Instead of light travelling in a straight line, the rays curve through the atmosphere because warm and cold air have different densities and refractive properties. Under strong inversion conditions, the atmosphere behaves almost like a shifting optical lens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
 
 What makes a Fata Morgana different from a simpler mirage is the complexity of the distortion. Rather than producing one displaced image, it can generate several simultaneously:
 
@@ -291,7 +291,7 @@ What makes a Fata Morgana different from a simpler mirage is the complexity of t
 
 </div>
 
-These layers can merge into a single composite form that no longer resembles the [original]({{ 'original-evidence/' | relative_url }}) object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth, Ocean, and Atmosphere Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">This could be caused by several layers of warm and cold air that cause a combination of...Read more...</span></span></span> Surfertoday This is why witnesses sometimes report UFOs with apparently solid geometry: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[surfertoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</span></span></span>
+These layers can merge into a single composite form that no longer resembles the [original]({{ 'original-evidence/' | relative_url }}) object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth, Ocean, and Atmosphere Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">This could be caused by several layers of warm and cold air that cause a combination of...Read more...</span></span></span> Surfertoday This is why witnesses sometimes report UFOs with apparently solid geometry:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[surfertoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -304,19 +304,19 @@ These layers can merge into a single composite form that no longer resembles the
 
 </div>
 
-A distant cargo ship, for example, may become vertically elongated while its superstructure duplicates into multiple bands. To an observer with no reference point, the result can resemble a hovering technological object rather than a vessel near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-title">Accu Weather Fata Morgana ship seen &#x27;hovering&#x27; off coast England</span><span class="citation-popover-snippet">Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</span><span class="citation-popover-meta">Published: May 8, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[Atmospheric Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</span></span></span>
+A distant cargo ship, for example, may become vertically elongated while its superstructure duplicates into multiple bands. To an observer with no reference point, the result can resemble a hovering technological object rather than a vessel near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-title">Accu Weather Fata Morgana ship seen &#x27;hovering&#x27; off coast England</span><span class="citation-popover-snippet">Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</span><span class="citation-popover-meta">Published: May 8, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[Atmospheric Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</span></span></span>
 
 Unlike cinematic depictions of mirages, these distortions can appear surprisingly sharp for short periods. In calm stable air, edges may briefly look crisp enough to imply solid structure before wavering again seconds later.
 
 ## Why ships and coastlines become strange forms
 
-Water horizons are among the most common settings for Fata Morgana sightings because cold surface air and warmer air above it create ideal inversion conditions. This is why reports of “hovering ships” repeatedly appear along British, Scandinavian, Arctic and Great Lakes coastlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-title">Accu Weather Fata Morgana ship seen &#x27;hovering&#x27; off coast England</span><span class="citation-popover-snippet">Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</span><span class="citation-popover-meta">Published: May 8, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2018 01 17 fata morgana fairbanks alaska</span><span class="citation-popover-snippet">The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</span></span></span>
+Water horizons are among the most common settings for Fata Morgana sightings because cold surface air and warmer air above it create ideal inversion conditions. This is why reports of “hovering ships” repeatedly appear along British, Scandinavian, Arctic and Great Lakes coastlines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-title">Accu Weather Fata Morgana ship seen &#x27;hovering&#x27; off coast England</span><span class="citation-popover-snippet">Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</span><span class="citation-popover-meta">Published: May 8, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2018 01 17 fata morgana fairbanks alaska</span><span class="citation-popover-snippet">The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</span></span></span>
 
 The effect becomes more dramatic when the hidden object is partly below the horizon. The observer is not seeing the object directly in normal perspective. They are seeing refracted light bent around Earth’s curvature. This can make:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* distant vessels appear airborne <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[foxweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
+* distant vessels appear airborne<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[foxweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
 * islands look suspended above the sea
 * coastlines resemble giant vertical walls
 * offshore platforms resemble futuristic towers
@@ -324,7 +324,7 @@ The effect becomes more dramatic when the hidden object is partly below the hori
 
 </div>
 
-Because different parts of the source object refract differently, the geometry becomes distorted in uneven ways. A ship’s hull may disappear while upper sections stretch upward into layered blocks. This creates the impression of a structured object with hard edges and symmetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[Atmospheric Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oikofuge.com">[The Oikofuge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oikofuge.com</span><span class="citation-popover-title">fata morgana</span><span class="citation-popover-snippet">The OikofugeFata Morgana23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of...</span></span></span>
+Because different parts of the source object refract differently, the geometry becomes distorted in uneven ways. A ship’s hull may disappear while upper sections stretch upward into layered blocks. This creates the impression of a structured object with hard edges and symmetry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[Atmospheric Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oikofuge.com">[The Oikofuge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oikofuge.com</span><span class="citation-popover-title">fata morgana</span><span class="citation-popover-snippet">The OikofugeFata Morgana23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of...</span></span></span>
 
 Witnesses often interpret these forms as engineered because the brain tries to impose familiar structure on ambiguous visual information. A segmented mirage can therefore be perceived as:
 
@@ -352,7 +352,7 @@ The stacked images often align into continuous forms. Instead of random distorti
 
 ### Extreme apparent size
 
-Magnification and vertical stretching can make distant objects appear enormous. Witnesses may estimate impossible dimensions because the mirage expands the apparent height of the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[Surfertoday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</span></span></span>
+Magnification and vertical stretching can make distant objects appear enormous. Witnesses may estimate impossible dimensions because the mirage expands the apparent height of the source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[Surfertoday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</span></span></span>
 
 ### Hovering behaviour
 
@@ -361,7 +361,7 @@ Because the refracted image appears above the true horizon, the object seems sus
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-dark.svg" | relative_url }}" alt="Fata Morgana illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sudden transformation
 
-The atmosphere is unstable. Minor temperature changes can rapidly alter the image, making the object appear to morph, split apart or vanish instantly. Witnesses sometimes interpret this as intelligent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+The atmosphere is unstable. Minor temperature changes can rapidly alter the image, making the object appear to morph, split apart or vanish instantly. Witnesses sometimes interpret this as intelligent movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 ### Distance confusion
 
@@ -371,7 +371,7 @@ These features explain why even experienced observers can initially struggle to 
 
 ## Historical links to “ghost ships” and UFO narratives
 
-Long before modern UFO culture, Fata Morgana effects contributed to reports of phantom islands, floating cities and ghost ships. The legend of the Flying Dutchman has frequently been linked to superior mirage conditions in maritime environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevintagenews.com/2017/12/13/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevintagenews.com">[thevintagenews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevintagenews.com</span><span class="citation-popover-snippet">The explanation for sightings of the Flying Dutchman, and...13 Dec 2017 — Fata Morgana is a type of superior mirage, meani...</span></span></span>
+Long before modern UFO culture, Fata Morgana effects contributed to reports of phantom islands, floating cities and ghost ships. The legend of the Flying Dutchman has frequently been linked to superior mirage conditions in maritime environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevintagenews.com/2017/12/13/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevintagenews.com">[thevintagenews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevintagenews.com</span><span class="citation-popover-snippet">The explanation for sightings of the Flying Dutchman, and...13 Dec 2017 — Fata Morgana is a type of superior mirage, meani...</span></span></span>
 
 Modern UFO reports inherited many of the same visual themes:
 
@@ -387,7 +387,7 @@ Modern UFO reports inherited many of the same visual themes:
 
 The overlap matters because some historical sightings once interpreted through folklore are now better understood as atmospheric optics. That does not mean every report is solved, but it demonstrates that highly structured visual illusions existed long before modern science-fiction imagery influenced witnesses.
 
-Official UFO investigators have also acknowledged the role of atmospheric mirages in certain cases. The French UFO study body GEIPAN, referenced in broader discussions of Fata Morgana effects, has noted that atmospheric refraction can produce misleading visual and radar phenomena under inversion conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+Official UFO investigators have also acknowledged the role of atmospheric mirages in certain cases. The French UFO study body GEIPAN, referenced in broader discussions of Fata Morgana effects, has noted that atmospheric refraction can produce misleading visual and radar phenomena under inversion conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uy9adgmxQ_A" title="What is Superior Mirage? Why the Ship looks Floating?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer">What is Superior Mirage? Why the Ship looks Floating?</a></p><p class="youtube-embed-meta">Channel: LoudScope &middot; Views: 143.7K &middot; Uploaded: March 2021 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uy9adgmxQ_A">Open on YouTube</a></p></div></div></div>
 
@@ -408,7 +408,7 @@ Witnesses may describe the object stretching, compressing, splitting or becoming
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-dark.svg" | relative_url }}" alt="Fata Morgana illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sighting occurs over water or flat terrain
 
-Cold seas, deserts, ice fields and large lakes are common environments for superior mirages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2018 01 17 fata morgana fairbanks alaska</span><span class="citation-popover-snippet">The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</span></span></span>
+Cold seas, deserts, ice fields and large lakes are common environments for superior mirages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2018 01 17 fata morgana fairbanks alaska</span><span class="citation-popover-snippet">The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</span></span></span>
 
 ### Weather data shows inversion conditions
 
@@ -426,7 +426,7 @@ Long focal-length cameras compress perspective and magnify atmospheric turbulenc
 
 The useful role of AI is not simply to label a sighting “probably a mirage”. The stronger approach is reconstruction and comparison.
 
-For a possible Fata Morgana case, an investigation workflow can: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+For a possible Fata Morgana case, an investigation workflow can:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 1. map the witness position and viewing direction
 2. identify distant ships, coastlines or structures along the sightline
@@ -445,194 +445,194 @@ This is especially valuable because many witnesses sincerely report structured c
 In some cases, the analysis strengthens the mirage explanation substantially. In others, the available data may remain [incomplete]({{ 'incomplete-data/' | relative_url }}) or contradictory. The important distinction is that Fata Morgana effects are a real, measurable mechanism capable of producing engineered-looking [UFO shapes]({{ 'shape-labels/' | relative_url }}) without requiring fabrication or deliberate misreporting by witnesses.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mirage Shapes Can Look Engineered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mirage Shapes Can Look Engineered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AeEAAeSwyDFoXUs6/s-l225.jpg" alt="Listing image for Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AeEAAeSwyDFoXUs6/s-l225.jpg" alt="Listing image for Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Fata Morgana Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters"><img src="https://i.ebayimg.com/images/g/SocAAOSwd-9jPeoD/s-l225.jpg" alt="Listing image for Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters"><img src="https://i.ebayimg.com/images/g/SocAAOSwd-9jPeoD/s-l225.jpg" alt="Listing image for Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Original Film Poster Fata Morgana 1982 Czech VTG Print 1980s Art Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art"><img src="https://i.ebayimg.com/images/g/DtQAAOSw7LljPemF/s-l225.jpg" alt="Listing image for Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art"><img src="https://i.ebayimg.com/images/g/DtQAAOSw7LljPemF/s-l225.jpg" alt="Listing image for Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Movie Poster Fata Morgana 1982 Graphic Design 80s Cinema Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet"><img src="https://i.ebayimg.com/images/g/GBAAAeSw0lVqD49e/s-l225.jpg" alt="Listing image for Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet"><img src="https://i.ebayimg.com/images/g/GBAAAeSw0lVqD49e/s-l225.jpg" alt="Listing image for Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">Fata Morgana - Dinu Manulache - Progress Film - Filmposter A3 29x42cm gefaltet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fata morgana poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fata morgana poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fata+morgana+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mirage-shapes-can-look-engineered-fata-morgana-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fata morgana poster" data-ebay-reference="why-mirage-shapes-can-look-engineered-fata-morgana-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -648,7 +648,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -668,7 +668,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -700,7 +700,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -797,7 +797,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,118 +838,118 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</p></details>
    Published: April 15, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: surfertoday.com  
-   Link: <a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</p></details>
+   Link:<a href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: accuweather.com  
    Title: Accu Weather Fata Morgana ship seen 'hovering' off coast England  
-   Link: <a href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</p></details>
+   Link:<a href="https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/fata-morgana-ship-seen-hovering-off-coast-england/943697</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana ship seen &#x27;hovering&#x27; off coast EnglandMay 8, 2021 — 11 May 2021 — Video captured just off the coast of England sh...</p></details>
    Published: May 8, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.com  
    Title: 2018 01 17 fata morgana fairbanks alaska  
-   Link: <a href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</p></details>
+   Link:<a href="https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/news/weather/news/2018-01-17-fata-morgana-fairbanks-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelFata Morgana, a Creepy Optical Effect, Forms Over...Jan 17, 2018 — This so-called superior mirage is caused by a temp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oikofuge.com  
    Title: fata morgana  
-   Link: <a href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://oikofuge.com/fata-morgana/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The OikofugeFata Morgana23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of...</p></details>
+   Link:<a href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://oikofuge.com/fata-morgana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The OikofugeFata Morgana23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thevintagenews.com  
-   Link: <a href="https://www.thevintagenews.com/2017/12/13/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevintagenews.com/2017/12/13/fata-morgana/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The explanation for sightings of the Flying Dutchman, and...13 Dec 2017 — Fata Morgana is a type of superior mirage, meani...</p></details>
+   Link:<a href="https://www.thevintagenews.com/2017/12/13/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevintagenews.com/2017/12/13/fata-morgana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The explanation for sightings of the Flying Dutchman, and...13 Dec 2017 — Fata Morgana is a type of superior mirage, meani...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eoas.ubc.ca  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This could be caused by several layers of warm and cold air that cause a combination of...Read more...</p></details>
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This could be caused by several layers of warm and cold air that cause a combination of...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: foxweather.com  
-   Link: <a href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</p></details>
+   Link:<a href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: atoptics.org.uk  
-   Link: <a href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fz150.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</p></details>
+   Link:<a href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fz150.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersA mirage is an optical illusion resulting from the refraction of light in the atmosphere, primarily o...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana/&quot;Superior Mirages&quot;: r/RetconnedFata Morgana is a superior mirage because warm air resting on patches of colder air in an at...</p></details>
+   Link:<a href="https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Retconned/comments/md55c7/fata_morganasuperior_mirages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana/&quot;Superior Mirages&quot;: r/RetconnedFata Morgana is a superior mirage because warm air resting on patches of colder air in an at...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/weloveyarmouth/posts/2923801081344062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weloveyarmouth/posts/2923801081344062/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata morgana optical illusion explainedA Fata Morgana is an optical illusion or type of mirage that makes objects far away look stretched...</p></details>
+   Link:<a href="https://www.facebook.com/groups/weloveyarmouth/posts/2923801081344062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weloveyarmouth/posts/2923801081344062/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata morgana optical illusion explainedA Fata Morgana is an optical illusion or type of mirage that makes objects far away look stretched...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/</a>  
+   Link:<a href="https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LakeSuperiorPhoto/posts/april-is-a-great-time-of-year-to-see-the-mirage-known-as-fata-morgana-a-fata-mor/1226170152212315/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IWasTodayYearsOld/comments/1lz623y/iwtyo_when_i_learned_that_mirages_and_fata/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IWasTodayYearsOld/comments/1lz623y/iwtyo_when_i_learned_that_mirages_and_fata/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• 1y ago. Not my first time seeing them — three gray aliens appeared again in the vibrational state.... Fata Morgana is a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/IWasTodayYearsOld/comments/1lz623y/iwtyo_when_i_learned_that_mirages_and_fata/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IWasTodayYearsOld/comments/1lz623y/iwtyo_when_i_learned_that_mirages_and_fata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• 1y ago. Not my first time seeing them — three gray aliens appeared again in the vibrational state.... Fata Morgana is a...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an optical illusion where distant objects appear to float or invert above their real positions.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an optical illusion where distant objects appear to float or invert above their real positions.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsflare.com  
    Title: ship appears to hover in fata morgana illusion off kent uk  
-   Link: <a href="https://www.newsflare.com/video/586619/ship-appears-to-hover-in-fata-morgana-illusion-off-kent-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/586619/ship-appears-to-hover-in-fata-morgana-illusion-off-kent-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ship appears to hover in Fata Morgana illusion off Kent, UK29 Aug 2023 — A dredging ship called &#x27;City of London&#x27; was seen to hover above...</p></details>
+   Link:<a href="https://www.newsflare.com/video/586619/ship-appears-to-hover-in-fata-morgana-illusion-off-kent-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/586619/ship-appears-to-hover-in-fata-morgana-illusion-off-kent-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ship appears to hover in Fata Morgana illusion off Kent, UK29 Aug 2023 — A dredging ship called &#x27;City of London&#x27; was seen to hover above...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wral.com  
    Title: One viewer caught this rare phenomenon along the North Carolina coast.Read more  
-   Link: <a href="https://www.wral.com/weather/ask-the-meteorologist-fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/weather/ask-the-meteorologist-fata-morgana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does a temperature inversion cause the Fata Morgana?Feb 17, 2026 — Fata Morgana is an optical illusion caused by a temperature inversion...</p></details>
+   Link:<a href="https://www.wral.com/weather/ask-the-meteorologist-fata-morgana/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/weather/ask-the-meteorologist-fata-morgana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does a temperature inversion cause the Fata Morgana?Feb 17, 2026 — Fata Morgana is an optical illusion caused by a temperature inversion...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oldsaltblog.com  
    Title: good ship fata morgana hovering above the horizon 2  
-   Link: <a href="https://oldsaltblog.com/good-ship-fata-morgana-hovering-above-the-horizon-2/" target="_blank" rel="noopener noreferrer nofollow">https://oldsaltblog.com/good-ship-fata-morgana-hovering-above-the-horizon-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Ship Fata Morgana Hovering Above the Horizon28 Apr 2025 — He said the illusion is common in the Arctic, but can appear “very rarely”...</p></details>
+   Link:<a href="https://oldsaltblog.com/good-ship-fata-morgana-hovering-above-the-horizon-2/" target="_blank" rel="noopener noreferrer nofollow">https://oldsaltblog.com/good-ship-fata-morgana-hovering-above-the-horizon-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Ship Fata Morgana Hovering Above the Horizon28 Apr 2025 — He said the illusion is common in the Arctic, but can appear “very rarely”...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>warm air sits above a cooler layer, bending light rays downward...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>warm air sits above a cooler layer, bending light rays downward...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aviationfile.com  
    Title: fata morgana the fascinating atmospheric illusion  
-   Link: <a href="https://www.aviationfile.com/fata-morgana-the-fascinating-atmospheric-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationfile.com/fata-morgana-the-fascinating-atmospheric-illusion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: The Fascinating Atmospheric IllusionDec 1, 2025 — Fata Morgana is a type of superior mirage caused by a strong temperature...</p></details>
+   Link:<a href="https://www.aviationfile.com/fata-morgana-the-fascinating-atmospheric-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationfile.com/fata-morgana-the-fascinating-atmospheric-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana: The Fascinating Atmospheric IllusionDec 1, 2025 — Fata Morgana is a type of superior mirage caused by a strong temperature...</p></details>

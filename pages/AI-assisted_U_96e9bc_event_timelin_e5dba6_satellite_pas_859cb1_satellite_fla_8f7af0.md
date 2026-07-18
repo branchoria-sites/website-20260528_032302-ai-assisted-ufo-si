@@ -269,16 +269,16 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_85
 
 ## Introduction
 
-A sudden flash in the night sky can feel deeply unnatural to a witness, especially when it appears brighter than nearby stars, remains silent, and vanishes within seconds. In UFO case reconstruction, however, brief bright flashes are among the most testable observations because satellite reflections follow predictable [geometry]({{ 'geometry/' | relative_url }}). A well-timed flare from a reflective satellite surface can produce a short-lived burst of light that closely matches many “instant appearance” or “flash then vanish” UFO descriptions. The investigative question is not simply whether a satellite was overhead, but whether the timing, brightness curve, direction, [elevation]({{ 'elevation/' | relative_url }}) angle, and sunlight geometry fit the witness account closely enough to explain the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresA relatively small communications satellite has been providing spectacular visible reflective flares/gli...</span></span></span>
+A sudden flash in the night sky can feel deeply unnatural to a witness, especially when it appears brighter than nearby stars, remains silent, and vanishes within seconds. In UFO case reconstruction, however, brief bright flashes are among the most testable observations because satellite reflections follow predictable [geometry]({{ 'geometry/' | relative_url }}). A well-timed flare from a reflective satellite surface can produce a short-lived burst of light that closely matches many “instant appearance” or “flash then vanish” UFO descriptions. The investigative question is not simply whether a satellite was overhead, but whether the timing, brightness curve, direction, [elevation]({{ 'elevation/' | relative_url }}) angle, and sunlight geometry fit the witness account closely enough to explain the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresA relatively small communications satellite has been providing spectacular visible reflective flares/gli...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-1-dark.svg" | relative_url }}" alt="Satellite Flares illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because flare timing checks are one of the fastest ways AI-assisted UFO investigation can eliminate a mundane explanation without relying on guesswork. Unlike vague visual impressions, satellite passes can be reconstructed against [orbital data]({{ 'orbital-data/' | relative_url }}), twilight conditions, [Earth shadow]({{ 'earth-shadow/' | relative_url }}) position, and observer location with high precision. When the timing lines up within seconds, the case often shifts from “unexplained flash” to “known optical reflection event”. When it does not line up, investigators gain a clearer basis for treating the sighting as unresolved rather than prematurely dismissed.
 
 ## How Reflective Glints Create Sudden Brightness
 
-A satellite flare happens when sunlight reflects from a flat or highly reflective surface directly toward a small region on Earth. The effect is similar to sunlight briefly reflecting from a mirror. Most satellites are too dim to notice with the naked eye, but under the right geometry they can brighten dramatically for a few seconds before fading again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyhouston.org">[Houston Astronomical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyhouston.org</span><span class="citation-popover-snippet">These events...Read more...</span></span></span>
+A satellite flare happens when sunlight reflects from a flat or highly reflective surface directly toward a small region on Earth. The effect is similar to sunlight briefly reflecting from a mirror. Most satellites are too dim to notice with the naked eye, but under the right geometry they can brighten dramatically for a few seconds before fading again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyhouston.org">[Houston Astronomical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyhouston.org</span><span class="citation-popover-snippet">These events...Read more...</span></span></span>
 
-The classic example was the first-generation Iridium communications satellites. Their large polished antennas produced extremely bright and highly predictable flashes. Some reached magnitude −8 or brighter, briefly outshining every star and even Venus. Observers often described them as lights that “switched on”, “exploded into brightness”, or “appeared suddenly out of nowhere”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/6898-reflections-space-spot-iridium-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practical UFO timeline analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">6898 reflections space spot iridium flares</span><span class="citation-popover-snippet">Reflections from Space: Spot Iridium Flares28 Jun 2009 — At the Earth&#x27;s surface, the specular reflection is probably less than 50 miles w...</span></span></span>, the key point is that flares are not random. They depend on a precise three-way alignment:
+The classic example was the first-generation Iridium communications satellites. Their large polished antennas produced extremely bright and highly predictable flashes. Some reached magnitude −8 or brighter, briefly outshining every star and even Venus. Observers often described them as lights that “switched on”, “exploded into brightness”, or “appeared suddenly out of nowhere”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/6898-reflections-space-spot-iridium-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practical UFO timeline analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">6898 reflections space spot iridium flares</span><span class="citation-popover-snippet">Reflections from Space: Spot Iridium Flares28 Jun 2009 — At the Earth&#x27;s surface, the specular reflection is probably less than 50 miles w...</span></span></span>, the key point is that flares are not random. They depend on a precise three-way alignment:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,9 +288,9 @@ The classic example was the first-generation Iridium communications satellites. 
 
 </div>
 
-If any of those conditions fail, the flare never becomes visible. This is why one witness may report an extraordinary flash while someone a few kilometres away sees nothing at all. Iridium flare footprints were sometimes only around 10 kilometres wide at peak brightness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+If any of those conditions fail, the flare never becomes visible. This is why one witness may report an extraordinary flash while someone a few kilometres away sees nothing at all. Iridium flare footprints were sometimes only around 10 kilometres wide at peak brightness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
-Modern satellites still produce glints even though the [original]({{ 'original-evidence/' | relative_url }}) Iridium fleet has been retired. Starlink satellites, tumbling rocket bodies, large solar arrays, and reflective spacecraft surfaces can all generate sudden brightness surges. The difference is that many modern flares are less predictable because spacecraft orientation changes more dynamically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</span></span></span>
+Modern satellites still produce glints even though the [original]({{ 'original-evidence/' | relative_url }}) Iridium fleet has been retired. Starlink satellites, tumbling rocket bodies, large solar arrays, and reflective spacecraft surfaces can all generate sudden brightness surges. The difference is that many modern flares are less predictable because spacecraft orientation changes more dynamically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</span></span></span>
 
 ## Matching Flare Geometry To Witness Timelines
 
@@ -303,20 +303,20 @@ The reconstruction process typically checks five linked variables:
 1. Exact witness time window.
 2. Observer latitude, longitude, and viewing direction.
 3. Satellite orbital track.
-4. Solar illumination conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollosat.com">[apollosat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollosat.com</span><span class="citation-popover-snippet">Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</span></span></span>
+4. Solar illumination conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollosat.com">[apollosat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollosat.com</span><span class="citation-popover-snippet">Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</span></span></span>
 5. Earth shadow boundary at that moment.
 
 </div>
 
 A credible flare match normally requires several of these factors to align simultaneously.
 
-For example, a satellite flare explanation becomes much stronger when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+For example, a satellite flare explanation becomes much stronger when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 * The predicted flare occurs within seconds of the reported sighting.
 * The witness direction matches the satellite azimuth and elevation.
 * The duration resembles a known flare profile.
 * The brightness peaks sharply then fades symmetrically.
-* The satellite enters Earth’s shadow shortly afterward. Wikipedia+2Heavens-Above <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+* The satellite enters Earth’s shadow shortly afterward. Wikipedia+2Heavens-Above<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 AI-assisted workflows are particularly useful here because orbital calculations involve large moving datasets. Automated systems can ingest Two-Line Element sets (TLEs), reconstruct historical sky conditions, and test many candidate satellites simultaneously. Rather than manually checking one spacecraft at a time, an automated pipeline can rapidly identify which objects were capable of producing a visible flare from the observer’s exact location.
 
@@ -360,7 +360,7 @@ This effect becomes even stronger during twilight, when:
 
 * the ground observer is already in darkness,
 * the satellite remains sunlit at altitude,
-* and contrast against the sky is high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollosat.com">[Apollo Satellite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollosat.com</span><span class="citation-popover-snippet">Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2021 03 dont chance sight distant orbital</span><span class="citation-popover-snippet">If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</span></span></span>
+* and contrast against the sky is high.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollosat.com">[Apollo Satellite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollosat.com</span><span class="citation-popover-snippet">Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2021 03 dont chance sight distant orbital</span><span class="citation-popover-snippet">If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</span></span></span>
 
 In witness testimony, this often becomes:
 
@@ -377,7 +377,7 @@ This is especially relevant in cases where witnesses report:
 * no coloured navigation lights,
 * and no apparent acceleration beyond the sudden disappearance itself.
 
-Those characteristics strongly overlap with known satellite flare behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Those characteristics strongly overlap with known satellite flare behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8EOOOWYtqhM" title="The Satellite Flaring Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer">The Satellite Flaring Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: January 2025 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8EOOOWYtqhM">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +385,7 @@ Those characteristics strongly overlap with known satellite flare behaviour. <sp
 
 A classic satellite clue in UFO reports is instantaneous disappearance without visible descent. This often occurs when a spacecraft crosses into Earth’s shadow.
 
-Satellites in low Earth orbit remain illuminated after sunset because they are still high enough to catch sunlight. As they continue along their orbital path, they eventually pass into the dark cone behind Earth and stop reflecting sunlight toward the observer. The disappearance can appear extremely abrupt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2021 03 dont chance sight distant orbital</span><span class="citation-popover-snippet">If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</span></span></span>
+Satellites in low Earth orbit remain illuminated after sunset because they are still high enough to catch sunlight. As they continue along their orbital path, they eventually pass into the dark cone behind Earth and stop reflecting sunlight toward the observer. The disappearance can appear extremely abrupt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2021 03 dont chance sight distant orbital</span><span class="citation-popover-snippet">If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</span></span></span>
 
 In reconstruction work, Earth-shadow modelling is therefore one of the most valuable automated checks.
 
@@ -410,7 +410,7 @@ Those are the moments where investigators must avoid forcing a satellite explana
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-3-dark.svg" | relative_url }}" alt="Satellite Flares illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Flare Timing Checks Commonly Fail
 
-Satellite flare matching is powerful, but it is not foolproof.(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Satellite flare matching is powerful, but it is not foolproof.(#endnote-1 "Endnote 1")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 Several complications regularly appear in UFO case reconstruction:
 
@@ -419,7 +419,7 @@ Several complications regularly appear in UFO case reconstruction:
 * tumbling debris can create irregular flashing patterns,
 * and some satellites change orientation unpredictably.
 
-The retirement of the original Iridium satellites also removed one of the easiest flare systems to predict precisely. Modern flare events are often less regular and harder to model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Satellite predictions and other astronomical data customised for your location... Planets · Solar system chart · Comets · A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ash visible from Earth, created by specular solar reflection off of their flat...</span></span></span>
+The retirement of the original Iridium satellites also removed one of the easiest flare systems to predict precisely. Modern flare events are often less regular and harder to model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Satellite predictions and other astronomical data customised for your location... Planets · Solar system chart · Comets · A...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ash visible from Earth, created by specular solar reflection off of their flat...</span></span></span>
 
 Another major complication is overfitting. Investigators can sometimes find a satellite pass vaguely near a sighting and treat that as a solved case even when the geometry is weak. Good reconstruction practice avoids this by separating:
 
@@ -437,202 +437,202 @@ Satellite flare analysis demonstrates one of the clearest advantages of AI-assis
 A bright flash that initially appears mysterious can often be traced to:
 
 * a reflective antenna,
-* a solar panel glint, <span class="citation-chip-wrap"><a class="citation-chip" href="https://twanight.org/gallery/iridium-flare-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twanight.org">[twanight.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twanight.org</span><span class="citation-popover-snippet">Iridium FlareSatellite flare or satellite glint is the phenomenon caused by the reflective surfaces on satellites (such as antennas or so...</span></span></span>
+* a solar panel glint,<span class="citation-chip-wrap"><a class="citation-chip" href="https://twanight.org/gallery/iridium-flare-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twanight.org">[twanight.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twanight.org</span><span class="citation-popover-snippet">Iridium FlareSatellite flare or satellite glint is the phenomenon caused by the reflective surfaces on satellites (such as antennas or so...</span></span></span>
 * or a satellite entering Earth’s shadow.
 
-These explanations are not speculative debunks. They are repeatable optical events governed by known orbital mechanics and lighting geometry. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>, rigorous flare checking also protects against premature dismissal. When timing, direction, and illumination fail to match known satellites, investigators gain a stronger evidential basis for classifying the sighting as unresolved rather than casually explained away.
+These explanations are not speculative debunks. They are repeatable optical events governed by known orbital mechanics and lighting geometry. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>, rigorous flare checking also protects against premature dismissal. When timing, direction, and illumination fail to match known satellites, investigators gain a stronger evidential basis for classifying the sighting as unresolved rather than casually explained away.
 
 That balance is central to evidence-led UFO reconstruction: using automation to rule out ordinary explanations quickly where the data genuinely supports them, while preserving uncertainty where the fit remains weak.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could That Sudden Flash Have Been A Satellite Flare?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could That Sudden Flash Have Been A Satellite Flare?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Strong fit for identifying satellites and bright sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for identifying satellites and bright sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Supports practical checks for flare timing and viewing geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical checks for flare timing and viewing geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for sky orientation and night-object identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for sky orientation and night-object identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages testing sudden flashes before calling them anomalous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing sudden flashes before calling them anomalous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-that-sudden-flash-have-been-a-satellite-flare-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="could-that-sudden-flash-have-been-a-satellite-flare-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -648,7 +648,7 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -668,7 +668,7 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -700,7 +700,7 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -797,7 +797,7 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,133 +838,133 @@ That balance is central to evidence-led UFO reconstruction: using automation to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117722010936" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117722010936</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris spectroscopy: Specular reflections at LEO...by D Žilková · 2023 · Cited by 18 — In orbit satellites can reflec...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117722010936" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117722010936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris spectroscopy: Specular reflections at LEO...by D Žilková · 2023 · Cited by 18 — In orbit satellites can reflec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: 6898 reflections space spot iridium flares  
-   Link: <a href="https://www.space.com/6898-reflections-space-spot-iridium-flares.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/6898-reflections-space-spot-iridium-flares.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections from Space: Spot Iridium Flares28 Jun 2009 — At the Earth&#x27;s surface, the specular reflection is probably less than 50 miles w...</p></details>
+   Link:<a href="https://www.space.com/6898-reflections-space-spot-iridium-flares.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/6898-reflections-space-spot-iridium-flares.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections from Space: Spot Iridium Flares28 Jun 2009 — At the Earth&#x27;s surface, the specular reflection is probably less than 50 miles w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The visual appearance of the Iridium® satellitesby PD Maley · 2003 · Cited by 15 — Iridium flares (Maley and Pizzicaroli, 2003) known to...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The visual appearance of the Iridium® satellitesby PD Maley · 2003 · Cited by 15 — Iridium flares (Maley and Pizzicaroli, 2003) known to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ash visible from Earth, created by specular solar reflection off of their flat...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/xnpx5d/last_of_the_iridium_flashes_i_captured_the_once/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ash visible from Earth, created by specular solar reflection off of their flat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite predictions and other astronomical data customised for your location... Planets · Solar system chart · Comets · A...</p></details>
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite predictions and other astronomical data customised for your location... Planets · Solar system chart · Comets · A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/faq.aspx?alt=100&amp;cul=en&amp;lat=44.813792&amp;lng=-76.515932&amp;loc=Cygnus+Hill+Observatory&amp;tz=EST" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx?alt=100&amp;cul=en&amp;lat=44.813792&amp;lng=-76.515932&amp;loc=Cygnus+Hill+Observatory&amp;tz=EST</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re not in the nominal orbit and/or attitude. However...Read more...</p></details>
+   Link:<a href="https://www.heavens-above.com/faq.aspx?alt=100&amp;cul=en&amp;lat=44.813792&amp;lng=-76.515932&amp;loc=Cygnus+Hill+Observatory&amp;tz=EST" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx?alt=100&amp;cul=en&amp;lat=44.813792&amp;lng=-76.515932&amp;loc=Cygnus+Hill+Observatory&amp;tz=EST</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re not in the nominal orbit and/or attitude. However...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: phys.org  
    Title: 2021 03 dont chance sight distant orbital  
-   Link: <a href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</p></details>
+   Link:<a href="https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2021-03-dont-chance-sight-distant-orbital.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If skies are clear, don&#x27;t miss a chance to catch sight of these...19 Mar 2021 — Right around equinox in March or September is a good tim...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: heavens-above.com  
    Title: Iridium Demise.aspx  
-   Link: <a href="https://heavens-above.com/IridiumDemise.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/IridiumDemise.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The end of Iridium flares?15 May 2018 — Several people have reported Iridium Flares not showing up as predicted in the last...</p></details>
+   Link:<a href="https://heavens-above.com/IridiumDemise.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/IridiumDemise.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The end of Iridium flares?15 May 2018 — Several people have reported Iridium Flares not showing up as predicted in the last...</p></details>
    Published: May 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/heavensabove/comments/tqr1k4/iridiums/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/heavensabove/comments/tqr1k4/iridiums/</a>  
+   Link:<a href="https://www.reddit.com/r/heavensabove/comments/tqr1k4/iridiums/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/heavensabove/comments/tqr1k4/iridiums/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresA relatively small communications satellite has been providing spectacular visible reflective flares/gli...</p></details>
+   Link:<a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresA relatively small communications satellite has been providing spectacular visible reflective flares/gli...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: astronomyhouston.org  
-   Link: <a href="https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These events...Read more...</p></details>
+   Link:<a href="https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyhouston.org/newsletters/guidestar/iridium-flares%E2%80%94-bright-light-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These events...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: satfleetlive.com  
    Title: Sat Fleet Live Why Are Satellites So Bright?  
-   Link: <a href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/why-are-satellites-so-bright/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</p></details>
+   Link:<a href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/why-are-satellites-so-bright/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apollosat.com  
-   Link: <a href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow">https://apollosat.com/iridium-coverage-map/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</p></details>
+   Link:<a href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow">https://apollosat.com/iridium-coverage-map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stargazerslounge.com  
    Title: Heavens Above!  
-   Link: <a href="https://stargazerslounge.com/topic/41681-heavens-above-this-things-not-working/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/41681-heavens-above-this-things-not-working/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This things not working?29 Apr 2009 — When I got to the Iridium flares, I made sure I was looking in the right direction at the right tim...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/41681-heavens-above-this-things-not-working/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/41681-heavens-above-this-things-not-working/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This things not working?29 Apr 2009 — When I got to the Iridium flares, I made sure I was looking in the right direction at the right tim...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Science of SunglintThat gleam is caused by sunglint, an optical phenomenon that occurs when sunlight reflects off the sur...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Science of SunglintThat gleam is caused by sunglint, an optical phenomenon that occurs when sunlight reflects off the sur...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Catch an Iridium FlareNote that you can see some Iridium flares in daylight if your skies are very clear and you look in precisely...</p></details>
+   Link:<a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Catch an Iridium FlareNote that you can see some Iridium flares in daylight if your skies are very clear and you look in precisely...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/253833933_Predicting_Iridium_Flares" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253833933_Predicting_Iridium_Flares</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Iridium FlaresSuch a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any Earth-fixed loc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/253833933_Predicting_Iridium_Flares" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253833933_Predicting_Iridium_Flares</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Iridium FlaresSuch a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any Earth-fixed loc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twanight.org  
-   Link: <a href="https://twanight.org/gallery/iridium-flare-2/" target="_blank" rel="noopener noreferrer nofollow">https://twanight.org/gallery/iridium-flare-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium FlareSatellite flare or satellite glint is the phenomenon caused by the reflective surfaces on satellites (such as antennas or so...</p></details>
+   Link:<a href="https://twanight.org/gallery/iridium-flare-2/" target="_blank" rel="noopener noreferrer nofollow">https://twanight.org/gallery/iridium-flare-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium FlareSatellite flare or satellite glint is the phenomenon caused by the reflective surfaces on satellites (such as antennas or so...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/giant-mirrors-in-space-could-bring-sunlight-after-dark-one-startup-says-and-astronomers-are-concerned-180987781/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/giant-mirrors-in-space-could-bring-sunlight-after-dark-one-startup-says-and-astronomers-are-concerned-180987781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Mirrors in Space Could Bring Sunlight After Dark...Dec 3, 2025 — Critics argue the satellites, billed as a way to harness solar en...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/science-nature/giant-mirrors-in-space-could-bring-sunlight-after-dark-one-startup-says-and-astronomers-are-concerned-180987781/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/giant-mirrors-in-space-could-bring-sunlight-after-dark-one-startup-says-and-astronomers-are-concerned-180987781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Mirrors in Space Could Bring Sunlight After Dark...Dec 3, 2025 — Critics argue the satellites, billed as a way to harness solar en...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flatearth.ws  
-   Link: <a href="https://flatearth.ws/t/iridium-flare" target="_blank" rel="noopener noreferrer nofollow">https://flatearth.ws/t/iridium-flare</a>  
+   Link:<a href="https://flatearth.ws/t/iridium-flare" target="_blank" rel="noopener noreferrer nofollow">https://flatearth.ws/t/iridium-flare</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8EOOOWYtqhM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8EOOOWYtqhM</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lens.monash.edu  
-   Link: <a href="https://lens.monash.edu/a-us-startup-plans-to-deliver-sunlight-on-demand-after-dark-can-it-work-and-would-we-want-it-to/" target="_blank" rel="noopener noreferrer nofollow">https://lens.monash.edu/a-us-startup-plans-to-deliver-sunlight-on-demand-after-dark-can-it-work-and-would-we-want-it-to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Well, for a single 54-metre satellite it will be 15,000 times fainter than the midday sun, but...Read more...</p></details>
+   Link:<a href="https://lens.monash.edu/a-us-startup-plans-to-deliver-sunlight-on-demand-after-dark-can-it-work-and-would-we-want-it-to/" target="_blank" rel="noopener noreferrer nofollow">https://lens.monash.edu/a-us-startup-plans-to-deliver-sunlight-on-demand-after-dark-can-it-work-and-would-we-want-it-to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Well, for a single 54-metre satellite it will be 15,000 times fainter than the midday sun, but...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night-light Imagery Tracks US Energy Transition...5 days ago — Gold, purple, and white points of light brighten up a globe shrouded in d...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night-light Imagery Tracks US Energy Transition...5 days ago — Gold, purple, and white points of light brighten up a globe shrouded in d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: xt8dob.wordpress.com  
    Title: crash course in heavens above part three iridium flares  
-   Link: <a href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium satellites passes over your location, sunlight...</p></details>
+   Link:<a href="https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/06/04/crash-course-in-heavens-above-part-three-iridium-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Course in Heavens-Above: Part Three – Iridium Flares4 Jun 2015 — When one of these Iridium satellites passes over your location, sunlight...</p></details>

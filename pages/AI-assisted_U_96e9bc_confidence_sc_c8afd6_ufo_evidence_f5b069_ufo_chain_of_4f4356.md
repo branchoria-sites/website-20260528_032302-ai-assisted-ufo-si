@@ -272,11 +272,11 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 A UFO video does not become trustworthy simply because it looks dramatic or goes viral. Investigators increasingly judge footage by a different question: can the file’s history be reconstructed from the moment it was recorded to the moment it was analysed? In digital forensics, that history is called the [chain of custody]({{ 'chain-of-custody/' | relative_url }}). It tracks who handled a file, whether it was altered, whether metadata survived intact, and whether investigators are still looking at the [original evidence]({{ 'original-evidence/' | relative_url }}) rather than a compressed social-media copy.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-dark.svg" | relative_url }}" alt="Chain Custody illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because AI-assisted UFO investigation depends heavily on timing, location, sensor [metadata]({{ 'metadata/' | relative_url }}), and comparison against outside datasets such as flight records, satellite passes, weather conditions, and astronomical objects. NASA’s independent UAP study warned that poor metadata and weak sensor documentation severely limit meaningful analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15Nov 12, 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span> A file with a broken chain of custody may still show something unusual, but [confidence]({{ 'confidence/' | relative_url }}) in any explanation — ordinary or extraordinary — drops sharply.
+This matters because AI-assisted UFO investigation depends heavily on timing, location, sensor [metadata]({{ 'metadata/' | relative_url }}), and comparison against outside datasets such as flight records, satellite passes, weather conditions, and astronomical objects. NASA’s independent UAP study warned that poor metadata and weak sensor documentation severely limit meaningful analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15Nov 12, 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span> A file with a broken chain of custody may still show something unusual, but [confidence]({{ 'confidence/' | relative_url }}) in any explanation — ordinary or extraordinary — drops sharply.
 
 ## How digital chain of custody works for UFO media
 
-In forensic terms, chain of custody is the documented path followed by a piece of evidence through collection, storage, transfer, analysis, and publication. The US National Institute of Standards and Technology defines it as a process that records who handled evidence, when it was transferred, and why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csrc.nist.gov">[NIST Computer Security Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csrc.nist.gov</span><span class="citation-popover-title">Computer Security Resource Centerchain of custody</span><span class="citation-popover-snippet">NIST Computer Security Resource Centerchain of custody - Glossary &#124; CSRCA process that tracks the movement of evidence through its collec...</span></span></span>
+In forensic terms, chain of custody is the documented path followed by a piece of evidence through collection, storage, transfer, analysis, and publication. The US National Institute of Standards and Technology defines it as a process that records who handled evidence, when it was transferred, and why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csrc.nist.gov">[NIST Computer Security Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csrc.nist.gov</span><span class="citation-popover-title">Computer Security Resource Centerchain of custody</span><span class="citation-popover-snippet">NIST Computer Security Resource Centerchain of custody - Glossary &#124; CSRCA process that tracks the movement of evidence through its collec...</span></span></span>
 
 Applied to UFO footage, that usually means investigators try to establish:
 
@@ -293,15 +293,15 @@ Applied to UFO footage, that usually means investigators try to establish:
 
 </div>
 
-A serious UFO case increasingly resembles a digital evidence investigation rather than an internet debate. The best cases preserve the original image or video file directly from the recording device, together with associated metadata such as timestamp, GPS location, frame rate, camera model, and exposure settings. Modern forensic workflows often add cryptographic hashes — unique digital fingerprints that change if even one pixel is altered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawkeyeforensic.com">[hawkeyeforensic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawkeyeforensic.com</span><span class="citation-popover-snippet">Hash values play a key role in ensuring the integrity of evidence...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</span></span></span> Trust as a Service
+A serious UFO case increasingly resembles a digital evidence investigation rather than an internet debate. The best cases preserve the original image or video file directly from the recording device, together with associated metadata such as timestamp, GPS location, frame rate, camera model, and exposure settings. Modern forensic workflows often add cryptographic hashes — unique digital fingerprints that change if even one pixel is altered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawkeyeforensic.com">[hawkeyeforensic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawkeyeforensic.com</span><span class="citation-popover-snippet">Hash values play a key role in ensuring the integrity of evidence...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</span></span></span> Trust as a Service
 
-This approach matters because many apparent anomalies emerge from ordinary technical artefacts. NASA’s UAP review noted that some apparent anomalies disappeared once metadata and sensor calibration were examined properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span> A stable chain of custody helps investigators determine whether they are analysing a real event, a distorted copy, or a file modified by software processing.
+This approach matters because many apparent anomalies emerge from ordinary technical artefacts. NASA’s UAP review noted that some apparent anomalies disappeared once metadata and sensor calibration were examined properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span> A stable chain of custody helps investigators determine whether they are analysing a real event, a distorted copy, or a file modified by software processing.
 
 ## Why original files matter more than viral reposts
 
 Most public UFO footage reaches investigators after several rounds of reposting. A witness may upload a clip to TikTok, another user downloads it, a compilation channel re-encodes it for YouTube, and screenshots circulate on forums and social media. By that stage, crucial evidence may already be gone.
 
-Compression and platform processing routinely strip or alter metadata. Some services remove EXIF data entirely. Others alter frame rates, recompress video, crop images, or change timestamps. Research into forensic metadata handling has shown that different messaging and social-media platforms preserve very different levels of original image data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span>
+Compression and platform processing routinely strip or alter metadata. Some services remove EXIF data entirely. Others alter frame rates, recompress video, crop images, or change timestamps. Research into forensic metadata handling has shown that different messaging and social-media platforms preserve very different levels of original image data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span>
 
 For UFO investigation, those losses are not minor technical details. They directly affect explanation testing:
 
@@ -318,7 +318,7 @@ For UFO investigation, those losses are not minor technical details. They direct
 
 A famous pattern in online UFO discussions is the “mystery clip” that exists only as a reposted screen recording. Investigators may never learn the original device, location, or recording date. AI systems can still attempt comparisons against aircraft, drones, balloons, or satellites, but the resulting match confidence should remain low because the underlying evidence cannot be verified properly.
 
-This is why digital forensics guidance consistently prioritises acquisition of the source file rather than downloaded copies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axon.com">[Axon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axon.com</span><span class="citation-popover-snippet">Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</span></span></span>
+This is why digital forensics guidance consistently prioritises acquisition of the source file rather than downloaded copies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axon.com">[Axon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axon.com</span><span class="citation-popover-snippet">Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</span></span></span>
 
 ## What happens when files pass through multiple uploads
 
@@ -348,7 +348,7 @@ This matters because UFO footage is often interpreted through movement analysis.
 
 Investigators therefore distinguish between:
 
-* **Source evidence** — the original file from the recording device <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axon.com">[axon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axon.com</span><span class="citation-popover-snippet">Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</span></span></span>
+* **Source evidence** — the original file from the recording device<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axon.com">[axon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axon.com</span><span class="citation-popover-snippet">Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</span></span></span>
 * **Derivative evidence** — edited, reposted, compressed, or converted copies
 * **Interpretive material** — enhancements, stabilisations, annotations, or [AI reconstructions]({{ 'ai-reconstruction/' | relative_url }})
 
@@ -389,7 +389,7 @@ For that reason, UFO researchers increasingly borrow practices from legal and fo
 
 </div>
 
-Digital evidence standards developed for courts and cyber-forensics are beginning to influence civilian UAP investigation for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert &#124; Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</span></span></span>
+Digital evidence standards developed for courts and cyber-forensics are beginning to influence civilian UAP investigation for exactly this reason.<span class="citation-chip-wrap"><a class="citation-chip" href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert &#124; Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-dark.svg" | relative_url }}" alt="Chain Custody illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Chain custody and AI-assisted investigation
@@ -417,194 +417,194 @@ Conversely, strong chain-of-custody cases often become easier to explain. Exact 
 That is why serious AI-assisted UFO investigation increasingly treats evidence handling as part of the investigation itself rather than an administrative afterthought. The reliability of the file history shapes how much confidence investigators can place in every later conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Investigators Trust a UFO File&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Investigators Trust a UFO File&#x27;s History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence discipline before strong UFO conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence discipline before strong UFO conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Helps frame why broken evidence histories reduce confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame why broken evidence histories reduce confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Relevant to interpreting images while questioning provenance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to interpreting images while questioning provenance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Relevant to preserving case materials and media evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to preserving case materials and media evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20."><img src="https://i.ebayimg.com/images/g/f40AAOSwO6ZnLMWi/s-l225.jpg" alt="Listing image for USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20."><img src="https://i.ebayimg.com/images/g/f40AAOSwO6ZnLMWi/s-l225.jpg" alt="Listing image for USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB C SD Card Reader Adapter, Compatible with iPad, Mac, iPhone 15, Galaxy S20.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader"><img src="https://i.ebayimg.com/images/g/pcMAAeSwdcVppWln/s-l225.jpg" alt="Listing image for KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader"><img src="https://i.ebayimg.com/images/g/pcMAAeSwdcVppWln/s-l225.jpg" alt="Listing image for KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">KiWiBiRD CF Card Reader Compact Flash Card Reader USB C SD Micro SD Card Reader</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader"><img src="https://i.ebayimg.com/images/g/~isAAeSwSy1ob4RK/s-l225.jpg" alt="Listing image for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader"><img src="https://i.ebayimg.com/images/g/~isAAeSwSy1ob4RK/s-l225.jpg" alt="Listing image for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS"><img src="https://i.ebayimg.com/images/g/CQ8AAOSwMVdnl94w/s-l225.jpg" alt="Listing image for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS"><img src="https://i.ebayimg.com/images/g/CQ8AAOSwMVdnl94w/s-l225.jpg" alt="Listing image for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-investigators-trust-a-ufo-file-s-history-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="can-investigators-trust-a-ufo-file-s-history-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,209 +810,209 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/15Nov 12, 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/15Nov 12, 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: csrc.nist.gov  
    Title: Computer Security Resource Centerchain of custody  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource Centerchain of custody - Glossary | CSRCA process that tracks the movement of evidence through its collec...</p></details>
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource Centerchain of custody - Glossary | CSRCA process that tracks the movement of evidence through its collec...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nvlpubs.nist.gov  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 11 — Digital evidence; computer forensics; chain of custody...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 11 — Digital evidence; computer forensics; chain of custody...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hawkeyeforensic.com  
-   Link: <a href="https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hash values play a key role in ensuring the integrity of evidence...Read more...</p></details>
+   Link:<a href="https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://hawkeyeforensic.com/role-of-hash-value-in-digital-forensic-investigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hash values play a key role in ensuring the integrity of evidence...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: truescreen.io  
    Title: True Screen  
-   Link: <a href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/admissibility-digital-evidence-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</p></details>
+   Link:<a href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/admissibility-digital-evidence-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: truescreen.io  
    Title: True Screen  
-   Link: <a href="https://truescreen.io/articles/digital-chain-of-custody-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-chain-of-custody-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceDigital Chain of Custody: Complete Guide to Evidence...31 Mar 2026 — The digital chain of custody is the...</p></details>
+   Link:<a href="https://truescreen.io/articles/digital-chain-of-custody-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-chain-of-custody-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceDigital Chain of Custody: Complete Guide to Evidence...31 Mar 2026 — The digital chain of custody is the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
    Title: Linked In Understanding Metadata in Digital Forensics: HTML vs  
-   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: axon.com  
-   Link: <a href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.axon.com/resources/digital-evidence-management-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</p></details>
+   Link:<a href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.axon.com/resources/digital-evidence-management-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: truescreen.io  
    Title: True Screen  
-   Link: <a href="https://truescreen.io/articles/digital-evidence-preservation-standards/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-evidence-preservation-standards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceDigital Evidence Preservation: Standards Compared15 May 2026 — At least four international standards defin...</p></details>
+   Link:<a href="https://truescreen.io/articles/digital-evidence-preservation-standards/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-evidence-preservation-standards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust as a ServiceDigital Evidence Preservation: Standards Compared15 May 2026 — At least four international standards defin...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: truescreen.io  
-   Link: <a href="https://truescreen.io/insights/certified-screen-recording-digital-chain-custody/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/insights/certified-screen-recording-digital-chain-custody/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Certified screen recording: digital chain of custody and...Mar 26, 2026 — TrueScreen certifies video calls and online meetings with lega...</p></details>
+   Link:<a href="https://truescreen.io/insights/certified-screen-recording-digital-chain-custody/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/insights/certified-screen-recording-digital-chain-custody/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Certified screen recording: digital chain of custody and...Mar 26, 2026 — TrueScreen certifies video calls and online meetings with lega...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: csrc.nist.gov  
    Title: govchain of evidence  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_evidence" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of evidence - Glossary - NIST CSRCDefinitions: A process and record that shows who obtained the evidence; where and when the evidence was...</p></details>
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_evidence" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of evidence - Glossary - NIST CSRCDefinitions: A process and record that shows who obtained the evidence; where and when the evidence was...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
    Published: May 31, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Digital Forensics: Ensuring Chain of Custody for Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=k5y_R7Q5b18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5y_R7Q5b18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Digital Evidence Preservation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k5y_R7Q5b18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5y_R7Q5b18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Digital Evidence Preservation...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Importance of Digital Evidence Preservation  
-   Link: <a href="https://www.youtube.com/watch?v=0k5k6i3kC2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5k6i3kC2k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Digital Provenance and Hashing Protect Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0k5k6i3kC2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5k6i3kC2k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Digital Provenance and Hashing Protect Truth...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Digital Provenance and Hashing Protect Truth  
-   Link: <a href="https://www.youtube.com/watch?v=C7N7iQ7m4Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C7N7iQ7m4Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in Cyber Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C7N7iQ7m4Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C7N7iQ7m4Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in Cyber Investigations...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Chain of Custody in Cyber Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=d_k8yV_QJ6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_k8yV_QJ6A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Altered Media: A Digital Forensic Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_k8yV_QJ6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_k8yV_QJ6A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Altered Media: A Digital Forensic Guide...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Identifying Altered Media: A Digital Forensic Guide  
-   Link: <a href="https://www.youtube.com/watch?v=9g2T7Q0P9k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g2T7Q0P9k4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9g2T7Q0P9k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g2T7Q0P9k4</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: learn.microsoft.com  
-   Link: <a href="https://learn.microsoft.com/en-us/azure/architecture/example-scenario/forensics/" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/azure/architecture/example-scenario/forensics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in AzureThis article outlines an infrastructure and workflow process designed to help teams provide digital evidence tha...</p></details>
+   Link:<a href="https://learn.microsoft.com/en-us/azure/architecture/example-scenario/forensics/" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/azure/architecture/example-scenario/forensics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in AzureThis article outlines an infrastructure and workflow process designed to help teams provide digital evidence tha...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: maryman.com  
-   Link: <a href="https://maryman.com/chain-of-custody-basics-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://maryman.com/chain-of-custody-basics-for-digital-evidence-collection/</a>  
+   Link:<a href="https://maryman.com/chain-of-custody-basics-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://maryman.com/chain-of-custody-basics-for-digital-evidence-collection/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Custody (CoC) i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Custody (CoC) i...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nij.ojp.gov  
    Title: new approaches digital evidence acquisition and analysis  
-   Link: <a href="https://nij.ojp.gov/topics/articles/new-approaches-digital-evidence-acquisition-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/articles/new-approaches-digital-evidence-acquisition-and-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Approaches to Digital Evidence Acquisition and Analysis7 Oct 2018 — In 2014 NIJ funded two projects: Grier Forensics received an award to...</p></details>
+   Link:<a href="https://nij.ojp.gov/topics/articles/new-approaches-digital-evidence-acquisition-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/articles/new-approaches-digital-evidence-acquisition-and-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Approaches to Digital Evidence Acquisition and Analysis7 Oct 2018 — In 2014 NIJ funded two projects: Grier Forensics received an award to...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: mourant.com  
    Title: digital forensics uncovering preserving and presenting digital evidence  
-   Link: <a href="https://www.mourant.com/updates/digital-forensics-uncovering-preserving-and-presenting-digital-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.mourant.com/updates/digital-forensics-uncovering-preserving-and-presenting-digital-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncovering, preserving and presenting digital evidence14 Apr 2026 — Digital forensics is central to modern investigations, helping organi...</p></details>
+   Link:<a href="https://www.mourant.com/updates/digital-forensics-uncovering-preserving-and-presenting-digital-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.mourant.com/updates/digital-forensics-uncovering-preserving-and-presenting-digital-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncovering, preserving and presenting digital evidence14 Apr 2026 — Digital forensics is central to modern investigations, helping organi...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: eyewitness.global  
-   Link: <a href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/Using-metadata.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is due to the risks of individuals editing and altering media and data to create fake...Read more...</p></details>
+   Link:<a href="https://www.eyewitness.global/Using-metadata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/Using-metadata.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is due to the risks of individuals editing and altering media and data to create fake...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: eclipseforensics.com  
-   Link: <a href="https://eclipseforensics.com/the-science-behind-digital-forensics-tools-and-techniques-used-by-forensic-experts/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/the-science-behind-digital-forensics-tools-and-techniques-used-by-forensic-experts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This involves documenting every step of evidence handling, including who accessed...Read more...</p></details>
+   Link:<a href="https://eclipseforensics.com/the-science-behind-digital-forensics-tools-and-techniques-used-by-forensic-experts/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/the-science-behind-digital-forensics-tools-and-techniques-used-by-forensic-experts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This involves documenting every step of evidence handling, including who accessed...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>

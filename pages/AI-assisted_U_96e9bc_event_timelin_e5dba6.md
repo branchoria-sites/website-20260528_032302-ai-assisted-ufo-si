@@ -325,7 +325,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview-social.
 AI timeline reconstruction for a single UFO event means rebuilding the minutes and hours around a sighting as one evidence window: what the witness reported, what the camera or sensor recorded, what was in the sky, what the weather was doing, and what local conditions might have shaped perception. It does not make the sighting extraordinary or ordinary by itself. Its value is narrower and more useful: it shows whether the report lines up with aircraft, satellites, balloons, [astronomy]({{ 'astronomy/' | relative_url }}), weather, [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}), or something that remains unresolved after those checks.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview.webp" | relative_url }}" alt="Overview image for Timeline" loading="eager" decoding="sync" fetchpriority="high">
-For an AI-assisted UFO sighting investigation, the timeline is the bridge between a raw story and a testable [case file]({{ 'case-file/' | relative_url }}). A light seen at 21:43 is not assessed in isolation. It is compared with [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, Moon and planet positions, wind at altitude, visibility, cloud, local power or network incidents, nearby events, and any gaps in the witness account. NASA’s independent UAP study made the same broad point in scientific terms: useful UAP analysis depends on robust data, good metadata, calibrated observations, and systematic reporting rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+For an AI-assisted UFO sighting investigation, the timeline is the bridge between a raw story and a testable [case file]({{ 'case-file/' | relative_url }}). A light seen at 21:43 is not assessed in isolation. It is compared with [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, Moon and planet positions, wind at altitude, visibility, cloud, local power or network incidents, nearby events, and any gaps in the witness account. NASA’s independent UAP study made the same broad point in scientific terms: useful UAP analysis depends on robust data, good metadata, calibrated observations, and systematic reporting rather than isolated anecdotes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## Before, during, and after the event
 
@@ -362,13 +362,13 @@ This is where timeline reconstruction differs from a generic UFO database entry.
 
 A sighting timeline becomes useful when different kinds of evidence are placed on the same clock. AI can automate much of the gathering, but the point is not to drown the case in data. It is to make each proposed explanation answer the same questions: was it present, was it visible, did it move the right way, did it last the right amount of time, and does it fit what the witness and media actually show?
 
-Aircraft data is often one of the first layers. Open aviation sources can include ADS-B, Mode S, MLAT, ADS-C, FLARM, and VHF-derived data depending on platform and region. OpenSky describes itself as an open air-traffic data source for research, while ADS-B Exchange states that its historical archive has captured aircraft positions and related ADS-B, MLAT, and Mode S parameters worldwide at five-second intervals since March 2020. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apify.com/parseforge/opensky-network-scraper/api/openapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apify.com">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apify.com</span><span class="citation-popover-title">Open Sky Network</span><span class="citation-popover-snippet">Open Sky Network</span></span></span> Flightradar24 explains the practical limitation: ADS-B broadcasts position, speed, altitude, and identification, while aircraft without full ADS-B may require multilateration, and some aircraft are harder or impossible to track publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
+Aircraft data is often one of the first layers. Open aviation sources can include ADS-B, Mode S, MLAT, ADS-C, FLARM, and VHF-derived data depending on platform and region. OpenSky describes itself as an open air-traffic data source for research, while ADS-B Exchange states that its historical archive has captured aircraft positions and related ADS-B, MLAT, and Mode S parameters worldwide at five-second intervals since March 2020.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apify.com/parseforge/opensky-network-scraper/api/openapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apify.com">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apify.com</span><span class="citation-popover-title">Open Sky Network</span><span class="citation-popover-snippet">Open Sky Network</span></span></span> Flightradar24 explains the practical limitation: ADS-B broadcasts position, speed, altitude, and identification, while aircraft without full ADS-B may require multilateration, and some aircraft are harder or impossible to track publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
 
 That means an AI timeline should never treat “no aircraft found” as “no aircraft existed”. It should say what was checked, which sources covered the area, whether military or non-cooperative aircraft could be missing, and whether the apparent motion fits an aircraft even without a confirmed track. A low, silent object filmed on a phone near an airport has a different baseline from a high, bright object over open countryside.
 
-Satellite and astronomy layers require a different kind of timing. Satellites may be visible only when they are sunlit while the observer is in darkness. Starlink trains can appear as strings of lights after launch, while satellite flares can brighten and fade in ways that look purposeful to an unaided observer. CelesTrak provides orbital element data used for satellite prediction, Space-Track offers programmatic access to space-object data, and Heavens-Above publishes observer-oriented satellite pass predictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[2space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For planets, the Moon, comets, and other solar-system objects, JPL Horizons provides observer-specific ephemerides, so an investigator can calculate where an object appeared from a given place at a given time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssd.jpl.nasa.gov">[JPL Solar System Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssd.jpl.nasa.gov</span><span class="citation-popover-title">JPL Solar System Dynamics NASA Horizons Manual</span><span class="citation-popover-snippet">JPL Solar System Dynamics NASA Horizons Manual</span></span></span>
+Satellite and astronomy layers require a different kind of timing. Satellites may be visible only when they are sunlit while the observer is in darkness. Starlink trains can appear as strings of lights after launch, while satellite flares can brighten and fade in ways that look purposeful to an unaided observer. CelesTrak provides orbital element data used for satellite prediction, Space-Track offers programmatic access to space-object data, and Heavens-Above publishes observer-oriented satellite pass predictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[2space-track.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For planets, the Moon, comets, and other solar-system objects, JPL Horizons provides observer-specific ephemerides, so an investigator can calculate where an object appeared from a given place at a given time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssd.jpl.nasa.gov">[JPL Solar System Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssd.jpl.nasa.gov</span><span class="citation-popover-title">JPL Solar System Dynamics NASA Horizons Manual</span><span class="citation-popover-snippet">JPL Solar System Dynamics NASA Horizons Manual</span></span></span>
 
-Weather is not a background detail; it can determine whether a candidate explanation is physically plausible. Surface wind may not match wind at balloon altitude. Cloud layers may hide aircraft lights but leave planets visible through breaks. Visibility, humidity, haze, precipitation, and temperature inversions can change apparent brightness and distance. NOAA’s National Weather Service API gives access to forecasts, alerts, and observations, NOAA’s past-weather tools support station observation history, and Meteostat provides historical hourly observations for locations or stations while warning that aggregation and gap-filling methods vary by provider. Meteostat Developers <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/documentation/services-web-api" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/access/past-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPast Weather</span><span class="citation-popover-snippet">NCEIPast Weather</span></span></span> In the UK, the Centre for Environmental Data Analysis catalogue describes MIDAS Open hourly weather observation data from Met Office stations, including wind, cloud, visibility, temperature, and related measurements across a long historical span. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ceda.ac.uk">[CEDA Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ceda.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Weather is not a background detail; it can determine whether a candidate explanation is physically plausible. Surface wind may not match wind at balloon altitude. Cloud layers may hide aircraft lights but leave planets visible through breaks. Visibility, humidity, haze, precipitation, and temperature inversions can change apparent brightness and distance. NOAA’s National Weather Service API gives access to forecasts, alerts, and observations, NOAA’s past-weather tools support station observation history, and Meteostat provides historical hourly observations for locations or stations while warning that aggregation and gap-filling methods vary by provider. Meteostat Developers<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/documentation/services-web-api" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/access/past-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPast Weather</span><span class="citation-popover-snippet">NCEIPast Weather</span></span></span> In the UK, the Centre for Environmental Data Analysis catalogue describes MIDAS Open hourly weather observation data from Met Office stations, including wind, cloud, visibility, temperature, and related measurements across a long historical span.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ceda.ac.uk">[CEDA Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ceda.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The AI’s role is to align these layers to the event window and make the comparison explicit. A balloon explanation is stronger if the object drifts with wind direction and speed, weaker if it moves against measured winds, and unresolved if the relevant altitude wind is unknown. A satellite explanation is stronger if the predicted track crosses the witness’s viewing direction at the reported time, weaker if the satellite was below the horizon or in Earth’s shadow, and unresolved if the location or direction is too vague.
 
@@ -384,15 +384,15 @@ Another use is **candidate generation**. Given a location, time, and rough viewi
 
 AI can also expose **timeline conflicts**. If the witness says the object moved north to south but the only nearby aircraft moved east to west, the system can flag the mismatch instead of forcing a match. If the video appears to last 18 seconds but the witness remembers “five minutes”, the timeline can treat the video as a captured segment rather than the whole event. If the object seems to accelerate only when the camera pans, the system can mark camera motion as a possible contributor rather than object motion.
 
-Finally, AI can create **reviewable explanation paths**. Instead of returning “likely balloon”, it can show why: matching drift direction, apparent speed consistent with wind, no independent propulsion, shape consistent with balloon imagery, no sound, and no conflicting aircraft or satellite match. AARO’s public case material shows why this matters. Several official cases from Europe in 2022 were resolved as balloons because the objects’ morphology and performance characteristics aligned with lighter-than-air objects drifting at wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span> The reasoning is not simply “it looked like a balloon”; it is a timeline and behaviour comparison.
+Finally, AI can create **reviewable explanation paths**. Instead of returning “likely balloon”, it can show why: matching drift direction, apparent speed consistent with wind, no independent propulsion, shape consistent with balloon imagery, no sound, and no conflicting aircraft or satellite match. AARO’s public case material shows why this matters. Several official cases from Europe in 2022 were resolved as balloons because the objects’ morphology and performance characteristics aligned with lighter-than-air objects drifting at wind speed and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span> The reasoning is not simply “it looked like a balloon”; it is a timeline and behaviour comparison.
 
 ## A concrete example: when reconstruction changes the case
 
-The best public examples of timeline reconstruction are not always spectacular; they are cases where ordinary explanations become clearer after motion, wind, and sensor context are aligned. AARO’s Puerto Rico case resolution is a useful example because the original 2013 infrared footage from a U.S. Customs and Border Protection aircraft had long been discussed as unusual. AARO later assessed with high confidence that the objects did not demonstrate anomalous speeds or flight behaviour. Its reconstruction considered object motion, wind, and alternative explanations, including the assessment that the objects moved in a straight line at wind speed over land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The best public examples of timeline reconstruction are not always spectacular; they are cases where ordinary explanations become clearer after motion, wind, and sensor context are aligned. AARO’s Puerto Rico case resolution is a useful example because the original 2013 infrared footage from a U.S. Customs and Border Protection aircraft had long been discussed as unusual. AARO later assessed with high confidence that the objects did not demonstrate anomalous speeds or flight behaviour. Its reconstruction considered object motion, wind, and alternative explanations, including the assessment that the objects moved in a straight line at wind speed over land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That kind of analysis is directly relevant to AI timeline reconstruction. A raw video can make an object appear fast because the camera platform is moving, the field of view is narrow, the background is distant, or the observer lacks a reliable distance estimate. A timeline that includes sensor position, aircraft motion, object bearing, wind, and terrain can turn a dramatic impression into a testable motion model.
 
-The opposite outcome is also possible. AARO’s public imagery page includes unresolved reports where the footage depicts a possible physical object but the available data is insufficient to determine performance characteristics or even whether a heat signature reflects a physical source, environmental heat differential, or sensor display issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span> For public-facing investigation, that is an important category. The correct result is not always “identified”. Sometimes the best timeline exposes that the evidence is too thin to support either an extraordinary claim or a confident mundane explanation.
+The opposite outcome is also possible. AARO’s public imagery page includes unresolved reports where the footage depicts a possible physical object but the available data is insufficient to determine performance characteristics or even whether a heat signature reflects a physical source, environmental heat differential, or sensor display issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span> For public-facing investigation, that is an important category. The correct result is not always “identified”. Sometimes the best timeline exposes that the evidence is too thin to support either an extraordinary claim or a confident mundane explanation.
 
 This distinction is central to balanced UFO analysis. A case can be unresolved because it is genuinely puzzling, but it can also be unresolved because the time, location, direction, sensor settings, weather, or comparison data are missing. AI should help readers see which kind of unresolved case they are looking at.
 
@@ -436,7 +436,7 @@ This prevents a common error: rejecting a match because the durations do not lin
 
 AI can retrieve data quickly, but it cannot remove the need for judgement. Public aviation feeds may omit aircraft. Satellite predictions depend on [orbital data]({{ 'orbital-data/' | relative_url }}) age and observer geometry. Weather stations may be distant from the witness. Reanalysis data may smooth out local conditions. Social media timestamps may reflect upload rather than capture. Camera metadata may be stripped or altered. Witness memory may be sincere but imprecise.
 
-NASA’s UAP study warned that many existing observations are limited by poor calibration, missing metadata, and weak baselines; those are timeline problems as much as data problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO’s historical reporting has made a similar practical point: many cases remain difficult to resolve because the available data is insufficient or of poor quality, while better data would likely allow more cases to be identified as ordinary objects or phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+NASA’s UAP study warned that many existing observations are limited by poor calibration, missing metadata, and weak baselines; those are timeline problems as much as data problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO’s historical reporting has made a similar practical point: many cases remain difficult to resolve because the available data is insufficient or of poor quality, while better data would likely allow more cases to be identified as ordinary objects or phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 The best AI systems should therefore use cautious status labels. “Ruled out” should require a clear contradiction. “Plausible” should mean a candidate fits several key features but lacks full confirmation. “Weak” should mean it fits only one or two features. “Unresolved” should mean the evidence is not enough to decide. “Anomalous” should be reserved for cases where the data are strong and ordinary explanations have been tested and found inadequate, not simply where the story is strange.
 
@@ -473,194 +473,194 @@ At the same time, a disciplined timeline can make a genuinely unresolved case st
 For a single UFO event, the central question is not “what was it?” asked in isolation. It is “what else was happening during the sighting, and does any of it explain the report?” AI can help answer that question quickly, consistently, and transparently — provided the timeline keeps confirmed data, witness claims, analyst inferences, and unresolved uncertainty separate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Else Was Happening During the Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Else Was Happening During the Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Case accounts make timeline reconstruction feel concrete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Case accounts make timeline reconstruction feel concrete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence sequencing, source checking, and avoiding weak inferences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence sequencing, source checking, and avoiding weak inferences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to reconstructing witness details and event context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to reconstructing witness details and event context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps check sky conditions around the event window.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps check sky conditions around the event window.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High School World History Timeline Poster 12x18"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwU9Bp2Vtw/s-l225.jpg" alt="Listing image for High School World History Timeline Poster 12x18" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">High School World History Timeline Poster 12x18</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High School World History Timeline Poster 12x18"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwU9Bp2Vtw/s-l225.jpg" alt="Listing image for High School World History Timeline Poster 12x18" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">High School World History Timeline Poster 12x18</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events"><img src="https://i.ebayimg.com/images/g/N1sAAeSwtw9od1vG/s-l225.jpg" alt="Listing image for Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events"><img src="https://i.ebayimg.com/images/g/N1sAAeSwtw9od1vG/s-l225.jpg" alt="Listing image for Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">Islamic History Timeline – Diagram of Caliphates, Dynasties &amp; Major Events</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for African American History Timeline – Key Events Chart, Black Educational Print"><img src="https://i.ebayimg.com/images/g/YQsAAeSwsAdomXrB/s-l225.jpg" alt="Listing image for African American History Timeline – Key Events Chart, Black Educational Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">African American History Timeline – Key Events Chart, Black Educational Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for African American History Timeline – Key Events Chart, Black Educational Print"><img src="https://i.ebayimg.com/images/g/YQsAAeSwsAdomXrB/s-l225.jpg" alt="Listing image for African American History Timeline – Key Events Chart, Black Educational Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">African American History Timeline – Key Events Chart, Black Educational Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1807 Ecclesiastical History Timeline – Christian Events Chart Art Print"><img src="https://i.ebayimg.com/images/g/BQgAAeSw2apofiel/s-l225.jpg" alt="Listing image for 1807 Ecclesiastical History Timeline – Christian Events Chart Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">1807 Ecclesiastical History Timeline – Christian Events Chart Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1807 Ecclesiastical History Timeline – Christian Events Chart Art Print"><img src="https://i.ebayimg.com/images/g/BQgAAeSw2apofiel/s-l225.jpg" alt="Listing image for 1807 Ecclesiastical History Timeline – Christian Events Chart Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">1807 Ecclesiastical History Timeline – Christian Events Chart Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event timeline poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: event timeline poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+timeline+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-was-happening-during-the-sighting-event-timeline-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster" data-ebay-reference="what-else-was-happening-during-the-sighting-event-timeline-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -676,7 +676,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -696,7 +696,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -728,7 +728,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -780,7 +780,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -825,7 +825,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -866,295 +866,295 @@ For a single UFO event, the central question is not “what was it?” asked in 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
+   Link:<a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
+   Link:<a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space-track.org  
-   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
+   Link:<a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ssd.jpl.nasa.gov  
    Title: JPL Solar System Dynamics NASA Horizons Manual  
-   Link: <a href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/manual.html</a>  
+   Link:<a href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/manual.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ssd-api.jpl.nasa.gov  
    Title: Horizon API  
-   Link: <a href="https://ssd-api.jpl.nasa.gov/doc/horizons.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd-api.jpl.nasa.gov/doc/horizons.html</a>  
+   Link:<a href="https://ssd-api.jpl.nasa.gov/doc/horizons.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd-api.jpl.nasa.gov/doc/horizons.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/documentation/services-web-api" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/documentation/services-web-api</a>  
+   Link:<a href="https://www.weather.gov/documentation/services-web-api" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/documentation/services-web-api</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncei.noaa.gov  
    Title: NCEIPast Weather  
-   Link: <a href="https://www.ncei.noaa.gov/access/past-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/past-weather/</a>  
+   Link:<a href="https://www.ncei.noaa.gov/access/past-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/past-weather/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dev.meteostat.net  
-   Link: <a href="https://dev.meteostat.net/api/point" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/point</a>  
+   Link:<a href="https://dev.meteostat.net/api/point" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/point</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dev.meteostat.net  
-   Link: <a href="https://dev.meteostat.net/quality.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/quality.html</a>  
+   Link:<a href="https://dev.meteostat.net/quality.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/quality.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
    Title: Puerto Rico UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/data/scientific" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data/scientific</a>  
+   Link:<a href="https://opensky-network.org/data/scientific" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data/scientific</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
+   Link:<a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/data" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data</a>  
+   Link:<a href="https://opensky-network.org/data" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wow.metoffice.gov.uk  
    Title: metoffice.gov.uk Met Office WOW  
-   Link: <a href="https://wow.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/</a>  
+   Link:<a href="https://wow.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wow.metoffice.gov.uk  
-   Link: <a href="https://wow.metoffice.gov.uk/support" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/support</a>  
+   Link:<a href="https://wow.metoffice.gov.uk/support" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/support</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation</a>  
+   Link:<a href="https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
    Title: AARO Satellite Flaring Paper 508 FINAL 04222025  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: meteostat.net  
-   Link: <a href="https://meteostat.net/" target="_blank" rel="noopener noreferrer nofollow">https://meteostat.net/</a>  
+   Link:<a href="https://meteostat.net/" target="_blank" rel="noopener noreferrer nofollow">https://meteostat.net/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dev.meteostat.net  
-   Link: <a href="https://dev.meteostat.net/api/stations/hourly.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/stations/hourly.html</a>  
+   Link:<a href="https://dev.meteostat.net/api/stations/hourly.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/stations/hourly.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dev.meteostat.net  
-   Link: <a href="https://dev.meteostat.net/python" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/python</a>  
+   Link:<a href="https://dev.meteostat.net/python" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/python</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dev.meteostat.net  
-   Link: <a href="https://dev.meteostat.net/api" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api</a>  
+   Link:<a href="https://dev.meteostat.net/api" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: <a href="https://ssd.jpl.nasa.gov/horizons/news.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/news.html</a>  
+   Link:<a href="https://ssd.jpl.nasa.gov/horizons/news.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/news.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: <a href="https://ssd.jpl.nasa.gov/horizons/tutorial.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/tutorial.html</a>  
+   Link:<a href="https://ssd.jpl.nasa.gov/horizons/tutorial.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/tutorial.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: <a href="https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text</a>  
+   Link:<a href="https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: <a href="https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text</a>  
+   Link:<a href="https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: noaa.gov  
    Title: weather observations  
-   Link: <a href="https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations</a>  
+   Link:<a href="https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/homr/</a>  
+   Link:<a href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/homr/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: noaa.gov  
    Title: weather and climate resources  
-   Link: <a href="https://www.noaa.gov/tools-and-resources/weather-and-climate-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/tools-and-resources/weather-and-climate-resources</a>  
+   Link:<a href="https://www.noaa.gov/tools-and-resources/weather-and-climate-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/tools-and-resources/weather-and-climate-resources</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+   Link:<a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: space.com  
    Title: spotting ufos sky hub surveillance  
-   Link: <a href="https://www.space.com/spotting-ufos-sky-hub-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spotting-ufos-sky-hub-surveillance</a>  
+   Link:<a href="https://www.space.com/spotting-ufos-sky-hub-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spotting-ufos-sky-hub-surveillance</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: developer.weather.com  
    Title: time series observations current hours past 24 0 0  
-   Link: <a href="https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0" target="_blank" rel="noopener noreferrer nofollow">https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0</a>  
+   Link:<a href="https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past" target="_blank" rel="noopener noreferrer nofollow">https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: data.gov.uk  
    Title: historical station observations  
-   Link: <a href="https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations</a>  
+   Link:<a href="https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: catalogue.ceda.ac.uk  
-   Link: <a href="https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/</a>  
+   Link:<a href="https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: openskynetwork.github.io  
-   Link: <a href="https://openskynetwork.github.io/opensky-api/" target="_blank" rel="noopener noreferrer nofollow">https://openskynetwork.github.io/opensky-api/</a>  
+   Link:<a href="https://openskynetwork.github.io/opensky-api/" target="_blank" rel="noopener noreferrer nofollow">https://openskynetwork.github.io/opensky-api/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: keeptrack.space  
-   Link: <a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
+   Link:<a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa</a>  
+   Link:<a href="https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: apify.com  
    Title: Open Sky Network  
-   Link: <a href="https://apify.com/parseforge/opensky-network-scraper/api/openapi" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/opensky-network-scraper/api/openapi</a>  
+   Link:<a href="https://apify.com/parseforge/opensky-network-scraper/api/openapi" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/opensky-network-scraper/api/openapi</a>  
 
 ### Additional References
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
+   Link:<a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/data/api/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/api/</a>  
+   Link:<a href="https://aviationweather.gov/data/api/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/api/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: Identifying UAPs: Data, Methods, and Scientific Re-evaluation  
-   Link: <a href="https://www.youtube.com/watch?v=k5yqQ-L865E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5yqQ-L865E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Scientific Method to Anomalous Phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k5yqQ-L865E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5yqQ-L865E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Scientific Method to Anomalous Phenomena...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
    Title: Using Data Fusion and AI to Evaluate Sky Anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=9jD3O3mP-hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9jD3O3mP-hU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Known Objects and Unexplained Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9jD3O3mP-hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9jD3O3mP-hU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Known Objects and Unexplained Sightings...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
    Title: Applying the Scientific Method to Anomalous Phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=6P6v6d6b634" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6P6v6d6b634</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data Fusion and AI to Evaluate Sky Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6P6v6d6b634" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6P6v6d6b634</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data Fusion and AI to Evaluate Sky Anomalies...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: thebaldgeek.github.io  
-   Link: <a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
+   Link:<a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/</a>

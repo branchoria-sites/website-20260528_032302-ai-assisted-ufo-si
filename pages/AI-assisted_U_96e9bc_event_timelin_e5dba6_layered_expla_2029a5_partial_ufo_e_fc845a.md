@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 A layered UFO timeline is useful precisely because it allows weak explanations to remain visible instead of being forced into a false choice between “solved” and “mysterious”. In many sightings, one explanation accounts for some parts of the event but fails to explain others. A satellite pass may match the timing and direction but not the reported manoeuvres. A nearby [aircraft]({{ 'aircraft/' | relative_url }}) may explain lights and altitude yet fail to match the observed silence or duration. A handheld camera artefact may explain apparent acceleration in video while leaving open what the witness actually saw with the naked eye.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-dark.svg" | relative_url }}" alt="Weak Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Careful investigation therefore depends on tracking how explanations gain and lose support as evidence accumulates. NASA’s 2023 UAP study stressed that reliable analysis requires calibrated observations, multiple measurements, and usable metadata rather than isolated impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> A [layered timeline]({{ 'layered-timeline/' | relative_url }}) helps investigators preserve that discipline. Instead of quietly discarding [contradictions]({{ 'contradictions/' | relative_url }}), it keeps them attached to the record where they can still be tested later.
+Careful investigation therefore depends on tracking how explanations gain and lose support as evidence accumulates. NASA’s 2023 UAP study stressed that reliable analysis requires calibrated observations, multiple measurements, and usable metadata rather than isolated impressions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> A [layered timeline]({{ 'layered-timeline/' | relative_url }}) helps investigators preserve that discipline. Instead of quietly discarding [contradictions]({{ 'contradictions/' | relative_url }}), it keeps them attached to the record where they can still be tested later.
 
 ## How explanations gain and lose support over time
 
@@ -305,7 +305,7 @@ For example, suppose a witness reports a bright object “hovering silently” o
 
 At that point, the aircraft explanation still matters. It may explain part of the event. But the timeline prevents investigators from overstating its reach.
 
-This is one reason layered reconstruction resembles formal accident investigation practice. The US National Transportation Safety Board describes investigations as a process of piecing together sequences from multiple evidence streams to determine what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</span></span></span> Aviation reconstruction manuals similarly emphasise sequence-building from witness accounts, recordings, environmental data, and technical evidence rather than single-source storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</span></span></span>
+This is one reason layered reconstruction resembles formal accident investigation practice. The US National Transportation Safety Board describes investigations as a process of piecing together sequences from multiple evidence streams to determine what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</span></span></span> Aviation reconstruction manuals similarly emphasise sequence-building from witness accounts, recordings, environmental data, and technical evidence rather than single-source storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</span></span></span>
 
 In UFO investigations, the equivalent discipline means an explanation can remain “partially supported” without becoming “confirmed”.
 
@@ -313,7 +313,7 @@ In UFO investigations, the equivalent discipline means an explanation can remain
 
 One of the most common failure modes in UFO analysis is premature closure: deciding too early that a case is solved or unsolved.
 
-Research into clinical and investigative reasoning repeatedly identifies premature closure, anchoring, and confirmation bias as major sources of analytical error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asmepublications.onlinelibrary.wiley.com">[ASM Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asmepublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ASM Publications Closing in on premature closure bias</span><span class="citation-popover-snippet">ASM PublicationsClosing in on premature closure bias - Medical Education12 Oct 2017 — 1 Premature closure bias occurs when a diagnosis is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The pitfalls of premature closure: clinical decision-making in a...by B Kumar · 2011 · Cited by 39 — Premature closure is a type of c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: msdmanuals.com">[MSD Manuals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">msdmanuals.com</span><span class="citation-popover-snippet">This is one of the most common errors; clinicians make a quick diagnosis (often based...Read more...</span></span></span> In practical terms, investigators often lock onto the first plausible explanation and begin interpreting later evidence to support it.
+Research into clinical and investigative reasoning repeatedly identifies premature closure, anchoring, and confirmation bias as major sources of analytical error.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asmepublications.onlinelibrary.wiley.com">[ASM Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asmepublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ASM Publications Closing in on premature closure bias</span><span class="citation-popover-snippet">ASM PublicationsClosing in on premature closure bias - Medical Education12 Oct 2017 — 1 Premature closure bias occurs when a diagnosis is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The pitfalls of premature closure: clinical decision-making in a...by B Kumar · 2011 · Cited by 39 — Premature closure is a type of c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: msdmanuals.com">[MSD Manuals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">msdmanuals.com</span><span class="citation-popover-snippet">This is one of the most common errors; clinicians make a quick diagnosis (often based...Read more...</span></span></span> In practical terms, investigators often lock onto the first plausible explanation and begin interpreting later evidence to support it.
 
 That dynamic appears frequently in UFO discussions.
 
@@ -368,7 +368,7 @@ One of the most misunderstood points in UFO investigation is that unresolved det
 
 A layered timeline makes that easier to see.
 
-Many reports contain fragments that resist clean explanation because the available data is incomplete, contradictory, or low quality. NASA’s UAP study repeatedly highlighted how poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and lack of multiple measurements limit reliable interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Many reports contain fragments that resist clean explanation because the available data is incomplete, contradictory, or low quality. NASA’s UAP study repeatedly highlighted how poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and lack of multiple measurements limit reliable interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 That means unresolved elements can emerge from several ordinary causes:
 
@@ -503,7 +503,7 @@ Layered timelines reduce both pressures because they preserve analytical transpa
 Readers can see:
 
 * What was actually observed.
-* Which evidence was strongest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[icao.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</span></span></span>
+* Which evidence was strongest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[icao.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</span></span></span>
 * Which explanations fit well.
 * Which explanations weakened over time.
 * Which uncertainties remained unresolved.
@@ -514,194 +514,194 @@ That visibility is especially important in modern AI-assisted UFO investigation,
 A layered timeline keeps the investigation testable after the first wave of analysis. Weak explanations remain visible, contradictory evidence remains attached to the case, and unresolved details remain separated from extraordinary claims. That structure does not guarantee answers. It makes it harder to pretend answers exist when the evidence only supports partial ones.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why A UFO Explanation Can Fit Only Partly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why A UFO Explanation Can Fit Only Partly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports keeping unresolved details separate from anomaly claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports keeping unresolved details separate from anomaly claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Strong fit for explanations that partly fit but fail on contradictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for explanations that partly fit but fail on contradictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Relevant to updating explanation strength as evidence changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to updating explanation strength as evidence changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people overcommit to neat explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people overcommit to neat explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-a-ufo-explanation-can-fit-only-partly-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -717,7 +717,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -737,7 +737,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -769,7 +769,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -821,7 +821,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -866,7 +866,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -907,127 +907,127 @@ A layered timeline keeps the investigation testable after the first wave of anal
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/default.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/process/Pages/default.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/default.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/airnavigation/AIG/9756_P4_cons_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doc 97569 Jun 2024 — Evidence which facilitated the reconstruction of the sequence of events, such as witness accounts, cockpit voice...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The pitfalls of premature closure: clinical decision-making in a...by B Kumar · 2011 · Cited by 39 — Premature closure is a type of c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3189641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pitfalls of premature closure: clinical decision-making in a...by B Kumar · 2011 · Cited by 39 — Premature closure is a type of c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8520040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8520040/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bias). Premature closure, Arriving at a conclusion or diagnosis too early without considering all possibilities. Confirmation bias, Seeki...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8520040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8520040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bias). Premature closure, Arriving at a conclusion or diagnosis too early without considering all possibilities. Confirmation bias, Seeki...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ntsb.gov  
    Title: i AVIATION INVESTIGATION MANUAL  
-   Link: <a href="https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
+   Link:<a href="https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/investigations/Pages/Investigations.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/Pages/Investigations.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
+   Link:<a href="https://www.ntsb.gov/investigations/Pages/Investigations.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/Pages/Investigations.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: msdmanuals.com  
-   Link: <a href="https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of the most common errors; clinicians make a quick diagnosis (often based...Read more...</p></details>
+   Link:<a href="https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.msdmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of the most common errors; clinicians make a quick diagnosis (often based...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: asmepublications.onlinelibrary.wiley.com  
    Title: ASM Publications Closing in on premature closure bias  
-   Link: <a href="https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452" target="_blank" rel="noopener noreferrer nofollow">https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASM PublicationsClosing in on premature closure bias - Medical Education12 Oct 2017 — 1 Premature closure bias occurs when a diagnosis is...</p></details>
+   Link:<a href="https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452" target="_blank" rel="noopener noreferrer nofollow">https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.13452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASM PublicationsClosing in on premature closure bias - Medical Education12 Oct 2017 — 1 Premature closure bias occurs when a diagnosis is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: National Transportation Safety Board  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Transportation_Safety_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Transportation_Safety_Board</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Transportation_Safety_Board" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Transportation_Safety_Board</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapedia.ai  
    Title: nasas 2023 uap study  
-   Link: <a href="https://uapedia.ai/wiki/nasas-2023-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/nasas-2023-uap-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s 2023 UAP StudyThe report gives the UAP community a practical playbook: Build a federal reporting pipeline. Instrument it with cali...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/nasas-2023-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/nasas-2023-uap-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s 2023 UAP StudyThe report gives the UAP community a practical playbook: Build a federal reporting pipeline. Instrument it with cali...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merckmanuals.com  
-   Link: <a href="https://www.merckmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.merckmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Errors in Clinical Decision MakingConfirmation bias is &quot;cherry-picking,&quot; which means clinicians selectively accept clinical dat...</p></details>
+   Link:<a href="https://www.merckmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.merckmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Errors in Clinical Decision MakingConfirmation bias is &quot;cherry-picking,&quot; which means clinicians selectively accept clinical dat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: strategic-risk-global.com  
-   Link: <a href="https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article" target="_blank" rel="noopener noreferrer nofollow">https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
+   Link:<a href="https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article" target="_blank" rel="noopener noreferrer nofollow">https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/about_atsb/investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/about_atsb/investigation-process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
+   Link:<a href="https://www.atsb.gov.au/about_atsb/investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/about_atsb/investigation-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA · 20238 May 2026 — At present, analysis of UAP data is hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA · 20238 May 2026 — At present, analysis of UAP data is hampered by poor sensor calibration...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hicaonline.in  
-   Link: <a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
+   Link:<a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mchip.net  
-   Link: <a href="https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
+   Link:<a href="https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fhea.com  
    Title: cognitive errors in clinical diagnosis availability bias and premature closure  
-   Link: <a href="https://www.fhea.com/resource-center/cognitive-errors-in-clinical-diagnosis-availability-bias-and-premature-closure/" target="_blank" rel="noopener noreferrer nofollow">https://www.fhea.com/resource-center/cognitive-errors-in-clinical-diagnosis-availability-bias-and-premature-closure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Errors in Clinical Diagnosis: Availability Bias and...24 Sept 2021 — Errors in diagnostic reasoning can occur when clinicians...</p></details>
+   Link:<a href="https://www.fhea.com/resource-center/cognitive-errors-in-clinical-diagnosis-availability-bias-and-premature-closure/" target="_blank" rel="noopener noreferrer nofollow">https://www.fhea.com/resource-center/cognitive-errors-in-clinical-diagnosis-availability-bias-and-premature-closure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Errors in Clinical Diagnosis: Availability Bias and...24 Sept 2021 — Errors in diagnostic reasoning can occur when clinicians...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: safetymaterials.argus.aero  
    Title: aero NTS B Investigation Process & the Party System• Defining an Accident  
-   Link: <a href="https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>
+   Link:<a href="https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>

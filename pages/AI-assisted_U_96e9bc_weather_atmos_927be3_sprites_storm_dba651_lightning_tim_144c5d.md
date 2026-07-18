@@ -269,26 +269,26 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 ## Introduction
 
-A red flash above a distant thunderstorm can look startlingly artificial if it appears without warning, lasts only a fraction of a second, and vanishes before the witness understands what they saw. In many UFO-style reports involving “red hovering lights” or “brief crimson explosions above clouds”, the single most useful test is often not shape analysis or image enhancement but timing. [Sprites]({{ 'sprites/' | relative_url }}) are closely linked to specific lightning discharges, especially powerful positive cloud-to-ground strikes. If a suspected sighting lines up with a major lightning event within the right time window and viewing direction, the case can shift from a vague anomaly to a plausible atmospheric explanation. If the timing does not fit, the sprite hypothesis weakens quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites are mostly red and usually last no more than a few secon...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
+A red flash above a distant thunderstorm can look startlingly artificial if it appears without warning, lasts only a fraction of a second, and vanishes before the witness understands what they saw. In many UFO-style reports involving “red hovering lights” or “brief crimson explosions above clouds”, the single most useful test is often not shape analysis or image enhancement but timing. [Sprites]({{ 'sprites/' | relative_url }}) are closely linked to specific lightning discharges, especially powerful positive cloud-to-ground strikes. If a suspected sighting lines up with a major lightning event within the right time window and viewing direction, the case can shift from a vague anomaly to a plausible atmospheric explanation. If the timing does not fit, the sprite hypothesis weakens quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites are mostly red and usually last no more than a few secon...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-dark.svg" | relative_url }}" alt="Lightning timing illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, lightning timing matters because it converts an eyewitness impression into a testable sequence of events. Modern lightning detection networks record exact strike times down to milliseconds or microseconds. That allows investigators to compare witness timestamps, video frames, radar data, and lightning logs against known sprite behaviour rather than relying on memory alone.
 
 ## Why positive cloud-to-ground strikes matter
 
-Sprites are not randomly scattered around storms. Research consistently links them to unusually energetic positive cloud-to-ground lightning discharges, commonly abbreviated as +CG strikes. These strikes transfer positive charge from the storm to the ground and can radically alter the electric field high above the thunderstorm. NOAA National Severe Storms Laboratory EarthDate That distinction matters during a UFO-style investigation because ordinary lightning activity alone is not enough to support a sprite explana <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span> tion. A storm may produce thousands of flashes without generating visible sprites. Investigators therefore look for several conditions together:
+Sprites are not randomly scattered around storms. Research consistently links them to unusually energetic positive cloud-to-ground lightning discharges, commonly abbreviated as +CG strikes. These strikes transfer positive charge from the storm to the ground and can radically alter the electric field high above the thunderstorm. NOAA National Severe Storms Laboratory EarthDate That distinction matters during a UFO-style investigation because ordinary lightning activity alone is not enough to support a sprite explana<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span> tion. A storm may produce thousands of flashes without generating visible sprites. Investigators therefore look for several conditions together:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A powerful thunderstorm within viewing distance
-* A positive cloud-to-ground strike <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span>
+* A positive cloud-to-ground strike<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span>
 * A strong peak current or unusually energetic discharge
 * A sighting time matching the strike within milliseconds to fractions of a second
 * A visual description consistent with upper-atmosphere glow rather than a moving craft
 
 </div>
 
-Scientific studies of sprite-producing lightning show that the delay between the lightning strike and visible sprite onset is usually extremely short. One meteorological analysis found sprite onset delays ranging from roughly 4 to 130 milliseconds, with an average near 45 milliseconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsCharacteristics of Sprite-Producing Positive Cloud-to-Ground...by WA Lyons · 2003 · Cited by 165...</span></span></span>
+Scientific studies of sprite-producing lightning show that the delay between the lightning strike and visible sprite onset is usually extremely short. One meteorological analysis found sprite onset delays ranging from roughly 4 to 130 milliseconds, with an average near 45 milliseconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsCharacteristics of Sprite-Producing Positive Cloud-to-Ground...by WA Lyons · 2003 · Cited by 165...</span></span></span>
 
 That tiny interval explains why witnesses usually experience the event as a single phenomenon. A person rarely perceives “lightning first, sprite later”. Instead they see one sudden red burst above the storm.
 
@@ -298,7 +298,7 @@ This also explains why eyewitness accounts often become distorted. If the storm 
 
 In practical UFO investigation work, sprite timing checks are one of the clearest examples of how automation improves evidence handling. Human memory is often vague by even a few minutes. Lightning databases are not.
 
-Several global and regional systems provide timestamped lightning data, including the World Wide Lightning Location Network (WWLLN), national meteorological networks, and commercial lightning detection systems. WWLLN in particular is widely used in atmospheric research and can detect major lightning strokes with very high timing precision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wwlln.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwlln.net">[wwlln.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwlln.net</span><span class="citation-popover-snippet">A WWLLN lightning flash density map is generated shortly after midnight UTC each day. This map contains all WWLLN data from the prev...</span></span></span>
+Several global and regional systems provide timestamped lightning data, including the World Wide Lightning Location Network (WWLLN), national meteorological networks, and commercial lightning detection systems. WWLLN in particular is widely used in atmospheric research and can detect major lightning strokes with very high timing precision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwlln.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwlln.net">[wwlln.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwlln.net</span><span class="citation-popover-snippet">A WWLLN lightning flash density map is generated shortly after midnight UTC each day. This map contains all WWLLN data from the prev...</span></span></span>
 
 A structured timing workflow usually looks like this:
 
@@ -332,7 +332,7 @@ If lightning logs show a strong +CG strike at 23:14:08 in the same direction and
 
 AI-assisted systems are particularly useful here because they can automate temporal correlation across multiple datasets simultaneously:
 
-* Lightning network logs <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthweb.ess.washington.edu">[earthweb.ess.washington.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthweb.ess.washington.edu</span><span class="citation-popover-title">JNThomas AGU07 BRSprites</span><span class="citation-popover-snippet">• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</span></span></span>
+* Lightning network logs<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthweb.ess.washington.edu">[earthweb.ess.washington.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthweb.ess.washington.edu</span><span class="citation-popover-title">JNThomas AGU07 BRSprites</span><span class="citation-popover-snippet">• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</span></span></span>
 * Weather radar
 * Satellite cloud imagery
 * Witness media timestamps
@@ -343,7 +343,7 @@ That automation matters because sprites are extremely brief. Manual [review]({{ 
 
 ## Why exact timing often beats eyewitness certainty
 
-Witness [confidence]({{ 'confidence/' | relative_url }}) can be misleading in sprite cases because the events occur so quickly. Sprites often last only milliseconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthweb.ess.washington.edu">[earthweb.ess.washington.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthweb.ess.washington.edu</span><span class="citation-popover-title">JNThomas AGU07 BRSprites</span><span class="citation-popover-snippet">• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</span></span></span>
+Witness [confidence]({{ 'confidence/' | relative_url }}) can be misleading in sprite cases because the events occur so quickly. Sprites often last only milliseconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthweb.ess.washington.edu">[earthweb.ess.washington.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthweb.ess.washington.edu</span><span class="citation-popover-title">JNThomas AGU07 BRSprites</span><span class="citation-popover-snippet">• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</span></span></span>
 
 Human perception under low-light conditions introduces several problems:
 
@@ -363,7 +363,7 @@ Timing analysis can expose these distortions. If the witness claims a stationary
 
 Conversely, timing can also eliminate false sprite assumptions. Some red-light sightings occur in completely unsuitable atmospheric conditions:
 
-* No thunderstorms nearby * No cloud-to-ground lightning <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span> * No positive strike activity <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">The Positive and Negative Side of LightningThese bolts are known as &quot;positive lightning&quot; because there is a net transfer of positive char...</span></span></span>
+* No thunderstorms nearby * No cloud-to-ground lightning<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span> * No positive strike activity<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">The Positive and Negative Side of LightningThese bolts are known as &quot;positive lightning&quot; because there is a net transfer of positive char...</span></span></span>
 * No storm cells in the viewing direction
 
 In those cases, investigators should not force a sprite explanation simply because the witness described a “red flash”.
@@ -389,7 +389,7 @@ The following combinations are especially persuasive:
 
 </div>
 
-Researchers have repeatedly documented that sprites can appear displaced from the underlying lightning strike by tens of kilometres, especially in complex storm structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Upper atmospheric lightning</span><span class="citation-popover-snippet">Upper-atmospheric lightningThey are triggered by the discharges of positive lightning between the thundercloud and the ground. The phe...</span></span></span>
+Researchers have repeatedly documented that sprites can appear displaced from the underlying lightning strike by tens of kilometres, especially in complex storm structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Upper atmospheric lightning</span><span class="citation-popover-snippet">Upper-atmospheric lightningThey are triggered by the discharges of positive lightning between the thundercloud and the ground. The phe...</span></span></span>
 
 That matters because an apparent mismatch between sprite position and strike location is not automatically disqualifying. Investigators should allow for some lateral separation rather than demanding perfect vertical alignment.
 
@@ -415,7 +415,7 @@ Sprite explanations become less convincing when the timing relationship falls ap
 
 Investigators should be cautious when:
 
-* No positive cloud-to-ground lightning occurred nearby <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span>
+* No positive cloud-to-ground lightning occurred nearby<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span>
 * The event lasted many seconds continuously
 * The object showed sustained directional movement
 * The sighting occurred in clear weather without storms
@@ -449,199 +449,199 @@ Lightning timing networks can provide:
 
 That creates an unusually strong evidential framework for a phenomenon that still looks extraordinary to casual observers.
 
-The result is not debunking in the dismissive sense. Sprites are genuine upper-atmosphere electrical events and can appear astonishing even to trained observers. National weather agencies, NASA researchers, and atmospheric scientists continue studying them because they remain scientifically complex and visually unusual. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacularAug 4, 2023 — The most frequently observed TLEs are called “sprites,” like the enigmatic and playful fairies of fo...</span></span></span>
+The result is not debunking in the dismissive sense. Sprites are genuine upper-atmosphere electrical events and can appear astonishing even to trained observers. National weather agencies, NASA researchers, and atmospheric scientists continue studying them because they remain scientifically complex and visually unusual. NOAA National Severe Storms Laboratory<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacularAug 4, 2023 — The most frequently observed TLEs are called “sprites,” like the enigmatic and playful fairies of fo...</span></span></span>
 
 But in practical UFO case handling, lightning timing transforms a fleeting red flash from an untethered mystery into something that can be checked against independently recorded physical events. That ability to test, correlate, and either strengthen or weaken an explanation is exactly what makes structured AI-assisted investigation workflows valuable.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did lightning trigger the red flash?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did lightning trigger the red flash?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print"><img src="https://i.ebayimg.com/images/g/7JYAAeSwKnpqBxkg/s-l225.jpg" alt="Listing image for Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print"><img src="https://i.ebayimg.com/images/g/7JYAAeSwKnpqBxkg/s-l225.jpg" alt="Listing image for Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Cars Disney Pixar Lightning McQueen Lightning Strikes! Modern Film A4 Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Lightning Storm Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/aS8AAeSwYs9pqibi/s-l225.jpg" alt="Listing image for Red Lightning Storm Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Red Lightning Storm Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Lightning Storm Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/aS8AAeSwYs9pqibi/s-l225.jpg" alt="Listing image for Red Lightning Storm Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Red Lightning Storm Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Lightning Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/N44AAeSww3Vo-RAf/s-l225.jpg" alt="Listing image for Red Lightning Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Red Lightning Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Lightning Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/N44AAeSww3Vo-RAf/s-l225.jpg" alt="Listing image for Red Lightning Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">Red Lightning Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5"><img src="https://i.ebayimg.com/images/g/zNAAAeSwNlBplIrd/s-l225.jpg" alt="Listing image for RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5"><img src="https://i.ebayimg.com/images/g/zNAAAeSwNlBplIrd/s-l225.jpg" alt="Listing image for RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">RARE RAF Waddington 1992 Official Poster Red Arrows,Lightning&amp;B-17 Wilf Hardy A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for red lightning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: red lightning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=red+lightning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lightning-trigger-the-red-flash-red-lightning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red lightning poster" data-ebay-reference="did-lightning-trigger-the-red-flash-red-lightning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -806,7 +806,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,123 +847,123 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nssl.noaa.gov  
-   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites are mostly red and usually last no more than a few secon...</p></details>
+   Link:<a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites are mostly red and usually last no more than a few secon...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Sprite (lightning)  
-   Link: <a href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sprite_%28lightning%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sprite_%28lightning%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: earthdate.org  
-   Link: <a href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdate.org/episodes/sprites-and-elves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</p></details>
+   Link:<a href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdate.org/episodes/sprites-and-elves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Positive and Negative Side of LightningThese bolts are known as &quot;positive lightning&quot; because there is a net transfer of positive char...</p></details>
+   Link:<a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/positive.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Positive and Negative Side of LightningThese bolts are known as &quot;positive lightning&quot; because there is a net transfer of positive char...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wwlln.net  
-   Link: <a href="https://wwlln.net/" target="_blank" rel="noopener noreferrer nofollow">https://wwlln.net/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A WWLLN lightning flash density map is generated shortly after midnight UTC each day. This map contains all WWLLN data from the prev...</p></details>
+   Link:<a href="https://wwlln.net/" target="_blank" rel="noopener noreferrer nofollow">https://wwlln.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A WWLLN lightning flash density map is generated shortly after midnight UTC each day. This map contains all WWLLN data from the prev...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: earthweb.ess.washington.edu  
    Title: JNThomas AGU07 BRSprites  
-   Link: <a href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</p></details>
+   Link:<a href="https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthweb.ess.washington.edu/jnt/JNThomas_AGU07_BRSprites.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Global network of VLF sensors (3-30 kHz). • Detects 15-20% of all CG lightning. • Spatial accuracy of ~10 km.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: earthweb.ess.washington.edu  
-   Link: <a href="https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html" target="_blank" rel="noopener noreferrer nofollow">https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites InfoSprites are associated with positive cloud-to-ground (CG) lightning discharge, and they last from about 5ms to 300ms.Read...</p></details>
+   Link:<a href="https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html" target="_blank" rel="noopener noreferrer nofollow">https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites InfoSprites are associated with positive cloud-to-ground (CG) lightning discharge, and they last from about 5ms to 300ms.Read...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/citizen-science/spritacular/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSpritacularAug 4, 2023 — The most frequently observed TLEs are called “sprites,” like the enigmatic and playful fairies of fo...</p></details>
+   Link:<a href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/citizen-science/spritacular/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSpritacularAug 4, 2023 — The most frequently observed TLEs are called “sprites,” like the enigmatic and playful fairies of fo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nssl.noaa.gov  
-   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather 101: Lightning BasicsMost, if not all, lightning flashes produced by storms start inside the cloud. If a lightning flash is going...</p></details>
+   Link:<a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather 101: Lightning BasicsMost, if not all, lightning flashes produced by storms start inside the cloud. If a lightning flash is going...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: earthdata.nasa.gov  
    Title: ghrc daac wwllnmth 1  
-   Link: <a href="https://www.earthdata.nasa.gov/data/catalog/ghrc-daac-wwllnmth-1" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/catalog/ghrc-daac-wwllnmth-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wide Lightning Location Network (WWLLN) Monthly...This WWLLN Monthly Thunder Hour dataset is calculated from lightning detections from 1...</p></details>
+   Link:<a href="https://www.earthdata.nasa.gov/data/catalog/ghrc-daac-wwllnmth-1" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/catalog/ghrc-daac-wwllnmth-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wide Lightning Location Network (WWLLN) Monthly...This WWLLN Monthly Thunder Hour dataset is calculated from lightning detections from 1...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Upper atmospheric lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Upper-atmospheric_lightning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-atmospheric lightningThey are triggered by the discharges of positive lightning between the thundercloud and the ground. The phe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Upper-atmospheric_lightning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-atmospheric lightningThey are triggered by the discharges of positive lightning between the thundercloud and the ground. The phe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsCharacteristics of Sprite-Producing Positive Cloud-to-Ground...by WA Lyons · 2003 · Cited by 165...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/131/10/1520-0493_2003_131_2417_cospcl_2.0.co_2.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsCharacteristics of Sprite-Producing Positive Cloud-to-Ground...by WA Lyons · 2003 · Cited by 165...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10725446" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10725446</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World Wide Lightning Location Network (WWLLN...29 Feb 2024 — This repository contains global lightning stroke density and stroke pow...</p></details>
+   Link:<a href="https://zenodo.org/records/10725446" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10725446</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World Wide Lightning Location Network (WWLLN...29 Feb 2024 — This repository contains global lightning stroke density and stroke pow...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/starts-with-a-bang/nasa-captures-blue-jets-and-red-sprites-above-thunderstorms-from-space-8e5023869181" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/nasa-captures-blue-jets-and-red-sprites-above-thunderstorms-from-space-8e5023869181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Captures &#x27;Blue Jets&#x27; And &#x27;Red Sprites&#x27; Above...Red sprites may occur wherever thunderstorms do, but are typically obscured by cloud...</p></details>
+   Link:<a href="https://medium.com/starts-with-a-bang/nasa-captures-blue-jets-and-red-sprites-above-thunderstorms-from-space-8e5023869181" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/nasa-captures-blue-jets-and-red-sprites-above-thunderstorms-from-space-8e5023869181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Captures &#x27;Blue Jets&#x27; And &#x27;Red Sprites&#x27; Above...Red sprites may occur wherever thunderstorms do, but are typically obscured by cloud...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nasaearth/posts/sprites-camera-action-that-is-how-the-saying-goes-right-an-astronaut-on-the-inte/975916971250801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaearth/posts/sprites-camera-action-that-is-how-the-saying-goes-right-an-astronaut-on-the-inte/975916971250801/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthSprites appear to be connected to positively charged cloud-to-ground lightning strokes. The positively charged lightning intera...</p></details>
+   Link:<a href="https://www.facebook.com/nasaearth/posts/sprites-camera-action-that-is-how-the-saying-goes-right-an-astronaut-on-the-inte/975916971250801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaearth/posts/sprites-camera-action-that-is-how-the-saying-goes-right-an-astronaut-on-the-inte/975916971250801/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthSprites appear to be connected to positively charged cloud-to-ground lightning strokes. The positively charged lightning intera...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scistarter.org  
-   Link: <a href="https://scistarter.org/spritacular" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/spritacular</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpritacularSpritacular is a citizen science project that aims to collect observations of sprites and other optical phenomena occurring ab...</p></details>
+   Link:<a href="https://scistarter.org/spritacular" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/spritacular</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpritacularSpritacular is a citizen science project that aims to collect observations of sprites and other optical phenomena occurring ab...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Sciencing/posts/1318055252265314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Sciencing/posts/1318055252265314/</a>  
+   Link:<a href="https://www.facebook.com/groups/Sciencing/posts/1318055252265314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Sciencing/posts/1318055252265314/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalgeographic.com  
    Title: lightning sprites transient luminous events thunderstorms  
-   Link: <a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — The displays were dubbed red sprites, inspired by characters i...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — The displays were dubbed red sprites, inspired by characters i...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kyleincpt/posts/this-is-a-red-spriteone-of-the-rarest-atmospheric-phenomena-on-earththey-appear-/1382833836632528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyleincpt/posts/this-is-a-red-spriteone-of-the-rarest-atmospheric-phenomena-on-earththey-appear-/1382833836632528/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inous Events — powerful electrical discharges triggered by...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/kyleincpt/posts/this-is-a-red-spriteone-of-the-rarest-atmospheric-phenomena-on-earththey-appear-/1382833836632528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyleincpt/posts/this-is-a-red-spriteone-of-the-rarest-atmospheric-phenomena-on-earththey-appear-/1382833836632528/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inous Events — powerful electrical discharges triggered by...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es between 25 and 50 miles above the Earth&#x27;s surface...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es between 25 and 50 miles above the Earth&#x27;s surface...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: almanac.com  
-   Link: <a href="https://www.almanac.com/what-are-lightning-sprites" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/what-are-lightning-sprites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites, Blue Jets, Elves, and Lightning StormsApr 6, 2026 — These upper-atmosphere flashes occur between thunderstorms and the ionos...</p></details>
+   Link:<a href="https://www.almanac.com/what-are-lightning-sprites" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/what-are-lightning-sprites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites, Blue Jets, Elves, and Lightning StormsApr 6, 2026 — These upper-atmosphere flashes occur between thunderstorms and the ionos...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTTEQQ6jS2i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTTEQQ6jS2i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ul thunderstorms in the mesosphere, far above typical lightning...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTTEQQ6jS2i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTTEQQ6jS2i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ul thunderstorms in the mesosphere, far above typical lightning...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: red lightning new zealand red sprites  
-   Link: <a href="https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;A perfect coincidence&#x27;: rare red lightning captured in New...22 Oct 2025 — The extremely unusual phenomenon – also known as red lightni...</p></details>
+   Link:<a href="https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/2025/oct/22/red-lightning-new-zealand-red-sprites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;A perfect coincidence&#x27;: rare red lightning captured in New...22 Oct 2025 — The extremely unusual phenomenon – also known as red lightni...</p></details>

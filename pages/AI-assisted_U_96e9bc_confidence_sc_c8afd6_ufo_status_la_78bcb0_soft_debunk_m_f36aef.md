@@ -312,7 +312,7 @@ to:
 
 The original caveats vanish.
 
-NASA’s UAP study warned that poor-quality or [incomplete data]({{ 'incomplete-data/' | relative_url }}) are a major barrier to reliable conclusions. The agency stressed that many unresolved cases remain unresolved not because they are extraordinary, but because the available evidence is weak or fragmentary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</span></span></span>
+NASA’s UAP study warned that poor-quality or [incomplete data]({{ 'incomplete-data/' | relative_url }}) are a major barrier to reliable conclusions. The agency stressed that many unresolved cases remain unresolved not because they are extraordinary, but because the available evidence is weak or fragmentary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</span></span></span>
 
 That warning applies equally to premature explanations. Incomplete data can produce false mysteries, but they can also produce false certainty.
 
@@ -438,7 +438,7 @@ AI systems are particularly vulnerable to this kind of pattern collapse because 
 
 ### The “balloon” category
 
-AARO publicly distinguishes between high-confidence identifications and unresolved cases. Its imagery archive explicitly explains why some cases are assessed with “high confidence” as balloons, citing behavioural consistency, morphology, and wind correlation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
+AARO publicly distinguishes between high-confidence identifications and unresolved cases. Its imagery archive explicitly explains why some cases are assessed with “high confidence” as balloons, citing behavioural consistency, morphology, and wind correlation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
 
 That wording matters. AARO is not merely saying an object resembles a balloon. It is describing the evidence basis for the assessment.
 
@@ -450,7 +450,7 @@ That may sound harmless, but it changes the evidential meaning of the case.
 
 Some famous military UAP videos demonstrate the opposite problem: public disagreement over whether a plausible explanation counts as a confirmed identification.
 
-Independent analysts have argued that the “GoFast” video likely involves parallax and misperceived speed, while the “Gimbal” footage may show jet exhaust and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}). Yet AARO has publicly listed several well-known videos as unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+Independent analysts have argued that the “GoFast” video likely involves parallax and misperceived speed, while the “Gimbal” footage may show jet exhaust and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}). Yet AARO has publicly listed several well-known videos as unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
 The important point is not which side is correct. It is that there is a meaningful distinction between:
 
@@ -463,7 +463,7 @@ Public discussion often collapses those categories together.
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" alt="Soft Debunks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### MUFON case dispositions
 
-The Mutual UFO Network (MUFON) uses formal case dispositions including “Identified Flying Object”, “Unknown”, “Hoax”, and “Insufficient Data”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[Georgia MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oregonmufon.com">[Oregon MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oregonmufon.com</span><span class="citation-popover-snippet">Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</span></span></span>
+The Mutual UFO Network (MUFON) uses formal case dispositions including “Identified Flying Object”, “Unknown”, “Hoax”, and “Insufficient Data”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[Georgia MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oregonmufon.com">[Oregon MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oregonmufon.com</span><span class="citation-popover-snippet">Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</span></span></span>
 
 That structure attempts to separate uncertainty levels. A case marked “Insufficient Data” is not the same as “Unknown”, and neither is equivalent to “Identified”.
 
@@ -503,7 +503,7 @@ That separation helps prevent ordinary explanations from becoming overstated whi
 
 Good investigative governance also preserves the reasoning trail behind the label. A reader should be able to see:
 
-* what data were available <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[mufongeorgia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span> * what data were missing <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[mufongeorgia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span>
+* what data were available<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[mufongeorgia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span> * what data were missing<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[mufongeorgia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span>
 * which variables matched
 * which variables remained uncertain
 * why investigators chose a particular confidence level
@@ -535,194 +535,194 @@ For AI-assisted UFO investigation, this creates an important design challenge. S
 That distinction is where responsible UFO investigation actually lives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How &#x27;Probably Starlink&#x27; Becomes &#x27;Confirmed Starlink&#x27;. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How &#x27;Probably Starlink&#x27; Becomes &#x27;Confirmed Starlink&#x27;. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Fits avoiding both mystery inflation and overconfident debunking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits avoiding both mystery inflation and overconfident debunking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Directly supports separating plausible matches from confirmed explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports separating plausible matches from confirmed explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Relevant to preserving likelihood language instead of overstating matches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to preserving likelihood language instead of overstating matches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful for Starlink, satellites and astronomy misidentification checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for Starlink, satellites and astronomy misidentification checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/lpoAAOSwg5Rn2V~f/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/lpoAAOSwg5Rn2V~f/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-probably-starlink-becomes-confirmed-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-probably-starlink-becomes-confirmed-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -738,7 +738,7 @@ That distinction is where responsible UFO investigation actually lives.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -758,7 +758,7 @@ That distinction is where responsible UFO investigation actually lives.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -790,7 +790,7 @@ That distinction is where responsible UFO investigation actually lives.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -842,7 +842,7 @@ That distinction is where responsible UFO investigation actually lives.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -887,7 +887,7 @@ That distinction is where responsible UFO investigation actually lives.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -928,141 +928,141 @@ That distinction is where responsible UFO investigation actually lives.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... cases remain unsolved, based on the lack of evidence of the extra...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... cases remain unsolved, based on the lack of evidence of the extra...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
    Published: August 31, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mufongeorgia.org  
-   Link: <a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nsufficient Data. What if I do not agree with...</p></details>
+   Link:<a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nsufficient Data. What if I do not agree with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oregonmufon.com  
-   Link: <a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</p></details>
+   Link:<a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDiscover the extraordinary with MUFON. Our extensive database is a powerhouse of credible UFO research, keeping you informed w...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDiscover the extraordinary with MUFON. Our extensive database is a powerhouse of credible UFO research, keeping you informed w...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: helpdesk.mufon.com  
-   Link: <a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
+   Link:<a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Headquarters 4212 Airport Road, Ste. 100 Cincinnati, Oh 45226 (513) 871-8367 (Call for membership and store orders only, thank you...</p></details>
+   Link:<a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Headquarters 4212 Airport Road, Ste. 100 Cincinnati, Oh 45226 (513) 871-8367 (Call for membership and store orders only, thank you...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsAlien &amp; UFO Research Tools; LAST 20 REPORTS · Check the last 20 UFO reports; BECOME A FIELD INVE...</p></details>
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsAlien &amp; UFO Research Tools; LAST 20 REPORTS · Check the last 20 UFO reports; BECOME A FIELD INVE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...Half of these have been resolved with mundane explanations, for instance, weat...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...Half of these have been resolved with mundane explanations, for instance, weat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many cases remain unsolved—primarily because of the lack of actionable and researc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many cases remain unsolved—primarily because of the lack of actionable and researc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOsAdditionally, there seems to have been a spate of recent cases where MUFON Is involved, the case is eventua...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOsAdditionally, there seems to have been a spate of recent cases where MUFON Is involved, the case is eventua...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</p></details>
+   Link:<a href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DoW_AARO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoW_AARO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (@DoW_AARO) /...The report remains unresolved due to insufficient data. 57. 24. 201... Over half o...</p></details>
+   Link:<a href="https://x.com/DoW_AARO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoW_AARO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (@DoW_AARO) /...The report remains unresolved due to insufficient data. 57. 24. 201... Over half o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...4 Alien Species Pulled from Crashed UFOs? It would be wonderful to get details about t...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...4 Alien Species Pulled from Crashed UFOs? It would be wonderful to get details about t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, some hoaxes can result in very dire consequences for those hoaxed or those hoaxing. People have lost a great deal...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, some hoaxes can result in very dire consequences for those hoaxed or those hoaxing. People have lost a great deal...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...✓ AARO has looked into over 800 UAP cases. Most turn out to be explainable (like dron...</p></details>
+   Link:<a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...✓ AARO has looked into over 800 UAP cases. Most turn out to be explainable (like dron...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: twz.com  
    Title: balloons no ufos found by satellites shoot down video coming says aaro chief  
-   Link: <a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
+   Link:<a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times. [https://www](https://www)... UFOs: Five revelations from Nasa&#x27;s public meeting. BBC. [https://www.bbc...Read](https://www.bbc...Read) more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times. [https://www](https://www)... UFOs: Five revelations from Nasa&#x27;s public meeting. BBC. [https://www.bbc...Read](https://www.bbc...Read) more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: twz.com  
    Title: highly anticipated government report on ufos thin on new evidence  
-   Link: <a href="https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly Anticipated Government Report On UFOs Very Thin...12 Jan 2023 — The new report, which has been delayed for months now, offers lit...</p></details>
+   Link:<a href="https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highly Anticipated Government Report On UFOs Very Thin...12 Jan 2023 — The new report, which has been delayed for months now, offers lit...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: universetoday.com  
    Title: ufo office fails to find anything that defies the laws of physics  
-   Link: <a href="https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office Fails to Find Anything That Defies the Laws of...22 Apr 2023 — This approach is critical to resolving UAP reports into the ca...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office Fails to Find Anything That Defies the Laws of...22 Apr 2023 — This approach is critical to resolving UAP reports into the ca...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>videos in his book &#x27;Imminent: Inside the Pentagon&#x27;s Hunt for UFOs...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>videos in his book &#x27;Imminent: Inside the Pentagon&#x27;s Hunt for UFOs...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | Polygraphcase is considered a hoax based on the following data: 1) Walton never boarded...</p></details>
+   Link:<a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | Polygraphcase is considered a hoax based on the following data: 1) Walton never boarded...</p></details>

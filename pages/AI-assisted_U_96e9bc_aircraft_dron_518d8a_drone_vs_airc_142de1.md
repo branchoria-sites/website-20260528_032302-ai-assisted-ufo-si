@@ -297,7 +297,7 @@ For AI-assisted UFO sighting investigation, the key task is not simply identifyi
 
 The strongest drone indicators usually come from movement rather than shape. At night, witnesses often see only lights, making flight behaviour more useful than appearance.
 
-Small multicopters differ fundamentally from fixed-wing aircraft because they generate lift directly from multiple rotors instead of wings moving through the air. That allows them to hover, stop and move laterally with very little forward motion. Fixed-wing aircraft, by contrast, generally need continuous forward speed to stay airborne. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedtechshop.co.uk">[Unmanned Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedtechshop.co.uk</span><span class="citation-popover-snippet">Unmanned TechAirplane Drone Guide: Fixed-Wing vs Multirotor ExplainedApril 24, 2026 — 24 Apr 2026 — Fixed-wings fly faster and longer, wh...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Fixed Wing Drone</span><span class="citation-popover-snippet">Fixed Wing Drone - an overviewTheir greatest weakness, however, is that they only move forward and, hence, they are not able to hover in...</span></span></span>, several reported behaviours repeatedly favour multicopters over planes:
+Small multicopters differ fundamentally from fixed-wing aircraft because they generate lift directly from multiple rotors instead of wings moving through the air. That allows them to hover, stop and move laterally with very little forward motion. Fixed-wing aircraft, by contrast, generally need continuous forward speed to stay airborne.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedtechshop.co.uk">[Unmanned Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedtechshop.co.uk</span><span class="citation-popover-snippet">Unmanned TechAirplane Drone Guide: Fixed-Wing vs Multirotor ExplainedApril 24, 2026 — 24 Apr 2026 — Fixed-wings fly faster and longer, wh...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Fixed Wing Drone</span><span class="citation-popover-snippet">Fixed Wing Drone - an overviewTheir greatest weakness, however, is that they only move forward and, hence, they are not able to hover in...</span></span></span>, several reported behaviours repeatedly favour multicopters over planes:
 
 * **True hovering:** A light remaining nearly stationary for tens of seconds or minutes is more consistent with a multicopter than a conventional aircraft. Distant planes can appear stationary when flying towards the observer, but they usually drift slowly over time rather than holding a fixed point exactly.
 
@@ -352,9 +352,9 @@ This sound profile differs from most aircraft engines. Helicopters generate slow
 
 However, silence does not automatically rule drones out. Wind direction, urban background noise and distance matter enormously. A small drone several hundred metres away may be difficult to hear, especially in towns or near roads.
 
-Altitude is one of the most important reality checks in UFO investigation. In the UK, drones are generally restricted to a maximum height of 120 metres (400 feet) above the surface and are normally expected to remain within visual line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://angellsurveys.com/insights/drone-laws-uk-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: angellsurveys.com">[Angell Surveys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">angellsurveys.com</span><span class="citation-popover-snippet">Angell SurveysDrone Laws UK: Navigating the Latest Regulations for 202430 May 2024 — You must fly your drone within the visual line of si...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span>
+Altitude is one of the most important reality checks in UFO investigation. In the UK, drones are generally restricted to a maximum height of 120 metres (400 feet) above the surface and are normally expected to remain within visual line of sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://angellsurveys.com/insights/drone-laws-uk-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: angellsurveys.com">[Angell Surveys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">angellsurveys.com</span><span class="citation-popover-snippet">Angell SurveysDrone Laws UK: Navigating the Latest Regulations for 202430 May 2024 — You must fly your drone within the visual line of si...</span><span class="citation-popover-meta">Published: May 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span>
 
-Visual line of sight rules effectively limit most ordinary drone activity to relatively short ranges. Practical guidance and industry references commonly place ordinary visual operations at a few hundred metres horizontally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pastpaperhero.com">[PastPaperHero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pastpaperhero.com</span><span class="citation-popover-title">Past Paper Hero Where Can I Fly My Drone in the UK?</span><span class="citation-popover-snippet">Rules, Distances...Visual Line of Sight (VLOS). You must keep direct, unaided sight of your drone throughout the flight. · Height limit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[3Heliguy 3HireDronePilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">Hire Drone Pilot How Far Can a Drone Fly in the UK?</span><span class="citation-popover-snippet">The Legal Limit vs the...31 Oct 2025 — The rule is Visual Line of Sight, and in practice it caps your legal flight distance at a few hun...</span></span></span>
+Visual line of sight rules effectively limit most ordinary drone activity to relatively short ranges. Practical guidance and industry references commonly place ordinary visual operations at a few hundred metres horizontally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pastpaperhero.com">[PastPaperHero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pastpaperhero.com</span><span class="citation-popover-title">Past Paper Hero Where Can I Fly My Drone in the UK?</span><span class="citation-popover-snippet">Rules, Distances...Visual Line of Sight (VLOS). You must keep direct, unaided sight of your drone throughout the flight. · Height limit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[3Heliguy 3HireDronePilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">Hire Drone Pilot How Far Can a Drone Fly in the UK?</span><span class="citation-popover-snippet">The Legal Limit vs the...31 Oct 2025 — The rule is Visual Line of Sight, and in practice it caps your legal flight distance at a few hun...</span></span></span>
 
 That matters because witnesses frequently report objects apparently hovering miles away over hills, coastlines or city skylines. In many such cases, a small consumer multicopter becomes a weak explanation simply because:
 
@@ -367,7 +367,7 @@ That matters because witnesses frequently report objects apparently hovering mil
 
 </div>
 
-Most consumer multicopters also have relatively short flight times compared with fixed-wing aircraft. Multirotors trade endurance for manoeuvrability. Fixed-wing drones and conventional aircraft can travel much farther because wings provide efficient lift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coptrz.com">[Coptrz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coptrz.com</span><span class="citation-popover-snippet">Fixed Wing vs Multirotor Drones for SurveyingFebruary 24, 2021 — Reduced range – The one disadvantage of multirotor aircraft is the...</span><span class="citation-popover-meta">Published: February 24, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ht and maneuvering through tight spaces, but at the price of much shorter...Read more...</span></span></span>
+Most consumer multicopters also have relatively short flight times compared with fixed-wing aircraft. Multirotors trade endurance for manoeuvrability. Fixed-wing drones and conventional aircraft can travel much farther because wings provide efficient lift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coptrz.com">[Coptrz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coptrz.com</span><span class="citation-popover-snippet">Fixed Wing vs Multirotor Drones for SurveyingFebruary 24, 2021 — Reduced range – The one disadvantage of multirotor aircraft is the...</span><span class="citation-popover-meta">Published: February 24, 2021</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ht and maneuvering through tight spaces, but at the price of much shorter...Read more...</span></span></span>
 
 This endurance difference is valuable in sighting analysis. A light observed continuously for 40 minutes over a wide area is usually a weaker fit for a small multicopter than for a helicopter, fixed-wing aircraft or astronomical object.
 
@@ -446,7 +446,7 @@ The goal is not to “debunk” witnesses but to test whether the reported behav
 
 Small multicopters have changed the landscape of UFO reporting because they combine behaviours that older aircraft rarely showed in public skies: hovering, abrupt low-speed manoeuvres, bright LEDs and operation close to populated areas.
 
-As drone ownership has expanded, reports of strange hovering lights have increased accordingly. Civil aviation authorities now treat drones as a routine part of shared airspace, with strict limits on altitude, visibility and proximity to people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morson-praxis.com">[morson-praxis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morson-praxis.com</span><span class="citation-popover-title">Commercial operators</span><span class="citation-popover-snippet">UK Drone Regulations: What You Need to Know in 20268 Jan 2026 — Drones must remain below 120 metres (400 feet), within visual line of sig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[3faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">antly, drone safety is the law. Find relevant...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span>
+As drone ownership has expanded, reports of strange hovering lights have increased accordingly. Civil aviation authorities now treat drones as a routine part of shared airspace, with strict limits on altitude, visibility and proximity to people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morson-praxis.com">[morson-praxis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morson-praxis.com</span><span class="citation-popover-title">Commercial operators</span><span class="citation-popover-snippet">UK Drone Regulations: What You Need to Know in 20268 Jan 2026 — Drones must remain below 120 metres (400 feet), within visual line of sig...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[3faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">antly, drone safety is the law. Find relevant...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span>
 
 For investigators, this means drone checks should happen early in any UFO workflow, especially for:
 
@@ -463,194 +463,194 @@ For investigators, this means drone checks should happen early in any UFO workfl
 At the same time, drone explanations should not be stretched beyond their practical limits. Long-range, high-altitude or extended-duration sightings often remain poorly explained by ordinary multicopters even after basic screening.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is it a drone or a distant aircraft?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is it a drone or a distant aircraft?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains real-world drone capabilities and limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains real-world drone capabilities and limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
         
-        <p class="fr-book-desc">Covers aircraft performance and navigation lighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers aircraft performance and navigation lighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for aerial-identification claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for aerial-identification claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Improves understanding of aircraft movement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Improves understanding of aircraft movement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3"><img src="https://i.ebayimg.com/images/g/XhwAAOSwYiNoDE-E/s-l225.jpg" alt="Listing image for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3"><img src="https://i.ebayimg.com/images/g/XhwAAOSwYiNoDE-E/s-l225.jpg" alt="Listing image for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product"><img src="https://i.ebayimg.com/images/g/rXIAAOSwX15jPWGV/s-l225.jpg" alt="Listing image for STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product"><img src="https://i.ebayimg.com/images/g/rXIAAOSwX15jPWGV/s-l225.jpg" alt="Listing image for STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">STROBON C-1 CREE® STANDALONE DRONE STROBE USB-C - Genuine Flytron UK Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK"><img src="https://i.ebayimg.com/images/g/5NcAAOSwNwdimE5A/s-l225.jpg" alt="Listing image for For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK"><img src="https://i.ebayimg.com/images/g/5NcAAOSwNwdimE5A/s-l225.jpg" alt="Listing image for For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">For Drone Strobe Light Emergency Lightweight Flash Signal Lamp For DJI Mini 3 UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Strobe Lights Remote Control Anti Collision Light for Drone Night"><img src="https://i.ebayimg.com/images/g/fPAAAeSwOtdov~lO/s-l225.jpg" alt="Listing image for LED Strobe Lights Remote Control Anti Collision Light for Drone Night" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">LED Strobe Lights Remote Control Anti Collision Light for Drone Night</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Strobe Lights Remote Control Anti Collision Light for Drone Night"><img src="https://i.ebayimg.com/images/g/fPAAAeSwOtdov~lO/s-l225.jpg" alt="Listing image for LED Strobe Lights Remote Control Anti Collision Light for Drone Night" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">LED Strobe Lights Remote Control Anti Collision Light for Drone Night</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-drone-or-a-distant-aircraft-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="is-it-a-drone-or-a-distant-aircraft-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -666,7 +666,7 @@ At the same time, drone explanations should not be stretched beyond their practi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -686,7 +686,7 @@ At the same time, drone explanations should not be stretched beyond their practi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -718,7 +718,7 @@ At the same time, drone explanations should not be stretched beyond their practi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -770,7 +770,7 @@ At the same time, drone explanations should not be stretched beyond their practi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -815,7 +815,7 @@ At the same time, drone explanations should not be stretched beyond their practi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -856,170 +856,170 @@ At the same time, drone explanations should not be stretched beyond their practi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Fixed Wing Drone  
-   Link: <a href="https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed Wing Drone - an overviewTheir greatest weakness, however, is that they only move forward and, hence, they are not able to hover in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/fixed-wing-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed Wing Drone - an overviewTheir greatest weakness, however, is that they only move forward and, hence, they are not able to hover in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: heliguy.com  
    Title: how far can a drone fly  
-   Link: <a href="https://www.heliguy.com/blogs/posts/how-far-can-a-drone-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/how-far-can-a-drone-fly/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Far Can a Drone Fly?30 Sept 2025 — Maximum range and flight rules in the UK · VLOS: Up to 500m — you must always see your dron...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/how-far-can-a-drone-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/how-far-can-a-drone-fly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Far Can a Drone Fly?30 Sept 2025 — Maximum range and flight rules in the UK · VLOS: Up to 500m — you must always see your dron...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hiredronepilot.uk  
    Title: Hire Drone Pilot How Far Can a Drone Fly in the UK?  
-   Link: <a href="https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legal Limit vs the...31 Oct 2025 — The rule is Visual Line of Sight, and in practice it caps your legal flight distance at a few hun...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/how-far-can-a-drone-fly-uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legal Limit vs the...31 Oct 2025 — The rule is Visual Line of Sight, and in practice it caps your legal flight distance at a few hun...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pastpaperhero.com  
    Title: Past Paper Hero Where Can I Fly My Drone in the UK?  
-   Link: <a href="https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rules, Distances...Visual Line of Sight (VLOS). You must keep direct, unaided sight of your drone throughout the flight. · Height limit...</p></details>
+   Link:<a href="https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/uk-legal-where-can-i-fly-my-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rules, Distances...Visual Line of Sight (VLOS). You must keep direct, unaided sight of your drone throughout the flight. · Height limit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: coptrz.com  
-   Link: <a href="https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed Wing vs Multirotor Drones for SurveyingFebruary 24, 2021 — Reduced range – The one disadvantage of multirotor aircraft is the...</p></details>
+   Link:<a href="https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed Wing vs Multirotor Drones for SurveyingFebruary 24, 2021 — Reduced range – The one disadvantage of multirotor aircraft is the...</p></details>
    Published: February 24, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ht and maneuvering through tight spaces, but at the price of much shorter...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ht and maneuvering through tight spaces, but at the price of much shorter...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>antly, drone safety is the law. Find relevant...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/uas" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>antly, drone safety is the law. Find relevant...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: morson-praxis.com  
    Title: Commercial operators  
-   Link: <a href="https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations: What You Need to Know in 20268 Jan 2026 — Drones must remain below 120 metres (400 feet), within visual line of sig...</p></details>
+   Link:<a href="https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations: What You Need to Know in 20268 Jan 2026 — Drones must remain below 120 metres (400 feet), within visual line of sig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: coptrz.com  
    Title: british drone laws 2026 a guide to uk drone licencing  
-   Link: <a href="https://coptrz.com/blog/british-drone-laws-2026-a-guide-to-uk-drone-licencing/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/british-drone-laws-2026-a-guide-to-uk-drone-licencing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones must not be flown higher than 120m, or 400ft, above the ground. Pilots must maintain visual line of sight...Read more...</p></details>
+   Link:<a href="https://coptrz.com/blog/british-drone-laws-2026-a-guide-to-uk-drone-licencing/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/british-drone-laws-2026-a-guide-to-uk-drone-licencing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones must not be flown higher than 120m, or 400ft, above the ground. Pilots must maintain visual line of sight...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: coptrz.com  
    Title: drone laws explained  
-   Link: <a href="https://coptrz.com/blog/drone-laws-explained/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/drone-laws-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws: Explained26 Jul 2025 — The maximum take-off mass of the unmanned aircraft must be less than 25kg; · The unmanned aircraft mus...</p></details>
+   Link:<a href="https://coptrz.com/blog/drone-laws-explained/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/drone-laws-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws: Explained26 Jul 2025 — The maximum take-off mass of the unmanned aircraft must be less than 25kg; · The unmanned aircraft mus...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: heliguy.com  
    Title: uk drone laws where can i fly  
-   Link: <a href="https://www.heliguy.com/blogs/posts/uk-drone-laws-where-can-i-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/uk-drone-laws-where-can-i-fly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Where can I fly?10 Feb 2026 — Where you can fly: You need to stay below 120m (400ft) and keep your drone within visua...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/uk-drone-laws-where-can-i-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/uk-drone-laws-where-can-i-fly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Where can I fly?10 Feb 2026 — Where you can fly: You need to stay below 120m (400ft) and keep your drone within visua...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: heliguy.com  
    Title: multirotor vs fixed wing drones  
-   Link: <a href="https://www.heliguy.com/blogs/posts/multirotor-vs-fixed-wing-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/multirotor-vs-fixed-wing-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multirotor Vs Fixed-Wing Drones6 Dec 2021 — Multirotors tend to be smaller, easier to transport and manoeuvre during flight;. heliguy™ of...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/multirotor-vs-fixed-wing-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/multirotor-vs-fixed-wing-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multirotor Vs Fixed-Wing Drones6 Dec 2021 — Multirotors tend to be smaller, easier to transport and manoeuvre during flight;. heliguy™ of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/drones/comments/17zghcu/busting_myths_faas_drone_rules_on_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/17zghcu/busting_myths_faas_drone_rules_on_flying_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Busting Myths: FAA&#x27;s Drone Rules on Flying Over PeopleThe FAA&#x27;s stance is clear: drones can be flown over people directly involved in the...</p></details>
+   Link:<a href="https://www.reddit.com/r/drones/comments/17zghcu/busting_myths_faas_drone_rules_on_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/17zghcu/busting_myths_faas_drone_rules_on_flying_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Busting Myths: FAA&#x27;s Drone Rules on Flying Over PeopleThe FAA&#x27;s stance is clear: drones can be flown over people directly involved in the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hiredronepilot.uk  
    Title: What Is Drone VLOS?  
-   Link: <a href="https://hiredronepilot.uk/blog/what-is-drone-vlos/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/what-is-drone-vlos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Line of Sight in UK Law Explained15 Apr 2026 — Point 39 of the Code covers tall-structure work above 120 metres when the structure...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/what-is-drone-vlos/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/what-is-drone-vlos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Line of Sight in UK Law Explained15 Apr 2026 — Point 39 of the Code covers tall-structure work above 120 metres when the structure...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hiredronepilot.uk  
-   Link: <a href="https://hiredronepilot.uk/blog/1-to-1-rule-drones/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/1-to-1-rule-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone 1-to-1 Rule: What UK Law Actually Requires12 Sept 2025 — The Drone Code requires your horizontal distance from people to match...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/1-to-1-rule-drones/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/1-to-1-rule-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone 1-to-1 Rule: What UK Law Actually Requires12 Sept 2025 — The Drone Code requires your horizontal distance from people to match...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unmannedtechshop.co.uk  
-   Link: <a href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned TechAirplane Drone Guide: Fixed-Wing vs Multirotor ExplainedApril 24, 2026 — 24 Apr 2026 — Fixed-wings fly faster and longer, wh...</p></details>
+   Link:<a href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedtechshop.co.uk/blogs/knowledge-base/what-is-an-airplane-drone-fixed-wing-vs-multirotor-explained?srsltid=AfmBOooN5RxznBy8hXfMIjvLWtChkdzfYG5U-UXa4DadpxOLghLQEHLR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned TechAirplane Drone Guide: Fixed-Wing vs Multirotor ExplainedApril 24, 2026 — 24 Apr 2026 — Fixed-wings fly faster and longer, wh...</p></details>
    Published: April 24, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</p></details>
+   Link:<a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can fly (points 3 to 9)Your drone or model aircraft must never be more than 120m (400ft) from the close...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can fly (points 3 to 9)Your drone or model aircraft must never be more than 120m (400ft) from the close...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: angellsurveys.com  
-   Link: <a href="https://angellsurveys.com/insights/drone-laws-uk-2024/" target="_blank" rel="noopener noreferrer nofollow">https://angellsurveys.com/insights/drone-laws-uk-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angell SurveysDrone Laws UK: Navigating the Latest Regulations for 202430 May 2024 — You must fly your drone within the visual line of si...</p></details>
+   Link:<a href="https://angellsurveys.com/insights/drone-laws-uk-2024/" target="_blank" rel="noopener noreferrer nofollow">https://angellsurveys.com/insights/drone-laws-uk-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angell SurveysDrone Laws UK: Navigating the Latest Regulations for 202430 May 2024 — You must fly your drone within the visual line of si...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nifc.gov  
-   Link: <a href="https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Part 107 Fact SheetThe maximum allowable altitude is 400 feet above the ground, and higher if your drone remains within 400 feet of a...</p></details>
+   Link:<a href="https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Part 107 Fact SheetThe maximum allowable altitude is 400 feet above the ground, and higher if your drone remains within 400 feet of a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: embention.com  
-   Link: <a href="https://www.embention.com/embention-uam-academy/lesson/types-of-drones-and-unmanned-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.embention.com/embention-uam-academy/lesson/types-of-drones-and-unmanned-vehicles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Drones and Unmanned VehiclesFixed-wing drones operate according to the same aerodynamic principles as conventional airplanes, ge...</p></details>
+   Link:<a href="https://www.embention.com/embention-uam-academy/lesson/types-of-drones-and-unmanned-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.embention.com/embention-uam-academy/lesson/types-of-drones-and-unmanned-vehicles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Drones and Unmanned VehiclesFixed-wing drones operate according to the same aerodynamic principles as conventional airplanes, ge...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eureka.patsnap.com  
-   Link: <a href="https://eureka.patsnap.com/report-comparison-research-on-stability-performance-between-fixed-wing-drone-and-quadcopter-in-high-wind-conditions" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-comparison-research-on-stability-performance-between-fixed-wing-drone-and-quadcopter-in-high-wind-conditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wing Drone vs Quadcopter: Stability in High Winds25 Feb 2026 — The fixed-wing mode provides efficient long-range cruise flight, while the...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-comparison-research-on-stability-performance-between-fixed-wing-drone-and-quadcopter-in-high-wind-conditions" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-comparison-research-on-stability-performance-between-fixed-wing-drone-and-quadcopter-in-high-wind-conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wing Drone vs Quadcopter: Stability in High Winds25 Feb 2026 — The fixed-wing mode provides efficient long-range cruise flight, while the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: greyarro.ws  
    Title: where does it say that vlos has max limit of 500m on the caa website  
-   Link: <a href="https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — Within the UK, Visual Line of Sight operations are normally accepte...</p></details>
+   Link:<a href="https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — Within the UK, Visual Line of Sight operations are normally accepte...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mycoordinates.org  
-   Link: <a href="https://mycoordinates.org/flight-safety-aspects-to-be-considered-in-commercial-fixed-wing-unmanned-aerial-vehicle-uav-operations/" target="_blank" rel="noopener noreferrer nofollow">https://mycoordinates.org/flight-safety-aspects-to-be-considered-in-commercial-fixed-wing-unmanned-aerial-vehicle-uav-operations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>150m radius of people and within a five kilometre radius of an airport/landing strip...Read more...</p></details>
+   Link:<a href="https://mycoordinates.org/flight-safety-aspects-to-be-considered-in-commercial-fixed-wing-unmanned-aerial-vehicle-uav-operations/" target="_blank" rel="noopener noreferrer nofollow">https://mycoordinates.org/flight-safety-aspects-to-be-considered-in-commercial-fixed-wing-unmanned-aerial-vehicle-uav-operations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>150m radius of people and within a five kilometre radius of an airport/landing strip...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: geospatialworld.net  
    Title: drones can hover over people and at night as per new faa rule  
-   Link: <a href="https://geospatialworld.net/blogs/drones-can-hover-over-people-and-at-night-as-per-new-faa-rule/" target="_blank" rel="noopener noreferrer nofollow">https://geospatialworld.net/blogs/drones-can-hover-over-people-and-at-night-as-per-new-faa-rule/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones can hover over people and at night as per new FAA...22 Jan 2019 — FAA has divulged a set of proposed rule which would allow routi...</p></details>
+   Link:<a href="https://geospatialworld.net/blogs/drones-can-hover-over-people-and-at-night-as-per-new-faa-rule/" target="_blank" rel="noopener noreferrer nofollow">https://geospatialworld.net/blogs/drones-can-hover-over-people-and-at-night-as-per-new-faa-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones can hover over people and at night as per new FAA...22 Jan 2019 — FAA has divulged a set of proposed rule which would allow routi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: filminginengland.co.uk  
-   Link: <a href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS)...</p></details>
+   Link:<a href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: jrupprechtlaw.com  
-   Link: <a href="https://jrupprechtlaw.com/section-107-39-operation-human-beings/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-39-operation-human-beings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ain conditions, which do not inherently limit operations to the lightest...Read more...</p></details>
+   Link:<a href="https://jrupprechtlaw.com/section-107-39-operation-human-beings/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-39-operation-human-beings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ain conditions, which do not inherently limit operations to the lightest...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dronepilotacademy.co.uk  
    Title: 2023 drone regulations made easy the essential guide  
-   Link: <a href="https://www.dronepilotacademy.co.uk/2023-drone-regulations-made-easy-the-essential-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.dronepilotacademy.co.uk/2023-drone-regulations-made-easy-the-essential-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Drone Regulations Made Easy - The Essential Guide10 Feb 2023 — You must keep an absolute minimum horizontal distance of 50m from any...</p></details>
+   Link:<a href="https://www.dronepilotacademy.co.uk/2023-drone-regulations-made-easy-the-essential-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.dronepilotacademy.co.uk/2023-drone-regulations-made-easy-the-essential-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Drone Regulations Made Easy - The Essential Guide10 Feb 2023 — You must keep an absolute minimum horizontal distance of 50m from any...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1649641865296412/posts/3346464705614111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1649641865296412/posts/3346464705614111/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>was flying drones four or five years ago, but before I begin this project I...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1649641865296412/posts/3346464705614111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1649641865296412/posts/3346464705614111/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was flying drones four or five years ago, but before I begin this project I...</p></details>

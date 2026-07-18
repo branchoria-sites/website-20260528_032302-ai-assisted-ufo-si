@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-case-similari/
 description: Focused pages that expand on Missing Data.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8
 parent_title: Missing Data
@@ -16,7 +16,7 @@ parent_permalink: /missing-data/
 
 # Explore Topics in Missing Data
 
-The following pages expand on the main **[Missing Data]({{ '/missing-data/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Missing Data]({{ '/missing-data/' | relative_url }})** page and cover its key branches in.
 
 - [Lost Radar]({{ '/lost-radar/' | relative_url }})
 - [Rendlesham]({{ '/rendlesham/' | relative_url }})

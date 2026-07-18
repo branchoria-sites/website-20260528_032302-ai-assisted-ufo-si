@@ -275,14 +275,14 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 ## Introduction
 
-A drone can be flying legally, brightly lit and clearly visible to witnesses while leaving little or no trace on the public flight maps that people commonly check after a UFO or UAP sighting. This is one of the biggest misunderstandings in modern sighting analysis. Many people assume that if nothing appears on a service such as Flightradar24, ADS-B Exchange or FlightAware, then no [aircraft]({{ 'aircraft/' | relative_url }}) was present. In reality, most small drones are not designed to appear on those systems in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
+A drone can be flying legally, brightly lit and clearly visible to witnesses while leaving little or no trace on the public flight maps that people commonly check after a UFO or UAP sighting. This is one of the biggest misunderstandings in modern sighting analysis. Many people assume that if nothing appears on a service such as Flightradar24, ADS-B Exchange or FlightAware, then no [aircraft]({{ 'aircraft/' | relative_url }}) was present. In reality, most small drones are not designed to appear on those systems in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-dark.svg" | relative_url }}" alt="Drone visibility illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this matters because drones can create some of the most confusing night-time sightings: hovering lights, abrupt direction changes, silent motion, apparent stationary objects and unusual colour patterns. A missing public flight track therefore does not rule out a drone explanation. Instead, investigators need to understand how drone tracking actually works, what data is publicly visible, and where the gaps remain.
 
 ## Why consumer drones usually never reach public flight maps
 
-Most public flight trackers were built around conventional aviation. Their core systems depend on aircraft broadcasting ADS-B, a radio-based position reporting system used by airliners and many larger aircraft. Consumer drones generally do not transmit ADS-B position data in the same way, and in some jurisdictions routine ADS-B broadcasting from drones is discouraged or restricted because of concerns about overwhelming aviation surveillance networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[3Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
+Most public flight trackers were built around conventional aviation. Their core systems depend on aircraft broadcasting ADS-B, a radio-based position reporting system used by airliners and many larger aircraft. Consumer drones generally do not transmit ADS-B position data in the same way, and in some jurisdictions routine ADS-B broadcasting from drones is discouraged or restricted because of concerns about overwhelming aviation surveillance networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[3Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
 
 That creates a basic visibility gap. A typical consumer quadcopter flying below 400 feet may be entirely absent from the feeds that power mainstream aviation maps. Even where a drone carries some form of electronic identification, it may be using a completely different system from the one public trackers are designed to ingest.
 
@@ -305,7 +305,7 @@ The problem becomes more pronounced in urban areas at night, where depth percept
 
 A major source of confusion comes from the assumption that drone “[Remote ID]({{ 'remote-id/' | relative_url }})” works like public aircraft tracking. It does not.
 
-Remote ID systems were introduced mainly to help regulators and nearby authorities identify drones locally. In the United States, the FAA describes Remote ID as a broadcast system for unmanned aircraft rather than a direct extension of the standard ADS-B network used by conventional aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">remote identification of unmanned aircraft systems</span><span class="citation-popover-snippet">31 Dec 2019 — This proposed rule would provide remote identification of UAS in the airspace of the United States to address safety, secur...</span></span></span>
+Remote ID systems were introduced mainly to help regulators and nearby authorities identify drones locally. In the United States, the FAA describes Remote ID as a broadcast system for unmanned aircraft rather than a direct extension of the standard ADS-B network used by conventional aviation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">remote identification of unmanned aircraft systems</span><span class="citation-popover-snippet">31 Dec 2019 — This proposed rule would provide remote identification of UAS in the airspace of the United States to address safety, secur...</span></span></span>
 
 Most Remote ID implementations use short-range radio methods such as Wi-Fi or Bluetooth broadcasts rather than long-range aviation transponders. As a result:
 
@@ -318,7 +318,7 @@ Most Remote ID implementations use short-range radio methods such as Wi-Fi or Bl
 
 </div>
 
-This is why a drone may technically be broadcasting identification data while remaining invisible on mainstream flight maps. Several drone-tracking applications exist, but they usually detect only nearby Remote ID broadcasts rather than feeding a global public air-traffic network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Like Flightradar24…: r/drones</span><span class="citation-popover-snippet">Like Flightradar24…: r/dronesOctober 17, 2024 — There is DroneScanner by Dronetag (aka the Karen app) but it only shows drones in...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
+This is why a drone may technically be broadcasting identification data while remaining invisible on mainstream flight maps. Several drone-tracking applications exist, but they usually detect only nearby Remote ID broadcasts rather than feeding a global public air-traffic network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Like Flightradar24…: r/drones</span><span class="citation-popover-snippet">Like Flightradar24…: r/dronesOctober 17, 2024 — There is DroneScanner by Dronetag (aka the Karen app) but it only shows drones in...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
 
 For UFO investigations, the practical implication is important: “the drone should have shown up” is often based on a misunderstanding of how drone identification systems are separated from public aircraft tracking infrastructure.
 
@@ -332,7 +332,7 @@ That creates several investigative problems:
 
 ### Public access is inconsistent
 
-Some jurisdictions require drones to broadcast identification data, but there may be no public map that aggregates the information nationwide. Reports from drone industry observers and FAA-focused coverage note that there is still no equivalent of a universal “Flightradar24 for drones”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can someone explain this new regulation to me like I&#x27;m 5September 10, 2023 — If you have a DJI Mini 3 Pro or a drone 249 grams or u...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+Some jurisdictions require drones to broadcast identification data, but there may be no public map that aggregates the information nationwide. Reports from drone industry observers and FAA-focused coverage note that there is still no equivalent of a universal “Flightradar24 for drones”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can someone explain this new regulation to me like I&#x27;m 5September 10, 2023 — If you have a DJI Mini 3 Pro or a drone 249 grams or u...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
 In other words, the data may exist locally without being publicly searchable afterwards.
 
@@ -340,7 +340,7 @@ In other words, the data may exist locally without being publicly searchable aft
 
 ### Small drones may be exempt
 
-Certain lightweight drones fall below registration or Remote ID thresholds in some countries. Discussions around FAA implementation repeatedly note exemptions for sub-250-gram aircraft in many recreational scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">heir ADSB transponders and these &quot;images&quot; and not actual A/C appear...Read more...</span></span></span>
+Certain lightweight drones fall below registration or Remote ID thresholds in some countries. Discussions around FAA implementation repeatedly note exemptions for sub-250-gram aircraft in many recreational scenarios.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">heir ADSB transponders and these &quot;images&quot; and not actual A/C appear...Read more...</span></span></span>
 
 This matters because many popular consumer drones are deliberately designed around these weight limits.
 
@@ -364,11 +364,11 @@ An investigator checking only commercial flight websites may therefore see nothi
 
 Public aircraft tracking systems work best with aircraft flying high and transmitting strongly. Consumer drones operate in almost the opposite environment.
 
-Typical drone operations involve: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/advanced_operations/traffic_management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Unmanned Aircraft System Traffic Management (UTM</span><span class="citation-popover-snippet">May 2, 2025 — UTM is a collaborative ecosystem for safely managing unmanned aircraft (UA or drone) operations at low altitudes.Read more...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
+Typical drone operations involve:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/advanced_operations/traffic_management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Unmanned Aircraft System Traffic Management (UTM</span><span class="citation-popover-snippet">May 2, 2025 — UTM is a collaborative ecosystem for safely managing unmanned aircraft (UA or drone) operations at low altitudes.Read more...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* low altitude <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[dronelife.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+* low altitude<span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[dronelife.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 * short range
 * urban clutter
 * intermittent movement
@@ -377,7 +377,7 @@ Typical drone operations involve: <span class="citation-chip-wrap"><a class="cit
 
 </div>
 
-These conditions reduce visibility to traditional aviation surveillance systems. Low-altitude airspace has long been recognised as a difficult surveillance environment even beyond hobby drones. Industry commentary on unmanned traffic management repeatedly highlights the limits of existing radar, ADS-B and Remote ID systems for small low-flying aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[DRONELIFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+These conditions reduce visibility to traditional aviation surveillance systems. Low-altitude airspace has long been recognised as a difficult surveillance environment even beyond hobby drones. Industry commentary on unmanned traffic management repeatedly highlights the limits of existing radar, ADS-B and Remote ID systems for small low-flying aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[DRONELIFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 For UFO analysis, this explains a common pattern:
 
@@ -462,14 +462,14 @@ In reality, public airspace visibility is fragmented across several different sy
 * commercial aviation ADS-B
 * military and filtered aviation feeds
 * glider and FLARM networks
-* local radar coverage <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
+* local radar coverage<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
 * Remote ID broadcasts
 * proprietary drone detection systems
 * law-enforcement-only tools
 
 These systems do not combine neatly into one universal public map.
 
-Some specialised drone-detection platforms can integrate radio-frequency interception, Remote ID and other cooperative signals, but these are typically commercial or governmental systems rather than public consumer services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.skeydrone.aero">[SkeyDrone Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.skeydrone.aero</span><span class="citation-popover-title">Critical for detecting unauthorized or malicious drones.Read more</span><span class="citation-popover-snippet">SkeyDrone SupportWhat types of drone detections does Drone Radar...Can detect position, altitude, and sometimes serial number, even if R...</span></span></span>
+Some specialised drone-detection platforms can integrate radio-frequency interception, Remote ID and other cooperative signals, but these are typically commercial or governmental systems rather than public consumer services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.skeydrone.aero">[SkeyDrone Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.skeydrone.aero</span><span class="citation-popover-title">Critical for detecting unauthorized or malicious drones.Read more</span><span class="citation-popover-snippet">SkeyDrone SupportWhat types of drone detections does Drone Radar...Can detect position, altitude, and sometimes serial number, even if R...</span></span></span>
 
 For UFO investigators, this means an apparently empty sky on a public tracker should be treated as [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence rather than definitive proof.
 
@@ -479,199 +479,199 @@ For UFO investigators, this means an apparently empty sky on a public tracker sh
 
 The absence of a drone on a public flight tracker is usually [weak evidence]({{ 'weak-evidence/' | relative_url }}), not strong evidence.
 
-Most consumer drones were never designed to appear reliably on mainstream aviation maps. Remote ID systems are fragmented, local and often inaccessible to the public. Low-altitude flight conditions further reduce visibility. Small drones may also operate under exemptions or outside integrated public tracking networks altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span>
+Most consumer drones were never designed to appear reliably on mainstream aviation maps. Remote ID systems are fragmented, local and often inaccessible to the public. Low-altitude flight conditions further reduce visibility. Small drones may also operate under exemptions or outside integrated public tracking networks altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span>
 
 In AI-assisted UFO investigation, the better approach is not to treat empty tracker maps as proof of anomaly, but to combine them with altitude estimates, witness [geometry]({{ 'geometry/' | relative_url }}), environmental conditions, local drone-use likelihood and other contextual evidence. A missing track may narrow possibilities slightly, but by itself it rarely rules drones out.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Public Trackers Miss So Many Drones. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Public Trackers Miss So Many Drones. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains ordinary drone capabilities and operating realities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains ordinary drone capabilities and operating realities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Helps readers understand why drones may not appear on flight maps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why drones may not appear on flight maps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Relevant to interpreting missing tracker evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to interpreting missing tracker evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Provides airspace and aircraft context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides airspace and aircraft context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/hVQAAeSwwXdpvEtq/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/hVQAAeSwwXdpvEtq/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case"><img src="https://i.ebayimg.com/images/g/p-kAAeSwJ2RqIXV1/s-l225.jpg" alt="Listing image for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case"><img src="https://i.ebayimg.com/images/g/p-kAAeSwJ2RqIXV1/s-l225.jpg" alt="Listing image for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries"><img src="https://i.ebayimg.com/images/g/TnMAAeSwrBxnuIBE/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries"><img src="https://i.ebayimg.com/images/g/TnMAAeSwrBxnuIBE/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries"><img src="https://i.ebayimg.com/images/g/mlkAAeSwEQho3N9b/s-l225.jpg" alt="Listing image for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries"><img src="https://i.ebayimg.com/images/g/mlkAAeSwEQho3N9b/s-l225.jpg" alt="Listing image for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-public-trackers-miss-so-many-drones-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="why-public-trackers-miss-so-many-drones-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -836,7 +836,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,156 +877,156 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration What is ADS-B?  
-   Link: <a href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future</a>  
+   Link:<a href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/6/3/57</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/6/3/57" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/6/3/57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy of ADS-B, New Establishment of Remote ID, or...by N Ruseno · 2022 · Cited by 49 — One of the concerns from the aviation commu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of Drones19 Mar 2025 — Some drone operators may be eligible to operate without Remot...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of Drones19 Mar 2025 — Some drone operators may be eligible to operate without Remot...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Like Flightradar24…: r/drones  
-   Link: <a href="https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Like Flightradar24…: r/dronesOctober 17, 2024 — There is DroneScanner by Dronetag (aka the Karen app) but it only shows drones in...</p></details>
+   Link:<a href="https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1g5yie7/like_flightradar24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Like Flightradar24…: r/dronesOctober 17, 2024 — There is DroneScanner by Dronetag (aka the Karen app) but it only shows drones in...</p></details>
    Published: October 17, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain this new regulation to me like I&#x27;m 5September 10, 2023 — If you have a DJI Mini 3 Pro or a drone 249 grams or u...</p></details>
+   Link:<a href="https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/16faswy/can_someone_explain_this_new_regulation_to_me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain this new regulation to me like I&#x27;m 5September 10, 2023 — If you have a DJI Mini 3 Pro or a drone 249 grams or u...</p></details>
    Published: September 10, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dronelife.com  
    Title: Low Altitude Airspace Awareness Closing the Gaps  
-   Link: <a href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</p></details>
+   Link:<a href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</p></details>
    Published: January 15, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: support.skeydrone.aero  
    Title: Critical for detecting unauthorized or malicious drones.Read more  
-   Link: <a href="https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf" target="_blank" rel="noopener noreferrer nofollow">https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkeyDrone SupportWhat types of drone detections does Drone Radar...Can detect position, altitude, and sometimes serial number, even if R...</p></details>
+   Link:<a href="https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf" target="_blank" rel="noopener noreferrer nofollow">https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkeyDrone SupportWhat types of drone detections does Drone Radar...Can detect position, altitude, and sometimes serial number, even if R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>heir ADSB transponders and these &quot;images&quot; and not actual A/C appear...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/vqwd6k/is_anyone_in_the_us_seeing_drones_with_icao_hex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heir ADSB transponders and these &quot;images&quot; and not actual A/C appear...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/1hmf4pr/they_say_that_what_we_are_seeing_do_consist_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1hmf4pr/they_say_that_what_we_are_seeing_do_consist_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flight tracker apps like flightradar24, or...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/1hmf4pr/they_say_that_what_we_are_seeing_do_consist_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1hmf4pr/they_say_that_what_we_are_seeing_do_consist_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flight tracker apps like flightradar24, or...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/kn8584/faa_most_commercial_drone_flights_must_not_use/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/kn8584/faa_most_commercial_drone_flights_must_not_use/</a>  
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/kn8584/faa_most_commercial_drone_flights_must_not_use/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/kn8584/faa_most_commercial_drone_flights_must_not_use/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: Limiting Aircraft Data Displayed (LADD)  
-   Link: <a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2025 — &quot;Unblocking&quot; will ensure aircraft flight data will be included in the FAA data feed utilized by participating internet flig...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2025 — &quot;Unblocking&quot; will ensure aircraft flight data will be included in the FAA data feed utilized by participating internet flig...</p></details>
    Published: May 1, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B PrivacyMar 22, 2025 — Email confirmation of your third-party flight ID to adsbprivacyicao@faa.gov. This can be an email or scanned...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B PrivacyMar 22, 2025 — Email confirmation of your third-party flight ID to adsbprivacyicao@faa.gov. This can be an email or scanned...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
    Title: Unmanned Aircraft System Traffic Management (UTM)  
-   Link: <a href="https://www.faa.gov/uas/advanced_operations/traffic_management" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/advanced_operations/traffic_management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2025 — UTM is a collaborative ecosystem for safely managing unmanned aircraft (UA or drone) operations at low altitudes.Read more...</p></details>
+   Link:<a href="https://www.faa.gov/uas/advanced_operations/traffic_management" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/advanced_operations/traffic_management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2025 — UTM is a collaborative ecosystem for safely managing unmanned aircraft (UA or drone) operations at low altitudes.Read more...</p></details>
    Published: May 2, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uavionix.com  
-   Link: <a href="https://uavionix.com/blog/industry-view-failure-of-remote-id-in-nj-might-have-cost-us-years/?srsltid=AfmBOooigpydfZb41bArxHEGGJqGmr2CXbdrF1G4a8vcB-Rtkx8Ue0dE" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/blog/industry-view-failure-of-remote-id-in-nj-might-have-cost-us-years/?srsltid=AfmBOooigpydfZb41bArxHEGGJqGmr2CXbdrF1G4a8vcB-Rtkx8Ue0dE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry View: Failure of Remote ID in NJ Might Have Cost...18 Feb 2025 — It is the “digital license plate” system that the FAA establis...</p></details>
+   Link:<a href="https://uavionix.com/blog/industry-view-failure-of-remote-id-in-nj-might-have-cost-us-years/?srsltid=AfmBOooigpydfZb41bArxHEGGJqGmr2CXbdrF1G4a8vcB-Rtkx8Ue0dE" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/blog/industry-view-failure-of-remote-id-in-nj-might-have-cost-us-years/?srsltid=AfmBOooigpydfZb41bArxHEGGJqGmr2CXbdrF1G4a8vcB-Rtkx8Ue0dE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industry View: Failure of Remote ID in NJ Might Have Cost...18 Feb 2025 — It is the “digital license plate” system that the FAA establis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mavicpilots.com  
    Title: flightradar24 able to display uavs.137623  
-   Link: <a href="https://mavicpilots.com/threads/flightradar24-able-to-display-uavs.137623/" target="_blank" rel="noopener noreferrer nofollow">https://mavicpilots.com/threads/flightradar24-able-to-display-uavs.137623/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mavic, Air &amp; Mini Drone CommunityFlightradar24 able to display UAVs | DJI Mavic, Air &amp; Mini...13 May 2023 — ADSB out is not allowed...</p></details>
+   Link:<a href="https://mavicpilots.com/threads/flightradar24-able-to-display-uavs.137623/" target="_blank" rel="noopener noreferrer nofollow">https://mavicpilots.com/threads/flightradar24-able-to-display-uavs.137623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mavic, Air &amp; Mini Drone CommunityFlightradar24 able to display UAVs | DJI Mavic, Air &amp; Mini...13 May 2023 — ADSB out is not allowed...</p></details>
    Published: May 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: federalregister.gov  
    Title: remote identification of unmanned aircraft systems  
-   Link: <a href="https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2019 — This proposed rule would provide remote identification of UAS in the airspace of the United States to address safety, secur...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2019 — This proposed rule would provide remote identification of UAS in the airspace of the United States to address safety, secur...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: infrastructure.gov.au  
-   Link: <a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnonymousFor flights operated under VFR, a broader range of ADS-B OUT options are useable: • for the rare high-level operation (e.g. high...</p></details>
+   Link:<a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnonymousFor flights operated under VFR, a broader range of ADS-B OUT options are useable: • for the rare high-level operation (e.g. high...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/101442/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/101442/pdf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Commercial and recreational drone use in the...A cut-off point should be set, with especially low mass, airspeed and command link ran...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/101442/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/101442/pdf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Commercial and recreational drone use in the...A cut-off point should be set, with especially low mass, airspeed and command link ran...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JeEohJoGAXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JeEohJoGAXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B for Drones: Why airplanes don&#x27;t always show upIn this video, we discuss the manned aircraft technology known as ADS-B. It is often...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JeEohJoGAXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JeEohJoGAXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B for Drones: Why airplanes don&#x27;t always show upIn this video, we discuss the manned aircraft technology known as ADS-B. It is often...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aeromind.pl  
    Title: Everything you should know about Remote ID blog eng 1677159185  
-   Link: <a href="https://aeromind.pl/Everything-you-should-know-about-Remote-ID-blog-eng-1677159185.html?srsltid=AfmBOoomqZzVyDAGcPdM9fHNao_tPhr4fo0dwv65nAFT8tv-XtOmQ_aL" target="_blank" rel="noopener noreferrer nofollow">https://aeromind.pl/Everything-you-should-know-about-Remote-ID-blog-eng-1677159185.html?srsltid=AfmBOoomqZzVyDAGcPdM9fHNao_tPhr4fo0dwv65nAFT8tv-XtOmQ_aL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything you should know about Remote ID23 Feb 2023 — Today, the writing on the box: ADS-B compliant unfortunately does not take care o...</p></details>
+   Link:<a href="https://aeromind.pl/Everything-you-should-know-about-Remote-ID-blog-eng-1677159185.html?srsltid=AfmBOoomqZzVyDAGcPdM9fHNao_tPhr4fo0dwv65nAFT8tv-XtOmQ_aL" target="_blank" rel="noopener noreferrer nofollow">https://aeromind.pl/Everything-you-should-know-about-Remote-ID-blog-eng-1677159185.html?srsltid=AfmBOoomqZzVyDAGcPdM9fHNao_tPhr4fo0dwv65nAFT8tv-XtOmQ_aL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything you should know about Remote ID23 Feb 2023 — Today, the writing on the box: ADS-B compliant unfortunately does not take care o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: osintteam.blog  
    Title: OSINT Team'Flight radar app' for civilian drones?  
-   Link: <a href="https://osintteam.blog/flight-radar-app-for-civilian-drones-yes-and-no-4249122392fc" target="_blank" rel="noopener noreferrer nofollow">https://osintteam.blog/flight-radar-app-for-civilian-drones-yes-and-no-4249122392fc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes and No. - OSINT Team3 Jan 2026 — The Only Methods to Avoid Tracking: Fly a drone under 250g in the US or under 100g in Japan, as thes...</p></details>
+   Link:<a href="https://osintteam.blog/flight-radar-app-for-civilian-drones-yes-and-no-4249122392fc" target="_blank" rel="noopener noreferrer nofollow">https://osintteam.blog/flight-radar-app-for-civilian-drones-yes-and-no-4249122392fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yes and No. - OSINT Team3 Jan 2026 — The Only Methods to Avoid Tracking: Fly a drone under 250g in the US or under 100g in Japan, as thes...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1087935675891957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1087935675891957/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Example: (1) attached photo, “ Unmanned Aircraft” from surface to 10,000ft...</p></details>
+   Link:<a href="https://www.facebook.com/groups/218676792817854/posts/1087935675891957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1087935675891957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Example: (1) attached photo, “ Unmanned Aircraft” from surface to 10,000ft...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thedronegirl.com  
-   Link: <a href="https://www.thedronegirl.com/2025/02/11/how-track-drones-flying-near-me/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedronegirl.com/2025/02/11/how-track-drones-flying-near-me/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone GirlHow can I track drones flying near me?Jan 30, 2025 — Right now, that information isn&#x27;t available in a public website like F...</p></details>
+   Link:<a href="https://www.thedronegirl.com/2025/02/11/how-track-drones-flying-near-me/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedronegirl.com/2025/02/11/how-track-drones-flying-near-me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone GirlHow can I track drones flying near me?Jan 30, 2025 — Right now, that information isn&#x27;t available in a public website like F...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>surface. If you fly where the ground falls or rises...Read more...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>surface. If you fly where the ground falls or rises...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: uavionix.com  
    Title: the case for low power ads b for drones  
-   Link: <a href="https://uavionix.com/blog/the-case-for-low-power-ads-b-for-drones/?srsltid=AfmBOooo5YbCSA09oO9LlOKeHUnwLdsxCBE40srOvQSVon-JQicB0LnO" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/blog/the-case-for-low-power-ads-b-for-drones/?srsltid=AfmBOooo5YbCSA09oO9LlOKeHUnwLdsxCBE40srOvQSVon-JQicB0LnO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case for Low Power ADS-B for Drones29 Jan 2017 — It is legal to broadcast ADS-B from drones today from 7-350 Watts – contributing to...</p></details>
+   Link:<a href="https://uavionix.com/blog/the-case-for-low-power-ads-b-for-drones/?srsltid=AfmBOooo5YbCSA09oO9LlOKeHUnwLdsxCBE40srOvQSVon-JQicB0LnO" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/blog/the-case-for-low-power-ads-b-for-drones/?srsltid=AfmBOooo5YbCSA09oO9LlOKeHUnwLdsxCBE40srOvQSVon-JQicB0LnO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Case for Low Power ADS-B for Drones29 Jan 2017 — It is legal to broadcast ADS-B from drones today from 7-350 Watts – contributing to...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jrupprechtlaw.com  
-   Link: <a href="https://jrupprechtlaw.com/ultimate-guide-to-handling-unidentified-drone-sightings-civilians-law-enforcement-etc/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/ultimate-guide-to-handling-unidentified-drone-sightings-civilians-law-enforcement-etc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See 14 CFR Part 89. However, there are SOME aircraft that...</p></details>
+   Link:<a href="https://jrupprechtlaw.com/ultimate-guide-to-handling-unidentified-drone-sightings-civilians-law-enforcement-etc/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/ultimate-guide-to-handling-unidentified-drone-sightings-civilians-law-enforcement-etc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See 14 CFR Part 89. However, there are SOME aircraft that...</p></details>

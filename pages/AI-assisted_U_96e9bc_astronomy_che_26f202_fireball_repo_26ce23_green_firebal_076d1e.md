@@ -275,7 +275,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 ## Introduction
 
-Bright green [fireballs]({{ 'fireballs/' | relative_url }}) regularly trigger dramatic UFO reports because they combine several features that humans instinctively interpret as artificial or dangerous: unusual colour, extreme brightness, sudden appearance, rapid motion, and poor depth perception at night. In many cases, witnesses genuinely believe they have seen a crashing craft, missile, drone swarm, or glowing “orb” rather than a meteor. Modern UFO investigation workflows increasingly treat vivid green sightings as a high-priority meteor screening category because the pattern recurs so often across multiple countries and decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
+Bright green [fireballs]({{ 'fireballs/' | relative_url }}) regularly trigger dramatic UFO reports because they combine several features that humans instinctively interpret as artificial or dangerous: unusual colour, extreme brightness, sudden appearance, rapid motion, and poor depth perception at night. In many cases, witnesses genuinely believe they have seen a crashing craft, missile, drone swarm, or glowing “orb” rather than a meteor. Modern UFO investigation workflows increasingly treat vivid green sightings as a high-priority meteor screening category because the pattern recurs so often across multiple countries and decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-dark.svg" | relative_url }}" alt="Green Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, green fireballs are especially important because they generate emotionally intense witness testimony that can initially sound extraordinary. A structured case [review]({{ 'review/' | relative_url }}) often shows something more ordinary: a short-duration atmospheric fireball seen simultaneously across a wide region, usually with consistent travel direction and a cluster of independent reports arriving within minutes.
@@ -284,7 +284,7 @@ For AI-assisted UFO sighting investigation, green fireballs are especially impor
 
 The green glow in many fireballs is not evidence of propulsion or exotic energy. It is usually produced by the chemistry and physics of atmospheric entry.
 
-When a meteoroid enters Earth’s atmosphere at extreme speed, friction and compression heat both the object and the surrounding air until materials begin to vaporise. Different elements emit different colours under those conditions. The American Meteor Society notes that nickel can produce green colours, while magnesium and other metals can shift the glow toward blue-white or turquoise tones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
+When a meteoroid enters Earth’s atmosphere at extreme speed, friction and compression heat both the object and the surrounding air until materials begin to vaporise. Different elements emit different colours under those conditions. The American Meteor Society notes that nickel can produce green colours, while magnesium and other metals can shift the glow toward blue-white or turquoise tones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
 
 This matters because green is comparatively rare in everyday night-time lighting. Most people are accustomed to [aircraft]({{ 'aircraft/' | relative_url }}) lights, streetlights, stars, or orange fire. A vivid emerald streak therefore looks unnatural and “mechanical” to many observers.
 
@@ -299,9 +299,9 @@ Several recurring features amplify the effect:
 
 </div>
 
-A meteor only tens of centimetres across can still light up the sky dramatically. During a 2026 Australian fireball event, astronomers estimated the object was roughly 30–50 cm wide, yet witnesses across large areas reported flashes intense enough to resemble explosions or aircraft disasters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Australian National University astrophysicist Dr</span><span class="citation-popover-snippet">Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</span></span></span>
+A meteor only tens of centimetres across can still light up the sky dramatically. During a 2026 Australian fireball event, astronomers estimated the object was roughly 30–50 cm wide, yet witnesses across large areas reported flashes intense enough to resemble explosions or aircraft disasters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Australian National University astrophysicist Dr</span><span class="citation-popover-snippet">Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</span></span></span>
 
-For investigators, the key lesson is that “it looked too bright to be a meteor” is not reliable evidence against a meteor explanation. Extremely bright bolides are well documented in [meteor databases]({{ 'meteor-databases/' | relative_url }}) and are often visible across hundreds of kilometres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
+For investigators, the key lesson is that “it looked too bright to be a meteor” is not reliable evidence against a meteor explanation. Extremely bright bolides are well documented in [meteor databases]({{ 'meteor-databases/' | relative_url }}) and are often visible across hundreds of kilometres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
 
 ## Why witnesses often think green fireballs are craft
 
@@ -342,7 +342,7 @@ This has several consequences for UFO investigations:
 
 </div>
 
-Doorbell cameras and dashboard cameras now capture many fireballs automatically, which improves timeline reconstruction but also spreads sensational clips rapidly before verification occurs. During multiple 2025 and 2026 fireball events in the United States, Russia, Australia, and the UK, social media users immediately speculated about missiles, alien craft, crashes, or military activity before astronomers identified meteor signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The sighting occurred in the afternoon between 3 and 4 p.m. under clear, sunny conditions. Nearly 200 reports were submitted to the Ameri...</span></span></span>
+Doorbell cameras and dashboard cameras now capture many fireballs automatically, which improves timeline reconstruction but also spreads sensational clips rapidly before verification occurs. During multiple 2025 and 2026 fireball events in the United States, Russia, Australia, and the UK, social media users immediately speculated about missiles, alien craft, crashes, or military activity before astronomers identified meteor signatures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The sighting occurred in the afternoon between 3 and 4 p.m. under clear, sunny conditions. Nearly 200 reports were submitted to the Ameri...</span></span></span>
 
 A useful investigation workflow therefore separates:
 
@@ -362,27 +362,27 @@ That distinction is important because a viral clip may preserve a genuine event 
 
 ### The New Mexico “green fireballs”
 
-One of the most famous UFO-linked meteor episodes began in the American Southwest in the late 1940s. Bright green fireballs repeatedly appeared near sensitive military and nuclear facilities around Los Alamos and Sandia in New Mexico. Witnesses included military pilots, scientists, and security personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos green fireballs nuclear facilities new mexico</span><span class="citation-popover-snippet">Ruppelt, director of the U.S. Air Force Project Blue Book UFO investigations, visited the Los Alamos National Laboratory in early...Read...</span></span></span>
+One of the most famous UFO-linked meteor episodes began in the American Southwest in the late 1940s. Bright green fireballs repeatedly appeared near sensitive military and nuclear facilities around Los Alamos and Sandia in New Mexico. Witnesses included military pilots, scientists, and security personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos green fireballs nuclear facilities new mexico</span><span class="citation-popover-snippet">Ruppelt, director of the U.S. Air Force Project Blue Book UFO investigations, visited the Los Alamos National Laboratory in early...Read...</span></span></span>
 
-The timing created immediate suspicion. Because the sightings occurred near atomic research sites during the early Cold War, some officials feared foreign technology or surveillance devices. The events became serious enough to trigger military studies including Project Twinkle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
+The timing created immediate suspicion. Because the sightings occurred near atomic research sites during the early Cold War, some officials feared foreign technology or surveillance devices. The events became serious enough to trigger military studies including Project Twinkle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
 
 What makes the episode important for modern UFO analysis is not that the sightings proved alien technology, but that even technically trained observers struggled with interpretation under unusual visual conditions. The combination of secrecy, military tension, vivid colour, and [incomplete data]({{ 'incomplete-data/' | relative_url }}) amplified uncertainty dramatically.
 
-Many later reviews concluded that at least a substantial portion of the sightings were likely natural bolides or meteor events. Yet the “green fireball” label remained embedded in UFO culture because the reports felt unlike ordinary meteors to witnesses at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GreenGreen is the color between cyan and yellow on the visible spectrum. It has 295-350 different shades. It is evoked by light which...</span></span></span>
+Many later reviews concluded that at least a substantial portion of the sightings were likely natural bolides or meteor events. Yet the “green fireball” label remained embedded in UFO culture because the reports felt unlike ordinary meteors to witnesses at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GreenGreen is the color between cyan and yellow on the visible spectrum. It has 295-350 different shades. It is evoked by light which...</span></span></span>
 
 ### Contemporary viral cases
 
 Modern green fireball incidents follow remarkably similar patterns despite improved [astronomy]({{ 'astronomy/' | relative_url }}) knowledge.
 
-In April 2026, a bright green meteor seen across parts of the UK and northern Europe generated hundreds of reports and widespread online speculation before being identified as a meteor event. Witnesses described a glowing green object exploding over the North Sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Traveling at roughly 20,000 mph and weighing approximately 12 grams, the meteor burst above the North Sea and was seen by at least 230 pe...</span></span></span>
+In April 2026, a bright green meteor seen across parts of the UK and northern Europe generated hundreds of reports and widespread online speculation before being identified as a meteor event. Witnesses described a glowing green object exploding over the North Sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Traveling at roughly 20,000 mph and weighing approximately 12 grams, the meteor burst above the North Sea and was seen by at least 230 pe...</span></span></span>
 
 Similar reactions occurred during:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* the 2026 Pacific Northwest fireball in the United States <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</span></span></span>
-* the 2026 Mid-Atlantic fireball event <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox29.com">[FOX 29 Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox29.com</span><span class="citation-popover-snippet">FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...Apr 7, 2026 — The American Meteor Society received 186 reports...</span></span></span>
-* the 2026 Australian east coast fireball News.com.au <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[news.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</span></span></span>
+* the 2026 Pacific Northwest fireball in the United States<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</span></span></span>
+* the 2026 Mid-Atlantic fireball event<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox29.com">[FOX 29 Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox29.com</span><span class="citation-popover-snippet">FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...Apr 7, 2026 — The American Meteor Society received 186 reports...</span></span></span>
+* the 2026 Australian east coast fireball News.com.au<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[news.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</span></span></span>
 
 </div>
 
@@ -425,7 +425,7 @@ The strongest meteor indicators usually include:
 * intense green or blue-green colour
 * no evidence of controlled hovering or course correction
 
-Databases from organisations such as the American Meteor Society and International Meteor Organization now provide large comparative archives that help distinguish common fireball behaviour from genuinely unusual reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
+Databases from organisations such as the American Meteor Society and International Meteor Organization now provide large comparative archives that help distinguish common fireball behaviour from genuinely unusual reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
 
 This does not mean every bright green object is automatically explained. Investigators still need to rule out aircraft, military flares, launches, drones, and re-entry events. But in practice, many dramatic “green UFO” cases fit known fireball patterns once timing, geography, and witness clustering are analysed systematically.
 
@@ -440,194 +440,194 @@ Importantly, a correct explanation does not mean the witness experience was triv
 That distinction sits at the centre of modern AI-assisted UFO investigation. A compelling report is not automatically a mysterious object. Often, it is a rare but well-understood atmospheric event interpreted through human perception, [incomplete]({{ 'incomplete-data/' | relative_url }}) information, and the visual drama of a glowing green fireball crossing the night sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Green Meteors Look Like Alien Craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Green Meteors Look Like Alien Craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains common sky phenomena including meteors and fireballs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common sky phenomena including meteors and fireballs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteors and How to Observe Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iu9XakR51EsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteors and How to Observe Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteors and How to Observe Them">Meteors and How to Observe Them</a>
-        </h4>
-        <p class="fr-book-author">By Robert Lunsford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteors and How to Observe Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iu9XakR51EsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteors and How to Observe Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteors and How to Observe Them">Meteors and How to Observe Them</a>
+</h4>
+<p class="fr-book-author">By Robert Lunsford</p>
         
-        <p class="fr-book-desc">Useful for understanding bright colored fireballs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding bright colored fireballs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Covers meteor composition and visible effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers meteor composition and visible effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Helen Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
+</h4>
+<p class="fr-book-author">By Helen Gordon</p>
         
-        <p class="fr-book-desc">Provides engaging context on meteor events and public reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides engaging context on meteor events and public reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteors and How to Observe Them</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteors and How to Observe Them</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box"><img src="https://i.ebayimg.com/images/g/QDQAAeSwMvJqKZPE/s-l225.jpg" alt="Listing image for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box"><img src="https://i.ebayimg.com/images/g/QDQAAeSwMvJqKZPE/s-l225.jpg" alt="Listing image for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case"><img src="https://i.ebayimg.com/images/g/KWAAAeSw8kxp~9wg/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case"><img src="https://i.ebayimg.com/images/g/KWAAAeSw8kxp~9wg/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite... A &quot;Shooting Star&quot; with display case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box"><img src="https://i.ebayimg.com/images/g/YRIAAeSwnj9qKZav/s-l225.jpg" alt="Listing image for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box"><img src="https://i.ebayimg.com/images/g/YRIAAeSwnj9qKZav/s-l225.jpg" alt="Listing image for Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Meteorite GADAMIS 003 LUNAR Anorthosite Very RARE in display box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="https://i.ebayimg.com/images/g/jCEAAeSwqM1pDcxo/s-l225.jpg" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="https://i.ebayimg.com/images/g/jCEAAeSwqM1pDcxo/s-l225.jpg" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-green-meteors-look-like-alien-craft-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-green-meteors-look-like-alien-craft-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -833,156 +833,156 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.com.au  
    Title: Australian National University astrophysicist Dr  
-   Link: <a href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/thursday-nights-unannounced-meteor-that-lit-up-australian-east-coast-was-just-3050cm-in-size/news-story/0a406767e8de8f96b60eeecd7e0c6514</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Tucker explained that such small meteors are nearly impossible to detect in advance. Detection systems like NASA’s ATLAS are designe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</p></details>
+   Link:<a href="https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/nsw-act/mysterious-flash-explodes-above-sydney/news-story/b87ee6966609e729895f811478c641ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captured on cameras including a surf cam at Maroubra Beach and a golfer&#x27;s swing footage, the meteor briefly turned the ocean electric blu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: ufos green fireballs nuclear facilities new mexico  
-   Link: <a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, director of the U.S. Air Force Project Blue Book UFO investigations, visited the Los Alamos National Laboratory in early...Read...</p></details>
+   Link:<a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, director of the U.S. Air Force Project Blue Book UFO investigations, visited the Los Alamos National Laboratory in early...Read...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 6  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of Warll 1 l lll 1 1 62-IHQ-ii3894.. ==-Observations of aerial phenomena occurring within the vicinity of sensitive inst...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of Warll 1 l lll 1 1 62-IHQ-ii3894.. ==-Observations of aerial phenomena occurring within the vicinity of sensitive inst...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fox29.com  
-   Link: <a href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...Apr 7, 2026 — The American Meteor Society received 186 reports...</p></details>
+   Link:<a href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...Apr 7, 2026 — The American Meteor Society received 186 reports...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: project blue book declassified the true story of the green fireballs  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-green-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-green-fireballs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of the Green Fireballs... green objects that were seen flying through New Mexico in December 1948. 2:30m watch. Related Vi...</p></details>
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-green-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-green-fireballs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of the Green Fireballs... green objects that were seen flying through New Mexico in December 1948. 2:30m watch. Related Vi...</p></details>
    Published: December 1948  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://es.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Green_fireballs</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Green" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GreenGreen is the color between cyan and yellow on the visible spectrum. It has 295-350 different shades. It is evoked by light which...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Green" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GreenGreen is the color between cyan and yellow on the visible spectrum. It has 295-350 different shades. It is evoked by light which...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/497497cfc02e910b631807581cf9225c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</p></details>
+   Link:<a href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/497497cfc02e910b631807581cf9225c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyPending Fireball Reports... We are currently investigating 28 reports about fireballs seen...</p></details>
+   Link:<a href="https://amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyPending Fireball Reports... We are currently investigating 28 reports about fireballs seen...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sighting occurred in the afternoon between 3 and 4 p.m. under clear, sunny conditions. Nearly 200 reports were submitted to the Ameri...</p></details>
+   Link:<a href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sighting occurred in the afternoon between 3 and 4 p.m. under clear, sunny conditions. Nearly 200 reports were submitted to the Ameri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/project-twinkle/38733495" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-twinkle/38733495</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>twinkle | PDFThe document summarizes Project Twinkle, an Air Force investigation into reports of unusual aerial phenomena in the southwes...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/project-twinkle/38733495" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-twinkle/38733495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>twinkle | PDFThe document summarizes Project Twinkle, an Air Force investigation into reports of unusual aerial phenomena in the southwes...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traveling at roughly 20,000 mph and weighing approximately 12 grams, the meteor burst above the North Sea and was seen by at least 230 pe...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traveling at roughly 20,000 mph and weighing approximately 12 grams, the meteor burst above the North Sea and was seen by at least 230 pe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fireball.amsmeteors.org  
    Title: American Meteor Society Page 1 / 42  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyPage 1 / 42 - Report a Fireball - American Meteor SocietyReports found: 2075 in the last 30 days Page 1 / 42. ID...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyPage 1 / 42 - Report a Fireball - American Meteor SocietyReports found: 2075 in the last 30 days Page 1 / 42. ID...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fireball.amsmeteors.org  
-   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Fireball - American Meteor SocietyReport it: it may be a fireball. We are going to ask you to fill an interactive form that is intended...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Fireball - American Meteor SocietyReport it: it may be a fireball. We are going to ask you to fill an interactive form that is intended...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/100-000-mph-comet-fragment-explodes-in-green-fireball-over-great-lakes-eerie-videos-show" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/100-000-mph-comet-fragment-explodes-in-green-fireball-over-great-lakes-eerie-videos-show</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Fireball meteors sometimes give off a green color due to a high concentration of metals such as nickel, while faster meteoroids a...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/100-000-mph-comet-fragment-explodes-in-green-fireball-over-great-lakes-eerie-videos-show" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/100-000-mph-comet-fragment-explodes-in-green-fireball-over-great-lakes-eerie-videos-show</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Fireball meteors sometimes give off a green color due to a high concentration of metals such as nickel, while faster meteoroids a...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cowboystatedaily.com  
-   Link: <a href="https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Green Fireball Explodes Over Northeastern Wyoming...“Those colors indicate that there were strong concentrations of elements,” sai...</p></details>
+   Link:<a href="https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Green Fireball Explodes Over Northeastern Wyoming...“Those colors indicate that there were strong concentrations of elements,” sai...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo06.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo06.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Fireballs, Project Twinkle, Little Lights, and GrudgeThe regular UFO reports might be explained by the fact that the manned vehicle...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo06.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo06.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Fireballs, Project Twinkle, Little Lights, and GrudgeThe regular UFO reports might be explained by the fact that the manned vehicle...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/37136280/watch-moment-mysterious-giant-green-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37136280/watch-moment-mysterious-giant-green-fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The vivid green blaze, captured in several videos, appeared to rush over the city&#x27;s skyline, trailing sparks before vanishing into the cl...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/37136280/watch-moment-mysterious-giant-green-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37136280/watch-moment-mysterious-giant-green-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The vivid green blaze, captured in several videos, appeared to rush over the city&#x27;s skyline, trailing sparks before vanishing into the cl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Green &#x27;Fireballs&#x27; Streaked Across the West Coast Sky...Mar 27, 2026 — On March 22, hundreds of people saw a green meteor flash acros...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Green &#x27;Fireballs&#x27; Streaked Across the West Coast Sky...Mar 27, 2026 — On March 22, hundreds of people saw a green meteor flash acros...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/watch-moment-brilliant-green-fireball-meteor-turns-night-to-day-over-tennessee-video-oct-14-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-moment-brilliant-green-fireball-meteor-turns-night-to-day-over-tennessee-video-oct-14-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the moment a brilliant green fireball meteor turns...15 Oct 2025 — The brilliant green fireball lit up the skies over several stat...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/watch-moment-brilliant-green-fireball-meteor-turns-night-to-day-over-tennessee-video-oct" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-moment-brilliant-green-fireball-meteor-turns-night-to-day-over-tennessee-video-oct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the moment a brilliant green fireball meteor turns...15 Oct 2025 — The brilliant green fireball lit up the skies over several stat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQZGoBgk115/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQZGoBgk115/</a>  
+   Link:<a href="https://www.instagram.com/reel/DQZGoBgk115/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQZGoBgk115/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/tag/green-fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/tag/green-fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archive: Green FireballsWil McReynolds captured this green fireball on October 29, 2025, at 23:14... Report a fireball. You saw some...</p></details>
+   Link:<a href="https://amsmeteors.org/tag/green-fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/tag/green-fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archive: Green FireballsWil McReynolds captured this green fireball on October 29, 2025, at 23:14... Report a fireball. You saw some...</p></details>
    Published: October 29, 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: shadowfrequencypodcast.com  
    Title: Were they spirits or science? Dive into Episode 176 of The Shadow  
-   Link: <a href="https://www.shadowfrequencypodcast.com/blog/blog-post-exploring-the-green-fireballs-of-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/blog-post-exploring-the-green-fireballs-of-new-mexico/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog Post: Exploring the Green Fireballs of New MexicoAug 9, 2025 — Explore the eerie green fireballs of 1948 New Mexico, haunting Los Al...</p></details>
+   Link:<a href="https://www.shadowfrequencypodcast.com/blog/blog-post-exploring-the-green-fireballs-of-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/blog-post-exploring-the-green-fireballs-of-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog Post: Exploring the Green Fireballs of New MexicoAug 9, 2025 — Explore the eerie green fireballs of 1948 New Mexico, haunting Los Al...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCScience/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1532516475212638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCScience/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1532516475212638/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunlive Satellite ▻ Universe Science technology Aliens UFO. 2y · Public...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABCScience/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1532516475212638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCScience/posts/eyes-on-the-wrong-ball-%EF%B8%8Fa-fireball-meteor-lit-up-skies-across-eastern-australia-/1532516475212638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunlive Satellite ▻ Universe Science technology Aliens UFO. 2y · Public...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10158934811946620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158934811946620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;reports state that the fireball was greenish in color, which...The green color often indicates the presence of nickel or copper...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10158934811946620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158934811946620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;reports state that the fireball was greenish in color, which...The green color often indicates the presence of nickel or copper...</p></details>

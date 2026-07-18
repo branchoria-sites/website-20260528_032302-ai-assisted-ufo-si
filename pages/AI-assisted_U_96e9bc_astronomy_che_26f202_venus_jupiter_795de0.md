@@ -288,14 +288,14 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 
 ## Introduction
 
-A bright object hanging low in the western sky is one of the most common starting points for a UFO report. In many cases, the object turns out to be Venus or Jupiter seen under conditions that make a normal planet look strange: twilight glare, haze near the horizon, atmospheric shimmer, drifting cloud, or unstable zoomed phone footage. NASA’s skywatching guidance notes that Venus is “one of the most confused objects in the sky”, while Jupiter and other bright planets are also frequently reported as UFOs, especially when low on the horizon or appearing in alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
+A bright object hanging low in the western sky is one of the most common starting points for a UFO report. In many cases, the object turns out to be Venus or Jupiter seen under conditions that make a normal planet look strange: twilight glare, haze near the horizon, atmospheric shimmer, drifting cloud, or unstable zoomed phone footage. NASA’s skywatching guidance notes that Venus is “one of the most confused objects in the sky”, while Jupiter and other bright planets are also frequently reported as UFOs, especially when low on the horizon or appearing in alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" alt="Bright planets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, this matters because a planet match is often one of the fastest ordinary explanations to test. A witness may describe a brilliant stationary light, apparent hovering, colour changes, or even apparent movement relative to nearby trees or buildings. Those details do not automatically rule out a planet. The investigation question is narrower and more practical: was Venus or Jupiter in the correct part of the sky, at the correct brightness, for the reported duration and direction?
 
 ## Why Venus and Jupiter trigger bright-light reports
 
-Venus is the strongest repeat offender in western-sky UFO reports because it is exceptionally bright and often appears shortly after sunset in the same part of the sky where many people casually look while driving, walking, or stopping outdoors. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” that are often reported as peculiar objects or UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</span></span></span>
+Venus is the strongest repeat offender in western-sky UFO reports because it is exceptionally bright and often appears shortly after sunset in the same part of the sky where many people casually look while driving, walking, or stopping outdoors. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” that are often reported as peculiar objects or UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</span></span></span>
 
 The mechanism is straightforward but surprisingly convincing in real conditions.
 
@@ -311,11 +311,11 @@ Witnesses often interpret brightness as closeness. A planet that is effectively 
 
 This effect becomes stronger during twilight. The sky is dark enough for Venus or Jupiter to dominate visually, but still bright enough to hide surrounding stars that would otherwise reveal the object’s fixed astronomical position. A lone bright point in a partly lit western sky can therefore appear isolated and unnatural.
 
-NASA’s Night Sky Network specifically warns that bright planets near the horizon can appear as formations of “strange lights” and are regularly mistaken for UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
+NASA’s Night Sky Network specifically warns that bright planets near the horizon can appear as formations of “strange lights” and are regularly mistaken for UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
 
 ## Why the western sky matters so often
 
-Many reports specifically mention the western sky because evening observations cluster around sunset and the hours immediately after it. Venus is commonly visible as the “Evening Star” in the west after sunset during favourable parts of its orbit. Jupiter can also dominate the western or south-western sky during certain observing seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</span></span></span>
+Many reports specifically mention the western sky because evening observations cluster around sunset and the hours immediately after it. Venus is commonly visible as the “Evening Star” in the west after sunset during favourable parts of its orbit. Jupiter can also dominate the western or south-western sky during certain observing seasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</span></span></span>
 
 That timing overlaps with conditions that naturally generate misidentification:
 
@@ -328,7 +328,7 @@ That timing overlaps with conditions that naturally generate misidentification:
 
 </div>
 
-One recurring pattern in UFO archives is the report of a bright object apparently pacing a moving car. Discover Magazine described how Venus can appear to “follow” a driver because it is so distant that nearby movement barely changes its apparent position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/aliens-yes-ufos-no-1129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-title">aliens yes ufos no 1129</span><span class="citation-popover-snippet">Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</span></span></span>
+One recurring pattern in UFO archives is the report of a bright object apparently pacing a moving car. Discover Magazine described how Venus can appear to “follow” a driver because it is so distant that nearby movement barely changes its apparent position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/aliens-yes-ufos-no-1129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-title">aliens yes ufos no 1129</span><span class="citation-popover-snippet">Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</span></span></span>
 
 This is a useful clue in case analysis. If the witness says the object remained fixed relative to the distant horizon while they travelled several miles, a planetary explanation becomes stronger. A nearby craft or drone would normally shift noticeably against foreground landmarks.
 
@@ -342,7 +342,7 @@ A strong Venus or Jupiter match usually includes several overlapping indicators.
 
 Planets drift slowly because of Earth’s rotation. Over minutes, they appear almost stationary. Over an hour or more, they gradually descend toward the horizon.
 
-Witnesses often describe: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+Witnesses often describe:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,11 +384,11 @@ This matters because witnesses often describe:
 
 * “the brightest thing in the sky”,
 * “a spotlight”,
-* or “brighter than any star”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</span></span></span>
+* or “brighter than any star”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</span></span></span>
 
 </div>
 
-That wording strongly fits Venus during favourable apparitions. The American Meteor Society even defines very bright fireballs partly by comparison to Venus at its brightest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
+That wording strongly fits Venus during favourable apparitions. The American Meteor Society even defines very bright fireballs partly by comparison to Venus at its brightest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
 
 ### The apparent movement matches atmospheric distortion
 
@@ -419,9 +419,9 @@ Wind shear, haze and heat turbulence near the horizon can substantially distort 
 
 Astronomical objects have been linked to UFO reports for decades, not as a dismissive talking point but as a documented investigative pattern.
 
-The U.S. Air Force’s Project [Blue Book]({{ 'blue-book/' | relative_url }}) records repeatedly identified planets and stars as explanations for reported UFOs. Official Blue Book material states that astronomical sightings were among the most common categories, including planets, meteors and bright stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</span></span></span>
+The U.S. Air Force’s Project [Blue Book]({{ 'blue-book/' | relative_url }}) records repeatedly identified planets and stars as explanations for reported UFOs. Official Blue Book material states that astronomical sightings were among the most common categories, including planets, meteors and bright stars.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</span></span></span>
 
-Archived Blue Book material also specifically identified Venus in a substantial number of investigated cases. One Project Blue Book archive summary attributed roughly 35 percent of one analysed group of sightings to known astronomical phenomena, with Venus alone accounting for many of those cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</span></span></span>
+Archived Blue Book material also specifically identified Venus in a substantial number of investigated cases. One Project Blue Book archive summary attributed roughly 35 percent of one analysed group of sightings to known astronomical phenomena, with Venus alone accounting for many of those cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</span></span></span>
 
 The important point for modern casework is not that “UFOs are always Venus”. The historical lesson is narrower:
 
@@ -433,7 +433,7 @@ The important point for modern casework is not that “UFOs are always Venus”.
 
 </div>
 
-The UK National Archives similarly notes that many historical UFO files involve lights and flashes that often have ordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+The UK National Archives similarly notes that many historical UFO files involve lights and flashes that often have ordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 ## Common witness descriptions that fit Venus or Jupiter
 
@@ -456,7 +456,7 @@ These descriptions do not prove the object was Venus or Jupiter, but together th
 
 </div>
 
-NASA, astronomy outreach organisations and observatories repeatedly publish reminders during strong Venus apparitions because public UFO reports tend to increase at those times. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/3685-ufo-venus-dominates-evening-sky.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">3685 ufo venus dominates evening sky</span><span class="citation-popover-snippet">Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</span></span></span>
+NASA, astronomy outreach organisations and observatories repeatedly publish reminders during strong Venus apparitions because public UFO reports tend to increase at those times. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/3685-ufo-venus-dominates-evening-sky.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">3685 ufo venus dominates evening sky</span><span class="citation-popover-snippet">Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</span></span></span>
 
 ## When a planet explanation is too weak
 
@@ -542,194 +542,194 @@ At the same time, the workflow should preserve uncertainty honestly. A plausible
 That distinction matters because some reports survive initial astronomy screening and require deeper checks involving aircraft, satellites, drones, atmospheric optics or other contextual factors.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a planet looks like a hovering UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a planet looks like a hovering UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly helps readers identify Venus, Jupiter and other bright sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers identify Venus, Jupiter and other bright sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps observers compare planets with other night-sky lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps observers compare planets with other night-sky lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers practical planet observation and sky conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers practical planet observation and sky conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages testing ordinary explanations before extraordinary ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing ordinary explanations before extraordinary ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed"><img src="https://i.ebayimg.com/images/g/M9YAAeSw7LZp~fJn/s-l225.jpg" alt="Listing image for 14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed"><img src="https://i.ebayimg.com/images/g/M9YAAeSw7LZp~fJn/s-l225.jpg" alt="Listing image for 14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">14 in 1 Pro Max Planetarium Galaxy Projector Rotating Starry Sky Night Light Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search<span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts"><img src="https://i.ebayimg.com/images/g/c34AAeSwIqVqH-GH/s-l225.jpg" alt="Listing image for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts"><img src="https://i.ebayimg.com/images/g/c34AAeSwIqVqH-GH/s-l225.jpg" alt="Listing image for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search<span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room"><img src="https://i.ebayimg.com/images/g/sWUAAeSw5J9oqDQy/s-l225.jpg" alt="Listing image for Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room"><img src="https://i.ebayimg.com/images/g/sWUAAeSw5J9oqDQy/s-l225.jpg" alt="Listing image for Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Projector 12 in 1 Planetarium Star Projector Realistic Starry Sky Room</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search<span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films"><img src="https://i.ebayimg.com/images/g/Nv8AAeSwq~tqH8-s/s-l225.jpg" alt="Listing image for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films"><img src="https://i.ebayimg.com/images/g/Nv8AAeSwq~tqH8-s/s-l225.jpg" alt="Listing image for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search<span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-planet-looks-like-a-hovering-ufo-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="when-a-planet-looks-like-a-hovering-ufo-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -745,7 +745,7 @@ That distinction matters because some reports survive initial astronomy screenin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -765,7 +765,7 @@ That distinction matters because some reports survive initial astronomy screenin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -797,7 +797,7 @@ That distinction matters because some reports survive initial astronomy screenin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -849,7 +849,7 @@ That distinction matters because some reports survive initial astronomy screenin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -894,7 +894,7 @@ That distinction matters because some reports survive initial astronomy screenin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -935,136 +935,136 @@ That distinction matters because some reports survive initial astronomy screenin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — [Sirius](&amp;#123;&amp;#123; &#x27;sirius/&#x27; | relative_url &amp;#125;&amp;#125;) and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — [Sirius](&amp;#123;&amp;#123; &#x27;sirius/&#x27; | relative_url &amp;#125;&amp;#125;) and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 3685 ufo venus dominates evening sky  
-   Link: <a href="https://www.space.com/3685-ufo-venus-dominates-evening-sky.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/3685-ufo-venus-dominates-evening-sky.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</p></details>
+   Link:<a href="https://www.space.com/3685-ufo-venus-dominates-evening-sky.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/3685-ufo-venus-dominates-evening-sky.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
    Published: March 1952  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature of the...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature of the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</p></details>
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: discovermagazine.com  
    Title: aliens yes ufos no 1129  
-   Link: <a href="https://www.discovermagazine.com/aliens-yes-ufos-no-1129" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/aliens-yes-ufos-no-1129</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</p></details>
+   Link:<a href="https://www.discovermagazine.com/aliens-yes-ufos-no-1129" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/aliens-yes-ufos-no-1129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyAlso, it is sitting relatively low in the sky which means you&#x27;re looking...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyAlso, it is sitting relatively low in the sky which means you&#x27;re looking...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</p></details>
+   Link:<a href="https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thedebrief.org  
    Title: from the project blue book archives a few lesser known ufo cases from yesteryear  
-   Link: <a href="https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Project Blue Book Archives: A Few Lesser...7 Mar 2023 — The U.S. has collected information on aerial objects that, at least in...</p></details>
+   Link:<a href="https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From The Project Blue Book Archives: A Few Lesser...7 Mar 2023 — The U.S. has collected information on aerial objects that, at least in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>us (or, if it had an orange hue, occasionally Mars can be very bright).Read more...</p></details>
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>us (or, if it had an orange hue, occasionally Mars can be very bright).Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f UFO reports, though it also provided scientific services and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f UFO reports, though it also provided scientific services and...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>
+   Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-confidence-sc/
 description: Focused pages that expand on Confidence.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6
 parent_title: Confidence
@@ -16,7 +16,7 @@ parent_permalink: /confidence/
 
 # Explore Topics in Confidence
 
-The following pages expand on the main **[Confidence]({{ '/confidence/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Confidence]({{ '/confidence/' | relative_url }})** page and cover its key branches in.
 
 - [NASA AARO]({{ '/nasa-aaro/' | relative_url }})
 - [Fit Scores]({{ '/fit-scores/' | relative_url }})

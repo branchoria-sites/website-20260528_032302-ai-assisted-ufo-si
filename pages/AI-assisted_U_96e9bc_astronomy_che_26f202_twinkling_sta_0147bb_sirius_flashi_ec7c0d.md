@@ -269,16 +269,16 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 ## Introduction
 
-Few astronomical objects generate more “hovering UFO” reports in the UK than Sirius. The reason is not mysterious once the viewing conditions are understood. Sirius is the brightest true star visible from Earth, and from British latitudes it spends much of the winter sitting relatively low above the southern horizon. That combination makes it unusually vulnerable to atmospheric distortion. To a witness unfamiliar with the effect, Sirius can appear to pulse, flash red and green, shimmer like a beacon, or even seem to drift and manoeuvre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky In AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>, Sirius matters because it repeatedly matches reports of a “stationary craft with changing coloured lights”. A large number of cases that initially sound unusual become much less mysterious once the reported direction, time and [elevation]({{ 'elevation/' | relative_url }}) are checked against the star’s position. The key investigative question is not whether Sirius can look strange — it absolutely can — but whether the sighting behaviour fits a fixed bright star distorted by Earth’s atmosphere.
+Few astronomical objects generate more “hovering UFO” reports in the UK than Sirius. The reason is not mysterious once the viewing conditions are understood. Sirius is the brightest true star visible from Earth, and from British latitudes it spends much of the winter sitting relatively low above the southern horizon. That combination makes it unusually vulnerable to atmospheric distortion. To a witness unfamiliar with the effect, Sirius can appear to pulse, flash red and green, shimmer like a beacon, or even seem to drift and manoeuvre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky In AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>, Sirius matters because it repeatedly matches reports of a “stationary craft with changing coloured lights”. A large number of cases that initially sound unusual become much less mysterious once the reported direction, time and [elevation]({{ 'elevation/' | relative_url }}) are checked against the star’s position. The key investigative question is not whether Sirius can look strange — it absolutely can — but whether the sighting behaviour fits a fixed bright star distorted by Earth’s atmosphere.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-dark.svg" | relative_url }}" alt="Sirius illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sirius is a repeat UFO suspect
 
 Sirius is unusually effective at fooling observers because several independent factors combine at once.
 
-First, it is exceptionally bright. Sirius has an apparent magnitude of about −1.46, making it the brightest star in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That brightness means atmospheric distortions are far more obvious than with dimmer stars. Tiny shifts in the air column become visible as dramatic flickers and colour changes.
+First, it is exceptionally bright. Sirius has an apparent magnitude of about −1.46, making it the brightest star in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That brightness means atmospheric distortions are far more obvious than with dimmer stars. Tiny shifts in the air column become visible as dramatic flickers and colour changes.
 
-Second, Sirius stays fairly low in the sky from the UK. Observers in Britain never see it pass overhead in the way southern observers do. Instead, its light travels through a much thicker layer of atmosphere, especially during winter evenings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Stargazers Lounge Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span> The lower a star sits above the horizon, the more turbulence, haze, pollution, humidity and temperature variation its light must cross before reaching the eye.
+Second, Sirius stays fairly low in the sky from the UK. Observers in Britain never see it pass overhead in the way southern observers do. Instead, its light travels through a much thicker layer of atmosphere, especially during winter evenings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Stargazers Lounge Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span> The lower a star sits above the horizon, the more turbulence, haze, pollution, humidity and temperature variation its light must cross before reaching the eye.
 
 Third, Sirius naturally attracts attention. It is bright enough to stand out through haze, urban light pollution and thin cloud. Witnesses who are casually scanning the sky often notice Sirius before they notice surrounding stars, which can make it appear isolated and artificial rather than part of a wider star field.
 
@@ -296,13 +296,13 @@ This combination produces classic UFO-style descriptions:
 
 Many reports become more understandable once investigators realise the witness was looking at a fixed celestial object near the horizon rather than a moving [aircraft]({{ 'aircraft/' | relative_url }}).
 
-[Astronomy]({{ 'astronomy/' | relative_url }}) writers and observing forums repeatedly note that Sirius is one of the most common astronomical sources of UFO misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-snippet">Cloudy NightsAntares&#x27; particular blinking apearanceAugust 24, 2016 — 24 Aug 2016 — Take a look at Arcturus or Sirius sometime when they a...</span><span class="citation-popover-meta">Published: August 24, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky-lens.com">[Sky Lens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky-lens.com</span><span class="citation-popover-title">Sky Lens Common Confusables — The Usual Suspects</span><span class="citation-popover-snippet">Common Confusables — The Usual Suspects - Sky LensSirius, Bright, rapidly twinkling, flashing red/blue/white near the horizon, Scintillat...</span></span></span> Even astronomy communities regularly field questions from people convinced they are watching an unusual airborne object.
+[Astronomy]({{ 'astronomy/' | relative_url }}) writers and observing forums repeatedly note that Sirius is one of the most common astronomical sources of UFO misidentifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-snippet">Cloudy NightsAntares&#x27; particular blinking apearanceAugust 24, 2016 — 24 Aug 2016 — Take a look at Arcturus or Sirius sometime when they a...</span><span class="citation-popover-meta">Published: August 24, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky-lens.com">[Sky Lens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky-lens.com</span><span class="citation-popover-title">Sky Lens Common Confusables — The Usual Suspects</span><span class="citation-popover-snippet">Common Confusables — The Usual Suspects - Sky LensSirius, Bright, rapidly twinkling, flashing red/blue/white near the horizon, Scintillat...</span></span></span> Even astronomy communities regularly field questions from people convinced they are watching an unusual airborne object.
 
 ## Low-horizon colour flashing from the UK
 
 The flashing colours are caused mainly by atmospheric [scintillation]({{ 'scintillation/' | relative_url }}) and refraction. These effects become especially strong when Sirius is viewed through thick, unstable air near the horizon.
 
-As the star’s light passes through moving pockets of air with different temperatures and densities, the atmosphere bends the light unevenly. Different wavelengths are refracted by slightly different amounts, briefly separating white starlight into red, blue and green components. Sky at Night Magazine <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky Because Sirius is so bright]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>, those colour splits become obvious to the naked eye. EarthSky describes Sirius as effectively a “rainbow star” when low in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>
+As the star’s light passes through moving pockets of air with different temperatures and densities, the atmosphere bends the light unevenly. Different wavelengths are refracted by slightly different amounts, briefly separating white starlight into red, blue and green components. Sky at Night Magazine<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky Because Sirius is so bright]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>, those colour splits become obvious to the naked eye. EarthSky describes Sirius as effectively a “rainbow star” when low in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>
 
 In Britain this effect is strongest during cold autumn and winter nights, especially:
 
@@ -312,7 +312,7 @@ In Britain this effect is strongest during cold autumn and winter nights, especi
 * during frosty high-pressure [weather]({{ 'weather/' | relative_url }})
 * after sunset when temperature layers are shifting rapidly
 
-Under poor seeing conditions, Sirius can resemble a flashing LED beacon more than a normal star. Observers frequently report rapid alternation between white, red, green and blue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Under poor seeing conditions, Sirius can resemble a flashing LED beacon more than a normal star. Observers frequently report rapid alternation between white, red, green and blue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The effect becomes even more dramatic through binoculars or [phone cameras]({{ 'phone-cameras/' | relative_url }}). Smartphone zoom exaggerates atmospheric instability and camera processing introduces additional artefacts:
 
@@ -414,194 +414,194 @@ The important investigative point is that the witness is not necessarily imagini
 For AI-assisted UFO investigation systems, Sirius is therefore a high-value early-stage elimination check: easy to test, frequently relevant, and capable of explaining sightings that initially sound dramatic. When the reported object is stationary, brightly multicoloured, low on the horizon and observed during winter evenings in the UK, Sirius deserves immediate attention before more exotic explanations are considered.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sirius fools so many UFO witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sirius fools so many UFO witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Excellent for identifying Sirius and similar bright stars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for identifying Sirius and similar bright stars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps distinguish bright stars from unusual objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish bright stars from unusual objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Explains atmospheric effects that make Sirius flash.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric effects that make Sirius flash.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides wider astronomy context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider astronomy context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/YwwAAeSwCYVqJDq6/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/YwwAAeSwCYVqJDq6/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Planisphere Latitude 51.5 North Star And Constellation Map"><img src="https://i.ebayimg.com/images/g/nEIAAeSw3Hxp4USw/s-l225.jpg" alt="Listing image for Philips Planisphere Latitude 51.5 North Star And Constellation Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Planisphere Latitude 51.5 North Star And Constellation Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Planisphere Latitude 51.5 North Star And Constellation Map"><img src="https://i.ebayimg.com/images/g/nEIAAeSw3Hxp4USw/s-l225.jpg" alt="Listing image for Philips Planisphere Latitude 51.5 North Star And Constellation Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Planisphere Latitude 51.5 North Star And Constellation Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982"><img src="https://i.ebayimg.com/images/g/DMgAAeSw0TtpluJK/s-l225.jpg" alt="Listing image for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982"><img src="https://i.ebayimg.com/images/g/DMgAAeSw0TtpluJK/s-l225.jpg" alt="Listing image for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planisphere: Latitude 50°N – for us..., Collins Astrono"><img src="https://i.ebayimg.com/images/g/WuAAAeSw7UNpOq~i/s-l225.jpg" alt="Listing image for Planisphere: Latitude 50°N – for us..., Collins Astrono" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Planisphere: Latitude 50°N – for us..., Collins Astrono</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planisphere: Latitude 50°N – for us..., Collins Astrono"><img src="https://i.ebayimg.com/images/g/WuAAAeSw7UNpOq~i/s-l225.jpg" alt="Listing image for Planisphere: Latitude 50°N – for us..., Collins Astrono" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">Planisphere: Latitude 50°N – for us..., Collins Astrono</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-fools-so-many-ufo-witnesses-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-sirius-fools-so-many-ufo-witnesses-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,177 +807,177 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: earthsky.org  
    Title: sirius the brightest star  
-   Link: <a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Although white to blue-white in color, Sirius might be called a rainbow star, as it often flickers with many colors.Read more...</p></details>
+   Link:<a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although white to blue-white in color, Sirius might be called a rainbow star, as it often flickers with many colors.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sky-lens.com  
    Title: Sky Lens Common Confusables — The Usual Suspects  
-   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Confusables — The Usual Suspects - Sky LensSirius, Bright, rapidly twinkling, flashing red/blue/white near the horizon, Scintillat...</p></details>
+   Link:<a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Confusables — The Usual Suspects - Sky LensSirius, Bright, rapidly twinkling, flashing red/blue/white near the horizon, Scintillat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: earthsky.org  
    Title: photo sirius in many colors  
-   Link: <a href="https://earthsky.org/todays-image/photo-sirius-in-many-colors/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/todays-image/photo-sirius-in-many-colors/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius in many colors | Astronomy Essentials15 Dec 2017 — These colors aren&#x27;t intrinsic to the star, but instead result from refraction...</p></details>
+   Link:<a href="https://earthsky.org/todays-image/photo-sirius-in-many-colors/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/todays-image/photo-sirius-in-many-colors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius in many colors | Astronomy Essentials15 Dec 2017 — These colors aren&#x27;t intrinsic to the star, but instead result from refraction...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: earthsky.org  
    Title: the skys brightest star sirius before dawn  
-   Link: <a href="https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See brightest star, Sirius, in your morning skyOct 29, 2025 — Sirius appears to flash different colors when it&#x27;s low in the sky...</p></details>
+   Link:<a href="https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See brightest star, Sirius, in your morning skyOct 29, 2025 — Sirius appears to flash different colors when it&#x27;s low in the sky...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: earthsky.org  
-   Link: <a href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</p></details>
+   Link:<a href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: earthsky.org  
    Title: colors scintillating venus mar 2017 photos  
-   Link: <a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colors of scintillating Venus | Astronomy Essentials25 Mar 2017 — It has been low in the sky, where Earth&#x27;s atmosphere has caused Venus t...</p></details>
+   Link:<a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colors of scintillating Venus | Astronomy Essentials25 Mar 2017 — It has been low in the sky, where Earth&#x27;s atmosphere has caused Venus t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: earthsky.org  
    Title: Flashing star in autumn?  
-   Link: <a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are 3 candidatesOct 3, 2024 — Sirius appears to flash different colors when it&#x27;s low in the sky. Really, all the stars are flashing...</p></details>
+   Link:<a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are 3 candidatesOct 3, 2024 — Sirius appears to flash different colors when it&#x27;s low in the sky. Really, all the stars are flashing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: earthsky.org  
    Title: is sirius the most luminous star in the sky  
-   Link: <a href="https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many people comment that they see Sirius flashing colors. This happens when you see Sirius low in the sky. The colors are...Read more...</p></details>
+   Link:<a href="https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many people comment that they see Sirius flashing colors. This happens when you see Sirius low in the sky. The colors are...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skyandtelescope.org  
    Title: sirius ly scintillating holiday12222014  
-   Link: <a href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: meteorwatch.org  
-   Link: <a href="https://meteorwatch.org/sirius-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://meteorwatch.org/sirius-twinkle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is very bright, which can amplify atmospheric effects.Read more...</p></details>
+   Link:<a href="https://meteorwatch.org/sirius-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://meteorwatch.org/sirius-twinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is very bright, which can amplify atmospheric effects.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stargazerslounge.com  
    Title: Stargazers Lounge Why does Sirius sparkle with different colours?  
-   Link: <a href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAntares&#x27; particular blinking apearanceAugust 24, 2016 — 24 Aug 2016 — Take a look at Arcturus or Sirius sometime when they a...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAntares&#x27; particular blinking apearanceAugust 24, 2016 — 24 Aug 2016 — Take a look at Arcturus or Sirius sometime when they a...</p></details>
    Published: August 24, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyandtelescope.org  
    Title: Sky & Telescope Why Stars Twinkle  
-   Link: <a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationIt was proposed that stellar scintillation, could be due to the turbulence in the...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationIt was proposed that stellar scintillation, could be due to the turbulence in the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skyatnightmagazine.com  
    Title: why do stars twinkle  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
    Published: May 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skyatnightmagazine.com  
    Title: green flash sirius  
-   Link: <a href="https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineSirius flashes green and twinkles as it sets in smartphone...16 May 2024 — The optical effect is to do with light f...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineSirius flashes green and twinkles as it sets in smartphone...16 May 2024 — The optical effect is to do with light f...</p></details>
    Published: May 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyatnightmagazine.com  
    Title: twinkling star colours  
-   Link: <a href="https://www.skyatnightmagazine.com/astrophotography/astrophoto-tips/twinkling-star-colours" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/astrophotography/astrophoto-tips/twinkling-star-colours</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph the changing colours of a twinkling starMar 2, 2021 — Follow our astrophotography guide to produce an image showing the changi...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/astrophotography/astrophoto-tips/twinkling-star-colours" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/astrophotography/astrophoto-tips/twinkling-star-colours</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph the changing colours of a twinkling starMar 2, 2021 — Follow our astrophotography guide to produce an image showing the changi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skyandtelescope.org  
    Title: The effect is even more vivid in binoculars. Steve Kluge.Read more  
-   Link: <a href="https://skyandtelescope.org/observing/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/observing/sirius-ly-scintillating-holiday12222014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — The refraction of Sirius&#x27; starlight causes it to twinkle in every co...</p></details>
+   Link:<a href="https://skyandtelescope.org/observing/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/observing/sirius-ly-scintillating-holiday12222014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — The refraction of Sirius&#x27; starlight causes it to twinkle in every co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40earthsky" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40earthsky</a>  
+   Link:<a href="https://www.youtube.com/%40earthsky" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40earthsky</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/848356-newscaster-watch-sirius-for-pulsing-and-flashes-of-color/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/848356-newscaster-watch-sirius-for-pulsing-and-flashes-of-color/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newscaster: &quot;Watch Sirius for pulsing and flashes of color.&quot;30 Oct 2022 — When low in the sky it does appear to pulse and flash various c...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/848356-newscaster-watch-sirius-for-pulsing-and-flashes-of-color/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/848356-newscaster-watch-sirius-for-pulsing-and-flashes-of-color/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newscaster: &quot;Watch Sirius for pulsing and flashes of color.&quot;30 Oct 2022 — When low in the sky it does appear to pulse and flash various c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cloudynights.com  
    Title: Sirius Scintillation  
-   Link: <a href="https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Observing and Astronomy18 Jan 2026 — Atmospheric turbulence causes twinkling of lesser stars. With really bright Sirius, a disco...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Observing and Astronomy18 Jan 2026 — Atmospheric turbulence causes twinkling of lesser stars. With really bright Sirius, a disco...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyI&#x27;ve tried googling it but all I could find is the star Sirius usually f...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyI&#x27;ve tried googling it but all I could find is the star Sirius usually f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonNormally this star is bright white in colour but when it is near the horizon it appear...</p></details>
+   Link:<a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonNormally this star is bright white in colour but when it is near the horizon it appear...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsIt&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the earths atmosphere. Downl...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsIt&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the earths atmosphere. Downl...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/am7wmd/strange_flashing_star_what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/am7wmd/strange_flashing_star_what_is_this/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/am7wmd/strange_flashing_star_what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/am7wmd/strange_flashing_star_what_is_this/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: deepcreektimes.com  
-   Link: <a href="https://deepcreektimes.com/brightest-star-sirius-high-on-october-mornings/" target="_blank" rel="noopener noreferrer nofollow">https://deepcreektimes.com/brightest-star-sirius-high-on-october-mornings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Really, all the stars are flashing different colors, because light is composed of all the...Read more...</p></details>
+   Link:<a href="https://deepcreektimes.com/brightest-star-sirius-high-on-october-mornings/" target="_blank" rel="noopener noreferrer nofollow">https://deepcreektimes.com/brightest-star-sirius-high-on-october-mornings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Really, all the stars are flashing different colors, because light is composed of all the...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: please take a look wth is this it keeps changing  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ifqpcq/please_take_a_look_wth_is_this_it_keeps_changing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ifqpcq/please_take_a_look_wth_is_this_it_keeps_changing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Please take a look! WTH is this? It keeps changing colourTime: sun/2/Feb/2025 5:35AM. Location: London- NW ~25° up. same object, seconds...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ifqpcq/please_take_a_look_wth_is_this_it_keeps_changing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ifqpcq/please_take_a_look_wth_is_this_it_keeps_changing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Please take a look! WTH is this? It keeps changing colourTime: sun/2/Feb/2025 5:35AM. Location: London- NW ~25° up. same object, seconds...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DT_AhAzCInA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT_AhAzCInA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and scatters the light, making it shimmer in different colors — similar...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DT_AhAzCInA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT_AhAzCInA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and scatters the light, making it shimmer in different colors — similar...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
    Title: Why doesn't everything twinkle like Sirius???  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/ihjjqb/why_doesnt_everything_twinkle_like_sirius/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/ihjjqb/why_doesnt_everything_twinkle_like_sirius/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyWhen I saw Sirius flickering and changing colors this morning I googled why. The accepted answer seems to be the refraction of...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/ihjjqb/why_doesnt_everything_twinkle_like_sirius/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/ihjjqb/why_doesnt_everything_twinkle_like_sirius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyWhen I saw Sirius flickering and changing colors this morning I googled why. The accepted answer seems to be the refraction of...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: physicsforums.com  
    Title: why does sirius a blink in many colors.902706  
-   Link: <a href="https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Sirius A blink in many colors?5 Feb 2017 — Basically this happens due to atmospheric refraction and to every stars but Sirius is...</p></details>
+   Link:<a href="https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Sirius A blink in many colors?5 Feb 2017 — Basically this happens due to atmospheric refraction and to every stars but Sirius is...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/1kb6jwf/today_i_saw_sirius_a_brightest_star_in_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/1kb6jwf/today_i_saw_sirius_a_brightest_star_in_the_night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, and white because of a phenomenon called atmospheric scintillation...</p></details>
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/1kb6jwf/today_i_saw_sirius_a_brightest_star_in_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/1kb6jwf/today_i_saw_sirius_a_brightest_star_in_the_night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, and white because of a phenomenon called atmospheric scintillation...</p></details>

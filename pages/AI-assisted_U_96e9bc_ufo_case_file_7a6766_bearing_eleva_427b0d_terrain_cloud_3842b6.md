@@ -280,7 +280,7 @@ The aim is not to dismiss sightings automatically. Some reports survive these ch
 
 A witness can only report what was visible from their exact position. Even small changes in elevation or viewing angle can radically alter what appears possible in the sky.
 
-Modern investigations increasingly use digital elevation models, or DEMs, to recreate terrain around the observation point. These models represent the height of the ground surface and are widely used in geographic information systems for visibility analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span> A reconstructed sightline can then be traced outward from the witness position to see where hills, ridges or urban structures interrupt visibility.
+Modern investigations increasingly use digital elevation models, or DEMs, to recreate terrain around the observation point. These models represent the height of the ground surface and are widely used in geographic information systems for visibility analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span> A reconstructed sightline can then be traced outward from the witness position to see where hills, ridges or urban structures interrupt visibility.
 
 This matters because many UFO reports contain phrases such as:
 
@@ -312,7 +312,7 @@ A witness looking across a valley may see only the upper section of a distant ai
 
 All three may be describing the same object from different sightlines.
 
-AI-assisted case reconstruction can compare these overlapping witness cones against terrain profiles. Viewshed analysis tools used in mapping and geospatial planning are designed for exactly this problem: determining what is visible from a given point and what is blocked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gisgeography.com">[GIS Geography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gisgeography.com</span><span class="citation-popover-snippet">Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</span></span></span> [3ArcGIS 3ArcGIS]
+AI-assisted case reconstruction can compare these overlapping witness cones against terrain profiles. Viewshed analysis tools used in mapping and geospatial planning are designed for exactly this problem: determining what is visible from a given point and what is blocked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gisgeography.com">[GIS Geography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gisgeography.com</span><span class="citation-popover-snippet">Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</span></span></span> [3ArcGIS 3ArcGIS]
 
 ### Buildings and trees create “hard cut” disappearances
 
@@ -340,7 +340,7 @@ That last point matters more than many witnesses realise. A UFO viewed from a mo
 
 ### Why bare terrain models are not enough
 
-Many elevation datasets model only the ground surface, excluding buildings and vegetation. USGS guidance on DEMs explicitly notes that standard bare-earth models omit trees and structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/sir20245060/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">draft inventory analysis units for National Scenic...by SM Lindley · 2024 · Cited by 1 — The best practices herein are for creating draf...</span></span></span>
+Many elevation datasets model only the ground surface, excluding buildings and vegetation. USGS guidance on DEMs explicitly notes that standard bare-earth models omit trees and structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/sir20245060/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">draft inventory analysis units for National Scenic...by SM Lindley · 2024 · Cited by 1 — The best practices herein are for creating draf...</span></span></span>
 
 That limitation matters in UFO investigation because witnesses rarely observe from empty landscapes. A technically correct terrain line may still produce a misleading result if:
 
@@ -389,7 +389,7 @@ Reports of “instant disappearance” frequently coincide with low cloud decks 
 
 A witness may continue tracking a bright light mentally even after it has entered cloud. When the light fails to emerge where expected, the brain interprets the loss as sudden disappearance rather than gradual obscuration.
 
-Graphical aviation weather products are useful here because they preserve historical estimates of cloud layers, visibility and obstructions to vision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationweather.gov/gfa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[aviationweather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[2navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-snippet">AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</span></span></span> If a witness reports a UFO dropping below cloud at 21:10, investigators can compare the estimated cloud base and local terrain height against the reported viewing angle.
+Graphical aviation weather products are useful here because they preserve historical estimates of cloud layers, visibility and obstructions to vision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationweather.gov/gfa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[aviationweather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[2navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-snippet">AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</span></span></span> If a witness reports a UFO dropping below cloud at 21:10, investigators can compare the estimated cloud base and local terrain height against the reported viewing angle.
 
 Sometimes the geometry becomes surprisingly mundane:
 
@@ -440,7 +440,7 @@ Popular culture treats multiple witnesses as equivalent to triangulation. Real-w
 
 For accurate triangulation, investigators need:
 
-* precise observer locations <span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[doc.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">You specify the observer locations you are interested in, either from a dataset or interactively...</span></span></span>
+* precise observer locations<span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[doc.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">You specify the observer locations you are interested in, either from a dataset or interactively...</span></span></span>
 * synchronised timing
 * reliable bearings
 * reliable elevation estimates
@@ -469,9 +469,9 @@ That reconstruction can either weaken or strengthen a UFO case. If all geometry 
 
 Humans are poor at mentally reconstructing complex three-dimensional sightlines from verbal testimony alone. AI-assisted systems can combine:
 
-* terrain elevation data <span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[doc.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">You specify the observer locations you are interested in, either from a dataset or interactively...</span></span></span>
+* terrain elevation data<span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[doc.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">You specify the observer locations you are interested in, either from a dataset or interactively...</span></span></span>
 * skyline extraction
-* historical weather layers <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-snippet">AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</span></span></span>
+* historical weather layers<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-snippet">AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</span></span></span>
 * map geometry
 * witness coordinates
 * camera metadata
@@ -479,199 +479,199 @@ Humans are poor at mentally reconstructing complex three-dimensional sightlines 
 
 to test whether the reported object should have remained visible at all.
 
-Modern visibility and viewshed analysis tools are already widely used in mapping, aviation and planning applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gisgeography.com">[GIS Geography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gisgeography.com</span><span class="citation-popover-snippet">Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</span></span></span> [3ArcGIS 3ArcGIS] In UFO investigation, the same methods help answer a narrower but crucial question: was the sky event physically observable from the reported viewpoint?
+Modern visibility and viewshed analysis tools are already widely used in mapping, aviation and planning applications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gisgeography.com">[GIS Geography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gisgeography.com</span><span class="citation-popover-snippet">Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</span></span></span> [3ArcGIS 3ArcGIS] In UFO investigation, the same methods help answer a narrower but crucial question: was the sky event physically observable from the reported viewpoint?
 
 That question sounds simple. In many cases, it decides whether a UFO report remains puzzling or collapses into ordinary geometry.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the UFO vanish or just pass behind something?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the UFO vanish or just pass behind something?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to testing observational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to testing observational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Useful for cloud-related disappearance explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for cloud-related disappearance explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Supports horizon and sky visibility analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports horizon and sky visibility analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Map Reading and Land Navigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sM28swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Map Reading and Land Navigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Map Reading and Land Navigation">Map Reading and Land Navigation</a>
-        </h4>
-        <p class="fr-book-author">By Department of the Army</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Map Reading and Land Navigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sM28swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Map Reading and Land Navigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Map Reading and Land Navigation">Map Reading and Land Navigation</a>
+</h4>
+<p class="fr-book-author">By Department of the Army</p>
         
-        <p class="fr-book-desc">Matches terrain and sightline reconstruction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches terrain and sightline reconstruction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-the-ufo-vanish-or-just-pass-behind-something-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -836,7 +836,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,164 +877,164 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</p></details>
+   Link:<a href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: doc.arcgis.com  
-   Link: <a href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
+   Link:<a href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arcgis.com  
    Title: Arc GISViewshed  
-   Link: <a href="https://www.arcgis.com/home/item.html?id=1ff463dbeac14b619b9edbd7a9437037" target="_blank" rel="noopener noreferrer nofollow">https://www.arcgis.com/home/item.html?id=1ff463dbeac14b619b9edbd7a9437037</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed - OverviewSep 18, 2013 — The Viewshed analysis layer is used to identify visible areas. You specify the places you are intereste...</p></details>
+   Link:<a href="https://www.arcgis.com/home/item.html?id=1ff463dbeac14b619b9edbd7a9437037" target="_blank" rel="noopener noreferrer nofollow">https://www.arcgis.com/home/item.html?id=1ff463dbeac14b619b9edbd7a9437037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed - OverviewSep 18, 2013 — The Viewshed analysis layer is used to identify visible areas. You specify the places you are intereste...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: doc.arcgis.com  
-   Link: <a href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You specify the observer locations you are interested in, either from a dataset or interactively...</p></details>
+   Link:<a href="https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/data-appliance/2025/use/use-elevation-geoprocessing-services.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You specify the observer locations you are interested in, either from a dataset or interactively...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/gfa/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/</a>  
+   Link:<a href="https://aviationweather.gov/gfa/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</p></details>
+   Link:<a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AVIATION WEATHER SERVICES GUIDELine of sight from radar within a limited horizontal range. Composite or... The Clouds and Weather GFA ch...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/boi/iwaws/IWAWS_GFAUserGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/boi/iwaws/IWAWS_GFAUserGuide.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/boi/iwaws/IWAWS_GFAUserGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/boi/iwaws/IWAWS_GFAUserGuide.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/publication/sir20245060/full" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/sir20245060/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>draft inventory analysis units for National Scenic...by SM Lindley · 2024 · Cited by 1 — The best practices herein are for creating draf...</p></details>
+   Link:<a href="https://pubs.usgs.gov/publication/sir20245060/full" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/sir20245060/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>draft inventory analysis units for National Scenic...by SM Lindley · 2024 · Cited by 1 — The best practices herein are for creating draf...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/national-geospatial-program/topographic-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/national-geospatial-program/topographic-maps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Maps | U.S. Geological SurveyCreate custom USGS topographic maps on demand using the best available data from The National Ma...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/national-geospatial-program/topographic-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/national-geospatial-program/topographic-maps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Maps | U.S. Geological SurveyCreate custom USGS topographic maps on demand using the best available data from The National Ma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/educational-resources/topographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/educational-resources/topographic-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
+   Link:<a href="https://www.usgs.gov/educational-resources/topographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/educational-resources/topographic-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usgs.gov  
    Title: Terrain Monitoring and Modeling | U.S  
-   Link: <a href="https://www.usgs.gov/centers/eros/science/terrain-monitoring-and-modeling" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/eros/science/terrain-monitoring-and-modeling</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyA podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Obse...</p></details>
+   Link:<a href="https://www.usgs.gov/centers/eros/science/terrain-monitoring-and-modeling" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/eros/science/terrain-monitoring-and-modeling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyA podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Obse...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/ngp-standards-and-specifications/elevation-derived-hydrography-data-acquisition-specifications-3" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/ngp-standards-and-specifications/elevation-derived-hydrography-data-acquisition-specifications-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elevation-Derived Hydrography Data Acquisition...Connector: Terrain Breaches are used when there is steady flow across the surface befor...</p></details>
+   Link:<a href="https://www.usgs.gov/ngp-standards-and-specifications/elevation-derived-hydrography-data-acquisition-specifications-3" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/ngp-standards-and-specifications/elevation-derived-hydrography-data-acquisition-specifications-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elevation-Derived Hydrography Data Acquisition...Connector: Terrain Breaches are used when there is steady flow across the surface befor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/centers/cegis/science/terrain" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/cegis/science/terrain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrain | U.S. Geological SurveyWe use algorithms and software to analyze satellite and airborne images to make detailed maps of the land...</p></details>
+   Link:<a href="https://www.usgs.gov/centers/cegis/science/terrain" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/cegis/science/terrain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrain | U.S. Geological SurveyWe use algorithms and software to analyze satellite and airborne images to make detailed maps of the land...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ngmdb.usgs.gov  
-   Link: <a href="https://ngmdb.usgs.gov/topoview/viewer/" target="_blank" rel="noopener noreferrer nofollow">https://ngmdb.usgs.gov/topoview/viewer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help us make...Read more...</p></details>
+   Link:<a href="https://ngmdb.usgs.gov/topoview/viewer/" target="_blank" rel="noopener noreferrer nofollow">https://ngmdb.usgs.gov/topoview/viewer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help us make...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/circ/1399/pdf/circ1399.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1399/pdf/circ1399.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Elevation Program Initiative— A Call for Actionby LJ Sugarbaker · 2014 · Cited by 96 — Light detection and ranging (lidar) data and in...</p></details>
+   Link:<a href="https://pubs.usgs.gov/circ/1399/pdf/circ1399.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1399/pdf/circ1399.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3D Elevation Program Initiative— A Call for Actionby LJ Sugarbaker · 2014 · Cited by 96 — Light detection and ranging (lidar) data and in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/national-digital-trails/trails-advancing-sustainable-and-user-focused-trail-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/national-digital-trails/trails-advancing-sustainable-and-user-focused-trail-planning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRAILS: Advancing sustainable and user-focused trail...Viewshed Analysis: A new viewshed analysis feature identifies areas visible along...</p></details>
+   Link:<a href="https://www.usgs.gov/national-digital-trails/trails-advancing-sustainable-and-user-focused-trail-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/national-digital-trails/trails-advancing-sustainable-and-user-focused-trail-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRAILS: Advancing sustainable and user-focused trail...Viewshed Analysis: A new viewshed analysis feature identifies areas visible along...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/centers/cegis/science/terrain-features" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/cegis/science/terrain-features</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrain features | U.S. Geological SurveyTerrain refers to the land surface and its many components. Terrain data, such as information ab...</p></details>
+   Link:<a href="https://www.usgs.gov/centers/cegis/science/terrain-features" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/centers/cegis/science/terrain-features</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrain features | U.S. Geological SurveyTerrain refers to the land surface and its many components. Terrain data, such as information ab...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: usgs.gov  
    Title: national map viewer  
-   Link: <a href="https://www.usgs.gov/tools/national-map-viewer" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/tools/national-map-viewer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Map Viewer | U.S. Geological SurveyNov 3, 2022 — Use The National Map Viewer to explore base-layer GIS data, see availabilit...</p></details>
+   Link:<a href="https://www.usgs.gov/tools/national-map-viewer" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/tools/national-map-viewer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Map Viewer | U.S. Geological SurveyNov 3, 2022 — Use The National Map Viewer to explore base-layer GIS data, see availabilit...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAreas of Excessive Rainfall and Severe Thunderstorms Today; Tornado Warning · Severe Thunderstorm Warning · Flas...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAreas of Excessive Rainfall and Severe Thunderstorms Today; Tornado Warning · Severe Thunderstorm Warning · Flas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Viewshed analysis  
-   Link: <a href="https://en.wikipedia.org/wiki/Viewshed_analysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Viewshed_analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed analysisViewshed analysis is a computational algorithm that delineates a viewshed, the area that is visible (on the base terr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Viewshed_analysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Viewshed_analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed analysisViewshed analysis is a computational algorithm that delineates a viewshed, the area that is visible (on the base terr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gisgeography.com  
-   Link: <a href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</p></details>
+   Link:<a href="https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://gisgeography.com/line-of-sight-viewshed-visibility-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Line of Sight vs Viewshed: Visibility AnalysisWhile line of sight determines obstructed and unobstructed on a line, a viewshed dictates s...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/noaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA (@noaa) • Instagram photos and videosOfficial feed for the U.S. National Oceanic and Atmospheric Administration. Our mission: Scienc...</p></details>
+   Link:<a href="https://www.instagram.com/noaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA (@noaa) • Instagram photos and videosOfficial feed for the U.S. National Oceanic and Atmospheric Administration. Our mission: Scienc...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration HomeWeather · Climate · Ocean &amp; Coasts · Fisheries · Satellites · Research · Marine &amp; Avi...</p></details>
+   Link:<a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration HomeWeather · Climate · Ocean &amp; Coasts · Fisheries · Satellites · Research · Marine &amp; Avi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rxyink0U_fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rxyink0U_fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0iJh3p9ZfUo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0iJh3p9ZfUo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to perform Viewshed Analysis using DEM in ArcGIS ProIn this video I&#x27;m going to show you how to perform a viewshed analysis using dim...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0iJh3p9ZfUo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0iJh3p9ZfUo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to perform Viewshed Analysis using DEM in ArcGIS ProIn this video I&#x27;m going to show you how to perform a viewshed analysis using dim...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sts, advisories, and briefings. There are four types of...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sts, advisories, and briefings. There are four types of...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: quizlet.com  
    Title: gisc1421rasterdesignch14viewshedwatershedanalysis flash cards  
-   Link: <a href="https://quizlet.com/137221922/gisc1421rasterdesignch14viewshedwatershedanalysis-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/137221922/gisc1421rasterdesignch14viewshedwatershedanalysis-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>line-of-sight operation is the basis for viewshed analysis. The line of sight, also called sightline connects the viewpoint and the targe...</p></details>
+   Link:<a href="https://quizlet.com/137221922/gisc1421rasterdesignch14viewshedwatershedanalysis-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/137221922/gisc1421rasterdesignch14viewshedwatershedanalysis-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>line-of-sight operation is the basis for viewshed analysis. The line of sight, also called sightline connects the viewpoint and the targe...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: Exploring multiple viewshed analysis using terrain features  
-   Link: <a href="https://www.researchgate.net/publication/222432816_Exploring_multiple_viewshed_analysis_using_terrain_features_and_optimisation_techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222432816_Exploring_multiple_viewshed_analysis_using_terrain_features_and_optimisation_techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary objective of visibility analysis is to maximize the observable area while minimizing the number of required fire lookout towe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222432816_Exploring_multiple_viewshed_analysis_using_terrain_features_and_optimisation_techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222432816_Exploring_multiple_viewshed_analysis_using_terrain_features_and_optimisation_techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The primary objective of visibility analysis is to maximize the observable area while minimizing the number of required fire lookout towe...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: flighttrainers.ca  
-   Link: <a href="https://flighttrainers.ca/gfa-graphical-area-forecast/?srsltid=AfmBOooKHy3VDxH2FHrvd4-Ug9HFHBaETwJmGh3GMejoo55ehoyq-X5Q" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainers.ca/gfa-graphical-area-forecast/?srsltid=AfmBOooKHy3VDxH2FHrvd4-Ug9HFHBaETwJmGh3GMejoo55ehoyq-X5Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Master Reading a GFA for Your Pilot Exam in 2026The GFA weather charts depict the most probably weather in a given area below 24,000ft...</p></details>
+   Link:<a href="https://flighttrainers.ca/gfa-graphical-area-forecast/?srsltid=AfmBOooKHy3VDxH2FHrvd4-Ug9HFHBaETwJmGh3GMejoo55ehoyq-X5Q" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainers.ca/gfa-graphical-area-forecast/?srsltid=AfmBOooKHy3VDxH2FHrvd4-Ug9HFHBaETwJmGh3GMejoo55ehoyq-X5Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master Reading a GFA for Your Pilot Exam in 2026The GFA weather charts depict the most probably weather in a given area below 24,000ft...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deral science agency that falls under the U.S. Department of Commerce...</p></details>
+   Link:<a href="https://www.facebook.com/NOAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deral science agency that falls under the U.S. Department of Commerce...</p></details>

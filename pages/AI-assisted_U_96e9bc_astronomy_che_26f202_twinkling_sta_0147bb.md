@@ -291,30 +291,30 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 Bright stars are among the most common ordinary explanations for “flashing UFO” reports, especially when the object appears low above the horizon and remains visible for several minutes without clear travel across the sky. Witnesses often describe a light that pulses red, blue, green or white, seems to hover, and occasionally appears to drift or dart slightly. In many cases the object is not moving through the sky at all. The apparent motion and colour changes are created by Earth’s atmosphere, unstable viewing conditions, handheld filming, autofocus behaviour, or moving cloud layers.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-dark.svg" | relative_url }}" alt="Twinkling stars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For an AI-assisted UFO sighting investigation, this is a high-value [astronomy]({{ 'astronomy/' | relative_url }}) check because it can often be tested quickly against fixed sky positions and known bright stars visible at the reported time. The explanation becomes especially strong when the object stayed in roughly the same place relative to rooftops, trees or hills for an extended period. Bright stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella, Vega and Arcturus repeatedly appear in night-time UFO reports because they are prominent, visually striking, and capable of dramatic atmospheric twinkling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
+For an AI-assisted UFO sighting investigation, this is a high-value [astronomy]({{ 'astronomy/' | relative_url }}) check because it can often be tested quickly against fixed sky positions and known bright stars visible at the reported time. The explanation becomes especially strong when the object stayed in roughly the same place relative to rooftops, trees or hills for an extended period. Bright stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella, Vega and Arcturus repeatedly appear in night-time UFO reports because they are prominent, visually striking, and capable of dramatic atmospheric twinkling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
 
 ## Atmospheric scintillation and colour changes
 
-Astronomers call star twinkling “atmospheric [scintillation]({{ 'scintillation/' | relative_url }})”. The effect happens because starlight passes through turbulent layers of air with different temperatures and densities before reaching the observer. Those moving air pockets bend the light slightly in changing directions, producing rapid variations in brightness, apparent position and colour. Scientific American 3Wikipedia <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Sky &amp; Telescope Why Stars Twinkle</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationAs light travels through the blanket of air around our planet, it is diffracted (...</span></span></span>
+Astronomers call star twinkling “atmospheric [scintillation]({{ 'scintillation/' | relative_url }})”. The effect happens because starlight passes through turbulent layers of air with different temperatures and densities before reaching the observer. Those moving air pockets bend the light slightly in changing directions, producing rapid variations in brightness, apparent position and colour. Scientific American 3Wikipedia<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Sky &amp; Telescope Why Stars Twinkle</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationAs light travels through the blanket of air around our planet, it is diffracted (...</span></span></span>
 
-The effect becomes much stronger when a star is low in the sky because its light must travel through far more atmosphere. Near the horizon, turbulence, haze, pollution, humidity and heat gradients can make a bright star appear unusually unstable. Under poor seeing conditions, a white star may flash red, green and blue in rapid succession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.wordpress.com">[Atmospheric Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.wordpress.com</span><span class="citation-popover-title">sirius scintillation</span><span class="citation-popover-snippet">scintillation &#124; Atmospheric Phenomena31 Oct 2011 — The lower a star is in the sky, the more pronounced is this effect, especially at very...</span></span></span>
+The effect becomes much stronger when a star is low in the sky because its light must travel through far more atmosphere. Near the horizon, turbulence, haze, pollution, humidity and heat gradients can make a bright star appear unusually unstable. Under poor seeing conditions, a white star may flash red, green and blue in rapid succession.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.wordpress.com">[Atmospheric Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.wordpress.com</span><span class="citation-popover-title">sirius scintillation</span><span class="citation-popover-snippet">scintillation &#124; Atmospheric Phenomena31 Oct 2011 — The lower a star is in the sky, the more pronounced is this effect, especially at very...</span></span></span>
 
 This matters in UFO investigations because witnesses often interpret these colour changes as evidence of powered flight, structured lighting, or “signalling” behaviour. Reports sometimes describe:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* “A craft flashing different colours” <span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[stargazerslounge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span>
+* “A craft flashing different colours”<span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[stargazerslounge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span>
 * “A hovering orb changing from red to blue”
 * “A stationary object sending Morse-code-like pulses”
 * “A light that sparkled like a diamond”
 
 </div>
 
-Those descriptions can match strong scintillation remarkably well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
+Those descriptions can match strong scintillation remarkably well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
-The brightest stars produce the strongest visual impression because they remain visible even while atmospheric distortion breaks their light into separate colours. Sirius is particularly notorious in UFO reports because it is the brightest true star in the night sky and often sits low from UK latitudes during winter evenings. Observers regularly report it “hovering”, “spinning”, or “flashing red and green”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
+The brightest stars produce the strongest visual impression because they remain visible even while atmospheric distortion breaks their light into separate colours. Sirius is particularly notorious in UFO reports because it is the brightest true star in the night sky and often sits low from UK latitudes during winter evenings. Observers regularly report it “hovering”, “spinning”, or “flashing red and green”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
-Some stars become repeat offenders in local sighting databases simply because they occupy noticeable seasonal positions. During autumn and winter evenings in Britain, Capella can appear low enough in the north-east to flash vivid colours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
+Some stars become repeat offenders in local sighting databases simply because they occupy noticeable seasonal positions. During autumn and winter evenings in Britain, Capella can appear low enough in the north-east to flash vivid colours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
 
 ## Why a fixed star can seem to move
 
@@ -331,7 +331,7 @@ Several common mechanisms create the illusion of motion:
 
 * **Cloud drift:** Thin cloud moving across a bright star can create the impression that the object itself is manoeuvring or changing shape.
 * **Autokinesis:** In darkness, humans often perceive stationary lights as drifting slightly when staring at them for extended periods.
-* **Atmospheric shimmer:** Turbulent air can make a star appear to jump or jitter microscopically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capella" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Capella - WikipediaThis evening, check out one of the flashiest stars in the sky. It&#x27;s...</span></span></span>
+* **Atmospheric shimmer:** Turbulent air can make a star appear to jump or jitter microscopically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capella" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Capella - WikipediaThis evening, check out one of the flashiest stars in the sky. It&#x27;s...</span></span></span>
 
 </div>
 
@@ -394,11 +394,11 @@ Sirius is probably the single most common star involved in “flashing UFO” re
 
 </div>
 
-Astronomy writers and amateur observers have repeatedly noted how easily Sirius can resemble an artificial object under turbulent conditions. Universe Today <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</span></span></span>
+Astronomy writers and amateur observers have repeatedly noted how easily Sirius can resemble an artificial object under turbulent conditions. Universe Today<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</span></span></span>
 
 ### Capella
 
-Capella is another common source of reports, especially during autumn and winter evenings. Because it can sit relatively low in the north-east during certain hours, it may flash red and green dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
+Capella is another common source of reports, especially during autumn and winter evenings. Because it can sit relatively low in the north-east during certain hours, it may flash red and green dramatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
 
 ### Vega and Arcturus
 
@@ -406,7 +406,7 @@ Vega and Arcturus are also prominent enough to attract attention when atmospheri
 
 ### Why planets are slightly different
 
-Planets can also be mistaken for UFOs, especially Venus, but they usually twinkle less dramatically than stars because they appear as tiny discs rather than perfect point sources. Their broader apparent size averages out some atmospheric distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through large teles...</span></span></span>
+Planets can also be mistaken for UFOs, especially Venus, but they usually twinkle less dramatically than stars because they appear as tiny discs rather than perfect point sources. Their broader apparent size averages out some atmospheric distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through large teles...</span></span></span>
 
 That distinction can help investigators. A violently flashing multicoloured object low on the horizon is often more consistent with a bright star than with a planet.
 
@@ -460,194 +460,194 @@ A balanced investigation keeps the star explanation available without forcing ev
 In many real-world cases, the answer is not that the witness “imagined” something. It is that the atmosphere transformed an ordinary bright star into something visually dramatic enough to resemble a hovering, colour-changing craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why bright stars seem to flash and move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why bright stars seem to flash and move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains how to identify bright stars and understand observing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to identify bright stars and understand observing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers recognise stars and fixed sky objects rather than mistaking them for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise stars and fixed sky objects rather than mistaking them for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers real-world observing effects and sky identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers real-world observing effects and sky identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Adds context for atmospheric effects that alter star appearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds context for atmospheric effects that alter star appearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID"><img src="https://i.ebayimg.com/images/g/gbgAAOSw5S1lXTMY/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Reusable Kids Children SPID</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID"><img src="https://i.ebayimg.com/images/g/gbgAAOSw5S1lXTMY/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Reusable Kids Children SPID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn"><img src="https://i.ebayimg.com/images/g/F9EAAOSw6qdfw6io/s-l225.jpg" alt="Listing image for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn"><img src="https://i.ebayimg.com/images/g/F9EAAOSw6qdfw6io/s-l225.jpg" alt="Listing image for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bright-stars-seem-to-flash-and-move-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-bright-stars-seem-to-flash-and-move-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -663,7 +663,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -683,7 +683,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -715,7 +715,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -767,7 +767,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -812,7 +812,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -853,115 +853,115 @@ In many real-world cases, the answer is not that the witness “imagined” some
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthsky.org  
    Title: what star in the northeast flashes red and green  
-   Link: <a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</p></details>
+   Link:<a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</p></details>
+   Link:<a href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — In the case of bright stars, particularly close to the horiz...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Capella" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Capella</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Capella - WikipediaThis evening, check out one of the flashiest stars in the sky. It&#x27;s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Capella" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Capella</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capella - WikipediaThis evening, check out one of the flashiest stars in the sky. It&#x27;s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astronomy.com  
    Title: simply scintillating  
-   Link: <a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com24 Oct 2011 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
+   Link:<a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com24 Oct 2011 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: earthsky.org  
    Title: why dont planets twinkle as stars do  
-   Link: <a href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through large teles...</p></details>
+   Link:<a href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through large teles...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: universetoday.com  
    Title: sirius ufo trickster extraordinaire  
-   Link: <a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skyandtelescope.org  
    Title: Sky & Telescope Why Stars Twinkle  
-   Link: <a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationAs light travels through the blanket of air around our planet, it is diffracted (...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationAs light travels through the blanket of air around our planet, it is diffracted (...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: atoptics.wordpress.com  
    Title: sirius scintillation  
-   Link: <a href="https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scintillation | Atmospheric Phenomena31 Oct 2011 — The lower a star is in the sky, the more pronounced is this effect, especially at very...</p></details>
+   Link:<a href="https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scintillation | Atmospheric Phenomena31 Oct 2011 — The lower a star is in the sky, the more pronounced is this effect, especially at very...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: universetoday.com  
    Title: why does sirius twinkle  
-   Link: <a href="https://www.universetoday.com/articles/why-does-sirius-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/why-does-sirius-twinkle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayWhy Does Sirius Twinkle?16 Jan 2012 — Sirius appears to twinkle or shimmer more than other stars for some very simple reaso...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/why-does-sirius-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/why-does-sirius-twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayWhy Does Sirius Twinkle?16 Jan 2012 — Sirius appears to twinkle or shimmer more than other stars for some very simple reaso...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/ax3gkx/eli5_why_the_star_sirius_appears_to_change_colors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/ax3gkx/eli5_why_the_star_sirius_appears_to_change_colors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 why the star Sirius appears to change colors so...If Sirius is close to the horizon, the Raleigh effect of the atmosphere will scat...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/ax3gkx/eli5_why_the_star_sirius_appears_to_change_colors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/ax3gkx/eli5_why_the_star_sirius_appears_to_change_colors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 why the star Sirius appears to change colors so...If Sirius is close to the horizon, the Raleigh effect of the atmosphere will scat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubs.aip.org  
    Title: Publishing Demonstrations of atmospheric scintillation: Stars vs  
-   Link: <a href="https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>planets1 Feb 2025 — When starlight enters our atmosphere, it encounters turbulent air of varying refractive index. The refractive index o...</p></details>
+   Link:<a href="https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>planets1 Feb 2025 — When starlight enters our atmosphere, it encounters turbulent air of varying refractive index. The refractive index o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: astronomy.stackexchange.com  
    Title: what is this rapidly twinkling red blue and white star i saw  
-   Link: <a href="https://astronomy.stackexchange.com/questions/23320/what-is-this-rapidly-twinkling-red-blue-and-white-star-i-saw" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/23320/what-is-this-rapidly-twinkling-red-blue-and-white-star-i-saw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon is called &quot;seeing&quot; by astronomers, and it&#x27;s basically air turbulence. · Possible but Capella is higher in the sky, and the...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/23320/what-is-this-rapidly-twinkling-red-blue-and-white-star-i-saw" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/23320/what-is-this-rapidly-twinkling-red-blue-and-white-star-i-saw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon is called &quot;seeing&quot; by astronomers, and it&#x27;s basically air turbulence. · Possible but Capella is higher in the sky, and the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.wisc.edu  
    Title: curiosities why do stars appear to twinkle in the night sky  
-   Link: <a href="https://news.wisc.edu/curiosities-why-do-stars-appear-to-twinkle-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://news.wisc.edu/curiosities-why-do-stars-appear-to-twinkle-in-the-night-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wisc.eduCuriosities: Why do stars appear to twinkle in the night sky?1 Nov 2010 — Stars twinkle because we view them through our atmosphe...</p></details>
+   Link:<a href="https://news.wisc.edu/curiosities-why-do-stars-appear-to-twinkle-in-the-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://news.wisc.edu/curiosities-why-do-stars-appear-to-twinkle-in-the-night-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wisc.eduCuriosities: Why do stars appear to twinkle in the night sky?1 Nov 2010 — Stars twinkle because we view them through our atmosphe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stargazerslounge.com  
    Title: Why does Sirius sparkle with different colours?  
-   Link: <a href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e horizon where starlight must pass through many turbulent...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e horizon where starlight must pass through many turbulent...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physicsforums.com  
    Title: why does sirius a blink in many colors.902706  
-   Link: <a href="https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Sirius A blink in many colors?5 Feb 2017 — Basically this happens due to atmospheric refraction and to every stars but Sirius is...</p></details>
+   Link:<a href="https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Sirius A blink in many colors?5 Feb 2017 — Basically this happens due to atmospheric refraction and to every stars but Sirius is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion. An electromagnetic wave gets deviated from its normal path...</p></details>
+   Link:<a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion. An electromagnetic wave gets deviated from its normal path...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/outinoregon/posts/26338788459037924/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/outinoregon/posts/26338788459037924/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by the Earth&#x27;s atmosphere. Why It Changes Colors...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/outinoregon/posts/26338788459037924/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/outinoregon/posts/26338788459037924/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by the Earth&#x27;s atmosphere. Why It Changes Colors...Read more...</p></details>

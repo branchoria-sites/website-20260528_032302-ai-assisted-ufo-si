@@ -278,11 +278,11 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 A UFO sky reconstruction only becomes useful evidence when another investigator can reproduce the same result independently. A Stellarium screenshot on its own is not enough. The apparent position of Venus, the brightness of Jupiter, the visibility of satellites, the horizon line, atmospheric haze, star labels, field of view and even the software’s astronomical datasets can all change the final image. If those settings are not preserved alongside the screenshot, later investigators may generate a different sky and reach a different conclusion.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-dark.svg" | relative_url }}" alt="Stellarium Logs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters directly in AI-assisted UFO sighting investigation workflows. Automated [astronomy]({{ 'astronomy/' | relative_url }}) checks often rely on Stellarium or similar planetarium software to test whether a witness may have seen a planet, star, meteor, satellite or aircraft light. Years later, however, a saved PNG image without metadata becomes [weak evidence]({{ 'weak-evidence/' | relative_url }}). Repeatable reconstructions require preserved settings, version records, coordinates, time conversions and ephemeris information so that the same sky can be regenerated and audited properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guideWe hope speech output in your language and your operating system is becoming usable. but there are factors which we...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars. It&#x27;s eas...</span></span></span>
+This matters directly in AI-assisted UFO sighting investigation workflows. Automated [astronomy]({{ 'astronomy/' | relative_url }}) checks often rely on Stellarium or similar planetarium software to test whether a witness may have seen a planet, star, meteor, satellite or aircraft light. Years later, however, a saved PNG image without metadata becomes [weak evidence]({{ 'weak-evidence/' | relative_url }}). Repeatable reconstructions require preserved settings, version records, coordinates, time conversions and ephemeris information so that the same sky can be regenerated and audited properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guideWe hope speech output in your language and your operating system is becoming usable. but there are factors which we...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars. It&#x27;s eas...</span></span></span>
 
 ## Why UFO sky screenshots are not enough
 
-Investigators regularly post annotated Stellarium images online to argue that a UFO was “clearly Venus” or “obviously a satellite”. The problem is that two Stellarium installations can display noticeably different skies depending on configuration and catalogue settings. Even experienced users have documented differences between Stellarium desktop and web versions, including different star visibility and database behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+Investigators regularly post annotated Stellarium images online to argue that a UFO was “clearly Venus” or “obviously a satellite”. The problem is that two Stellarium installations can display noticeably different skies depending on configuration and catalogue settings. Even experienced users have documented differences between Stellarium desktop and web versions, including different star visibility and database behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 A screenshot also hides critical context:
 
@@ -332,7 +332,7 @@ A repeatable reconstruction should preserve:
 
 For example, a report saying “around 10:15 pm” may realistically mean anywhere between 22:05 and 22:25. That uncertainty can radically change the apparent sky near the horizon.
 
-Historical reconstructions also become sensitive to long-term ephemeris calculations. Stellarium relies on astronomical ephemerides, and accuracy can vary depending on the date range and underlying datasets being used. Researchers discussing Stellarium’s long-range astronomical modelling have noted that software versions and ephemeris choices affect precision over extended periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundials.eu">[Sundials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundials.eu</span><span class="citation-popover-snippet">Sun ephemeris comparisonAugust 30, 2016 — by G Casalegno — Resulting error is less than half arcsecond except for Stellarium (abo...</span><span class="citation-popover-meta">Published: August 30, 2016</span></span></span>
+Historical reconstructions also become sensitive to long-term ephemeris calculations. Stellarium relies on astronomical ephemerides, and accuracy can vary depending on the date range and underlying datasets being used. Researchers discussing Stellarium’s long-range astronomical modelling have noted that software versions and ephemeris choices affect precision over extended periods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundials.eu">[Sundials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundials.eu</span><span class="citation-popover-snippet">Sun ephemeris comparisonAugust 30, 2016 — by G Casalegno — Resulting error is less than half arcsecond except for Stellarium (abo...</span><span class="citation-popover-meta">Published: August 30, 2016</span></span></span>
 
 ### Observer location and elevation
 
@@ -392,11 +392,11 @@ A repeatable record should therefore preserve:
 
 </div>
 
-Different Stellarium configurations can even load different star datasets and rendering limits, producing inconsistent results between systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+Different Stellarium configurations can even load different star datasets and rendering limits, producing inconsistent results between systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 ### Sky cultures and overlays
 
-Stellarium supports alternative sky cultures, constellation systems, grids and overlays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/doc/26.0/annotated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Data Structures3 days ago — Store basic info about a sky culture for Stellarium. C... Manages loading, visibility, conflict re...</span></span></span>
+Stellarium supports alternative sky cultures, constellation systems, grids and overlays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/doc/26.0/annotated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Data Structures3 days ago — Store basic info about a sky culture for Stellarium. C... Manages loading, visibility, conflict re...</span></span></span>
 
 For UFO work, these overlays can unintentionally bias interpretation. An image cluttered with labels and constellation art may obscure what a witness actually saw with the naked eye.
 
@@ -418,7 +418,7 @@ The most durable UFO astronomy records pair screenshots with numerical data rath
 An effective evidence package usually contains:
 
 * the screenshot,
-* the exact Stellarium version, <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</span></span></span>
+* the exact Stellarium version,<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</span></span></span>
 * configuration files,
 * and exported positional data.
 
@@ -431,7 +431,7 @@ This matters because screenshots are visually persuasive but computationally wea
 * angular separation,
 * and apparent magnitude.
 
-If a future software version changes rendering behaviour, the underlying astronomical data can still be checked independently against external sources such as JPL Horizons or official astronomical almanacs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jet Propulsion Laboratory Development Ephemeris</span><span class="citation-popover-snippet">Jet Propulsion Laboratory Development Ephemeris</span></span></span>
+If a future software version changes rendering behaviour, the underlying astronomical data can still be checked independently against external sources such as JPL Horizons or official astronomical almanacs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jet Propulsion Laboratory Development Ephemeris</span><span class="citation-popover-snippet">Jet Propulsion Laboratory Development Ephemeris</span></span></span>
 
 For UFO investigations, a saved ephemeris table is often more valuable than a dramatic image because it allows:
 
@@ -454,26 +454,26 @@ A screenshot alone cannot support that kind of automated verification.
 
 One of the simplest ways to preserve reproducibility is to archive Stellarium’s configuration files alongside the case record.
 
-Stellarium stores user settings in configuration files such as `config.ini`, along with plugin and module data. Users and developers have documented how these files preserve location data, rendering preferences and module settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[SourceForge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
+Stellarium stores user settings in configuration files such as `config.ini`, along with plugin and module data. Users and developers have documented how these files preserve location data, rendering preferences and module settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[SourceForge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 A preserved UFO reconstruction archive should ideally include:
 
 * the screenshot,
-* the `config.ini` file, <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
+* the `config.ini` file,<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
 * custom landscape files,
-* plugin configuration files, <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
+* plugin configuration files,<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
 * and notes describing any manual adjustments.
 
 This allows another investigator to recreate nearly the same viewing environment later.
 
 The practical value becomes obvious when revisiting older UFO cases. A reconstruction made in 2026 may not behave identically in 2035 if:
 
-* Stellarium changes rendering engines, <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
+* Stellarium changes rendering engines,<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
 * default star catalogues evolve,
 * plugin behaviour changes,
 * or ephemeris handling is updated.
 
-Stellarium release notes regularly document changes to internal behaviour, scripting and user data handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/doc/head/annotated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Data StructuresStore basic info about a sky culture for Stellarium. CStelSkyCultureMgr, Manage sky cultures for stellarium. C...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium v0.19.0 has been released!Mar 24, 2019 — Added allow setting location of User Data Dir via environment variable. Add...</span></span></span>
+Stellarium release notes regularly document changes to internal behaviour, scripting and user data handling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/doc/head/annotated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Data StructuresStore basic info about a sky culture for Stellarium. CStelSkyCultureMgr, Manage sky cultures for stellarium. C...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium v0.19.0 has been released!Mar 24, 2019 — Added allow setting location of User Data Dir via environment variable. Add...</span></span></span>
 
 A preserved configuration snapshot therefore acts as a historical record of the analytical environment itself.
 
@@ -493,9 +493,9 @@ For this reason, robust UFO archives increasingly treat Stellarium environments 
 
 A durable archive normally preserves:
 
-* Stellarium version number, <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</span></span></span>
+* Stellarium version number,<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</span></span></span>
 * operating system,
-* user configuration folder, <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
+* user configuration folder,<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[sourceforge.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</span></span></span>
 * plugin list,
 * screenshot exports,
 * and structured observation notes.
@@ -524,194 +524,194 @@ But the same standard also protects against weak debunking. If a sceptical expla
 That distinction matters in balanced UFO investigation work. The goal is not to force either a mysterious or mundane conclusion. The goal is to preserve enough evidence that later investigators can test the claim properly instead of arguing over an unrepeatable screenshot.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Sky Screenshots Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Sky Screenshots Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Supports reproducible sky reconstruction methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports reproducible sky reconstruction methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful reference for sky identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful reference for sky identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Provides observational context for reconstruction work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides observational context for reconstruction work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Reinforces reproducibility and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces reproducibility and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982"><img src="https://i.ebayimg.com/images/g/DMgAAeSw0TtpluJK/s-l225.jpg" alt="Listing image for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982"><img src="https://i.ebayimg.com/images/g/DMgAAeSw0TtpluJK/s-l225.jpg" alt="Listing image for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort"><img src="https://i.ebayimg.com/images/g/wUQAAOSwjiJoWKC3/s-l225.jpg" alt="Listing image for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort"><img src="https://i.ebayimg.com/images/g/wUQAAOSwjiJoWKC3/s-l225.jpg" alt="Listing image for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM"><img src="https://i.ebayimg.com/images/g/CVoAAOSwbRtoTrsj/s-l225.jpg" alt="Listing image for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM"><img src="https://i.ebayimg.com/images/g/CVoAAOSwbRtoTrsj/s-l225.jpg" alt="Listing image for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/~1sAAeSwPw9p5W0B/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/~1sAAeSwPw9p5W0B/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-sky-screenshots-are-not-enough-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="why-ufo-sky-screenshots-are-not-enough-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,206 +917,206 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>user guideWe hope speech output in your language and your operating system is becoming usable. but there are factors which we...</p></details>
+   Link:<a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>user guideWe hope speech output in your language and your operating system is becoming usable. but there are factors which we...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars. It&#x27;s eas...</p></details>
+   Link:<a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars. It&#x27;s eas...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sundials.eu  
-   Link: <a href="https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun ephemeris comparisonAugust 30, 2016 — by G Casalegno — Resulting error is less than half arcsecond except for Stellarium (abo...</p></details>
+   Link:<a href="https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sundials.eu/download/Comparison%20of%20sun%20ephemeris.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun ephemeris comparisonAugust 30, 2016 — by G Casalegno — Resulting error is less than half arcsecond except for Stellarium (abo...</p></details>
    Published: August 30, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JZ--fq8FvrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ--fq8FvrM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Long-Time High Accuracy InstallationStellarium is a powerful tool, but you have to know its limits and how far back it can dis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JZ--fq8FvrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ--fq8FvrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Long-Time High Accuracy InstallationStellarium is a powerful tool, but you have to know its limits and how far back it can dis...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Jet Propulsion Laboratory Development Ephemeris  
-   Link: <a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/doc/26.0/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/26.0/annotated.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Structures3 days ago — Store basic info about a sky culture for Stellarium. C... Manages loading, visibility, conflict re...</p></details>
+   Link:<a href="https://stellarium.org/doc/26.0/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/26.0/annotated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Structures3 days ago — Store basic info about a sky culture for Stellarium. C... Manages loading, visibility, conflict re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/doc/head/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/head/annotated.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data StructuresStore basic info about a sky culture for Stellarium. CStelSkyCultureMgr, Manage sky cultures for stellarium. C...</p></details>
+   Link:<a href="https://stellarium.org/doc/head/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/head/annotated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data StructuresStore basic info about a sky culture for Stellarium. CStelSkyCultureMgr, Manage sky cultures for stellarium. C...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sourceforge.net  
-   Link: <a href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow">https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</p></details>
+   Link:<a href="https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/" target="_blank" rel="noopener noreferrer nofollow">https://sourceforge.net/p/stellarium/discussion/278769/thread/0ceba418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium / Discussion / Feedback: config.ini changes don&#x27;t...Mar 30, 2006 — The configuration file is in the \program files...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sourceforge.net  
-   Link: <a href="https://sourceforge.net/p/stellarium/discussion/278769/thread/bc040652/" target="_blank" rel="noopener noreferrer nofollow">https://sourceforge.net/p/stellarium/discussion/278769/thread/bc040652/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This contains all the changes you have made to your configuration. Copy this to the same part of the user...</p></details>
+   Link:<a href="https://sourceforge.net/p/stellarium/discussion/278769/thread/bc040652/" target="_blank" rel="noopener noreferrer nofollow">https://sourceforge.net/p/stellarium/discussion/278769/thread/bc040652/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This contains all the changes you have made to your configuration. Copy this to the same part of the user...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium v0.19.0 has been released!Mar 24, 2019 — Added allow setting location of User Data Dir via environment variable. Add...</p></details>
+   Link:<a href="https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium v0.19.0 has been released!Mar 24, 2019 — Added allow setting location of User Data Dir via environment variable. Add...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2023/03/26/stellarium-23.1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</p></details>
+   Link:<a href="https://stellarium.org/release/2023/03/26/stellarium-23.1.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2023/03/26/stellarium-23.1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 26, 2023 — The Stellarium Team has released version 23.1. From now on, releases will have version numbers indicating a year.release s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/release/2025/03/23/stellarium-25.1.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2025/03/23/stellarium-25.1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 23, 2025 — Glad to announce the release of Stellarium 25.1 for all platforms. This is our first release in 2025 with exciting feature...</p></details>
+   Link:<a href="https://stellarium.org/release/2025/03/23/stellarium-25.1.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/release/2025/03/23/stellarium-25.1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 23, 2025 — Glad to announce the release of Stellarium 25.1 for all platforms. This is our first release in 2025 with exciting feature...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/files/guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/files/guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n License, Version 1.3 or...</p></details>
+   Link:<a href="https://stellarium.org/files/guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/files/guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n License, Version 1.3 or...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/fa/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/fa/scripts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
+   Link:<a href="https://stellarium.org/fa/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/fa/scripts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/scripts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
+   Link:<a href="https://stellarium.org/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/scripts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/eu/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/eu/scripts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
+   Link:<a href="https://stellarium.org/eu/scripts.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/eu/scripts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium ScriptsTo install a script copy the script file (.ssc extension), and any texture files it uses to the scripts sub-directory o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/doc/0.18/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/0.18/annotated.html</a>  
+   Link:<a href="https://stellarium.org/doc/0.18/annotated.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/0.18/annotated.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUX13lA1Dbg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellite, planet, or star, stellarium will let you know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUX13lA1Dbg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellite, planet, or star, stellarium will let you know...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Your Own Landscape in Stellarium  
-   Link: <a href="http://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZmJ9m9fMVAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZmJ9m9fMVAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Stellarium with Sky Surveys: Astrophotography Game-Changer!  
-   Link: <a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the Sky...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the Sky...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: CCD Guide  
-   Link: <a href="http://www.youtube.com/watch?v=aI9RvJr0z_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aI9RvJr0z_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium celestial navigation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aI9RvJr0z_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aI9RvJr0z_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium celestial navigation...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Stellarium celestial navigation  
-   Link: <a href="http://www.youtube.com/watch?v=Ea2ZKuGf-hE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ea2ZKuGf-hE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CCD Guide - Video Tutorial #1 Introduction &amp; Highlights Herbert Walter · 532 views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ea2ZKuGf-hE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ea2ZKuGf-hE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CCD Guide - Video Tutorial #1 Introduction &amp; Highlights Herbert Walter · 532 views...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights Stellarium web vs  
-   Link: <a href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</p></details>
    Published: August 25, 2020  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cloudynights.com  
    Title: 614920 stellarium default configini  
-   Link: <a href="https://www.cloudynights.com/forums/topic/614920-stellarium-default_configini/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/614920-stellarium-default_configini/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Default_Config.ini17 Apr 2018 — All settings are saved in config.ini. If you want to change config.ini with a text editor, mak...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/614920-stellarium-default_configini/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/614920-stellarium-default_configini/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Default_Config.ini17 Apr 2018 — All settings are saved in config.ini. If you want to change config.ini with a text editor, mak...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/846473-moving-stellarium-ocular-data-from-one-computer-to-another/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/846473-moving-stellarium-ocular-data-from-one-computer-to-another/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Stellarium ocular data from one computer to another.Oct 18, 2022 — The location of that file in windows is..&quot;User&quot;\AppData\Roami...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/846473-moving-stellarium-ocular-data-from-one-computer-to-another/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/846473-moving-stellarium-ocular-data-from-one-computer-to-another/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Stellarium ocular data from one computer to another.Oct 18, 2022 — The location of that file in windows is..&quot;User&quot;\AppData\Roami...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: irejournals.com  
    Title: Stellarium etc when it coincides with Gregorian.Read more  
-   Link: <a href="https://www.irejournals.com/formatedpaper/1703251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irejournals.com/formatedpaper/1703251.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Of Astronomy Software and Error in EphemerisThere is an error in The JPL Ephemeris and mostly the astronomical software like Voyage...</p></details>
+   Link:<a href="https://www.irejournals.com/formatedpaper/1703251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irejournals.com/formatedpaper/1703251.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Of Astronomy Software and Error in EphemerisThere is an error in The JPL Ephemeris and mostly the astronomical software like Voyage...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/236788592/Stellarium-User-Guide-new" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/236788592/Stellarium-User-Guide-new</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>full-screen yes or no Over-rides the full screen setting in the cong le. --...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/236788592/Stellarium-User-Guide-new" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/236788592/Stellarium-User-Guide-new</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>full-screen yes or no Over-rides the full screen setting in the cong le. --...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: visionvideo.com  
    Title: Stellarium user guide  
-   Link: <a href="https://www.visionvideo.com/files/Stellarium_user_guide.pdf?srsltid=AfmBOoqP5GizXUNOHLEk4OEYewWOONKmkGsTdTPl9RKFilyg_5sb3giV" target="_blank" rel="noopener noreferrer nofollow">https://www.visionvideo.com/files/Stellarium_user_guide.pdf?srsltid=AfmBOoqP5GizXUNOHLEk4OEYewWOONKmkGsTdTPl9RKFilyg_5sb3giV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Save the current settings to the main configuration file. 8.3. Shutdown. Quit Stellarium. 8.4. Update me...Read more...</p></details>
+   Link:<a href="https://www.visionvideo.com/files/Stellarium_user_guide.pdf?srsltid=AfmBOoqP5GizXUNOHLEk4OEYewWOONKmkGsTdTPl9RKFilyg_5sb3giV" target="_blank" rel="noopener noreferrer nofollow">https://www.visionvideo.com/files/Stellarium_user_guide.pdf?srsltid=AfmBOoqP5GizXUNOHLEk4OEYewWOONKmkGsTdTPl9RKFilyg_5sb3giV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Save the current settings to the main configuration file. 8.3. Shutdown. Quit Stellarium. 8.4. Update me...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/stellarium-241-user-guide-1-1-24nbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/stellarium-241-user-guide-1-1-24nbsped.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>capes As of version 0.15, the available landscape...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/stellarium-241-user-guide-1-1-24nbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/stellarium-241-user-guide-1-1-24nbsped.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>capes As of version 0.15, the available landscape...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: noctua-software.com  
-   Link: <a href="https://noctua-software.com/static/stellarium-mobile/Stellarium_Mobile_Quick_Start.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noctua-software.com/static/stellarium-mobile/Stellarium_Mobile_Quick_Start.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium MobileStellarium Mobile is a planetarium application for Android and iOS. It shows a realistic sky in. 3D, just like what you...</p></details>
+   Link:<a href="https://noctua-software.com/static/stellarium-mobile/Stellarium_Mobile_Quick_Start.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noctua-software.com/static/stellarium-mobile/Stellarium_Mobile_Quick_Start.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium MobileStellarium Mobile is a planetarium application for Android and iOS. It shows a realistic sky in. 3D, just like what you...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: github.com  
-   Link: <a href="https://github.com/Stellarium/stellarium/wiki/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Stellarium/stellarium/wiki/FAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ · Stellarium/stellarium WikiIs there a User&#x27;s Guide to Stellarium? I... The installer program allows you to reset settings and delet...</p></details>
+   Link:<a href="https://github.com/Stellarium/stellarium/wiki/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Stellarium/stellarium/wiki/FAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ · Stellarium/stellarium WikiIs there a User&#x27;s Guide to Stellarium? I... The installer program allows you to reset settings and delet...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/a/astronomical%2Bphenomena.html" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/a/astronomical%2Bphenomena.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adopting the values of an alien system, astronomers risk...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/a/astronomical%2Bphenomena.html" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/a/astronomical%2Bphenomena.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adopting the values of an alien system, astronomers risk...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/9430320323723929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/9430320323723929/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o prove the earth is flat. **Edited** because even educated people...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1295673443855365/posts/9430320323723929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/9430320323723929/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o prove the earth is flat. **Edited** because even educated people...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: socastrosci.org  
    Title: 2024 Proceedings Ver1.3c  
-   Link: <a href="https://socastrosci.org/wp-content/uploads/2024/06/2024-Proceedings_Ver1.3c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socastrosci.org/wp-content/uploads/2024/06/2024-Proceedings_Ver1.3c.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAS-2024 The Symposium on Telescope Science20 Jun 2024 — aliens might be using to communicate with us, amateur searches looking for signa...</p></details>
+   Link:<a href="https://socastrosci.org/wp-content/uploads/2024/06/2024-Proceedings_Ver1.3c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socastrosci.org/wp-content/uploads/2024/06/2024-Proceedings_Ver1.3c.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAS-2024 The Symposium on Telescope Science20 Jun 2024 — aliens might be using to communicate with us, amateur searches looking for signa...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sophia-project.net  
    Title: SEAC 2016 Abstracts Book  
-   Link: <a href="https://sophia-project.net/sp_sponsored/seac2016/_images/SEAC_2016_Abstracts_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sophia-project.net/sp_sponsored/seac2016/_images/SEAC_2016_Abstracts_Book.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Society for Astronomy in Culture13 Sept 2016 — Australian aboriginal art, Renaissance iconography, UFOs, magic and divination, m...</p></details>
+   Link:<a href="https://sophia-project.net/sp_sponsored/seac2016/_images/SEAC_2016_Abstracts_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sophia-project.net/sp_sponsored/seac2016/_images/SEAC_2016_Abstracts_Book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Society for Astronomy in Culture13 Sept 2016 — Australian aboriginal art, Renaissance iconography, UFOs, magic and divination, m...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: arxiv.org  
    Title: arXiv The Simulated Sky: Stellarium for Cultural Astronomy Research  
-   Link: <a href="https://arxiv.org/abs/2104.01019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.01019</a>  
+   Link:<a href="https://arxiv.org/abs/2104.01019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.01019</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Using Stellarium to Explore the Sky  
-   Link: <a href="http://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CCD Guide - Video Tutorial #1 Introduction &amp; Highlights...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CCD Guide - Video Tutorial #1 Introduction &amp; Highlights...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wW1wqDMlVto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW1wqDMlVto</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adding High-Accuracy &amp; Long-Term Ephemerides to StellariumDid you know that you can have data from 13000 B.C. to 17000 C.E. in Stellarium...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wW1wqDMlVto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW1wqDMlVto</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adding High-Accuracy &amp; Long-Term Ephemerides to StellariumDid you know that you can have data from 13000 B.C. to 17000 C.E. in Stellarium...</p></details>

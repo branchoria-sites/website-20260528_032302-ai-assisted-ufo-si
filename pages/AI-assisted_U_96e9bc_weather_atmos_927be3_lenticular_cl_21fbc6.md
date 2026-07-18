@@ -294,14 +294,14 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 ## Introduction
 
-Some UFO reports begin with something that really is unusual to look at: a cloud shaped like a smooth metallic disc, a stack of hovering plates, or a glowing oval hanging motionless over a ridge. Lenticular clouds are among the strongest natural explanations for classic “flying saucer” sightings because they can genuinely appear artificial to people unfamiliar with them. The resemblance is not imaginary or invented after the fact. Meteorological agencies themselves routinely describe these clouds as UFO-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
+Some UFO reports begin with something that really is unusual to look at: a cloud shaped like a smooth metallic disc, a stack of hovering plates, or a glowing oval hanging motionless over a ridge. Lenticular clouds are among the strongest natural explanations for classic “flying saucer” sightings because they can genuinely appear artificial to people unfamiliar with them. The resemblance is not imaginary or invented after the fact. Meteorological agencies themselves routinely describe these clouds as UFO-like.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-dark.svg" | relative_url }}" alt="Lenticulars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In an AI-assisted UFO sighting investigation, lenticular clouds are important because they create a specific and testable pattern. The sighting can be checked against terrain, wind direction, atmospheric stability, cloud imagery and witness behaviour. A strong match does not prove that every witness merely “mistook a cloud”, but it can quickly move a report from apparently extraordinary to meteorologically plausible. The key is understanding both sides of the equation: why these clouds look so strange, and what details would make a saucer report inconsistent with normal cloud behaviour.
 
 ## What lenticular clouds look like to witnesses
 
-Lenticular clouds are lens-shaped or almond-shaped clouds that form in standing air waves, usually downwind of hills or mountains. They are often smooth-edged, isolated from surrounding cloud layers and visually symmetrical. The Met Office notes that they resemble the “traditional shape of flying saucers”, while NOAA and UCAR describe them as stationary wave clouds linked to mountainous airflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
+Lenticular clouds are lens-shaped or almond-shaped clouds that form in standing air waves, usually downwind of hills or mountains. They are often smooth-edged, isolated from surrounding cloud layers and visually symmetrical. The Met Office notes that they resemble the “traditional shape of flying saucers”, while NOAA and UCAR describe them as stationary wave clouds linked to mountainous airflow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 For witnesses, several features make them unusually convincing as apparent UFOs:
 
@@ -316,24 +316,24 @@ For witnesses, several features make them unusually convincing as apparent UFOs:
 
 </div>
 
-People who have never seen lenticular clouds before may reasonably assume they are artificial. Meteorologists repeatedly note that many observers encounter them only rarely, especially in flatter regions where mountain-wave conditions are uncommon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>
+People who have never seen lenticular clouds before may reasonably assume they are artificial. Meteorologists repeatedly note that many observers encounter them only rarely, especially in flatter regions where mountain-wave conditions are uncommon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>
 
 This matters in UFO investigations because witness sincerity and mistaken interpretation can coexist. A person may give a completely honest account of a “hovering silver disc” while accurately describing a real atmospheric phenomenon.
 
-Several widely shared “UFO cloud” incidents illustrate this pattern. In Colorado, a highly visible stationary lenticular cloud near the Flatirons generated social-media speculation before the National [Weather]({{ 'weather/' | relative_url }}) Service explained the formation through mountain-wave airflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> Similar reactions occur repeatedly in the UK, where unusual lenticular formations over upland terrain are photographed and circulated as apparent alien craft before weather experts identify them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">The cloud, captured by civil servant Dave Pickett and his son, is actually a rare phenomenon known as a lenticular cloud. Lenticular clou...</span></span></span>
+Several widely shared “UFO cloud” incidents illustrate this pattern. In Colorado, a highly visible stationary lenticular cloud near the Flatirons generated social-media speculation before the National [Weather]({{ 'weather/' | relative_url }}) Service explained the formation through mountain-wave airflow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> Similar reactions occur repeatedly in the UK, where unusual lenticular formations over upland terrain are photographed and circulated as apparent alien craft before weather experts identify them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">The cloud, captured by civil servant Dave Pickett and his son, is actually a rare phenomenon known as a lenticular cloud. Lenticular clou...</span></span></span>
 
 ## Why the clouds appear motionless
 
 The most counterintuitive feature of lenticular clouds is that they can remain fixed in one place even in strong winds. This is one reason witnesses sometimes reject the cloud explanation: they expect clouds to drift visibly across the sky.
 
-In reality, the cloud itself is not a static object. Moist air continuously flows through a standing atmospheric wave. As the air rises and cools at the wave crest, moisture condenses into cloud. As the air descends on the far side, the cloud evaporates. The visible formation therefore regenerates in roughly the same place even while fast-moving air passes through it. NOAA describes this process as continual formation and dissipation within the wave crest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Mid-level clouds Altocumulus lenticularis</span><span class="citation-popover-snippet">metoffice.gov.ukMid-level cloudsAltocumulus lenticularis - One of the most spectacular cloud types, altocumulus lenticularis (also known...</span></span></span>
+In reality, the cloud itself is not a static object. Moist air continuously flows through a standing atmospheric wave. As the air rises and cools at the wave crest, moisture condenses into cloud. As the air descends on the far side, the cloud evaporates. The visible formation therefore regenerates in roughly the same place even while fast-moving air passes through it. NOAA describes this process as continual formation and dissipation within the wave crest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Mid-level clouds Altocumulus lenticularis</span><span class="citation-popover-snippet">metoffice.gov.ukMid-level cloudsAltocumulus lenticularis - One of the most spectacular cloud types, altocumulus lenticularis (also known...</span></span></span>
 
 To an observer on the ground, the effect can look deeply unnatural:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * surrounding clouds move normally;
-* the lenticular cloud stays fixed relative to a hill or ridge; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>
+* the lenticular cloud stays fixed relative to a hill or ridge;<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>
 * the shape may hold for long periods;
 * the edges can remain unusually smooth.
 
@@ -350,7 +350,7 @@ This combination strongly overlaps with classic UFO witness language such as:
 
 </div>
 
-Time-lapse imagery often reveals the real behaviour more clearly than real-time observation. Lenticular clouds subtly reshape themselves even while maintaining the same general position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryA Closer Look at Lenticular CloudsIn the video below, you can see the lenticular clouds changing shape, but r...</span></span></span>
+Time-lapse imagery often reveals the real behaviour more clearly than real-time observation. Lenticular clouds subtly reshape themselves even while maintaining the same general position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryA Closer Look at Lenticular CloudsIn the video below, you can see the lenticular clouds changing shape, but r...</span></span></span>
 
 For AI-assisted analysis, apparent hovering should therefore be tested against:
 
@@ -358,7 +358,7 @@ For AI-assisted analysis, apparent hovering should therefore be tested against:
 
 * local wind speeds at multiple altitudes;
 * ridge orientation;
-* mountain-wave conditions; <span class="citation-chip-wrap"><a class="citation-chip" href="https://opg.optica.org/abstract.cfm?uri=ao-42-3-476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[opg.optica.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</span></span></span>
+* mountain-wave conditions;<span class="citation-chip-wrap"><a class="citation-chip" href="https://opg.optica.org/abstract.cfm?uri=ao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[opg.optica.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</span></span></span>
 * satellite cloud imagery;
 * persistence over terrain features.
 
@@ -370,7 +370,7 @@ A hovering report that aligns precisely with a lee-wave zone becomes substantial
 
 Lenticular cloud explanations become much stronger when the local geography and weather fit known mountain-wave behaviour.
 
-These clouds usually form when stable, moist air flows across elevated terrain and oscillates on the downwind side. Meteorological sources consistently connect them with hills, mountain ridges and lee waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In practical UFO investigation terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>, several clues strengthen the likelihood that a witness saw a lenticular cloud rather than a structured craft.
+These clouds usually form when stable, moist air flows across elevated terrain and oscillates on the downwind side. Meteorological sources consistently connect them with hills, mountain ridges and lee waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In practical UFO investigation terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>, several clues strengthen the likelihood that a witness saw a lenticular cloud rather than a structured craft.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +380,7 @@ A classic indicator is a “UFO” that remains above the same ridge, summit or 
 
 ### The sighting occurs near uplands or ridges
 
-Mountainous regions produce the strongest and most common lenticular formations, but even modest hills can generate them under the right conditions. The UK’s Pennines, Scottish Highlands and Welsh uplands can all occasionally produce striking examples despite being less dramatic than the Rockies or Andes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
+Mountainous regions produce the strongest and most common lenticular formations, but even modest hills can generate them under the right conditions. The UK’s Pennines, Scottish Highlands and Welsh uplands can all occasionally produce striking examples despite being less dramatic than the Rockies or Andes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 ### Strong winds exist at altitude
 
@@ -403,7 +403,7 @@ fit the cloud explanation poorly.
 
 ### Multiple stacked layers appear
 
-Stacked-disc structures are highly characteristic of lenticular formations in layered moisture conditions. Meteorological references frequently compare them to “stacked pancakes” or plates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
+Stacked-disc structures are highly characteristic of lenticular formations in layered moisture conditions. Meteorological references frequently compare them to “stacked pancakes” or plates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 An AI-assisted workflow can compare witness descriptions against:
 
@@ -433,7 +433,7 @@ One reason lenticular clouds persist in UFO culture is that some sightings invol
 
 This can sound incompatible with a cloud explanation until lighting and perception are considered.
 
-Lenticular clouds often form near sunrise or sunset, when low-angle sunlight enhances contrast and produces sharply illuminated edges. Under stable lighting, smooth cloud layers can resemble reflective surfaces. Iridescence around the edges may resemble artificial lighting or propulsion effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opg.optica.org/abstract.cfm?uri=ao-42-3-476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[Optica Publishing Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</span></span></span>
+Lenticular clouds often form near sunrise or sunset, when low-angle sunlight enhances contrast and produces sharply illuminated edges. Under stable lighting, smooth cloud layers can resemble reflective surfaces. Iridescence around the edges may resemble artificial lighting or propulsion effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opg.optica.org/abstract.cfm?uri=ao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[Optica Publishing Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</span></span></span>
 
 Distance perception also becomes unreliable in blank sky conditions. Without nearby [reference points]({{ 'reference-points/' | relative_url }}), observers can misjudge both scale and solidity. A large distant cloud may be interpreted as a smaller nearby object with apparent structure.
 
@@ -442,7 +442,7 @@ Photography can intensify the effect:
 * telephoto compression flattens depth;
 * digital sharpening exaggerates edges;
 * contrast enhancement produces harder outlines;
-* silhouetted clouds appear more object-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Altocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds develop within the crest...</span></span></span>
+* silhouetted clouds appear more object-like.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Altocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds develop within the crest...</span></span></span>
 
 AI image analysis therefore needs caution. A machine-learning model trained mainly on object recognition may incorrectly classify sharply bounded lenticular clouds as structured aerial objects if environmental context is ignored.
 
@@ -512,7 +512,7 @@ A weak match might involve:
 
 The most useful output is usually probabilistic rather than absolute:
 
-* consistent with lenticular cloud; <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
+* consistent with lenticular cloud;<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 * partially consistent;
 * weak environmental support;
 * inconsistent with known cloud behaviour.
@@ -537,194 +537,194 @@ At the same time, the existence of lenticular clouds does not automatically solv
 That balance is central to AI-assisted UFO sighting investigation. The goal is not to explain away every report, nor to treat every unusual sky object as extraordinary. It is to identify where atmospheric evidence genuinely matches the witness account, where it only partially aligns, and where the remaining gap still deserves closer scrutiny.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When clouds really do look like saucers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When clouds really do look like saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Covers unusual cloud formations including lenticular clouds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers unusual cloud formations including lenticular clouds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Explains atmospheric conditions behind unusual sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric conditions behind unusual sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical assessment of UFO-like observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical assessment of UFO-like observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Provides practical understanding of cloud and weather interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical understanding of cloud and weather interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cultivated field and cloud Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/FegAAeSwYN5pZihk/s-l225.jpg" alt="Listing image for cultivated field and cloud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">cultivated field and cloud Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cultivated field and cloud Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/FegAAeSwYN5pZihk/s-l225.jpg" alt="Listing image for cultivated field and cloud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">cultivated field and cloud Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye"><img src="https://i.ebayimg.com/images/g/UQUAAOSw1URlbhMo/s-l225.jpg" alt="Listing image for Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye"><img src="https://i.ebayimg.com/images/g/UQUAAOSw1URlbhMo/s-l225.jpg" alt="Listing image for Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">Hokusai The Hanging Cloud Bridge Maxi Poster 61x91.5cm / 24x36&quot; 170g/m² - GB Eye</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/nPYAAOSwuIhnWapt/s-l225.jpg" alt="Listing image for PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/nPYAAOSwuIhnWapt/s-l225.jpg" alt="Listing image for PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">PINK FLOYD BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5"><img src="https://i.ebayimg.com/images/g/k34AAeSwWfVogjYc/s-l225.jpg" alt="Listing image for Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5"><img src="https://i.ebayimg.com/images/g/k34AAeSwWfVogjYc/s-l225.jpg" alt="Listing image for Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Heron Stands By Waters Under Sunset Poster Home Pub Wall Art A3 A4 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cloud poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-clouds-really-do-look-like-saucers-cloud-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster" data-ebay-reference="when-clouds-really-do-look-like-saucers-cloud-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,156 +930,156 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Mid-level clouds Altocumulus lenticularis  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.ukMid-level cloudsAltocumulus lenticularis - One of the most spectacular cloud types, altocumulus lenticularis (also known...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/mid-level-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.ukMid-level cloudsAltocumulus lenticularis - One of the most spectacular cloud types, altocumulus lenticularis (also known...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat are Lee Waves?As air rises through the wave motion, it cools and forms a cloud that sits at each crest of the wave. This c...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/lee-waves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat are Lee Waves?As air rises through the wave motion, it cools and forms a cloud that sits at each crest of the wave. This c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Altocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds develop within the crest...</p></details>
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Altocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds develop within the crest...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scied.ucar.edu  
    Title: Center for Science Education Lenticular Clouds  
-   Link: <a href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/image/lenticular-clouds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obstacle in the path of a strong air curren...</p></details>
+   Link:<a href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/image/lenticular-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obstacle in the path of a strong air curren...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: 6abc.com  
    Title: circular cloud hovers over mountain like ufo video  
-   Link: <a href="https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
+   Link:<a href="https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nesdis.noaa.gov  
    Title: Satellite Data Wave Clouds | NESDIS  
-   Link: <a href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Satellite DataWave Clouds | NESDIS - NOAAThese form when stable air moves over a raised land feature, such as hills or mountains, an...</p></details>
+   Link:<a href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Satellite DataWave Clouds | NESDIS - NOAAThese form when stable air moves over a raised land feature, such as hills or mountains, an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Lee Waves  
-   Link: <a href="https://en.wikipedia.org/wiki/Lee_Waves" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lee_Waves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee WavesIn meteorology, lee waves are atmospheric stationary waves. The most common form is mountain waves, which are atmospheric int...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lee_Waves" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lee_Waves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lee WavesIn meteorology, lee waves are atmospheric stationary waves. The most common form is mountain waves, which are atmospheric int...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: opg.optica.org  
-   Link: <a href="https://opg.optica.org/abstract.cfm?uri=ao-42-3-476" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?uri=ao-42-3-476</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</p></details>
+   Link:<a href="https://opg.optica.org/abstract.cfm?uri=ao" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?uri=ao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optica Publishing GroupCoronas and iridescence in mountain wave cloudsby JA Shaw · 2003 · Cited by 30 — When light from the Sun or the Mo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scied.ucar.edu  
    Title: clouds form mountains  
-   Link: <a href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</p></details>
+   Link:<a href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scied.ucar.edu  
-   Link: <a href="https://scied.ucar.edu/learning-zone/clouds/how-clouds-form" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/how-clouds-form</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How They Form | Center for Science EducationOther types of clouds, such as cumulus clouds, can also form above mountains too as air i...</p></details>
+   Link:<a href="https://scied.ucar.edu/learning-zone/clouds/how-clouds-form" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/how-clouds-form</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How They Form | Center for Science EducationOther types of clouds, such as cumulus clouds, can also form above mountains too as air i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
    Title: metoffice.gov.uk High clouds Cirrocumulus lenticularis  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cloudsCirrocumulus lenticularis - high-level icy lenses, similar to lenticular clouds but much less common. These are often larger than t...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/high-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cloudsCirrocumulus lenticularis - high-level icy lenses, similar to lenticular clouds but much less common. These are often larger than t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nesdis.noaa.gov  
    Title: types of clouds  
-   Link: <a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Clouds | NESDIS - NOAAAug 31, 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may get their shape...</p></details>
+   Link:<a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Clouds | NESDIS - NOAAAug 31, 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may get their shape...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psl.noaa.gov  
-   Link: <a href="https://psl.noaa.gov/data/image_archive/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/data/image_archive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data: Image Gallery - Physical Sciences LaboratoryThis vertical cross section through a winter orographic cloud, shows a large-amplitude...</p></details>
+   Link:<a href="https://psl.noaa.gov/data/image_archive/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/data/image_archive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data: Image Gallery - Physical Sciences LaboratoryThis vertical cross section through a winter orographic cloud, shows a large-amplitude...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Lenticular Clouds, technically known as altocumulus standing lenticularus, are a strange looking cloud format...</p></details>
+   Link:<a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Lenticular Clouds, technically known as altocumulus standing lenticularus, are a strange looking cloud format...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cloud, captured by civil servant Dave Pickett and his son, is actually a rare phenomenon known as a lenticular cloud. Lenticular clou...</p></details>
+   Link:<a href="https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/32059241/eerie-ufo-spotted-rare-lenticular-cloud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cloud, captured by civil servant Dave Pickett and his son, is actually a rare phenomenon known as a lenticular cloud. Lenticular clou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mountwashington.org  
-   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryA Closer Look at Lenticular CloudsIn the video below, you can see the lenticular clouds changing shape, but r...</p></details>
+   Link:<a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryA Closer Look at Lenticular CloudsIn the video below, you can see the lenticular clouds changing shape, but r...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mountwashington.org  
-   Link: <a href="https://mountwashington.org/orographic-lifting/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/orographic-lifting/</a>  
+   Link:<a href="https://mountwashington.org/orographic-lifting/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/orographic-lifting/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wx.erau.edu  
-   Link: <a href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow">https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Embry-Riddle Aeronautical Universitymountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogo...</p></details>
+   Link:<a href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow">https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Embry-Riddle Aeronautical Universitymountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: slideserve.com  
-   Link: <a href="https://www.slideserve.com/ellema/mountain-waves-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/ellema/mountain-waves-clouds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain Waves &amp;amp; CloudsWhat causes a mountain wave? 1. A wind is pushed up the face of the mountain • Must be within 30 degrees of pe...</p></details>
+   Link:<a href="https://www.slideserve.com/ellema/mountain-waves-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/ellema/mountain-waves-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain Waves &amp;amp; CloudsWhat causes a mountain wave? 1. A wind is pushed up the face of the mountain • Must be within 30 degrees of pe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sumon-sarkar-54baa433_mountain-waves-invisible-powerful-and-activity-7383705558077378560-ZZ1l" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sumon-sarkar-54baa433_mountain-waves-invisible-powerful-and-activity-7383705558077378560-ZZ1l</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain waves: powerful, invisible, and hazardous to pilotsMountain Waves – Invisible, Powerful, and Not to Be Underestimated Mountain w...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/sumon-sarkar-54baa433_mountain-waves-invisible-powerful-and-activity-7383705558077378560-ZZ1l" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sumon-sarkar-54baa433_mountain-waves-invisible-powerful-and-activity-7383705558077378560-ZZ1l</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain waves: powerful, invisible, and hazardous to pilotsMountain Waves – Invisible, Powerful, and Not to Be Underestimated Mountain w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gibbs.science  
-   Link: <a href="https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf</a>  
+   Link:<a href="https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.ametsoc.org  
    Title: Furthermore, we suggest that the lenticular clouds may not be formed in all wave  
-   Link: <a href="https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling Study of a Trapped Lee-Wave Event over the...by M Udina · 2017 · Cited by 24 — Although mountain waves are stationary, a time o...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling Study of a Trapped Lee-Wave Event over the...by M Udina · 2017 · Cited by 24 — Although mountain waves are stationary, a time o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>☁️ NOT an alien invasion! These are Lenticular Clouds looking south from York, PA early this afternoon.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>☁️ NOT an alien invasion! These are Lenticular Clouds looking south from York, PA early this afternoon.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>essentially, they are stationary clouds that form over mountains due to wind rising as it hits the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bureauofmeteorology/posts/lenticular-clouds-caused-by-mountain-waves-were-spotted-over-parts-of-south-east/1179097560926656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>essentially, they are stationary clouds that form over mountains due to wind rising as it hits the...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The stable air is forced up and over the mountains, causing it to condense into a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The stable air is forced up and over the mountains, causing it to condense into a...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directly to the lee of the higher peaks, the flow descends abruptly to the plains elevation...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directly to the lee of the higher peaks, the flow descends abruptly to the plains elevation...</p></details>

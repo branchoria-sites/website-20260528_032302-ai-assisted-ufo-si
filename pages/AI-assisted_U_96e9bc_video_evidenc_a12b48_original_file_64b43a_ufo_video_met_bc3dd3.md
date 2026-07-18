@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 A UFO video becomes far easier to investigate when the [original]({{ 'original-evidence/' | relative_url }}) recording file still exists. Before anyone debates whether a light was a drone, satellite, [aircraft]({{ 'aircraft/' | relative_url }}), balloon or something unexplained, investigators first want the untouched file from the recording device itself. That file may contain metadata: hidden technical information about when the clip was recorded, where it was captured, what device created it, and whether the file has been altered since.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-dark.svg" | relative_url }}" alt="Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, metadata is often more valuable than the dramatic-looking image. A shaky smartphone clip with intact timestamps and GPS data can sometimes be tested against aircraft transponder logs, weather conditions, astronomical objects and satellite passes within minutes. A heavily reposted social-media version may lose most of that context entirely. NASA’s 2023 UAP study repeatedly stressed that poor sensor metadata and weak calibration make reliable analysis far harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+For AI-assisted UFO sighting investigation, metadata is often more valuable than the dramatic-looking image. A shaky smartphone clip with intact timestamps and GPS data can sometimes be tested against aircraft transponder logs, weather conditions, astronomical objects and satellite passes within minutes. A heavily reposted social-media version may lose most of that context entirely. NASA’s 2023 UAP study repeatedly stressed that poor sensor metadata and weak calibration make reliable analysis far harder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why the untouched original file matters
 
@@ -286,9 +286,9 @@ Most modern phones and digital cameras automatically attach technical data to ph
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Recording date and local time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</span></span></span>
+* Recording date and local time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</span></span></span>
 * GPS coordinates
-* Device make and model <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[removemd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>
+* Device make and model<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[removemd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>
 * Camera settings
 * Resolution and frame rate
 * File creation history
@@ -297,7 +297,7 @@ Most modern phones and digital cameras automatically attach technical data to ph
 
 </div>
 
-The best-known standard for image metadata is EXIF, widely used by smartphones and cameras. Video containers such as MP4 and MOV can also carry timing, device and software information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>, this information helps answer a basic but critical question: does the claimed event line up with the surrounding reality?
+The best-known standard for image metadata is EXIF, widely used by smartphones and cameras. Video containers such as MP4 and MOV can also carry timing, device and software information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD In UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>, this information helps answer a basic but critical question: does the claimed event line up with the surrounding reality?
 
 A witness might claim a glowing object hovered over the North Sea at 22:15 on a specific night. If the original file shows the clip was actually recorded at 18:42 hundreds of miles inland, the case changes immediately. Equally, metadata that matches the witness account does not prove an extraordinary object was present, but it does strengthen the reliability of the timeline and location.
 
@@ -352,7 +352,7 @@ A timestamp that agrees with multiple external data sources becomes more persuas
 
 ### GPS metadata can anchor a sighting geographically
 
-Many smartphones embed location coordinates directly into media files if location services are enabled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> RemoveMD This can help investigators reconstruct: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[removemd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>
+Many smartphones embed location coordinates directly into media files if location services are enabled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> RemoveMD This can help investigators reconstruct:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[removemd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -384,7 +384,7 @@ Even approximate GPS data can matter. A sighting recorded near coastal fog banks
 
 ### Device metadata reveals how the footage was created
 
-Metadata may also identify: <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span>
+Metadata may also identify:<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span>
 
 * Phone model
 * Camera model
@@ -410,7 +410,7 @@ One of the most common UFO investigation steps is matching metadata timestamps a
 
 If the original file shows:
 
-* exact recording time, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</span></span></span>
+* exact recording time,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</span></span></span>
 * approximate location,
 * camera direction,
 * and frame timing,
@@ -478,7 +478,7 @@ Atmospheric optics can create surprisingly unusual visual effects:
 
 Without reliable timing and location metadata, these explanations become harder to test rigorously.
 
-NASA’s UAP study emphasised that contextual environmental data is essential for separating unusual observations from [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) or ordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA’s UAP study emphasised that contextual environmental data is essential for separating unusual observations from [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) or ordinary phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Warning signs from missing or altered file history
 
@@ -507,7 +507,7 @@ A dramatic clip with no recoverable source file may remain permanently unresolve
 
 ### Editing traces can reveal post-processing
 
-Modern forensic tools can detect signs that a file has been edited, transcoded or exported through software packages. Research into MP4 forensic analysis shows that metadata structures can identify editing software and manipulation history with high accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.thecvf.com">[CVF Open Access]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.thecvf.com</span><span class="citation-popover-title">Xiang Forensic Analysis of Video Files Using Metadata CVPRW 2021 paper</span><span class="citation-popover-snippet">CVF Open AccessForensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — In this paper we propose a framework that...</span></span></span> 2arXiv
+Modern forensic tools can detect signs that a file has been edited, transcoded or exported through software packages. Research into MP4 forensic analysis shows that metadata structures can identify editing software and manipulation history with high accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.thecvf.com">[CVF Open Access]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.thecvf.com</span><span class="citation-popover-title">Xiang Forensic Analysis of Video Files Using Metadata CVPRW 2021 paper</span><span class="citation-popover-snippet">CVF Open AccessForensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — In this paper we propose a framework that...</span></span></span> 2arXiv
 
 Possible warning signs include:
 
@@ -521,7 +521,7 @@ Possible warning signs include:
 
 Importantly, editing evidence does not automatically prove deception. A witness may simply trim a clip before upload or convert it for sharing. The key question is whether the editing changes the evidential meaning of the footage.
 
-A 2025 forensic dispute around publicly released surveillance footage in the Jeffrey Epstein case illustrated how metadata scrutiny can reveal previously undisclosed editing and export history, even when the footage was presented as “raw”. Analysts identified traces of Adobe Premiere processing and composite assembly from multiple [source files]({{ 'source-files/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
+A 2025 forensic dispute around publicly released surveillance footage in the Jeffrey Epstein case illustrated how metadata scrutiny can reveal previously undisclosed editing and export history, even when the footage was presented as “raw”. Analysts identified traces of Adobe Premiere processing and composite assembly from multiple [source files]({{ 'source-files/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
 
 The broader lesson for UFO investigations is simple: “raw” should never be accepted at face value without technical inspection.
 
@@ -529,9 +529,9 @@ The broader lesson for UFO investigations is simple: “raw” should never be a
 
 ### Metadata can also be falsified
 
-Metadata is useful evidence, but it is not infallible. Investigators have long known that EXIF fields and video container data can be modified using publicly available tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfrws.org">[DFRWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfrws.org</span><span class="citation-popover-title">2014 EU paper forensic analysis of video file formats</span><span class="citation-popover-snippet">Forensic Analysis of Video File Formatsby T Gloe · 2014 · Cited by 107 — However, as tampering with compression parameters or EXIF e...</span></span></span>
+Metadata is useful evidence, but it is not infallible. Investigators have long known that EXIF fields and video container data can be modified using publicly available tools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfrws.org">[DFRWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfrws.org</span><span class="citation-popover-title">2014 EU paper forensic analysis of video file formats</span><span class="citation-popover-snippet">Forensic Analysis of Video File Formatsby T Gloe · 2014 · Cited by 107 — However, as tampering with compression parameters or EXIF e...</span></span></span>
 
-Because of this, serious analysis compares metadata against independent evidence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Digital Forensics</span><span class="citation-popover-snippet">Metadata Analysis #1 - ExiftoolThis tool is very powerful because it actually gives you very in-depth information...</span></span></span>
+Because of this, serious analysis compares metadata against independent evidence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Digital Forensics</span><span class="citation-popover-snippet">Metadata Analysis #1 - ExiftoolThis tool is very powerful because it actually gives you very in-depth information...</span></span></span>
 
 * witness accounts,
 * environmental conditions,
@@ -567,194 +567,194 @@ The real value of metadata is narrower but extremely important. It helps investi
 In AI-assisted UFO sighting investigation, metadata functions as the foundation layer for every later stage of analysis. Without reliable timing, location and device context, automated comparison systems lose much of their ability to test ordinary explanations. With strong metadata, even ambiguous footage can become meaningfully testable rather than simply viral.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UFO video metadata can really prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UFO video metadata can really prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        <p class="fr-book-desc">Directly relevant to video files, formats, frame rates, and metadata.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to video files, formats, frame rates, and metadata.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-first handling of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-first handling of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits metadata, uncertainty, and comparing claims with records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits metadata, uncertainty, and comparing claims with records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
-        </h4>
-        <p class="fr-book-author">By Henry Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
+</h4>
+<p class="fr-book-author">By Henry Carroll</p>
         
-        <p class="fr-book-desc">Helps readers understand camera settings and image interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand camera settings and image interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras"><img src="https://i.ebayimg.com/images/g/51sAAeSwO~No14Aj/s-l225.jpg" alt="Listing image for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras"><img src="https://i.ebayimg.com/images/g/51sAAeSwO~No14Aj/s-l225.jpg" alt="Listing image for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/EQMAAeSwUv5qAamo/s-l225.jpg" alt="Listing image for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/EQMAAeSwUv5qAamo/s-l225.jpg" alt="Listing image for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/IuQAAeSw7cFqEugK/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/IuQAAeSw7cFqEugK/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras"><img src="https://i.ebayimg.com/images/g/js4AAeSwx81qHDZR/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras"><img src="https://i.ebayimg.com/images/g/js4AAeSwx81qHDZR/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-video-metadata-can-really-prove-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="what-ufo-video-metadata-can-really-prove-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -770,7 +770,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -790,7 +790,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -822,7 +822,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -874,7 +874,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -919,7 +919,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -960,187 +960,187 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... sensor metadata to create a data set that is both reliable and extensi...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... sensor metadata to create a data set that is both reliable and extensi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: removemd.com  
-   Link: <a href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/check-video-metadata</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</p></details>
+   Link:<a href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/check-video-metadata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+   Link:<a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Efficient video integrity analysis through container characterization  
-   Link: <a href="https://arxiv.org/abs/2101.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.10795</a>  
+   Link:<a href="https://arxiv.org/abs/2101.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.10795</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: Metadata Shows the FBI's 'Raw' Jeffrey Epstein Prison Video Was Likely Modified  
-   Link: <a href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</p></details>
+   Link:<a href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dfrws.org  
    Title: 2014 EU paper forensic analysis of video file formats  
-   Link: <a href="https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video File Formatsby T Gloe · 2014 · Cited by 107 — However, as tampering with compression parameters or EXIF e...</p></details>
+   Link:<a href="https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfrws.org/wp-content/uploads/2019/06/2014_EU_paper-forensic_analysis_of_video_file_formats.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video File Formatsby T Gloe · 2014 · Cited by 107 — However, as tampering with compression parameters or EXIF e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
    Published: May 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
    Title: Understanding Metadata in Digital Forensics: HTML vs  
-   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Digital Forensics  
-   Link: <a href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HU_euJyxYB4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metadata Analysis #1 - ExiftoolThis tool is very powerful because it actually gives you very in-depth information...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HU_euJyxYB4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metadata Analysis #1 - ExiftoolThis tool is very powerful because it actually gives you very in-depth information...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tTKJamVSfjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tTKJamVSfjk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cture.... Forensic Analysis of Video Files Using Metadata...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tTKJamVSfjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tTKJamVSfjk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cture.... Forensic Analysis of Video Files Using Metadata...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HdgRkjebf2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExifTool Explained: How Investigators Extract Hidden MetadataExif takes picture information that may have been captured during the digita...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HdgRkjebf2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExifTool Explained: How Investigators Extract Hidden MetadataExif takes picture information that may have been captured during the digita...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
+   Link:<a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — The NASA study did not find any evidence that UAP have an...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — The NASA study did not find any evidence that UAP have an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How to check video metadata for location and device info  
-   Link: <a href="https://www.youtube.com/watch?v=kYJqO0Q8eZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJqO0Q8eZc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why metadata is critical in verifying digital evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJqO0Q8eZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJqO0Q8eZc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why metadata is critical in verifying digital evidence...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why metadata is critical in verifying digital evidence  
-   Link: <a href="https://www.youtube.com/watch?v=b4w0oWp413g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b4w0oWp413g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP sightings with digital forensics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b4w0oWp413g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b4w0oWp413g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP sightings with digital forensics...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Investigating UAP sightings with digital forensics  
-   Link: <a href="https://www.youtube.com/watch?v=5Vj-b7-n7nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Vj-b7-n7nE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and file metadata in video analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5Vj-b7-n7nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Vj-b7-n7nE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and file metadata in video analysis...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Understanding EXIF and file metadata in video analysis  
-   Link: <a href="https://www.youtube.com/watch?v=hN_d1Z17Wk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hN_d1Z17Wk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) in authenticating UFO footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hN_d1Z17Wk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hN_d1Z17Wk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) in authenticating UFO footage...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The role of sensor data in authenticating UFO footage  
-   Link: <a href="https://www.youtube.com/watch?v=41Vl9Gz5Zqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=41Vl9Gz5Zqg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=41Vl9Gz5Zqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=41Vl9Gz5Zqg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: openaccess.thecvf.com  
    Title: Xiang Forensic Analysis of Video Files Using Metadata CVPRW 2021 paper  
-   Link: <a href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessForensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — In this paper we propose a framework that...</p></details>
+   Link:<a href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessForensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — In this paper we propose a framework that...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40abhishekjainindore24/exif-exchangeable-image-file-format-metadata-in-images-3ec681b111ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40abhishekjainindore24/exif-exchangeable-image-file-format-metadata-in-images-3ec681b111ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF (Exchangeable Image File Format): Metadata in ImagesEXIF is a standard format for storing metadata in image files, particularly in p...</p></details>
+   Link:<a href="https://medium.com/%40abhishekjainindore24/exif-exchangeable-image-file-format-metadata-in-images-3ec681b111ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40abhishekjainindore24/exif-exchangeable-image-file-format-metadata-in-images-3ec681b111ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF (Exchangeable Image File Format): Metadata in ImagesEXIF is a standard format for storing metadata in image files, particularly in p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: exiftool.org  
-   Link: <a href="https://exiftool.org/" target="_blank" rel="noopener noreferrer nofollow">https://exiftool.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExifTool by Phil HarveyExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing m...</p></details>
+   Link:<a href="https://exiftool.org/" target="_blank" rel="noopener noreferrer nofollow">https://exiftool.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExifTool by Phil HarveyExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing m...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata LossMini Project. Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Pr...</p></details>
+   Link:<a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata LossMini Project. Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Pr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: canon-europe.com  
-   Link: <a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and metadataEverything you need to know about EXIF data – how to view the shooting information in your photos, edit it...</p></details>
+   Link:<a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and metadataEverything you need to know about EXIF data – how to view the shooting information in your photos, edit it...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</p></details>
+   Link:<a href="https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/YouShouldKnow/comments/xo87vs/ysk_that_photos_on_your_smartphone_are_almost/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YSK that photos on your smartphone are almost certainly...Photos on your smartphone are almost certainly recording date, time and GPS lo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The advantage of collecting new data with well-calibrated instrum...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The advantage of collecting new data with well-calibrated instrum...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — Most of NASA&#x27;s Earth-observing satellites would not be great...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — Most of NASA&#x27;s Earth-observing satellites would not be great...</p></details>
    Published: May 2023  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: eclipseforensics.com  
-   Link: <a href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...Apr 16, 2025 — The Role of Forensic Experts in Exposing Tampering...</p></details>
+   Link:<a href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...Apr 16, 2025 — The Role of Forensic Experts in Exposing Tampering...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: blog.ampedsoftware.com  
    Title: forensic video workflow with amped five part two analysis of video evidence  
-   Link: <a href="https://blog.ampedsoftware.com/2025/10/14/forensic-video-workflow-with-amped-five-part-two-analysis-of-video-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2025/10/14/forensic-video-workflow-with-amped-five-part-two-analysis-of-video-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Workflow with FIVE - Part 2: Evidence Analysis14 Oct 2025 — Analyze video evidence the right way in FIVE: align timestamps, inspect...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2025/10/14/forensic-video-workflow-with-amped-five-part-two-analysis-of-video-evidence" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2025/10/14/forensic-video-workflow-with-amped-five-part-two-analysis-of-video-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Workflow with FIVE - Part 2: Evidence Analysis14 Oct 2025 — Analyze video evidence the right way in FIVE: align timestamps, inspect...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>

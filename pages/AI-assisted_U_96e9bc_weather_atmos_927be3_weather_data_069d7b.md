@@ -291,13 +291,13 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 [Weather]({{ 'weather/' | relative_url }}) records do not solve a UFO case on their own, but they often determine whether a sighting becomes more credible, less credible, or easier to explain. A report that initially sounds extraordinary can change sharply once investigators compare the witness timeline against visibility data, cloud layers, wind direction, storm activity, radar returns, or satellite imagery from the same minute and location. In many modern UFO investigations, weather data acts as a [confidence]({{ 'confidence/' | relative_url }}) filter rather than a final answer.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-dark.svg" | relative_url }}" alt="Weather data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because many common misidentifications depend heavily on atmospheric conditions. Low cloud can hide aircraft structure while leaving navigation lights visible. Temperature [inversions]({{ 'inversions/' | relative_url }}) can distort distance and radar behaviour. Ice crystals can create bright pillars and mock suns. Thunderstorms can generate upper-atmosphere flashes that resemble structured luminous objects. A structured [case file]({{ 'case-file/' | relative_url }}) therefore treats weather as evidence with timestamps, coordinates, and uncertainty ranges rather than as vague background context. NASA’s 2023 independent UAP study stressed that better environmental data and standardised collection methods are central to improving case quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+That matters because many common misidentifications depend heavily on atmospheric conditions. Low cloud can hide aircraft structure while leaving navigation lights visible. Temperature [inversions]({{ 'inversions/' | relative_url }}) can distort distance and radar behaviour. Ice crystals can create bright pillars and mock suns. Thunderstorms can generate upper-atmosphere flashes that resemble structured luminous objects. A structured [case file]({{ 'case-file/' | relative_url }}) therefore treats weather as evidence with timestamps, coordinates, and uncertainty ranges rather than as vague background context. NASA’s 2023 independent UAP study stressed that better environmental data and standardised collection methods are central to improving case quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Surface observations and aviation reports
 
 The most useful starting point is usually the nearest aviation weather observations. These reports are designed for pilots, but they are equally valuable for UFO case reconstruction because they provide precise measurements of visibility, cloud height, wind, pressure, precipitation, and atmospheric conditions at specific times.
 
-METAR reports — routine aviation weather observations — are especially important because they are highly standardised and widely archived. They include cloud cover, visibility, weather conditions, wind direction, and cloud ceiling information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[Aviation Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-snippet">Aviation Weather CenterMETAR and TAF DataCeiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... P...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span> In practical UFO analysis, that means an investigator can test witness claims against measurable atmospheric conditions rather than relying on memory alone.
+METAR reports — routine aviation weather observations — are especially important because they are highly standardised and widely archived. They include cloud cover, visibility, weather conditions, wind direction, and cloud ceiling information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[Aviation Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-snippet">Aviation Weather CenterMETAR and TAF DataCeiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... P...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span> In practical UFO analysis, that means an investigator can test witness claims against measurable atmospheric conditions rather than relying on memory alone.
 
 A case confidence check often starts with questions such as:
 
@@ -312,11 +312,11 @@ A case confidence check often starts with questions such as:
 
 </div>
 
-These details matter because witness perception changes dramatically once visual references disappear. The Met Office notes that fog is effectively cloud at ground level and can reduce visibility below one kilometre in aviation terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span> In UFO reports, this can make stationary lights appear suspended in empty space or make distant objects seem much closer than they are.
+These details matter because witness perception changes dramatically once visual references disappear. The Met Office notes that fog is effectively cloud at ground level and can reduce visibility below one kilometre in aviation terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span> In UFO reports, this can make stationary lights appear suspended in empty space or make distant objects seem much closer than they are.
 
 ### Why cloud ceiling data changes interpretations
 
-Cloud ceiling data is one of the strongest confidence modifiers in night-time cases. Aviation weather systems track the height of the lowest significant cloud layer because it directly affects what pilots can see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalweather.com">[Universal Weather and Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalweather.com</span><span class="citation-popover-title">aviation weather tips all you need to know about ceilings</span><span class="citation-popover-snippet">Universal Weather and AviationUnderstanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height...</span></span></span>
+Cloud ceiling data is one of the strongest confidence modifiers in night-time cases. Aviation weather systems track the height of the lowest significant cloud layer because it directly affects what pilots can see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalweather.com">[Universal Weather and Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalweather.com</span><span class="citation-popover-title">aviation weather tips all you need to know about ceilings</span><span class="citation-popover-snippet">Universal Weather and AviationUnderstanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height...</span></span></span>
 
 Suppose witnesses report a bright object “hovering silently above the town” at 23:15. If nearby METAR data shows a broken cloud base at 700 feet with drizzle and poor visibility, several ordinary explanations become more plausible:
 
@@ -346,7 +346,7 @@ Weather does not prove an extraordinary interpretation, but it changes how much 
 
 Wind direction and speed are among the simplest but most revealing checks in UFO investigation workflows.
 
-Objects commonly reported as UFOs — lanterns, balloons, smoke plumes, illuminated debris, drifting drones, and some atmospheric reflections — tend to move with prevailing winds rather than against them. Aviation weather observations and forecast products therefore help investigators compare reported movement against known air flow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span>
+Objects commonly reported as UFOs — lanterns, balloons, smoke plumes, illuminated debris, drifting drones, and some atmospheric reflections — tend to move with prevailing winds rather than against them. Aviation weather observations and forecast products therefore help investigators compare reported movement against known air flow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span>
 
 This comparison is especially useful in cases involving:
 
@@ -370,7 +370,7 @@ These datasets help investigators answer a more specific question: was the atmos
 
 ### Storm systems and transient luminous events
 
-Thunderstorm environments deserve special attention because they can generate rare upper-atmosphere electrical events such as [sprites]({{ 'sprites/' | relative_url }}), blue jets, and elves. NASA’s UAP study specifically referenced sprites as an example of unusual atmospheric phenomena that observers may misidentify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> National Geographic has also documented how transient luminous events can appear highly unfamiliar even to experienced skywatchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">lightning sprites transient luminous events thunderstorms</span><span class="citation-popover-snippet">National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</span></span></span>
+Thunderstorm environments deserve special attention because they can generate rare upper-atmosphere electrical events such as [sprites]({{ 'sprites/' | relative_url }}), blue jets, and elves. NASA’s UAP study specifically referenced sprites as an example of unusual atmospheric phenomena that observers may misidentify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> National Geographic has also documented how transient luminous events can appear highly unfamiliar even to experienced skywatchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">lightning sprites transient luminous events thunderstorms</span><span class="citation-popover-snippet">National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</span></span></span>
 
 These events matter in UFO investigations because they can produce:
 
@@ -386,7 +386,7 @@ These events matter in UFO investigations because they can produce:
 
 In older UFO cases, witnesses sometimes described “silent red entities” or “pulsing formations” above distant storm systems before the scientific understanding of sprites became widespread. That does not retroactively solve all such reports, but modern weather and lightning datasets allow investigators to test whether thunderstorm conditions were present.
 
-Lightning-mapper satellites have improved this process significantly. NOAA’s GOES satellites continuously monitor atmospheric lightning activity across large regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website These systems can reveal whether unusual flashes reported by witnesses corresponded to active storm cells, even when no cloud-to-ground strikes were noticed locally.
+Lightning-mapper satellites have improved this process significantly. NOAA’s GOES satellites continuously monitor atmospheric lightning activity across large regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website These systems can reveal whether unusual flashes reported by witnesses corresponded to active storm cells, even when no cloud-to-ground strikes were noticed locally.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-2-dark.svg" | relative_url }}" alt="Weather data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radar returns and false confidence
@@ -428,7 +428,7 @@ This becomes valuable in cases where observers report:
 
 </div>
 
-Geostationary weather satellites now provide high-frequency cloud imagery over large areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website Investigators can combine this with witness coordinates, terrain [elevation]({{ 'elevation/' | relative_url }}), and viewing direction to estimate whether cloud layers or storm structures matched the account.
+Geostationary weather satellites now provide high-frequency cloud imagery over large areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website Investigators can combine this with witness coordinates, terrain [elevation]({{ 'elevation/' | relative_url }}), and viewing direction to estimate whether cloud layers or storm structures matched the account.
 
 In practice, this often changes confidence levels in subtle ways rather than producing dramatic debunks. A report may remain unexplained while still becoming less reliable because cloud conditions prevented accurate range estimation.
 
@@ -491,194 +491,194 @@ A useful automated system can:
 The important limitation is that automation should rank plausibility, not manufacture certainty. A weather match does not automatically close a case, and a lack of weather explanation does not automatically elevate a sighting into something extraordinary. The real value comes from reducing avoidable ambiguity and improving the reliability of the case file before stronger claims are made.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Weather records that change a UFO case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Weather records that change a UFO case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Directly relevant to interpreting weather records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to interpreting weather records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Helps readers understand meteorological data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand meteorological data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Covers observations, storms and forecasting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observations, storms and forecasting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="https://i.ebayimg.com/images/g/PDcAAeSw7VNpZgCK/s-l225.jpg" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="https://i.ebayimg.com/images/g/PDcAAeSw7VNpZgCK/s-l225.jpg" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/ihwAAOSwBf1fCvTN/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/ihwAAOSwBf1fCvTN/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/7HEAAOSwZIFoXRR~/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/7HEAAOSwZIFoXRR~/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="https://i.ebayimg.com/images/g/6VAAAOSwdtBlijiV/s-l225.jpg" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="https://i.ebayimg.com/images/g/6VAAAOSwdtBlijiV/s-l225.jpg" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-records-that-change-a-ufo-case-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="weather-records-that-change-a-ufo-case-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -694,7 +694,7 @@ The important limitation is that automation should rank plausibility, not manufa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -714,7 +714,7 @@ The important limitation is that automation should rank plausibility, not manufa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -746,7 +746,7 @@ The important limitation is that automation should rank plausibility, not manufa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -798,7 +798,7 @@ The important limitation is that automation should rank plausibility, not manufa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -843,7 +843,7 @@ The important limitation is that automation should rank plausibility, not manufa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -884,150 +884,150 @@ The important limitation is that automation should rank plausibility, not manufa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/asos/METAR.html</a>  
+   Link:<a href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/asos/METAR.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: star.nesdis.noaa.gov  
-   Link: <a href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow">https://www.star.nesdis.noaa.gov/GOES/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</p></details>
+   Link:<a href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow">https://www.star.nesdis.noaa.gov/GOES/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ilm/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilm/aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation WeatherGFA FORECAST. Ceiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... Center Weath...</p></details>
+   Link:<a href="https://www.weather.gov/ilm/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilm/aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation WeatherGFA FORECAST. Ceiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... Center Weath...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/metar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather CenterMETAR and TAF DataCeiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... P...</p></details>
+   Link:<a href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/metar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather CenterMETAR and TAF DataCeiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... P...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeMist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — For aviation purposes, fog is the name given when visibility drops be...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeMist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — For aviation purposes, fog is the name given when visibility drops be...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: universalweather.com  
    Title: aviation weather tips all you need to know about ceilings  
-   Link: <a href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Weather and AviationUnderstanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height...</p></details>
+   Link:<a href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Weather and AviationUnderstanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeLow Level ForecastsLow-level aviation forecasts, including F214, F215, F415, and F424, in helping pilots assess weather conditi...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeLow Level ForecastsLow-level aviation forecasts, including F214, F215, F415, and F424, in helping pilots assess weather conditi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalgeographic.com  
    Title: lightning sprites transient luminous events thunderstorms  
-   Link: <a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metoffice.gov.uk  
    Title: what is anticyclonic gloom  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2025 — Anticyclonic gloom occurs when a high-pressure system settles over the UK, creating a stable atmosphere that suppresses ve...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2025 — Anticyclonic gloom occurs when a high-pressure system settles over the UK, creating a stable atmosphere that suppresses ve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FactsheetsIf you are interested in clouds or thunderstorms, UK climate or weather extremes, these factsheets clearly describe and illustr...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FactsheetsIf you are interested in clouds or thunderstorms, UK climate or weather extremes, these factsheets clearly describe and illustr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METAR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METARsMETAR is a format for reporting weather information. A METAR weather report is predominantly used by aircraft pilots, and by met...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METAR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METARsMETAR is a format for reporting weather information. A METAR weather report is predominantly used by aircraft pilots, and by met...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to read a synoptic weather chart  
-   Link: <a href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVBhb1cahNM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office explains...These weather charts or synop charts are a meteorological road map that reveal the complex patterns behind the wea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVBhb1cahNM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office explains...These weather charts or synop charts are a meteorological road map that reveal the complex patterns behind the wea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
+   Link:<a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wiki.ivao.aero  
-   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/metar_explanation" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/metar_explanation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>explanation | IVAO Documentation LibraryWhen the sky is obscured, the observations of vertical visibility should be reported in lieu of c...</p></details>
+   Link:<a href="https://wiki.ivao.aero/en/home/training/documentation/metar_explanation" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/metar_explanation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>explanation | IVAO Documentation LibraryWhen the sky is obscured, the observations of vertical visibility should be reported in lieu of c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
    Title: met office weather and climate forecasting  
-   Link: <a href="https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Weather and climate forecasting10 Feb 2025 — The purpose of the tool is to generate accurate forecasts of the weather across the...</p></details>
+   Link:<a href="https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Weather and climate forecasting10 Feb 2025 — The purpose of the tool is to generate accurate forecasts of the weather across the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ansperformance.eu  
    Title: META R  
-   Link: <a href="https://ansperformance.eu/acronym/metar/" target="_blank" rel="noopener noreferrer nofollow">https://ansperformance.eu/acronym/metar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR - METeorological Aerodrome or Aeronautical ReportMETAR is a format for reporting weather information typically from airports or per...</p></details>
+   Link:<a href="https://ansperformance.eu/acronym/metar/" target="_blank" rel="noopener noreferrer nofollow">https://ansperformance.eu/acronym/metar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METAR - METeorological Aerodrome or Aeronautical ReportMETAR is a format for reporting weather information typically from airports or per...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of FlightThe following are examples of aviation forecasts depicted on the GFA: Terminal Aerodrome Forecast (TAF); Ceili...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of FlightThe following are examples of aviation forecasts depicted on the GFA: Terminal Aerodrome Forecast (TAF); Ceili...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) New observations of sprites from the space shuttleWe imaged sprites from an altitude of 280 km using a calibrated multispectral cam...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) New observations of sprites from the space shuttleWe imaged sprites from an altitude of 280 km using a calibrated multispectral cam...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This capability is crucial for predicting severe weather events, such as thunderstorms, tornadoes, and wildfires, helping to keep people...</p></details>
+   Link:<a href="https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This capability is crucial for predicting severe weather events, such as thunderstorms, tornadoes, and wildfires, helping to keep people...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: boldmethod.com  
-   Link: <a href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/</a>  
+   Link:<a href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: moratech.com  
-   Link: <a href="https://www.moratech.com/aviation/metaf-abbrev.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moratech.com/aviation/metaf-abbrev.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR/TAF AbbreviationsMETAR and TAF Weather Reports; Weather Identifiers:; B - Began BC Patches BL Blowing BR Mist &gt;=5/8. DR Low Drift...</p></details>
+   Link:<a href="https://www.moratech.com/aviation/metaf-abbrev.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moratech.com/aviation/metaf-abbrev.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METAR/TAF AbbreviationsMETAR and TAF Weather Reports; Weather Identifiers:; B - Began BC Patches BL Blowing BR Mist &gt;=5/8. DR Low Drift...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g5wBWOTrloA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decode METARs and TAFsIn this video I go over examples of decoding aviation METARs and TAFs. Meteorological Aerodrome Reports (MET...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g5wBWOTrloA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decode METARs and TAFsIn this video I go over examples of decoding aviation METARs and TAFs. Meteorological Aerodrome Reports (MET...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abc.net.au  
    Title: declassified ufo reports to open a window into new science  
-   Link: <a href="https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomer says declassified UFO reports will open way...30 Jun 2021 — The declassifying of military UFO reports by the United States wi...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomer says declassified UFO reports will open way...30 Jun 2021 — The declassifying of military UFO reports by the United States wi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is not very often that you get such a display of power like this with...</p></details>
+   Link:<a href="https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is not very often that you get such a display of power like this with...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electrical discharges that occur between 30 and 55 miles...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electrical discharges that occur between 30 and 55 miles...Read more...</p></details>

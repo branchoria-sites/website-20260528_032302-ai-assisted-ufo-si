@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 
 ## Introduction
 
-A light pillar becomes far more convincing as a “vertical UFO beam” when freezing fog hides the ordinary light source creating it. In cold, calm [weather]({{ 'weather/' | relative_url }}), ice crystals suspended close to the ground can reflect light from street lamps, industrial facilities, greenhouses, vehicle headlights, ports, or floodlights into a tall luminous column. If fog, terrain, distance, or darkness conceal the source itself, the observer may only see the glowing vertical shaft apparently hanging in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
+A light pillar becomes far more convincing as a “vertical UFO beam” when freezing fog hides the ordinary light source creating it. In cold, calm [weather]({{ 'weather/' | relative_url }}), ice crystals suspended close to the ground can reflect light from street lamps, industrial facilities, greenhouses, vehicle headlights, ports, or floodlights into a tall luminous column. If fog, terrain, distance, or darkness conceal the source itself, the observer may only see the glowing vertical shaft apparently hanging in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" alt="Freezing Fog illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because witnesses are often reporting a real visual event, not inventing one. The error lies in altitude and source perception. A structured investigation therefore needs to test not only whether ice-crystal conditions existed, but also whether freezing fog could have masked the ground lighting responsible for the effect. In many winter UFO reports involving “hovering beams”, “light columns”, or “stationary portals”, the key investigative question is whether the witness could physically see the horizon and the originating light source at all.
@@ -278,7 +278,7 @@ This matters in AI-assisted UFO sighting investigation because witnesses are oft
 
 Freezing fog changes how a scene is visually organised at night. Ordinary [reference points]({{ 'reference-points/' | relative_url }}) disappear first: roads, buildings, lamp posts, skylines, and industrial structures fade into diffuse grey darkness. Bright light, however, travels farther through the haze than the objects producing it. The result is a detached-looking glow with no visible anchor.
 
-In freezing fog or ice fog, countless suspended ice particles scatter and reflect light while simultaneously obscuring the lower environment. Meteorological definitions describe ice fog as a fog composed largely of tiny suspended ice crystals forming in very cold, stable air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">eratures in a stable atmosphere. Ice Fog. (Also called ice...</span></span></span>
+In freezing fog or ice fog, countless suspended ice particles scatter and reflect light while simultaneously obscuring the lower environment. Meteorological definitions describe ice fog as a fog composed largely of tiny suspended ice crystals forming in very cold, stable air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">eratures in a stable atmosphere. Ice Fog. (Also called ice...</span></span></span>
 
 That combination produces a powerful illusion during UFO sightings:
 
@@ -291,7 +291,7 @@ That combination produces a powerful illusion during UFO sightings:
 
 </div>
 
-Atmospheric optics researchers note that [light pillars]({{ 'light-pillars/' | relative_url }}) are not physical beams extending upward. They are reflections from horizontally aligned ice crystals located between the observer and the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Lower sun pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> In practice, this means the “beam” can remain visible even when the originating light fixture is completely hidden.
+Atmospheric optics researchers note that [light pillars]({{ 'light-pillars/' | relative_url }}) are not physical beams extending upward. They are reflections from horizontally aligned ice crystals located between the observer and the source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Lower sun pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> In practice, this means the “beam” can remain visible even when the originating light fixture is completely hidden.
 
 For UFO investigations, this is one of the most important perceptual traps. Witnesses often assume that if no source is visible, the light must originate in the sky itself. Freezing fog breaks that assumption.
 
@@ -309,7 +309,7 @@ This creates three common misinterpretations:
 
 </div>
 
-The [geometry]({{ 'geometry/' | relative_url }}) of the illusion is counterintuitive. Light pillars are produced only by crystals correctly aligned relative to the observer’s position. As Atmospheric Optics explains, the pillar is effectively a virtual image rather than a literal illuminated column. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atoptics.org.uk/fza260.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Sun, moon, planet and light pillars - Atoptics Highlights OPODIn cold weather when there is low or ground level diamond dust they also ma...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
+The [geometry]({{ 'geometry/' | relative_url }}) of the illusion is counterintuitive. Light pillars are produced only by crystals correctly aligned relative to the observer’s position. As Atmospheric Optics explains, the pillar is effectively a virtual image rather than a literal illuminated column.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atoptics.org.uk/fza260.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Sun, moon, planet and light pillars - Atoptics Highlights OPODIn cold weather when there is low or ground level diamond dust they also ma...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
 
 Because the eye naturally interprets bright vertical structures as solid objects, the brain fills in missing information below the fog line. Witnesses may genuinely perceive a continuous beam even when the lower connection to the ground is invisible.
 
@@ -329,7 +329,7 @@ In some reports, observers describe the light as “starting in the clouds” be
 
 ## Diamond dust and low-wind crystal conditions
 
-The strongest detached-looking pillars usually occur during diamond dust events or freezing fog under calm conditions. Diamond dust refers to tiny free-floating ice crystals suspended near ground level, often in extremely cold air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psl.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psl.noaa.gov</span><span class="citation-popover-title">Glittering Light on Water</span><span class="citation-popover-snippet">Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</span></span></span>
+The strongest detached-looking pillars usually occur during diamond dust events or freezing fog under calm conditions. Diamond dust refers to tiny free-floating ice crystals suspended near ground level, often in extremely cold air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psl.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psl.noaa.gov</span><span class="citation-popover-title">Glittering Light on Water</span><span class="citation-popover-snippet">Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</span></span></span>
 
 These conditions are ideal for UFO misidentification because the atmosphere simultaneously:
 
@@ -342,15 +342,15 @@ These conditions are ideal for UFO misidentification because the atmosphere simu
 
 </div>
 
-Researchers and meteorologists repeatedly associate dramatic pillar displays with very low wind speeds because flat plate-like crystals remain horizontally aligned instead of tumbling chaotically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span>
+Researchers and meteorologists repeatedly associate dramatic pillar displays with very low wind speeds because flat plate-like crystals remain horizontally aligned instead of tumbling chaotically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span>
 
-Calm cold air also allows the crystals to remain suspended near the ground, effectively forming a reflective optical layer. In mountain valleys or industrial cold basins, freezing fog can become dense enough that only the upper reflected portion of a pillar remains visible from a distance. Atmospheric Optics specifically notes that valley ice fog after cold nights can produce striking lower pillars and suspended-looking reflections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
+Calm cold air also allows the crystals to remain suspended near the ground, effectively forming a reflective optical layer. In mountain valleys or industrial cold basins, freezing fog can become dense enough that only the upper reflected portion of a pillar remains visible from a distance. Atmospheric Optics specifically notes that valley ice fog after cold nights can produce striking lower pillars and suspended-looking reflections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
 
 For investigators, weather records showing:
 
 * freezing fog,
 * ice fog,
-* diamond dust, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">after midnight (22° ring, sundogs, pillar, parhelic circle)...</span></span></span>
+* diamond dust,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">after midnight (22° ring, sundogs, pillar, parhelic circle)...</span></span></span>
 * calm winds,
 * temperature [inversions]({{ 'inversions/' | relative_url }}),
 * or very low surface temperatures
@@ -362,7 +362,7 @@ are highly relevant when evaluating reports of static vertical lights.
 
 One reason these sightings become so persuasive is that humans are poor at judging altitude and distance in darkness. Without visible terrain references, the brain estimates height from apparent brightness and angular size rather than actual geometry.
 
-A distant light pillar may therefore appear:(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
+A distant light pillar may therefore appear:(#endnote-2 "Endnote 2")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -386,7 +386,7 @@ This explains why many reports describe:
 
 The observer is not necessarily misreporting what they perceived. The environment itself degraded depth perception.
 
-Light pillars also shimmer and pulse as crystal orientations shift in subtle air currents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span> Witnesses may interpret these fluctuations as controlled movement or energy variation rather than atmospheric optics.
+Light pillars also shimmer and pulse as crystal orientations shift in subtle air currents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span> Witnesses may interpret these fluctuations as controlled movement or energy variation rather than atmospheric optics.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ttboaR5X4Q" title="Light Pillars: What Are Those Mysterious Light Beams From The Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer">Light Pillars: What Are Those Mysterious Light Beams From The Sky?</a></p><p class="youtube-embed-meta">Channel: ScienceABC II &middot; Views: 4.3K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ttboaR5X4Q">Open on YouTube</a></p></div></div></div>
 
@@ -394,7 +394,7 @@ Light pillars also shimmer and pulse as crystal orientations shift in subtle air
 
 Drivers frequently report that pillars appear to follow them or maintain position relative to the road. This is another side effect of the geometry involved.
 
-Because only correctly aligned crystals reflect light toward the observer, the visible pillar changes dynamically as the observer moves. Atmospheric optics photographers note that pillars can rapidly change intensity and appearance during travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span>
+Because only correctly aligned crystals reflect light toward the observer, the visible pillar changes dynamically as the observer moves. Atmospheric optics photographers note that pillars can rapidly change intensity and appearance during travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span>
 
 In freezing fog, where the lower source is hidden, this behaviour can resemble:
 
@@ -408,7 +408,7 @@ AI-assisted case analysis can help test this interpretation by correlating:
 * road position,
 * local industrial lighting,
 * terrain [elevation]({{ 'elevation/' | relative_url }}),
-* and weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
+* and weather conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
 
 If the geometry predicts changing pillar visibility along the observer’s path, the atmospheric explanation becomes much stronger.
 
@@ -443,201 +443,201 @@ Even after explanation, freezing-fog light pillars can remain psychologically po
 
 That resemblance is strengthened by three overlapping effects:
 
-* the optical pillar itself, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">20 Sept 2023 — Also called &quot;diamond dust&quot;, ice... The shape of the individual ice crystals causes the &quot;light pillar&quot; optical effect abov...</span></span></span>
+* the optical pillar itself,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">types of weather phenomena</span><span class="citation-popover-snippet">20 Sept 2023 — Also called &quot;diamond dust&quot;, ice... The shape of the individual ice crystals causes the &quot;light pillar&quot; optical effect abov...</span></span></span>
 * fog concealment,
 * and human depth-perception failure in darkness.
 
 The result is not a fake sighting but a layered atmospheric illusion built from real physical optics. For AI-assisted UFO investigation, recognising this layered mechanism is more useful than simply labelling the event “debunked”. The critical task is reconstructing how the environment transformed an ordinary light source into something that plausibly looked airborne and anomalous to the witness at the time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vertical UFO Beams Seem To Hover In Fog. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vertical UFO Beams Seem To Hover In Fog. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/B44AAeSwww5o-Qhe/s-l225.jpg" alt="Listing image for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/B44AAeSwww5o-Qhe/s-l225.jpg" alt="Listing image for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF"><img src="https://i.ebayimg.com/images/g/WDIAAOSw3CpgBp74/s-l225.jpg" alt="Listing image for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF"><img src="https://i.ebayimg.com/images/g/WDIAAOSw3CpgBp74/s-l225.jpg" alt="Listing image for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights Pillar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kzsAAeSw~zhpqXQB/s-l225.jpg" alt="Listing image for Lights Pillar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Lights Pillar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights Pillar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kzsAAeSw~zhpqXQB/s-l225.jpg" alt="Listing image for Lights Pillar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Lights Pillar Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Church - Sherborne: stained glass light on abbey pillar c2012"><img src="https://i.ebayimg.com/images/g/3kQAAOSwOolg3Er1/s-l225.jpg" alt="Listing image for Photo Church - Sherborne: stained glass light on abbey pillar c2012" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo Church - Sherborne: stained glass light on abbey pillar c2012</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Church - Sherborne: stained glass light on abbey pillar c2012"><img src="https://i.ebayimg.com/images/g/3kQAAOSwOolg3Er1/s-l225.jpg" alt="Listing image for Photo Church - Sherborne: stained glass light on abbey pillar c2012" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo Church - Sherborne: stained glass light on abbey pillar c2012</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -653,7 +653,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -673,7 +673,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -705,7 +705,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -757,7 +757,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -802,7 +802,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -843,137 +843,137 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: atoptics.org.uk  
    Title: Light Pillars  
-   Link: <a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</p></details>
+   Link:<a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Light pillar  
-   Link: <a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ggw/GlossaryI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eratures in a stable atmosphere. Ice Fog. (Also called ice...</p></details>
+   Link:<a href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ggw/GlossaryI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eratures in a stable atmosphere. Ice Fog. (Also called ice...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psl.noaa.gov  
    Title: Glittering Light on Water  
-   Link: <a href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/outreach/education/science/glitter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</p></details>
+   Link:<a href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/outreach/education/science/glitter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: noaa.gov  
    Title: types of weather phenomena  
-   Link: <a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2023 — Also called &quot;diamond dust&quot;, ice... The shape of the individual ice crystals causes the &quot;light pillar&quot; optical effect abov...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2023 — Also called &quot;diamond dust&quot;, ice... The shape of the individual ice crystals causes the &quot;light pillar&quot; optical effect abov...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atoptics.co.uk  
    Title: Lower sun pillars  
-   Link: <a href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/lower-sun-pillars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</p></details>
+   Link:<a href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/lower-sun-pillars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: atoptics.org.uk  
-   Link: <a href="https://www.atoptics.org.uk/fza260.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fza260.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun, moon, planet and light pillars - Atoptics Highlights OPODIn cold weather when there is low or ground level diamond dust they also ma...</p></details>
+   Link:<a href="https://www.atoptics.org.uk/fza260.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fza260.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun, moon, planet and light pillars - Atoptics Highlights OPODIn cold weather when there is low or ground level diamond dust they also ma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceFire Weather Concerns and Severe Thunderstorms through the Weekend · ACTIVE ALERTS · FORECAST MAPS · RADAR · Stan...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceFire Weather Concerns and Severe Thunderstorms through the Weekend · ACTIVE ALERTS · FORECAST MAPS · RADAR · Stan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Causes Halos, Sundogs and Sun Pillars?Sun Pillars appear as a shaft of light extending vertically above the sun, most often at sunri...</p></details>
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Causes Halos, Sundogs and Sun Pillars?Sun Pillars appear as a shaft of light extending vertically above the sun, most often at sunri...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: atoptics.co.uk  
    Title: Light Pillars  
-   Link: <a href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/light-pillars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</p></details>
+   Link:<a href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/light-pillars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lwpetersen.com  
    Title: Lee Petersen Light Pillars  
-   Link: <a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://www.lwpetersen.com/atmospheric-optics/light-pillars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</p></details>
+   Link:<a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://www.lwpetersen.com/atmospheric-optics/light-pillars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>after midnight (22° ring, sundogs, pillar, parhelic circle)...</p></details>
+   Link:<a href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>after midnight (22° ring, sundogs, pillar, parhelic circle)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: photonews.ca  
    Title: ice crystals  
-   Link: <a href="https://www.photonews.ca/ice-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.photonews.ca/ice-crystals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...22 Jan 2018 — Light pillars are an atmospheric phenomena created when tiny ice crys...</p></details>
+   Link:<a href="https://www.photonews.ca/ice-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.photonews.ca/ice-crystals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...22 Jan 2018 — Light pillars are an atmospheric phenomena created when tiny ice crys...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen diamond dust before? AccuWeather...Diamond dust is also responsible for beautiful optical phenomena like sun dogs, ha...</p></details>
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen diamond dust before? AccuWeather...Diamond dust is also responsible for beautiful optical phenomena like sun dogs, ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Nick DunnLight pillars are an optical phenomenon and are created when lights are reflected by hexagonal ice crystals. The s...</p></details>
+   Link:<a href="https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Nick DunnLight pillars are an optical phenomenon and are created when lights are reflected by hexagonal ice crystals. The s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Ross ElletThis can happen from diamond dust (ice crystals that form under a clear sky), and ice fog, or a very light snow d...</p></details>
+   Link:<a href="https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Ross ElletThis can happen from diamond dust (ice crystals that form under a clear sky), and ice fog, or a very light snow d...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: marcorank.com  
    Title: Atmospheric Optics: The Jena diamond dust halos Impressive atmospheric optics  
-   Link: <a href="https://marcorank.com/maua-halo/" target="_blank" rel="noopener noreferrer nofollow">https://marcorank.com/maua-halo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics: The Jena diamond dust halosImpressive atmospheric optics - Diamond dust halos in the south of Jena in Germany between...</p></details>
+   Link:<a href="https://marcorank.com/maua-halo/" target="_blank" rel="noopener noreferrer nofollow">https://marcorank.com/maua-halo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics: The Jena diamond dust halosImpressive atmospheric optics - Diamond dust halos in the south of Jena in Germany between...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: glimpseofinfinity.com  
    Title: ice crystals diamond dust light pillars a night i ll never forget  
-   Link: <a href="https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/" target="_blank" rel="noopener noreferrer nofollow">https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ice Crystals, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...17 Jan 2024 — Light pillars are an atmospheric phenomena created when t...</p></details>
+   Link:<a href="https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/" target="_blank" rel="noopener noreferrer nofollow">https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ice Crystals, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...17 Jan 2024 — Light pillars are an atmospheric phenomena created when t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theweathernetwork.com  
    Title: when the skies comes alive the magic of ice crystal displays  
-   Link: <a href="https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the skies come alive: The magic of ice crystal displays28 Jan 2026 — On cold, sunny days, tiny ice crystals in the atmosphere can cr...</p></details>
+   Link:<a href="https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the skies come alive: The magic of ice crystal displays28 Jan 2026 — On cold, sunny days, tiny ice crystals in the atmosphere can cr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newsweek.com  
    Title: bizarre ice crystals light pillar vermont 1850812  
-   Link: <a href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — When the crystals align horizontally, they create the illusion of a ve...</p></details>
+   Link:<a href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — When the crystals align horizontally, they create the illusion of a ve...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mirrors, reflecting and scattering the light in a vertical column.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mirrors, reflecting and scattering the light in a vertical column.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUFDt0yDZUd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUFDt0yDZUd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hexagons act as tiny mirrors. Upward-aimed beams of light...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUFDt0yDZUd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUFDt0yDZUd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hexagons act as tiny mirrors. Upward-aimed beams of light...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalgeographic.com  
    Title: 150114 ice halo weird weather phenomena science  
-   Link: <a href="https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Heavenly&#x27; Ice Halos Form Over New Mexico—What...Jan 15, 2015 — The glaring blob of light to the right of the pillar is called a sun dog...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Heavenly&#x27; Ice Halos Form Over New Mexico—What...Jan 15, 2015 — The glaring blob of light to the right of the pillar is called a sun dog...</p></details>

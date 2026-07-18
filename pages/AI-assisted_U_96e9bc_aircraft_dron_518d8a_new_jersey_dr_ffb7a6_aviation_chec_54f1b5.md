@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 ## Introduction
 
-The fastest way to improve UFO or UAP triage is often the least dramatic: check ordinary [aircraft]({{ 'aircraft/' | relative_url }}) first. The New Jersey drone wave showed how quickly lights in the night sky can be interpreted as anomalous when basic aviation context is missing. Federal agencies eventually stated that many reports involved lawful aircraft, authorised drones, stars or planets rather than unknown technology. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span>
+The fastest way to improve UFO or UAP triage is often the least dramatic: check ordinary [aircraft]({{ 'aircraft/' | relative_url }}) first. The New Jersey drone wave showed how quickly lights in the night sky can be interpreted as anomalous when basic aviation context is missing. Federal agencies eventually stated that many reports involved lawful aircraft, authorised drones, stars or planets rather than unknown technology. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every report was solved cleanly. Some sightings remained weakly documented, contradictory or unresolved. The practical lesson is narrower and more useful: aviation checks are the highest-value first filter in AI-assisted UFO investigation because they explain a large share of dramatic observations quickly, cheaply and with measurable evidence. A good workflow does not assume every light is a plane, but it also does not jump to anomaly claims before ruling out known air traffic patterns, landing approaches, helicopters, medical flights, drones and [incomplete]({{ 'incomplete-data/' | relative_url }}) public tracking data.
@@ -278,7 +278,7 @@ That does not mean every report was solved cleanly. Some sightings remained weak
 
 In modern UFO triage, aviation is not a side check. It is the core baseline. Most populated regions already contain dense layers of legitimate air traffic: passenger jets, police helicopters, medevac flights, business aircraft, hobby drones, cargo routes and training circuits. At night, many of these can look highly unusual from the ground.
 
-The New Jersey reports illustrated a classic investigative failure mode. Witnesses often described objects hovering silently, moving in formation or remaining stationary for long periods. Yet those same descriptions are also consistent with common aircraft viewing conditions. Federal investigators repeatedly warned that many reported “drones” were actually manned aircraft being misidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Mystery drones in New Jersey, New York: A timeline of...A DHS official says they&#x27;re &quot;confident that many of the reported drone sightings...</span></span></span>
+The New Jersey reports illustrated a classic investigative failure mode. Witnesses often described objects hovering silently, moving in formation or remaining stationary for long periods. Yet those same descriptions are also consistent with common aircraft viewing conditions. Federal investigators repeatedly warned that many reported “drones” were actually manned aircraft being misidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Mystery drones in New Jersey, New York: A timeline of...A DHS official says they&#x27;re &quot;confident that many of the reported drone sightings...</span></span></span>
 
 For AI-assisted investigation systems, this changes the order of operations. The workflow should begin with:
 
@@ -297,7 +297,7 @@ That order matters because aviation explanations are both common and testable. A
 
 ## Head-On Aircraft and Hovering Illusions
 
-One of the most important mechanisms in the New Jersey wave was the head-on aircraft illusion. Aircraft flying directly toward an observer can appear nearly motionless for several minutes because their lateral movement is minimal from that viewing angle. Bright [landing lights]({{ 'landing-lights/' | relative_url }}) intensify the effect, especially at night. FAA guidance notes that landing lights are designed to make aircraft highly visible over long distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</span></span></span>
+One of the most important mechanisms in the New Jersey wave was the head-on aircraft illusion. Aircraft flying directly toward an observer can appear nearly motionless for several minutes because their lateral movement is minimal from that viewing angle. Bright [landing lights]({{ 'landing-lights/' | relative_url }}) intensify the effect, especially at night. FAA guidance notes that landing lights are designed to make aircraft highly visible over long distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</span></span></span>
 
 To a witness without depth cues, the result can look uncanny:
 
@@ -314,7 +314,7 @@ Then, suddenly, the object appears to “move off” or “vanish” when the ai
 
 This effect becomes even stronger near airports. Aircraft on approach maintain stable alignment for extended periods, often with intense forward-facing lights visible from many miles away. In heavily trafficked corridors, several unrelated aircraft may line up sequentially, creating the impression of coordinated formations.
 
-Night-time perception adds more problems. Aviation safety literature documents multiple visual illusions affecting both pilots and ground observers, including autokinesis, parallax effects and [false motion]({{ 'false-motion/' | relative_url }}) perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Night Visual Approaches &#124; SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions...</span></span></span> ASRS A distant bright object viewed against a dark sky can appear to drift <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">246The parallax effect describes a type of visual illusion in which the position of an object in 3-dimensional space appears to change.Re...</span></span></span>, pulse or change direction even when stationary.
+Night-time perception adds more problems. Aviation safety literature documents multiple visual illusions affecting both pilots and ground observers, including autokinesis, parallax effects and [false motion]({{ 'false-motion/' | relative_url }}) perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Night Visual Approaches &#124; SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions...</span></span></span> ASRS A distant bright object viewed against a dark sky can appear to drift<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">246The parallax effect describes a type of visual illusion in which the position of an object in 3-dimensional space appears to change.Re...</span></span></span>, pulse or change direction even when stationary.
 
 This matters for UFO investigation because sincerity is not the same as accuracy. A witness may honestly report extraordinary movement while still observing a conventional aircraft under misleading visual conditions.
 
@@ -329,7 +329,7 @@ Human depth perception performs poorly at night. A bright landing light viewed a
 
 A commercial aircraft several miles away may be interpreted as a low-hovering object nearby. Helicopters create similar confusion because they can genuinely hold position relative to the ground, especially during police, medical or news operations.
 
-During the New Jersey sightings, some reports described very large drones “hovering over neighbourhoods”. Others described lights following roads or pacing vehicles. Those impressions can emerge naturally when aircraft remain aligned with an observer’s movement for several minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+During the New Jersey sightings, some reports described very large drones “hovering over neighbourhoods”. Others described lights following roads or pacing vehicles. Those impressions can emerge naturally when aircraft remain aligned with an observer’s movement for several minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 AI-assisted triage systems should therefore model observer [geometry]({{ 'geometry/' | relative_url }}) rather than relying only on witness language. A useful system asks:
 
@@ -353,14 +353,14 @@ Public flight trackers are extremely useful, but they are not complete represent
 
 The reality is more complicated.
 
-Most public tracking platforms rely heavily on ADS-B, or Automatic Dependent Surveillance–Broadcast, where aircraft transmit position and identity information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span> But coverage varies by altitude, equipment, geography and aircraft type.
+Most public tracking platforms rely heavily on ADS-B, or Automatic Dependent Surveillance–Broadcast, where aircraft transmit position and identity information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span> But coverage varies by altitude, equipment, geography and aircraft type.
 
 Important gaps include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * aircraft without full ADS-B capability
-* Mode S-only aircraft <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[forum.flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">222620 ads b aircraft now only reported as mlat</span><span class="citation-popover-snippet">flightradar24.comADS-B aircraft now only reported as MLAT?28 Nov 2023 — Any idea why an aircraft (SE-VPF) with ADSB-out, that before has...</span></span></span>
+* Mode S-only aircraft<span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[forum.flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">222620 ads b aircraft now only reported as mlat</span><span class="citation-popover-snippet">flightradar24.comADS-B aircraft now only reported as MLAT?28 Nov 2023 — Any idea why an aircraft (SE-VPF) with ADSB-out, that before has...</span></span></span>
 * low-altitude flights below receiver coverage
 * helicopters in patchy reception zones
 * military or sensitive flights
@@ -369,9 +369,9 @@ Important gaps include:
 
 </div>
 
-Many tracking systems supplement ADS-B using multilateration, usually shortened to MLAT. This estimates aircraft position from signal timing differences between receivers. Spire: Global Data and Analytics Multilateration But MLAT accuracy depends heavily on receiver density and geometry. Low-altitude aircraft may disappear intermittently or show unstable track <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multilateration.info">[multilateration.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multilateration.info</span><span class="citation-popover-snippet">requires no additional avionics equipment, as it uses replies from Mode A, C and. S transponders, as well as military. IFF and ADS-B...R...</span></span></span> s.
+Many tracking systems supplement ADS-B using multilateration, usually shortened to MLAT. This estimates aircraft position from signal timing differences between receivers. Spire: Global Data and Analytics Multilateration But MLAT accuracy depends heavily on receiver density and geometry. Low-altitude aircraft may disappear intermittently or show unstable track<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multilateration.info">[multilateration.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multilateration.info</span><span class="citation-popover-snippet">requires no additional avionics equipment, as it uses replies from Mode A, C and. S transponders, as well as military. IFF and ADS-B...R...</span></span></span> s.
 
-Some services also filter or limit aircraft identity data. Aviation tracking discussions have documented cases where aircraft appear with missing registration information, anonymised identifiers or inconsistent [metadata]({{ 'metadata/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADSB Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPlanets or stars in the night sky often cause the illusion, having been mistaken for landing lights of on...</span></span></span>
+Some services also filter or limit aircraft identity data. Aviation tracking discussions have documented cases where aircraft appear with missing registration information, anonymised identifiers or inconsistent [metadata]({{ 'metadata/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADSB Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPlanets or stars in the night sky often cause the illusion, having been mistaken for landing lights of on...</span></span></span>
 
 That means “not visible on FlightRadar” is not strong evidence of anomaly on its own.
 
@@ -395,7 +395,7 @@ A common mistake in amateur UFO investigation is reliance on a single app screen
 
 For example:
 
-* ADS-B Exchange may show aircraft absent from other services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</span></span></span>
+* ADS-B Exchange may show aircraft absent from other services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</span></span></span>
 * MLAT-derived tracks may appear intermittently.
 * Airport arrival logs may reveal approach timing.
 
@@ -437,7 +437,7 @@ One side treated every sighting as evidence of hidden technology or covert opera
 
 Neither position matches the evidence well.
 
-Federal agencies stated that many reports were ordinary aircraft, authorised drones or celestial objects. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span> But the same event also exposed genuine weaknesses in public airspace awareness. Large numbers of people were observing lights they could not confidently identify, while public tracking tools and official communication often lagged behind public speculation.
+Federal agencies stated that many reports were ordinary aircraft, authorised drones or celestial objects. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span> But the same event also exposed genuine weaknesses in public airspace awareness. Large numbers of people were observing lights they could not confidently identify, while public tracking tools and official communication often lagged behind public speculation.
 
 That gap matters. Uncertainty is not proof of anomaly, but it is also not identical to deliberate fabrication.
 
@@ -445,7 +445,7 @@ A mature UFO triage process therefore separates:
 
 * solved aircraft cases
 * probable aircraft cases
-* likely drone activity <span class="citation-chip-wrap"><a class="citation-chip" href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottheimer.house.gov">[gottheimer.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottheimer.house.gov</span><span class="citation-popover-snippet">house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</span></span></span>
+* likely drone activity<span class="citation-chip-wrap"><a class="citation-chip" href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottheimer.house.gov">[gottheimer.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottheimer.house.gov</span><span class="citation-popover-snippet">house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</span></span></span>
 * insufficient-data reports
 * unresolved observations
 
@@ -493,194 +493,194 @@ It also protects credibility. A case file that documents airport traffic, ADS-B 
 AI-assisted UFO investigation works best when it behaves less like myth collection and more like incident analysis. Aircraft checks come first not because every sighting is mundane, but because the sky is already crowded with ordinary explanations that can look extraordinary under the right conditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Flight Checks Must Come First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Flight Checks Must Come First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits evidence-led UFO triage and official-report context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits evidence-led UFO triage and official-report context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages ordinary checks before extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages ordinary checks before extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Adds military and aerospace context for public sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds military and aerospace context for public sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Useful for understanding aircraft motion and approach geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding aircraft motion and approach geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-checks-must-come-first-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-flight-checks-must-come-first-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -696,7 +696,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -716,7 +716,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -748,7 +748,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -800,7 +800,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -845,7 +845,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -886,173 +886,173 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</p></details>
    Published: September 24, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Visual Approaches | SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions...</p></details>
+   Link:<a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Visual Approaches | SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spire.com  
-   Link: <a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</p></details>
+   Link:<a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: multilateration.info  
-   Link: <a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>requires no additional avionics equipment, as it uses replies from Mode A, C and. S transponders, as well as military. IFF and ADS-B...R...</p></details>
+   Link:<a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>requires no additional avionics equipment, as it uses replies from Mode A, C and. S transponders, as well as military. IFF and ADS-B...R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPlanets or stars in the night sky often cause the illusion, having been mistaken for landing lights of on...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPlanets or stars in the night sky often cause the illusion, having been mistaken for landing lights of on...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
    Title: new jersey drone sightings  
-   Link: <a href="https://time.com/7202191/new-jersey-drone-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7202191/new-jersey-drone-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the &#x27;Drone&#x27; Sightings in New Jersey13 Dec 2024 — Residents in New Jersey have reported sightings of drones “the size o...</p></details>
+   Link:<a href="https://time.com/7202191/new-jersey-drone-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7202191/new-jersey-drone-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the &#x27;Drone&#x27; Sightings in New Jersey13 Dec 2024 — Residents in New Jersey have reported sightings of drones “the size o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forum.flightradar24.com  
    Title: 222620 ads b aircraft now only reported as mlat  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flightradar24.comADS-B aircraft now only reported as MLAT?28 Nov 2023 — Any idea why an aircraft (SE-VPF) with ADSB-out, that before has...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/222620-ads-b-aircraft-now-only-reported-as-mlat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flightradar24.comADS-B aircraft now only reported as MLAT?28 Nov 2023 — Any idea why an aircraft (SE-VPF) with ADSB-out, that before has...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fbi.gov  
    Title: joint dhs fbi statement on reports of drones in new jersey  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones in New Jersey, New York: A timeline of...A DHS official says they&#x27;re &quot;confident that many of the reported drone sightings...</p></details>
+   Link:<a href="https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones in New Jersey, New York: A timeline of...A DHS official says they&#x27;re &quot;confident that many of the reported drone sightings...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_246.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>246The parallax effect describes a type of visual illusion in which the position of an object in 3-dimensional space appears to change.Re...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_246.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>246The parallax effect describes a type of visual illusion in which the position of an object in 3-dimensional space appears to change.Re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: adsbx.discourse.group  
-   Link: <a href="https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341" target="_blank" rel="noopener noreferrer nofollow">https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB ExchangeADSB Exchange - Frequently Asked Questions - Articles17 Feb 2024 — To detect aircraft with MLAT, we need a minimum of 4 feed...</p></details>
+   Link:<a href="https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341" target="_blank" rel="noopener noreferrer nofollow">https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB ExchangeADSB Exchange - Frequently Asked Questions - Articles17 Feb 2024 — To detect aircraft with MLAT, we need a minimum of 4 feed...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ainonline.com  
    Title: few answers ads b security concerns  
-   Link: <a href="https://www.ainonline.com/aviation-news/business-aviation/2018-02-14/few-answers-ads-b-security-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/business-aviation/2018-02-14/few-answers-ads-b-security-concerns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation International NewsFew Answers for ADS-B Security ConcernsFeb 14, 2018 — The central concern for most business aviation operators...</p></details>
+   Link:<a href="https://www.ainonline.com/aviation-news/business-aviation/2018-02-14/few-answers-ads-b-security-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/business-aviation/2018-02-14/few-answers-ads-b-security-concerns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation International NewsFew Answers for ADS-B Security ConcernsFeb 14, 2018 — The central concern for most business aviation operators...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</p></details>
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeA global, independent flight data network. ADS-B Exchange connects the world&#x27;s largest independent ADS-B rece...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: globe.adsbexchange.com  
-   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adsbexchange.comADS-B Exchange - track aircraft liveThis hex ID is dynamic and can&#x27;t be connected to a type or registration. Often corres...</p></details>
+   Link:<a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adsbexchange.comADS-B Exchange - track aircraft liveThis hex ID is dynamic and can&#x27;t be connected to a type or registration. Often corres...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeIn addition to raw ADS-B data, ADS-B Exchange incorporates Multilateration (MLAT) and Mode S parameters where available — u...</p></details>
+   Link:<a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeIn addition to raw ADS-B data, ADS-B Exchange incorporates Multilateration (MLAT) and Mode S parameters where available — u...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: support.adsbexchange.com  
-   Link: <a href="https://support.adsbexchange.com/hc/en-us" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adsbexchange.comADS-B Exchange Help CenterNeed Help? From commercial data access to aircraft tracking, data corrections, or becoming a fe...</p></details>
+   Link:<a href="https://support.adsbexchange.com/hc/en-us" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adsbexchange.comADS-B Exchange Help CenterNeed Help? From commercial data access to aircraft tracking, data corrections, or becoming a fe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gottheimer.house.gov  
-   Link: <a href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow">https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</p></details>
+   Link:<a href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow">https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone mystery: What to know and what can be...13 Dec 2024 — Citizens and lawmakers are demanding government answers regarding...</p></details>
+   Link:<a href="https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone mystery: What to know and what can be...13 Dec 2024 — Citizens and lawmakers are demanding government answers regarding...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Since mid-November, there have been numerous reports of drone sightings in New Jersey a...</p></details>
+   Link:<a href="https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Since mid-November, there have been numerous reports of drone sightings in New Jersey a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT, PI, ADSB Exchange???Ok so I have adsb exchange image on my Pi. Everything works great. I see about 60 to 100 aircraft in a 100 mile...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/195f058/mlat_pi_adsb_exchange/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLAT, PI, ADSB Exchange???Ok so I have adsb exchange image on my Pi. Everything works great. I see about 60 to 100 aircraft in a 100 mile...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feds are urged to deploy high-tech drone hunters to solve...Dec 15, 2024 — An FAA official said there have &quot;without a doubt&quot; been drones...</p></details>
+   Link:<a href="https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feds are urged to deploy high-tech drone hunters to solve...Dec 15, 2024 — An FAA official said there have &quot;without a doubt&quot; been drones...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — &quot;After research and study, the drones that were flying over New Jersey in...</p></details>
+   Link:<a href="https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — &quot;After research and study, the drones that were flying over New Jersey in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
+   Link:<a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/2024/12/26/mystery-drone-sightings-in-the-u-s-northeast-spark-calls-for-enhanced-detection-systems/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2024/12/26/mystery-drone-sightings-in-the-u-s-northeast-spark-calls-for-enhanced-detection-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sightings U.S. Northeast Experts Weigh In26 Dec 2024 — Experts discuss drone sightings in the U.S. Northeast, highlighting gaps in...</p></details>
+   Link:<a href="https://dronelife.com/2024/12/26/mystery-drone-sightings-in-the-u-s-northeast-spark-calls-for-enhanced-detection-systems/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2024/12/26/mystery-drone-sightings-in-the-u-s-northeast-spark-calls-for-enhanced-detection-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sightings U.S. Northeast Experts Weigh In26 Dec 2024 — Experts discuss drone sightings in the U.S. Northeast, highlighting gaps in...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI, White House find no evidence of security threat in New...13 Dec 2024 — The White House, FBI and Homeland Security said on Thursday...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI, White House find no evidence of security threat in New...13 Dec 2024 — The White House, FBI and Homeland Security said on Thursday...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheHill/posts/recent-drone-sightings-include-a-combination-of-lawful-drones-other-aircrafts-an/958509819470773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHill/posts/recent-drone-sightings-include-a-combination-of-lawful-drones-other-aircrafts-an/958509819470773/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent drone sightings include a combination of “lawful”...16 Dec 2024 — Recent drone sightings include a combination of “lawful” drones...</p></details>
+   Link:<a href="https://www.facebook.com/TheHill/posts/recent-drone-sightings-include-a-combination-of-lawful-drones-other-aircrafts-an/958509819470773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHill/posts/recent-drone-sightings-include-a-combination-of-lawful-drones-other-aircrafts-an/958509819470773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recent drone sightings include a combination of “lawful”...16 Dec 2024 — Recent drone sightings include a combination of “lawful” drones...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aljazeera.com  
    Title: no security threat from reported drone sightings us federal agencies state  
-   Link: <a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The joint statement said the FBI has received tips of more than 5,0...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The joint statement said the FBI has received tips of more than 5,0...</p></details>

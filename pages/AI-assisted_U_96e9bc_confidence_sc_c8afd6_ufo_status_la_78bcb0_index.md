@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-confidence-sc/
 description: Focused pages that expand on Case Labels.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
 parent_title: Case Labels
@@ -16,7 +16,7 @@ parent_permalink: /case-labels/
 
 # Explore Topics in Case Labels
 
-The following pages expand on the main **[Case Labels]({{ '/case-labels/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Case Labels]({{ '/case-labels/' | relative_url }})** page and cover its key branches in.
 
 - [Data Limits]({{ '/data-limits/' | relative_url }})
 - [Soft Debunks]({{ '/soft-debunks/' | relative_url }})

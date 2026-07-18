@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 When hundreds of people across different cities report the same glowing spiral within minutes of each other, the geography itself becomes evidence. In UFO investigation work, that pattern usually points away from a nearby hovering object and towards a very high-altitude event such as a [rocket fuel]({{ 'rocket-spirals/' | relative_url }}) vent, upper-stage burn, or missile failure. A local [aircraft]({{ 'aircraft/' | relative_url }}), drone, or balloon cannot normally produce simultaneous sightings across entire countries. A sunlit exhaust plume at the edge of space can.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" alt="Wide reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for AI-assisted UFO sighting investigation because wide-area witness reports are one of the fastest ways to separate regional atmospheric or spaceflight events from genuinely local incidents. Modern [rocket spirals]({{ 'rocket-spirals/' | relative_url }}) are often visible over hundreds of kilometres, especially during twilight when observers on the ground are in darkness but high-altitude exhaust clouds remain illuminated by sunlight. The March 2025 blue spiral seen across Britain and mainland Europe demonstrated this clearly, with reports emerging almost simultaneously from multiple countries before the SpaceX launch connection became widely known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+This matters for AI-assisted UFO sighting investigation because wide-area witness reports are one of the fastest ways to separate regional atmospheric or spaceflight events from genuinely local incidents. Modern [rocket spirals]({{ 'rocket-spirals/' | relative_url }}) are often visible over hundreds of kilometres, especially during twilight when observers on the ground are in darkness but high-altitude exhaust clouds remain illuminated by sunlight. The March 2025 blue spiral seen across Britain and mainland Europe demonstrated this clearly, with reports emerging almost simultaneously from multiple countries before the SpaceX launch connection became widely known.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 ## How witness clusters reveal altitude scale
 
@@ -280,7 +280,7 @@ A key investigative clue in spiral sightings is not simply what people saw, but 
 
 When reports arrive from locations separated by hundreds of kilometres yet describe a similar shape, timing, and motion, investigators can infer that the source was extremely high above the Earth. The wider the visibility footprint, the less likely the object was physically close to any individual observer.
 
-This principle is especially useful in UFO case triage because witnesses routinely misjudge distance at night. Someone may report a spiral “hovering over the town” when the actual source is over the Atlantic or high above another country entirely. The 2009 Norwegian spiral is a classic example. Witnesses across large parts of Norway and Sweden described a giant rotating structure in the sky, but later trajectory analysis linked the event to a failed Russian Bulava missile test far away from most observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span>
+This principle is especially useful in UFO case triage because witnesses routinely misjudge distance at night. Someone may report a spiral “hovering over the town” when the actual source is over the Atlantic or high above another country entirely. The 2009 Norwegian spiral is a classic example. Witnesses across large parts of Norway and Sweden described a giant rotating structure in the sky, but later trajectory analysis linked the event to a failed Russian Bulava missile test far away from most observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span>
 
 For AI-supported investigations, geographic spread can be analysed systematically rather than impressionistically. A workflow might:
 
@@ -292,7 +292,7 @@ For AI-supported investigations, geographic spread can be analysed systematicall
 
 If reports emerge over a footprint spanning southern England, northern France, Belgium, and western Germany within ten minutes, that immediately changes the probability model. A nearby hovering craft becomes less plausible than a high-altitude plume illuminated over a continental-scale viewing area.
 
-The March 2025 European spiral illustrates this well. Witnesses from the UK to Croatia described a blue-white rotating formation visible for several minutes. Later analysis connected the event to a Falcon 9 launch from Florida, where vented fuel from the upper stage froze and reflected sunlight while the stage rotated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/70780" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</span></span></span>
+The March 2025 European spiral illustrates this well. Witnesses from the UK to Croatia described a blue-white rotating formation visible for several minutes. Later analysis connected the event to a Falcon 9 launch from Florida, where vented fuel from the upper stage froze and reflected sunlight while the stage rotated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/70780" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</span></span></span>
 
 The important investigative point is that the witness map itself supported the explanation before many technical details were confirmed publicly.
 
@@ -312,7 +312,7 @@ By contrast, high-altitude rocket spirals often produce remarkably consistent de
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A glowing blue or white spiral <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
+* A glowing blue or white spiral<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 * Slow outward expansion
 * A stationary or drifting centre
 * A “portal” or “galaxy” appearance
@@ -326,7 +326,7 @@ This consistency happens because the phenomenon is physically enormous and extre
 
 This is where regional correlation becomes more useful than individual testimony. One witness may misremember details or exaggerate motion. Hundreds of geographically distributed reports create a stronger statistical picture.
 
-The Norwegian spiral investigations demonstrated another important point: triangulation can overturn assumptions about location. Some observers believed the object was directly above Norway, yet later geometric reconstruction suggested the event was much farther away over Russian territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span>
+The Norwegian spiral investigations demonstrated another important point: triangulation can overturn assumptions about location. Some observers believed the object was directly above Norway, yet later geometric reconstruction suggested the event was much farther away over Russian territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</span><span class="citation-popover-meta">Published: December 9, 2009</span></span></span>
 
 For UFO investigation systems, this means apparent proximity should never be accepted without cross-location analysis.
 
@@ -336,7 +336,7 @@ For UFO investigation systems, this means apparent proximity should never be acc
 
 Rocket spirals behave differently from ordinary aircraft lights because they occur near the boundary of space rather than inside dense lower atmosphere.
 
-At altitudes around 100 kilometres or more, exhaust plumes can expand dramatically. Thin atmospheric conditions allow gases and frozen particles to spread into structures far larger than conventional contrails. When illuminated by sunlight from beyond the horizon, these clouds become visible over continental distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theinternational.at">[The International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theinternational.at</span><span class="citation-popover-title">The International Space X Rocket Creates Spiral Light Phenomenon Over Austria</span><span class="citation-popover-snippet">Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</span></span></span>
+At altitudes around 100 kilometres or more, exhaust plumes can expand dramatically. Thin atmospheric conditions allow gases and frozen particles to spread into structures far larger than conventional contrails. When illuminated by sunlight from beyond the horizon, these clouds become visible over continental distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theinternational.at">[The International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theinternational.at</span><span class="citation-popover-title">The International Space X Rocket Creates Spiral Light Phenomenon Over Austria</span><span class="citation-popover-snippet">Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</span></span></span>
 
 This produces several distinctive investigation patterns:
 
@@ -350,7 +350,7 @@ This produces several distinctive investigation patterns:
 
 </div>
 
-The 2025 European spiral produced exactly this pattern. Reports appeared almost simultaneously across Britain and mainland Europe, while meteorological agencies and astronomy observers quickly linked the timing to a Falcon 9 mission launched from Cape Canaveral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span>
+The 2025 European spiral produced exactly this pattern. Reports appeared almost simultaneously across Britain and mainland Europe, while meteorological agencies and astronomy observers quickly linked the timing to a Falcon 9 mission launched from Cape Canaveral.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span>
 
 This wide-area visibility is often counterintuitive to witnesses. Many people assume that if something looks large in the sky it must also be physically nearby. Rocket spirals invert that intuition: the farther away and higher the plume is, the larger the visible footprint may become.
 
@@ -374,7 +374,7 @@ AI systems can extract:
 
 </div>
 
-Researchers studying event detection from geo-tagged social media have shown that sudden bursts of geographically correlated posting can reveal real-world incidents rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">PDF) A Peak Detection Method to Uncover Events from</span><span class="citation-popover-snippet">November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</span><span class="citation-popover-meta">Published: November 7, 2017</span></span></span>
+Researchers studying event detection from geo-tagged social media have shown that sudden bursts of geographically correlated posting can reveal real-world incidents rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">PDF) A Peak Detection Method to Uncover Events from</span><span class="citation-popover-snippet">November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</span><span class="citation-popover-meta">Published: November 7, 2017</span></span></span>
 
 For rocket spiral investigations, this allows automated workflows to detect likely regional atmospheric events before official explanations appear.
 
@@ -454,194 +454,194 @@ Once reports are treated as correlated spatial evidence rather than individual a
 The result is a good example of how AI-assisted UFO investigation can reduce ambiguity quickly without dismissing witnesses. The reports still matter. In fact, the reports themselves are often what reveal that the object was never local in the first place.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why mass sightings can make spirals less mysterious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why mass sightings can make spirals less mysterious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful for readers trying to understand wide-area sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers trying to understand wide-area sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits interpreting mass witness clusters without overreading them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits interpreting mass witness clusters without overreading them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages checking extraordinary-looking mass events against known causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking extraordinary-looking mass events against known causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Supports understanding visibility footprints and sky geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports understanding visibility footprints and sky geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="https://i.ebayimg.com/images/g/PQcAAOSwYSxeU87Y/s-l225.jpg" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="https://i.ebayimg.com/images/g/PQcAAOSwYSxeU87Y/s-l225.jpg" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1"><img src="https://i.ebayimg.com/images/g/klEAAOSweYdjA3Ja/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1"><img src="https://i.ebayimg.com/images/g/klEAAOSweYdjA3Ja/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - APOLLO 11 ARMSTRONG - A4,A3,A2,A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mass-sightings-can-make-spirals-less-mysterious-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="why-mass-sightings-can-make-spirals-less-mysterious-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -806,7 +806,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,106 +847,106 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</p></details>
    Published: December 9, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: (PDF) A Peak Detection Method to Uncover Events from  
-   Link: <a href="https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</p></details>
    Published: November 7, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
+   Link:<a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</p></details>
    Published: December 9, 2009  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/70780" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/70780</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</p></details>
+   Link:<a href="https://www.dongascience.com/en/news/70780" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/70780</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theinternational.at  
    Title: The International Space X Rocket Creates Spiral Light Phenomenon Over Austria  
-   Link: <a href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</p></details>
+   Link:<a href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cadenaser.com  
-   Link: <a href="https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inicialmente especulada con teorías de actividad aeronáutica o extraterrestre, se confirmó que el fenómeno fue causado por el lanzamiento...</p></details>
+   Link:<a href="https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inicialmente especulada con teorías de actividad aeronáutica o extraterrestre, se confirmó que el fenómeno fue causado por el lanzamiento...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Fuel Spiral Over Norway — A Rare Twilight Sky...Here&#x27;s a more detailed explanation: Cause: These spirals are a result of SpaceX r...</p></details>
+   Link:<a href="https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Fuel Spiral Over Norway — A Rare Twilight Sky...Here&#x27;s a more detailed explanation: Cause: These spirals are a result of SpaceX r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2mUXBqJbQKg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2mUXBqJbQKg</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</p></details>
+   Link:<a href="https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</p></details>
    Published: March 25, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Tests happen in special facilities that can handle extreme  
-   Link: <a href="https://www.instagram.com/reel/DJN7GXUNeu7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJN7GXUNeu7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Science on Instagram: &quot;A rocket engine test is a key...A rocket engine test is a key step to check if a rocket engine works well...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DJN7GXUNeu7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJN7GXUNeu7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Science on Instagram: &quot;A rocket engine test is a key...A rocket engine test is a key step to check if a rocket engine works well...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DHn5NFXsXlH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHn5NFXsXlH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it&#x27;s not aliens. It&#x27;s likely it was caused by a SpaceX rocket launch...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DHn5NFXsXlH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DHn5NFXsXlH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, it&#x27;s not aliens. It&#x27;s likely it was caused by a SpaceX rocket launch...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
+   Link:<a href="https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gizmodo.com  
    Title: mysterious light spiral appears over norway 5422610  
-   Link: <a href="https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Light Spiral Appears Over Norway9 Dec 2009 — Witnesses throughout Northern Norway reported seeing a bright object spinning thr...</p></details>
+   Link:<a href="https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Light Spiral Appears Over Norway9 Dec 2009 — Witnesses throughout Northern Norway reported seeing a bright object spinning thr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uscc.gov  
    Title: 2025 Annual Report to Congress  
-   Link: <a href="https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2025 — The Commission, a legislative branch entity, was created on October 30, 2000 by the Floyd D. Spence National Defense Author...</p></details>
+   Link:<a href="https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2025 — The Commission, a legislative branch entity, was created on October 30, 2000 by the Floyd D. Spence National Defense Author...</p></details>
    Published: October 30, 2000  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: csmonitor.com  
    Title: norway spiral space aliens welcoming obama  
-   Link: <a href="https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral: Space aliens welcoming Obama?10 Dec 2009 — According to some reports, the unexplained light may have been caused by the fa...</p></details>
+   Link:<a href="https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral: Space aliens welcoming Obama?10 Dec 2009 — According to some reports, the unexplained light may have been caused by the fa...</p></details>

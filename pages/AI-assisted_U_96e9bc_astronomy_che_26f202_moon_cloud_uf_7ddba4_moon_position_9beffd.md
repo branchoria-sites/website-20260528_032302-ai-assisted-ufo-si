@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 Many UFO reports involving a bright object near the horizon can be tested within minutes by checking where the Moon actually was. A witness may describe a hovering orb, a silent disc above rooftops, or a glowing object pacing a moving car, yet a reconstruction of moonrise, moonset, altitude and azimuth often shows the Moon sitting in almost the exact reported position. In AI-assisted UFO sighting investigation, this is one of the fastest ways to separate potentially unusual events from common astronomical misidentifications.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" alt="Moon Position illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Moon checks matter most when a sighting occurs shortly after moonrise or before moonset. At those times, the Moon is low on the horizon, heavily affected by haze, cloud and foreground obstructions, and more likely to appear distorted, oversized or strangely coloured. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) researchers note that the “Moon illusion” and atmospheric scattering can dramatically alter perceived size and colour near the horizon. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</span></span></span>
+Moon checks matter most when a sighting occurs shortly after moonrise or before moonset. At those times, the Moon is low on the horizon, heavily affected by haze, cloud and foreground obstructions, and more likely to appear distorted, oversized or strangely coloured. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) researchers note that the “Moon illusion” and atmospheric scattering can dramatically alter perceived size and colour near the horizon. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</span></span></span>
 
 ## Why low-horizon Moon sightings are repeatedly mistaken for UFOs
 
@@ -286,7 +286,7 @@ The Moon becomes a particularly strong UFO candidate when three factors combine:
 
 </div>
 
-A bright full or near-full Moon near the horizon can appear orange, red, unusually large or partially obscured. Thin cloud may erase the familiar circular outline. Trees, buildings or hills can break the disc into fragments that resemble multiple lights or structured shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine Does the Moon look orange tonight?</span><span class="citation-popover-snippet">No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+A bright full or near-full Moon near the horizon can appear orange, red, unusually large or partially obscured. Thin cloud may erase the familiar circular outline. Trees, buildings or hills can break the disc into fragments that resemble multiple lights or structured shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine Does the Moon look orange tonight?</span><span class="citation-popover-snippet">No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 Witnesses often describe:
 
@@ -304,7 +304,7 @@ In moving-car sightings, the illusion becomes stronger because distant celestial
 
 For reconstruction work, investigators should immediately test whether:
 
-* the Moon was above the horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryRise, Set, and Twilight DefinitionsAdding all the terms above together, the center of the Moon at rise or set is geom...</span></span></span>
+* the Moon was above the horizon<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryRise, Set, and Twilight DefinitionsAdding all the terms above together, the center of the Moon at rise or set is geom...</span></span></span>
 * its azimuth matched the witness direction
 * its altitude matched the claimed [elevation]({{ 'elevation/' | relative_url }}) angle
 * cloud and terrain could have hidden part of the disc
@@ -319,14 +319,14 @@ The most important lunar reconstruction variables are altitude and azimuth.
 Astronomy tools describe object position using the horizontal coordinate system:
 
 * **Azimuth** is the compass bearing measured around the horizon
-* **Altitude** is the angle above the horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+* **Altitude** is the angle above the horizon<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
 
 For example:
 
-* azimuth 90° = east <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 180° = south <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 270° = west <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * altitude 0° = horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+* azimuth 90° = east<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 180° = south<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 270° = west<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * altitude 0° = horizon<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
 * altitude 45° = halfway to overhead
 
-Time and astronomy reference systems use these coordinates to calculate where the Moon appeared from a specific location at a specific time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
+Time and astronomy reference systems use these coordinates to calculate where the Moon appeared from a specific location at a specific time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 
 ### Why witness direction matters more than object shape
 
@@ -364,17 +364,17 @@ This does not automatically prove the witness saw the Moon, but it strongly shif
 
 The Moon is visually most deceptive near the horizon.
 
-Near moonrise or moonset: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span>
+Near moonrise or moonset:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span>
 
 * atmospheric scattering increases
 * haze reddens the Moon
 * refraction distorts its shape
 * foreground objects create [false motion]({{ 'false-motion/' | relative_url }}) cues
-* the Moon illusion exaggerates perceived size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
+* the Moon illusion exaggerates perceived size<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
 
-NASA notes that photographs show the Moon is not physically larger at the horizon even though people strongly perceive it that way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+NASA notes that photographs show the Moon is not physically larger at the horizon even though people strongly perceive it that way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
-US Naval Observatory material also notes that refraction alters the apparent position of the Moon near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
+US Naval Observatory material also notes that refraction alters the apparent position of the Moon near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 
 In practical UFO reconstruction, this means a witness may sincerely report:
 
@@ -398,7 +398,7 @@ Moon phase is often overlooked in UFO investigations, yet it can rapidly rule ex
 
 A crescent Moon behaves very differently from a full Moon.
 
-A near-full Moon: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
+A near-full Moon:<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,7 +431,7 @@ Moon phase calculators and lunar ephemeris data can reconstruct:
 * rise and set times
 * altitude curves throughout the night
 
-Tools such as the US Naval Observatory data services and Time and Date’s Moon calculators provide these values directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+Tools such as the US Naval Observatory data services and Time and Date’s Moon calculators provide these values directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
 
 ### Cases where phase data weakens a Moon explanation
 
@@ -469,16 +469,16 @@ A useful AI-assisted pipeline typically starts with:
 
 An automated system can then query astronomy datasets to calculate:
 
-* moonrise and moonset <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span> * azimuth over time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> * altitude over time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> * phase and illumination <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">FAQ: Moonrise, Moonset, and Moon PhaseOur lunar calendar shows the time of moonrise, moonset, and Moon phases for now, today, tomorrow, o...</span></span></span>
+* moonrise and moonset<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span> * azimuth over time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> * altitude over time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> * phase and illumination<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">FAQ: Moonrise, Moonset, and Moon PhaseOur lunar calendar shows the time of moonrise, moonset, and Moon phases for now, today, tomorrow, o...</span></span></span>
 * twilight conditions
 
 The system can compare these values against the witness account and assign a [confidence]({{ 'confidence/' | relative_url }}) score for possible lunar misidentification.
 
 For example:
 
-* witness reports object low in west at 21:15 * Moon altitude = 4° <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * Moon azimuth = 261° <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
+* witness reports object low in west at 21:15 * Moon altitude = 4°<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * Moon azimuth = 261°<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 * illumination = 98%
-* weather data shows haze <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span>
+* weather data shows haze<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span>
 
 That combination strongly supports a lunar candidate explanation.
 
@@ -565,13 +565,13 @@ Several public astronomy tools are already sufficient for basic UFO screening.
 
 Useful sources include:
 
-* US Naval Observatory altitude and azimuth tables <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * moonrise and moonset calculators <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span> * astronomy visualisation software <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=2r74-QvC16Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Moonrise and Moonset Explained</span><span class="citation-popover-snippet">How to Use Astronomy Software for Sky Observation...</span></span></span>
+* US Naval Observatory altitude and azimuth tables<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * moonrise and moonset calculators<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span> * astronomy visualisation software<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=2r74-QvC16Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Moonrise and Moonset Explained</span><span class="citation-popover-snippet">How to Use Astronomy Software for Sky Observation...</span></span></span>
 * sky simulation apps
 * weather archives combined with lunar overlays
 
-The US Naval Observatory provides historical altitude and azimuth calculations for the Moon from specific locations and times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
+The US Naval Observatory provides historical altitude and azimuth calculations for the Moon from specific locations and times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 
-Time and Date provides public-facing Moon position graphs including direction, altitude and illumination data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+Time and Date provides public-facing Moon position graphs including direction, altitude and illumination data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
 
 Some AI-assisted UFO projects now integrate these sources into automated intake systems that:
 
@@ -601,201 +601,201 @@ The strongest matches also explain the witness perception mechanism:
 * trees obscuring the disc
 * moving observer creating false motion
 * cloud causing pulsation
-* horizon illusion exaggerating size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+* horizon illusion exaggerating size<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 When several of those conditions converge, the Moon can convincingly mimic characteristics often associated with UFO reports.
 
 At the same time, careful UFO investigation requires discipline against overreach. A lunar explanation should only be considered strong when the [geometry]({{ 'geometry/' | relative_url }}), environmental conditions and witness description align closely enough to explain the reported appearance without forcing the fit.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Moon Match the Reported UFO Position?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Moon Match the Reported UFO Position?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for skeptical analysis of UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for skeptical analysis of UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Excellent for locating and identifying the Moon and planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for locating and identifying the Moon and planets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports sky-position checks and object identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports sky-position checks and object identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Useful for reconstructing sky conditions and positions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for reconstructing sky conditions and positions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)"><img src="{{ '/assets/images/marketplace-covers/8de3efba5d662da79140.jpg' | relative_url }}" alt="Listing image for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)"><img src="{{ '/assets/images/marketplace-covers/8de3efba5d662da79140.jpg' | relative_url }}" alt="Listing image for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20X80 Binoculars 71018"><img src="{{ '/assets/images/marketplace-covers/01b43abb3fca5d0a5151.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20X80 Binoculars 71018" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20X80 Binoculars 71018</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20X80 Binoculars 71018"><img src="{{ '/assets/images/marketplace-covers/01b43abb3fca5d0a5151.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20X80 Binoculars 71018" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20X80 Binoculars 71018</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti"><img src="{{ '/assets/images/marketplace-covers/77ed29261fdf5164fc5b.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti"><img src="{{ '/assets/images/marketplace-covers/77ed29261fdf5164fc5b.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED"><img src="{{ '/assets/images/marketplace-covers/759a151e24a0a2615498.jpg' | relative_url }}" alt="Listing image for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED"><img src="{{ '/assets/images/marketplace-covers/759a151e24a0a2615498.jpg' | relative_url }}" alt="Listing image for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. £109.47! NEW UNOPENED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="moon-position-could-the-moon-match-the-reported-ufo-position-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -811,7 +811,7 @@ At the same time, careful UFO investigation requires discipline against overreac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -831,7 +831,7 @@ At the same time, careful UFO investigation requires discipline against overreac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -863,7 +863,7 @@ At the same time, careful UFO investigation requires discipline against overreac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -915,7 +915,7 @@ At the same time, careful UFO investigation requires discipline against overreac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -960,7 +960,7 @@ At the same time, careful UFO investigation requires discipline against overreac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1001,220 +1001,220 @@ At the same time, careful UFO investigation requires discipline against overreac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: the moon illusion why does the moon look so big sometimes  
-   Link: <a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: Why Does the Moon Look Larger at the Horizon?  
-   Link: <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We...12 Feb 2025 — The atmosphere isn&#x27;t magnifying the Moon. If anything, atmospheric refraction squashes it a little bit. And the Moon&#x27;...</p></details>
+   Link:<a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We...12 Feb 2025 — The atmosphere isn&#x27;t magnifying the Moon. If anything, atmospheric refraction squashes it a little bit. And the Moon&#x27;...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/moon/formation/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/moon/formation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2026 — Analysis of light reflecting off the Moon gives details of the mineral makeup of the Moon&#x27;s surface, and it shows the wides...</p></details>
+   Link:<a href="https://science.nasa.gov/moon/formation/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/moon/formation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2026 — Analysis of light reflecting off the Moon gives details of the mineral makeup of the Moon&#x27;s surface, and it shows the wides...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: photographing the moon illusion  
-   Link: <a href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/photographing-the-moon-illusion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/photographing-the-moon-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/box/sunmoon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</p></details>
+   Link:<a href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/box/sunmoon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: astronomy.com  
-   Link: <a href="https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Moon look so large sometimes as it rises on...3 Jul 2024 — The Moon illusion is more likely a trick of perception, an optic...</p></details>
+   Link:<a href="https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Moon look so large sometimes as it rises on...3 Jul 2024 — The Moon illusion is more likely a trick of perception, an optic...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Why the Moon Looks Huge on the Horizon  
-   Link: <a href="https://www.youtube.com/watch?v=kG-64u8vV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kG-64u8vV2Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise and Moonset Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kG-64u8vV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kG-64u8vV2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise and Moonset Explained...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Moonrise and Moonset Explained  
-   Link: <a href="https://www.youtube.com/watch?v=2r74-QvC16Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2r74-QvC16Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Astronomy Software for Sky Observation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2r74-QvC16Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2r74-QvC16Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Astronomy Software for Sky Observation...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</p></details>
+   Link:<a href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine Does the Moon look orange tonight?  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aa.usno.navy.mil  
    Title: US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day  
-   Link: <a href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/AltAz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply specify the object, date...Read more...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/AltAz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply specify the object, date...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/RST_defs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise, Set, and Twilight DefinitionsAdding all the terms above together, the center of the Moon at rise or set is geom...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/RST_defs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise, Set, and Twilight DefinitionsAdding all the terms above together, the center of the Moon at rise or set is geom...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryData ServicesTable of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year... Provides tables of t...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryData ServicesTable of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year... Provides tables of t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/</a>  
+   Link:<a href="https://www.timeanddate.com/moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/help</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ: Moonrise, Moonset, and Moon PhaseOur lunar calendar shows the time of moonrise, moonset, and Moon phases for now, today, tomorrow, o...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ: Moonrise, Moonset, and Moon PhaseOur lunar calendar shows the time of moonrise, moonset, and Moon phases for now, today, tomorrow, o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
+   Link:<a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Moon illusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moon_illusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moon_illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: timeanddate.com  
    Title: Moonrise, Moonset, and Moon Phase in Santiago Moon Altitude: 3.27°  
-   Link: <a href="https://www.timeanddate.com/moon/chile/santiago" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/chile/santiago</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Distance: 224,928 mi. Next Full Moon: May 1, 2026... timeanddate.no · timeanddate.de. Follow Us. © Time and Date AS 1995–2026...Re...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/chile/santiago" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/chile/santiago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Distance: 224,928 mi. Next Full Moon: May 1, 2026... timeanddate.no · timeanddate.de. Follow Us. © Time and Date AS 1995–2026...Re...</p></details>
    Published: May 1, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/moon/location.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/moon/location.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>phases, illumination, distance from Earth, and latitude...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/moon/location.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/moon/location.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phases, illumination, distance from Earth, and latitude...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/usa/denver" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/denver</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in DenverMoonrise and moonset time, Moon direction, and Moon phase in Denver – Colorado – USA for May 2...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/usa/denver" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/denver</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in DenverMoonrise and moonset time, Moon direction, and Moon phase in Denver – Colorado – USA for May 2...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/%404416153" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404416153</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in AltitudeMoonrise and moonset time, Moon direction, and Moon phase in Altitude – Mississippi – USA fo...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/%404416153" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404416153</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in AltitudeMoonrise and moonset time, Moon direction, and Moon phase in Altitude – Mississippi – USA fo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: timeanddate.com  
    Title: Moonrise, Moonset, and Moon Phase in Riyadh Current Time  
-   Link: <a href="https://www.timeanddate.com/moon/saudi-arabia/riyadh" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/saudi-arabia/riyadh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 235.94° SW↑. Moon Altitude: 13.01°. Moon Distance: 248,767 mi. Next New Moon: May 16, 2026, 11:01 pm.Read more...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/saudi-arabia/riyadh" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/saudi-arabia/riyadh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 235.94° SW↑. Moon Altitude: 13.01°. Moon Distance: 248,767 mi. Next New Moon: May 16, 2026, 11:01 pm.Read more...</p></details>
    Published: May 16, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/%404684723" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404684723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in CypressMoonrise and moonset time, Moon direction, and Moon phase in Cypress – Texas – USA for May 20...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/%404684723" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404684723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in CypressMoonrise and moonset time, Moon direction, and Moon phase in Cypress – Texas – USA for May 20...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: timeanddate.com  
    Title: new york  
-   Link: <a href="https://www.timeanddate.com/moon/usa/new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/new-york</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 264.22° W↑. Moon Altitude: 16.23°. Moon Distance: 237,575 mi. Next Full Moon: Mar 3, 2026, 6:37 am.Read more...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/usa/new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/new-york</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 264.22° W↑. Moon Altitude: 16.23°. Moon Distance: 237,575 mi. Next Full Moon: Mar 3, 2026, 6:37 am.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/help.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/help.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dev.timeanddate.com  
-   Link: <a href="https://dev.timeanddate.com/docs/astro/astrodata" target="_blank" rel="noopener noreferrer nofollow">https://dev.timeanddate.com/docs/astro/astrodata</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>API: Astro Position ServiceThe Astro Position Service can be used to retrieve the altitude, azimuth and distance to the Moon and the Sun...</p></details>
+   Link:<a href="https://dev.timeanddate.com/docs/astro/astrodata" target="_blank" rel="noopener noreferrer nofollow">https://dev.timeanddate.com/docs/astro/astrodata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>API: Astro Position ServiceThe Astro Position Service can be used to retrieve the altitude, azimuth and distance to the Moon and the Sun...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: earthsky.org  
-   Link: <a href="https://earthsky.org/space/video-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/video-the-moon-illusion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n you. It&#x27;s called the moon illusion...</p></details>
+   Link:<a href="https://earthsky.org/space/video-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/video-the-moon-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n you. It&#x27;s called the moon illusion...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the moon illusion - PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the hor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the moon illusion - PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the hor...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gml.noaa.gov  
-   Link: <a href="https://gml.noaa.gov/grad/solcalc/azel.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/azel.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Position CalculatorAzimuth is measured in degrees clockwise from north. Elevation is measured in degrees up from the horizon. Az &amp; El bot...</p></details>
+   Link:<a href="https://gml.noaa.gov/grad/solcalc/azel.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/azel.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Position CalculatorAzimuth is measured in degrees clockwise from north. Elevation is measured in degrees up from the horizon. Az &amp; El bot...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: arxiv.org  
    Title: At the horizon, apparent distance to the sky is minimal, whereas at the zenith  
-   Link: <a href="https://arxiv.org/abs/1301.2715" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1301.2715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binocular disparity as an explanation for the moon illusionby J Antonides · 2013 · Cited by 3 — As the apparent distance to the sky decre...</p></details>
+   Link:<a href="https://arxiv.org/abs/1301.2715" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1301.2715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binocular disparity as an explanation for the moon illusionby J Antonides · 2013 · Cited by 3 — As the apparent distance to the sky decre...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: airmass.org  
-   Link: <a href="https://airmass.org/notes" target="_blank" rel="noopener noreferrer nofollow">https://airmass.org/notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Description of methods and algorithmsTool for planning astronomical observations: shows the observability of celestial objects by plottin...</p></details>
+   Link:<a href="https://airmass.org/notes" target="_blank" rel="noopener noreferrer nofollow">https://airmass.org/notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Description of methods and algorithmsTool for planning astronomical observations: shows the observability of celestial objects by plottin...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: admiralty.co.uk  
-   Link: <a href="https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications" target="_blank" rel="noopener noreferrer nofollow">https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miscellaneous ADMIRALTY Astronomical PublicationsVolume 1 contains the altitude to 1&#x27; and true azimuth to 1° for the seven stars most sui...</p></details>
+   Link:<a href="https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications" target="_blank" rel="noopener noreferrer nofollow">https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miscellaneous ADMIRALTY Astronomical PublicationsVolume 1 contains the altitude to 1&#x27; and true azimuth to 1° for the seven stars most sui...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cseligman.com  
-   Link: <a href="https://cseligman.com/text/sky/moonillusion.htm" target="_blank" rel="noopener noreferrer nofollow">https://cseligman.com/text/sky/moonillusion.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moon IllusionIn reality, the Moon&#x27;s image is actually smaller when it is on the horizon than when it is higher in the sky; as a resul...</p></details>
+   Link:<a href="https://cseligman.com/text/sky/moonillusion.htm" target="_blank" rel="noopener noreferrer nofollow">https://cseligman.com/text/sky/moonillusion.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Moon IllusionIn reality, the Moon&#x27;s image is actually smaller when it is on the horizon than when it is higher in the sky; as a resul...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: github.com  
-   Link: <a href="https://github.com/Timac/SunCalc" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Timac/SunCalc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timac/SunCalc: Swift package to calculate the Sun and...SunCalc is a Swift package to calculate the sun position, sunlight phases (times...</p></details>
+   Link:<a href="https://github.com/Timac/SunCalc" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Timac/SunCalc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timac/SunCalc: Swift package to calculate the Sun and...SunCalc is a Swift package to calculate the sun position, sunlight phases (times...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1870ckd/unusual_moon_azimuth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1870ckd/unusual_moon_azimuth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual Moon Azimuth?: r/AstronomyHey I&#x27;m trying to understand the charts but I&#x27;m going to take the lazy route. It seems like last month...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1870ckd/unusual_moon_azimuth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1870ckd/unusual_moon_azimuth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual Moon Azimuth?: r/AstronomyHey I&#x27;m trying to understand the charts but I&#x27;m going to take the lazy route. It seems like last month...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/celnav" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/celnav</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation Data for Assumed Position and TimeThis data service provides all the astronomical information necessary to plot navigational l...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/celnav" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/celnav</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation Data for Assumed Position and TimeThis data service provides all the astronomical information necessary to plot navigational l...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: physics.stackexchange.com  
    Title: why does the moon sometimes appear giant and a orange red color near the horizon  
-   Link: <a href="https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does the moon sometimes appear giant and a orange...3 June 2011 — So, you expect more blue light to be scattered from Sunlight or Moonli...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>does the moon sometimes appear giant and a orange...3 June 2011 — So, you expect more blue light to be scattered from Sunlight or Moonli...</p></details>
    Published: June 2011  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: astronomy.stackexchange.com  
    Title: how to calculate the time and date from the moons position phase and the orien  
-   Link: <a href="https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to calculate the time and date from the moon&#x27;s...May 10, 2025 — A formula, for example, where you input the position (Azimuth/Altitude o...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to calculate the time and date from the moon&#x27;s...May 10, 2025 — A formula, for example, where you input the position (Azimuth/Altitude o...</p></details>
    Published: May 10, 2025

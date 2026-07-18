@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 Night-light maps can often explain a supposed “alien beam” before investigators ever reach for exotic theories. In many UFO reports involving vertical columns of light, witnesses never see the true source on the ground. A distant industrial complex, greenhouse cluster, sports stadium, port facility, refinery, or urban light dome may sit beyond hills, trees, haze, or darkness, while ice crystals in the atmosphere project the light upward into what appears to be a hovering beam. Modern night-time satellite datasets make those hidden light sources visible.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-dark.svg" | relative_url }}" alt="Light Maps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, this matters because light-pillar cases are highly [geometry]({{ 'geometry/' | relative_url }})-dependent. A witness may describe a stationary white column “descending from the sky”, yet a night-light map can reveal a powerful lighting installation precisely along the reported bearing. By combining witness direction estimates, atmospheric conditions, terrain data, and satellite night-light imagery, investigators can quickly test whether a beam-like sighting aligns with known human lighting infrastructure rather than an airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
+For AI-assisted UFO sighting investigation, this matters because light-pillar cases are highly [geometry]({{ 'geometry/' | relative_url }})-dependent. A witness may describe a stationary white column “descending from the sky”, yet a night-light map can reveal a powerful lighting installation precisely along the reported bearing. By combining witness direction estimates, atmospheric conditions, terrain data, and satellite night-light imagery, investigators can quickly test whether a beam-like sighting aligns with known human lighting infrastructure rather than an airborne object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
 
 ## Matching witness bearings to bright ground lights
 
@@ -293,9 +293,9 @@ The core logic is straightforward:
 3. Search for strong night-light emissions along that corridor.
 4. Compare the timing with [weather]({{ 'weather/' | relative_url }}) conditions capable of producing ice-crystal reflections.
 
-The strongest modern datasets come from the Visible Infrared Imaging Radiometer Suite (VIIRS), carried aboard NOAA and NASA satellites. The VIIRS Day/Night Band is sensitive enough to detect urban lighting, industrial infrastructure, ports, offshore operations, and other artificial illumination sources at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The strongest modern datasets come from the Visible Infrared Imaging Radiometer Suite (VIIRS), carried aboard NOAA and NASA satellites. The VIIRS Day/Night Band is sensitive enough to detect urban lighting, industrial infrastructure, ports, offshore operations, and other artificial illumination sources at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-NASA’s Black Marble programme refines these observations further by filtering cloud contamination, atmospheric effects, and moonlight to isolate persistent human-generated lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+NASA’s Black Marble programme refines these observations further by filtering cloud contamination, atmospheric effects, and moonlight to isolate persistent human-generated lighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 In practical UFO analysis, investigators are rarely looking for exact photographic matches. Instead, they ask narrower operational questions:
 
@@ -313,7 +313,7 @@ This changes the investigation from speculation into a falsifiable geospatial te
 
 ### Why distant lights can appear disconnected from the ground
 
-One reason witnesses interpret these events as airborne is that the actual source may sit tens of kilometres away. [Light pillars]({{ 'light-pillars/' | relative_url }}) are reflection effects produced by ice crystals between the observer and the light source, not literal beams extending upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Light Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively strong ligh...</span></span></span>
+One reason witnesses interpret these events as airborne is that the actual source may sit tens of kilometres away. [Light pillars]({{ 'light-pillars/' | relative_url }}) are reflection effects produced by ice crystals between the observer and the light source, not literal beams extending upward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Light Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively strong ligh...</span></span></span>
 
 That geometry produces several recurring illusions:
 
@@ -326,7 +326,7 @@ That geometry produces several recurring illusions:
 
 </div>
 
-Atmospheric optics researchers note that very high ice-crystal layers can make pillars appear to radiate from near the zenith rather than from obvious ground lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
+Atmospheric optics researchers note that very high ice-crystal layers can make pillars appear to radiate from near the zenith rather than from obvious ground lighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
 
 This is exactly the type of perceptual mismatch that produces sincere but misleading UFO reports.
 
@@ -352,7 +352,7 @@ Particularly important categories include:
 
 </div>
 
-Several of these installations generate illumination far brighter than surrounding towns. VIIRS imagery routinely captures them as isolated high-radiance hotspots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eogdata.mines.edu/products/vnl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eogdata.mines.edu">[eogdata.mines.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eogdata.mines.edu</span><span class="citation-popover-snippet">VIIRS Nighttime LightA new consistently processed time series of annual global VIIRS nighttime lights has been produced from monthly clou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">· The data is produced from monthly cloud-free average radiance...</span></span></span>
+Several of these installations generate illumination far brighter than surrounding towns. VIIRS imagery routinely captures them as isolated high-radiance hotspots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eogdata.mines.edu/products/vnl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eogdata.mines.edu">[eogdata.mines.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eogdata.mines.edu</span><span class="citation-popover-snippet">VIIRS Nighttime LightA new consistently processed time series of annual global VIIRS nighttime lights has been produced from monthly clou...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">· The data is produced from monthly cloud-free average radiance...</span></span></span>
 
 Greenhouse agriculture is especially relevant in colder climates. Modern horticultural facilities often use intense LED or sodium lighting throughout the night. Under [freezing]({{ 'freezing-fog/' | relative_url }}) conditions, these can generate towering coloured pillars visible across large distances. Witnesses unfamiliar with the local infrastructure may interpret the effect as an artificial beam or structured aerial object.
 
@@ -362,7 +362,7 @@ AI-assisted workflows can improve this process by cross-referencing:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Night-light radiance intensity <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[earthdata.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Night-light radiance intensity<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[earthdata.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * Land-use databases
 * Industrial zoning maps
 * OpenStreetMap infrastructure tags
@@ -384,7 +384,7 @@ Investigative inputWhat it helps testWitness bearingsDirection of possible light
 
 This matters because some UFO reports are triggered by newly installed lighting systems. A witness who has lived in an area for years may suddenly see a strange vertical beam after an industrial upgrade, stadium renovation, or greenhouse expansion.
 
-NASA’s Black Marble data and annual VIIRS composites make these changes visible over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceNASA Night-light Imagery Tracks US Energy Transition...Apr 13, 2026 — This data visualization shows how nighttime light chan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/5313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioChange in Night Lights between 2012 and 202314 Jun 2024 — This webpage showcases newly developed nigh...</span></span></span>
+NASA’s Black Marble data and annual VIIRS composites make these changes visible over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceNASA Night-light Imagery Tracks US Energy Transition...Apr 13, 2026 — This data visualization shows how nighttime light chan...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/5313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioChange in Night Lights between 2012 and 202314 Jun 2024 — This webpage showcases newly developed nigh...</span></span></span>
 
 AI systems can also compare a new sighting against historical reports from the same region. If multiple “beam in the sky” incidents cluster around the same winter conditions and the same lighting infrastructure, [confidence]({{ 'confidence/' | relative_url }}) in a mundane explanation rises substantially.
 
@@ -416,9 +416,9 @@ That does not “debunk” the witness. Instead, it explains why the event appea
 
 Night-light data is powerful, but it has limits.
 
-VIIRS and related datasets measure radiance from above, not what a witness perceived from ground level. Brightness values can also be affected by snow cover, atmospheric scattering, cloud filtering, moonlight contamination, and viewing geometry. Researchers studying VIIRS uncertainty warn that atmospheric effects and observation geometry can significantly influence apparent radiance levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0034425721002777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Quantifying uncertainties in nighttime light retrievals from...by Z Wang · 2021 · Cited by 130 — This paper quantifies the...</span></span></span>
+VIIRS and related datasets measure radiance from above, not what a witness perceived from ground level. Brightness values can also be affected by snow cover, atmospheric scattering, cloud filtering, moonlight contamination, and viewing geometry. Researchers studying VIIRS uncertainty warn that atmospheric effects and observation geometry can significantly influence apparent radiance levels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0034425721002777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Quantifying uncertainties in nighttime light retrievals from...by Z Wang · 2021 · Cited by 130 — This paper quantifies the...</span></span></span>
 
-There are also resolution limits. Although VIIRS is far more sensitive than earlier night-light systems, small rural light sources may blur together at satellite scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">DarkSky InternationalEyes In The Sky: Exploring Global Light Pollution With...Whereas the nighttime images from the DMSP satellites coul...</span></span></span>
+There are also resolution limits. Although VIIRS is far more sensitive than earlier night-light systems, small rural light sources may blur together at satellite scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">DarkSky InternationalEyes In The Sky: Exploring Global Light Pollution With...Whereas the nighttime images from the DMSP satellites coul...</span></span></span>
 
 Investigators therefore avoid overclaiming. A strong alignment between a witness bearing and a bright industrial hotspot supports a light-pillar explanation, but does not automatically prove it. The assessment becomes stronger when multiple independent indicators agree:
 
@@ -455,194 +455,194 @@ That makes night-light mapping one of the fastest ways to eliminate false “bea
 The wider value is methodological. Many UFO investigations fail because they begin with the appearance of the object rather than the environmental conditions that produced the appearance. Light pillars are a strong reminder that a spectacular visual event may originate from ordinary infrastructure interacting with unusual atmospheric conditions. Night-light datasets help investigators test that possibility using measurable evidence instead of intuition alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Night Light Maps Explain A UFO Beam?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Night Light Maps Explain A UFO Beam?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166"><img src="https://i.ebayimg.com/images/g/h70AAOSwVxpg-qse/s-l225.jpg" alt="Listing image for NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166"><img src="https://i.ebayimg.com/images/g/h70AAOSwVxpg-qse/s-l225.jpg" alt="Listing image for NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT CITY LIGHTS Abstract Oil Painting Canvas Art Wall Art Print Canvas -D166</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print"><img src="https://i.ebayimg.com/images/g/iBwAAOSwWGhfDFVd/s-l225.jpg" alt="Listing image for Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print"><img src="https://i.ebayimg.com/images/g/iBwAAOSwWGhfDFVd/s-l225.jpg" alt="Listing image for Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">Kuala Lumpur Asia City Night Light City MULTI CANVAS WALL ART Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print"><img src="https://i.ebayimg.com/images/g/tB0AAOSwb4tfDFVa/s-l225.jpg" alt="Listing image for Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print"><img src="https://i.ebayimg.com/images/g/tB0AAOSwb4tfDFVa/s-l225.jpg" alt="Listing image for Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">Kuala Lumpur Asia City Night Light City SINGLE CANVAS WALL ART Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift"><img src="https://i.ebayimg.com/images/g/bqYAAeSwhkpp72Zc/s-l225.jpg" alt="Listing image for London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift"><img src="https://i.ebayimg.com/images/g/bqYAAeSwhkpp72Zc/s-l225.jpg" alt="Listing image for London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">London City Dome Lamp 3D Printed – Big Ben LED Night Light Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night light city print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night light city print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+light+city+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-night-light-maps-explain-a-ufo-beam-night-light-city-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night light city print" data-ebay-reference="can-night-light-maps-explain-a-ufo-beam-night-light-city-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -658,7 +658,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -678,7 +678,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -710,7 +710,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -807,7 +807,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -848,142 +848,142 @@ The wider value is methodological. Many UFO investigations fail because they beg
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Light pillar  
-   Link: <a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atoptics.org.uk  
    Title: Light Pillars  
-   Link: <a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</p></details>
+   Link:<a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: earthdata.nasa.gov  
    Title: black marble  
-   Link: <a href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/projects/black-marble</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataBlack Marble | NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</p></details>
+   Link:<a href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/projects/black-marble</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataBlack Marble | NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Visible Infrared Imaging Radiometer Suite  
-   Link: <a href="https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: repository.library.noaa.gov  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/68849" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/68849</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS collects source data that could be used to generate monthly and annual science grade global radiance maps...Read more...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/68849" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/68849</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS collects source data that could be used to generate monthly and annual science grade global radiance maps...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: earthdata.nasa.gov  
-   Link: <a href="https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataNighttime LightsNighttime imagery shows the earth&#x27;s surface and atmosphere using a sensor designed to capture low-light emi...</p></details>
+   Link:<a href="https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataNighttime LightsNighttime imagery shows the earth&#x27;s surface and atmosphere using a sensor designed to capture low-light emi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eogdata.mines.edu  
-   Link: <a href="https://eogdata.mines.edu/products/vnl/" target="_blank" rel="noopener noreferrer nofollow">https://eogdata.mines.edu/products/vnl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS Nighttime LightA new consistently processed time series of annual global VIIRS nighttime lights has been produced from monthly clou...</p></details>
+   Link:<a href="https://eogdata.mines.edu/products/vnl/" target="_blank" rel="noopener noreferrer nofollow">https://eogdata.mines.edu/products/vnl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS Nighttime LightA new consistently processed time series of annual global VIIRS nighttime lights has been produced from monthly clou...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· The data is produced from monthly cloud-free average radiance...</p></details>
+   Link:<a href="https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· The data is produced from monthly cloud-free average radiance...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNASA Night-light Imagery Tracks US Energy Transition...Apr 13, 2026 — This data visualization shows how nighttime light chan...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNASA Night-light Imagery Tracks US Energy Transition...Apr 13, 2026 — This data visualization shows how nighttime light chan...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/5313/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/5313/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioChange in Night Lights between 2012 and 202314 Jun 2024 — This webpage showcases newly developed nigh...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/5313/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/5313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioChange in Night Lights between 2012 and 202314 Jun 2024 — This webpage showcases newly developed nigh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0034425721002777" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0034425721002777</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying uncertainties in nighttime light retrievals from...by Z Wang · 2021 · Cited by 130 — This paper quantifies the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0034425721002777" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0034425721002777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying uncertainties in nighttime light retrievals from...by Z Wang · 2021 · Cited by 130 — This paper quantifies the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DarkSky InternationalEyes In The Sky: Exploring Global Light Pollution With...Whereas the nighttime images from the DMSP satellites coul...</p></details>
+   Link:<a href="https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DarkSky InternationalEyes In The Sky: Exploring Global Light Pollution With...Whereas the nighttime images from the DMSP satellites coul...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: night lights 2012 the black marble 79803  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/night-lights-2012-the-black-marble-79803/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/night-lights-2012-the-black-marble-79803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNight Lights 2012 - The Black MarbleThis low-light sensor can distinguish night lights tens to hundreds of times better than...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/night-lights-2012-the-black-marble-79803/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/night-lights-2012-the-black-marble-79803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNight Lights 2012 - The Black MarbleThis low-light sensor can distinguish night lights tens to hundreds of times better than...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/30878/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/30878/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marble 2016 (Rotating Globe)25 Apr 2017 — This image of Earth at night in 2016 was created with data from the Suomi National Polar-orbiti...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/30878/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/30878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marble 2016 (Rotating Globe)25 Apr 2017 — This image of Earth at night in 2016 was created with data from the Suomi National Polar-orbiti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sos.noaa.gov  
-   Link: <a href="https://sos.noaa.gov/catalog/datasets/light-pollution-artificial-sky-brightness/" target="_blank" rel="noopener noreferrer nofollow">https://sos.noaa.gov/catalog/datasets/light-pollution-artificial-sky-brightness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution - Artificial Sky Brightness - Science On a SphereAug 4, 2016 — Light pollution in urban centers creates a sky glow that can blo...</p></details>
+   Link:<a href="https://sos.noaa.gov/catalog/datasets/light-pollution-artificial-sky-brightness/" target="_blank" rel="noopener noreferrer nofollow">https://sos.noaa.gov/catalog/datasets/light-pollution-artificial-sky-brightness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution - Artificial Sky Brightness - Science On a SphereAug 4, 2016 — Light pollution in urban centers creates a sky glow that can blo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lwpetersen.com  
    Title: Lee Petersen Light Pillars  
-   Link: <a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://www.lwpetersen.com/atmospheric-optics/light-pillars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively strong ligh...</p></details>
+   Link:<a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://www.lwpetersen.com/atmospheric-optics/light-pillars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively strong ligh...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: innovationparkzurich.com  
-   Link: <a href="https://www.innovationparkzurich.com/en/bright-night" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationparkzurich.com/en/bright-night</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright nightVIIRS Day/Night Band (DNB) data are used for estimating population, assessing electrification of remote areas, monitoring dis...</p></details>
+   Link:<a href="https://www.innovationparkzurich.com/en/bright-night" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationparkzurich.com/en/bright-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright nightVIIRS Day/Night Band (DNB) data are used for estimating population, assessing electrification of remote areas, monitoring dis...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lightpollutionmap.info  
-   Link: <a href="https://www.lightpollutionmap.info/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpollutionmap.info/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light pollution mapInteractive world light pollution map. The map uses NASA Black marble VIIRS, Sky brightness, Aurora prediction, observ...</p></details>
+   Link:<a href="https://www.lightpollutionmap.info/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpollutionmap.info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light pollution mapInteractive world light pollution map. The map uses NASA Black marble VIIRS, Sky brightness, Aurora prediction, observ...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/[astronomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA satellite images uncover dramatic changes in Earth&#x27;s...7 days ago — NASA&#x27;s Black Marble product is designed to strip away interfere...</p></details>
+   Link:<a href="https://www.space.com/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/[astronomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA satellite images uncover dramatic changes in Earth&#x27;s...7 days ago — NASA&#x27;s Black Marble product is designed to strip away interfere...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/naturessymphony2024/posts/light-pillarslight-pillars-are-a-rare-and-beautiful-atmospheric-phenomenon-they-/774152705360167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/naturessymphony2024/posts/light-pillarslight-pillars-are-a-rare-and-beautiful-atmospheric-phenomenon-they-/774152705360167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature&#x27;s SymphonyLight Pillars Light pillars are a rare and beautiful atmospheric phenomenon. They appear as vertical, rising lines of li...</p></details>
+   Link:<a href="https://www.facebook.com/naturessymphony2024/posts/light-pillarslight-pillars-are-a-rare-and-beautiful-atmospheric-phenomenon-they-/774152705360167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/naturessymphony2024/posts/light-pillarslight-pillars-are-a-rare-and-beautiful-atmospheric-phenomenon-they-/774152705360167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature&#x27;s SymphonyLight Pillars Light pillars are a rare and beautiful atmospheric phenomenon. They appear as vertical, rising lines of li...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aiddata.org  
-   Link: <a href="https://www.aiddata.org/geoquery-datasets/viirs-vcmcfg-dnb-composites-v10-yearly-max" target="_blank" rel="noopener noreferrer nofollow">https://www.aiddata.org/geoquery-datasets/viirs-vcmcfg-dnb-composites-v10-yearly-max</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS Nighttime LightsYearly VIIRS day night band nighttime lights data (without stray light correction). Aggregated to yearly from month...</p></details>
+   Link:<a href="https://www.aiddata.org/geoquery-datasets/viirs-vcmcfg-dnb-composites-v10-yearly-max" target="_blank" rel="noopener noreferrer nofollow">https://www.aiddata.org/geoquery-datasets/viirs-vcmcfg-dnb-composites-v10-yearly-max</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIIRS Nighttime LightsYearly VIIRS day night band nighttime lights data (without stray light correction). Aggregated to yearly from month...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: support.skylight.global  
-   Link: <a href="https://support.skylight.global/en_US/vessel-detection-events/night-lights" target="_blank" rel="noopener noreferrer nofollow">https://support.skylight.global/en_US/vessel-detection-events/night-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LightsVIIRS clear sky confidence: Probability that a specific pixel contains a cloud. · VIIRS moonlight illumination: Pixel based and a p...</p></details>
+   Link:<a href="https://support.skylight.global/en_US/vessel-detection-events/night-lights" target="_blank" rel="noopener noreferrer nofollow">https://support.skylight.global/en_US/vessel-detection-events/night-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LightsVIIRS clear sky confidence: Probability that a specific pixel contains a cloud. · VIIRS moonlight illumination: Pixel based and a p...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: videos.space.com  
    Title: nasas black marble project reveals dramatic changes in earths nighttime lights  
-   Link: <a href="https://videos.space.com/m/jvUV2Xgl/nasas-black-marble-project-reveals-dramatic-changes-in-earths-nighttime-lights?list=6DUiA9a3" target="_blank" rel="noopener noreferrer nofollow">https://videos.space.com/m/jvUV2Xgl/nasas-black-marble-project-reveals-dramatic-changes-in-earths-nighttime-lights?list=6DUiA9a3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>space.comNASA&#x27;s &#x27;Black Marble&#x27; project reveals dramatic changes in...8 days ago — NASA&#x27;s Black Marble satellite images reveal dramatic c...</p></details>
+   Link:<a href="https://videos.space.com/m/jvUV2Xgl/nasas-black-marble-project-reveals-dramatic-changes-in-earths-nighttime-lights?list=6DUiA9a3" target="_blank" rel="noopener noreferrer nofollow">https://videos.space.com/m/jvUV2Xgl/nasas-black-marble-project-reveals-dramatic-changes-in-earths-nighttime-lights?list=6DUiA9a3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>space.comNASA&#x27;s &#x27;Black Marble&#x27; project reveals dramatic changes in...8 days ago — NASA&#x27;s Black Marble satellite images reveal dramatic c...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397907081_Hidden_Optics_in_Plain_Sight_Rare_Atmospheric_and_Environmental_Phenomena_Accessible_to_the_Naked_Eye" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397907081_Hidden_Optics_in_Plain_Sight_Rare_Atmospheric_and_Environmental_Phenomena_Accessible_to_the_Naked_Eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Solar pillars appear when the Sun is low in the sky, especially near sunrise or...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397907081_Hidden_Optics_in_Plain_Sight_Rare_Atmospheric_and_Environmental_Phenomena_Accessible_to_the_Naked_Eye" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397907081_Hidden_Optics_in_Plain_Sight_Rare_Atmospheric_and_Environmental_Phenomena_Accessible_to_the_Naked_Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Solar pillars appear when the Sun is low in the sky, especially near sunrise or...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: essic.umd.edu  
    Title: monitoring nighttime light changes with nasas black marble  
-   Link: <a href="https://essic.umd.edu/monitoring-nighttime-light-changes-with-nasas-black-marble/" target="_blank" rel="noopener noreferrer nofollow">https://essic.umd.edu/monitoring-nighttime-light-changes-with-nasas-black-marble/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Light Changes with NASA&#x27;s Black...21 Oct 2022 — ESSIC Scientist Zhuosen Wang has a new paper in Remote Sensing of Environment...</p></details>
+   Link:<a href="https://essic.umd.edu/monitoring-nighttime-light-changes-with-nasas-black-marble/" target="_blank" rel="noopener noreferrer nofollow">https://essic.umd.edu/monitoring-nighttime-light-changes-with-nasas-black-marble/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Light Changes with NASA&#x27;s Black...21 Oct 2022 — ESSIC Scientist Zhuosen Wang has a new paper in Remote Sensing of Environment...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: today.uconn.edu  
    Title: earth isnt just glowing its flickering  
-   Link: <a href="https://today.uconn.edu/2026/04/earth-isnt-just-glowing-its-flickering/" target="_blank" rel="noopener noreferrer nofollow">https://today.uconn.edu/2026/04/earth-isnt-just-glowing-its-flickering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capture the Volatile Human-Luminescence...8 Apr 2026 — The researchers are part of NASA&#x27;s Black Marble science team, and they used satel...</p></details>
+   Link:<a href="https://today.uconn.edu/2026/04/earth-isnt-just-glowing-its-flickering/" target="_blank" rel="noopener noreferrer nofollow">https://today.uconn.edu/2026/04/earth-isnt-just-glowing-its-flickering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capture the Volatile Human-Luminescence...8 Apr 2026 — The researchers are part of NASA&#x27;s Black Marble science team, and they used satel...</p></details>

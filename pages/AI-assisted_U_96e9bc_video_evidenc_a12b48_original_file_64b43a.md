@@ -297,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 A UFO video often becomes less useful as it becomes more famous. The clip that spreads across TikTok, YouTube, X, Facebook or Reddit is usually not the untouched camera file recorded at the scene. It is more often a cropped, recompressed, screen-recorded or edited repost stripped of the timing, location and technical data that investigators need to test what actually happened.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-dark.svg" | relative_url }}" alt="Original Files illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, this distinction matters more than visual drama. A blurry original file with intact [metadata]({{ 'metadata/' | relative_url }}) can support timeline reconstruction, [geolocation]({{ 'geolocation/' | relative_url }}) checks, aircraft correlation and camera analysis. A sharper viral repost may be almost impossible to verify because the original timestamps, encoding details and surrounding context have disappeared. NASA’s independent UAP study highlighted the same broader problem: analysis breaks down when sensor metadata and baseline measurements are missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+For AI-assisted UFO sighting investigation, this distinction matters more than visual drama. A blurry original file with intact [metadata]({{ 'metadata/' | relative_url }}) can support timeline reconstruction, [geolocation]({{ 'geolocation/' | relative_url }}) checks, aircraft correlation and camera analysis. A sharper viral repost may be almost impossible to verify because the original timestamps, encoding details and surrounding context have disappeared. NASA’s independent UAP study highlighted the same broader problem: analysis breaks down when sensor metadata and baseline measurements are missing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 This is why serious UFO case analysis begins with one question before any claim about speed, manoeuvres or anomalous behaviour: where is the [original]({{ 'original-evidence/' | relative_url }}) file?
 
@@ -370,7 +370,7 @@ At that point, investigators are no longer analysing the filmed event. They are 
 
 ## Metadata clues investigators rely on
 
-The original file often contains more valuable evidence than the visible image itself. Modern phones, drones and digital cameras embed technical information inside the video container. Video forensic researchers use these metadata structures to identify recording devices, editing traces and manipulation history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
+The original file often contains more valuable evidence than the visible image itself. Modern phones, drones and digital cameras embed technical information inside the video container. Video forensic researchers use these metadata structures to identify recording devices, editing traces and manipulation history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
 
 In UFO investigation workflows, these hidden details help establish whether a sighting timeline is coherent and whether the footage matches external data sources.
 
@@ -418,7 +418,7 @@ A common failure in UFO interpretation occurs when digital zoom and autofocus hu
 
 ### File structure can reveal editing
 
-Video forensic research shows that metadata and container structures can expose manipulation history, editing software and transcoding patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
+Video forensic research shows that metadata and container structures can expose manipulation history, editing software and transcoding patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
 
 That does not automatically mean a UFO video is fake. A witness may genuinely trim a clip before uploading it. But once editing occurs, investigators must separate:
 
@@ -509,9 +509,9 @@ As a result, repost chains can transform uncertain or casually explained footage
 
 The US Navy “GoFast” video demonstrates how even globally famous UFO footage can suffer from missing source data.
 
-In its 2025 case resolution, the All-domain Anomaly Resolution Office (AARO) stated that it analysed the publicly available 34-second FLIR clip because the original file and accompanying metadata were no longer available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span>
+In its 2025 case resolution, the All-domain Anomaly Resolution Office (AARO) stated that it analysed the publicly available 34-second FLIR clip because the original file and accompanying metadata were no longer available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span>
 
-Despite those limitations, AARO concluded that the apparent extreme speed was consistent with parallax effects and viewing geometry rather than extraordinary motion. The case became a major example of how public interpretation can diverge from technical analysis when underlying telemetry and sensor context are [incomplete]({{ 'incomplete-data/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery&quot;Go Fast&quot; Object, NAVAIR</span><span class="citation-popover-snippet">FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</span></span></span>
+Despite those limitations, AARO concluded that the apparent extreme speed was consistent with parallax effects and viewing geometry rather than extraordinary motion. The case became a major example of how public interpretation can diverge from technical analysis when underlying telemetry and sensor context are [incomplete]({{ 'incomplete-data/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery&quot;Go Fast&quot; Object, NAVAIR</span><span class="citation-popover-snippet">FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</span></span></span>
 
 The important point is not whether every investigator agrees with AARO’s conclusion. The important point is that even one of the world’s best-known UFO clips lacked the full original evidential package needed for unrestricted independent analysis.
 
@@ -549,199 +549,199 @@ That inversion surprises many readers because online attention often tracks emot
 * Minimal recompression
 * Clear [chain of custody]({{ 'chain-of-custody/' | relative_url }})
 
-NASA’s UAP study repeatedly stressed that poor metadata and weak sensor context obstruct reliable analysis. NASA Science Space Viral repost culture tends to amplify exactly those weaknesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
+NASA’s UAP study repeatedly stressed that poor metadata and weak sensor context obstruct reliable analysis. NASA Science Space Viral repost culture tends to amplify exactly those weaknesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
 For AI-assisted UFO sighting investigation, the lesson is straightforward: the closer investigators remain to the untouched source file, the better the chance of distinguishing a genuinely unresolved event from a distorted, context-stripped social media artefact.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Original UFO File Matters More. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Original UFO File Matters More. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Directly relates to interpreting image and video evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to interpreting image and video evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence quality and verification over appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence quality and verification over appearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Encourages attention to data quality and missing context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages attention to data quality and missing context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Covers evidence preservation and investigation workflows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence preservation and investigation workflows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS"><img src="https://i.ebayimg.com/images/g/CQ8AAOSwMVdnl94w/s-l225.jpg" alt="Listing image for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS"><img src="https://i.ebayimg.com/images/g/CQ8AAOSwMVdnl94w/s-l225.jpg" alt="Listing image for Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">Memory Card Reader All in One 1 USB Adapter SD SDHC Mini Micro M2 MMC XD CF MS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader"><img src="https://i.ebayimg.com/images/g/~isAAeSwSy1ob4RK/s-l225.jpg" alt="Listing image for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader"><img src="https://i.ebayimg.com/images/g/~isAAeSwSy1ob4RK/s-l225.jpg" alt="Listing image for 2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">2 in 1 USB 3.0 Card Reader Micro TF sd card Reader usb adapter High Speed Reader</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF"><img src="https://i.ebayimg.com/images/g/BdgAAeSwCQhotgR7/s-l225.jpg" alt="Listing image for USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF"><img src="https://i.ebayimg.com/images/g/BdgAAeSwCQhotgR7/s-l225.jpg" alt="Listing image for USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB C SD Card Reader, Micro SD to Type C OTG Adapter for SDHC SDXC TF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac"><img src="https://i.ebayimg.com/images/g/xmMAAeSwXERpwXrP/s-l225.jpg" alt="Listing image for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac"><img src="https://i.ebayimg.com/images/g/xmMAAeSwXERpwXrP/s-l225.jpg" alt="Listing image for USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">USB Memory Card Reader CF XD SD MS | Compact Flash XD Picture Card PC Mac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card reader">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card reader</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-more-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="why-the-original-ufo-file-matters-more-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -757,7 +757,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -777,7 +777,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -809,7 +809,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -861,7 +861,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -906,7 +906,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -947,171 +947,171 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
    Published: May 13, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Efficient video integrity analysis through container characterization  
-   Link: <a href="https://arxiv.org/abs/2101.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.10795</a>  
+   Link:<a href="https://arxiv.org/abs/2101.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.10795</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Imagery"Go Fast" Object, NAVAIR  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/</a>  
+   Link:<a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>telemetry from the F/A-18F, AARO had to account for a range...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>telemetry from the F/A-18F, AARO had to account for a range...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO videos. Lawmakers insist that these recordings, still kept...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO videos. Lawmakers insist that these recordings, still kept...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: ufo or drone involved in mid air collision with jet over florida remains in myst  
-   Link: <a href="https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or drone involved in mid-air collision with jet over...UFO or drone involved in mid-air collision with jet over Florida remains in m...</p></details>
+   Link:<a href="https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or drone involved in mid-air collision with jet over...UFO or drone involved in mid-air collision with jet over Florida remains in m...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: about.youtube  
    Title: You Tube  
-   Link: <a href="https://about.youtube/" target="_blank" rel="noopener noreferrer nofollow">https://about.youtube/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our mission is to give everyone a voice and show them the world. We believe that everyone deserves to have a voice, and that the w...</p></details>
+   Link:<a href="https://about.youtube/" target="_blank" rel="noopener noreferrer nofollow">https://about.youtube/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our mission is to give everyone a voice and show them the world. We believe that everyone deserves to have a voice, and that the w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why viral UFO videos are often misleading  
-   Link: <a href="https://www.youtube.com/watch?v=Fj2r18R-m7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj2r18R-m7I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How compression ruins video evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fj2r18R-m7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj2r18R-m7I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How compression ruins video evidence...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How compression ruins video evidence  
-   Link: <a href="https://www.youtube.com/watch?v=J3e1Gv257-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J3e1Gv257-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of original [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) in UAP analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J3e1Gv257-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J3e1Gv257-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of original [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) in UAP analysis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The importance of original sensor data in UAP analysis  
-   Link: <a href="https://www.youtube.com/watch?v=0k1LwY03Qz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k1LwY03Qz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific analysis of viral UAP footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0k1LwY03Qz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k1LwY03Qz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific analysis of viral UAP footage...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Scientific analysis of viral UAP footage  
-   Link: <a href="https://www.youtube.com/watch?v=3-M10w68r-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3-M10w68r-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking internet myths with frame by frame analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3-M10w68r-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3-M10w68r-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking internet myths with frame by frame analysis...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Debunking internet myths with frame by frame analysis  
-   Link: <a href="https://www.youtube.com/watch?v=u6G54qYtWz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u6G54qYtWz4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=u6G54qYtWz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u6G54qYtWz4</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.youtube" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.youtube</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apps on Google PlayGet the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.youtube" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.youtube</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apps on Google PlayGet the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.apps.youtube.xr" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.apps.youtube.xr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apps on Google PlayExperience your favourite YouTube channels, videos and creators in extended reality. The YouTube app turns every vid...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.apps.youtube.xr" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.google.android.apps.youtube.xr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apps on Google PlayExperience your favourite YouTube channels, videos and creators in extended reality. The YouTube app turns every vid...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.youtube  
-   Link: <a href="https://blog.youtube/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official YouTube Blog for Latest YouTube News &amp; InsightsExplore our official blog for the latest news about YouTube, creator and artist p...</p></details>
+   Link:<a href="https://blog.youtube/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official YouTube Blog for Latest YouTube News &amp; InsightsExplore our official blog for the latest news about YouTube, creator and artist p...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+   Link:<a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unilad.com  
    Title: nasa study ufo official report 144381 20230914  
-   Link: <a href="https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of study into UFO&#x27;s released by NASA14 Sept 2023 — However, the report claims that &#x27;UAP data is hampered by poor sensor calibrat...</p></details>
+   Link:<a href="https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of study into UFO&#x27;s released by NASA14 Sept 2023 — However, the report claims that &#x27;UAP data is hampered by poor sensor calibrat...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: avweb.com  
    Title: lack of sensor metadata, and the lack of baseline data.Read more  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Finally, there&#x27;s a lack of baseline data to help understand whether an...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Finally, there&#x27;s a lack of baseline data to help understand whether an...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>

@@ -275,16 +275,16 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 ## Introduction
 
-Many “flashing UFO” reports begin with a bright light that appears to hover in one place while rapidly changing colour. Witnesses often describe red, blue, green and white pulses, sparkling edges, or a light that seems to signal intentionally. In a large number of cases, the object is not an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft at all but a bright star distorted by Earth’s atmosphere through a process called atmospheric scintillation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Why Don&#x27;t Planets Twinkle Too?Read more</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span>
+Many “flashing UFO” reports begin with a bright light that appears to hover in one place while rapidly changing colour. Witnesses often describe red, blue, green and white pulses, sparkling edges, or a light that seems to signal intentionally. In a large number of cases, the object is not an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft at all but a bright star distorted by Earth’s atmosphere through a process called atmospheric scintillation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Why Don&#x27;t Planets Twinkle Too?Read more</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" alt="Scintillation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, scintillation is one of the most important ordinary explanations to test early because it matches several common report patterns at once: stationary position, flashing colours, apparent hovering, and inconsistent apparent movement. The effect becomes especially dramatic when a star sits low above the horizon, where its light must travel through thicker, more turbulent layers of air before reaching the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+For AI-assisted UFO sighting investigation, scintillation is one of the most important ordinary explanations to test early because it matches several common report patterns at once: stationary position, flashing colours, apparent hovering, and inconsistent apparent movement. The effect becomes especially dramatic when a star sits low above the horizon, where its light must travel through thicker, more turbulent layers of air before reaching the observer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## What scintillation does to starlight
 
-Astronomers use the term “scintillation” for the rapid variations in a star’s apparent brightness, colour and position caused by turbulence in the atmosphere. Although stars themselves shine steadily, their light arrives at Earth after passing through constantly shifting layers of air with different temperatures and densities. Those moving air pockets bend the incoming light slightly differently from moment to moment. Sky & Telescope <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhy Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</span></span></span>
+Astronomers use the term “scintillation” for the rapid variations in a star’s apparent brightness, colour and position caused by turbulence in the atmosphere. Although stars themselves shine steadily, their light arrives at Earth after passing through constantly shifting layers of air with different temperatures and densities. Those moving air pockets bend the incoming light slightly differently from moment to moment. Sky & Telescope<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhy Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</span></span></span>
 
-Because stars are so distant, they appear to the human eye as extremely small point sources. That makes them unusually vulnerable to atmospheric distortion. Even tiny changes in refraction can make a star appear to flicker, pulse, wobble or fragment into different colours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Because stars are so distant, they appear to the human eye as extremely small point sources. That makes them unusually vulnerable to atmospheric distortion. Even tiny changes in refraction can make a star appear to flicker, pulse, wobble or fragment into different colours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 In UFO reports, witnesses commonly interpret these effects as signs of active technology or controlled motion. Scintillation can produce:
 
@@ -298,7 +298,7 @@ In UFO reports, witnesses commonly interpret these effects as signs of active te
 
 </div>
 
-Under dark-sky viewing conditions, especially when there are few surrounding [reference points]({{ 'reference-points/' | relative_url }}), the brain can misread those atmospheric distortions as purposeful behaviour. A witness may sincerely report a “craft flashing coloured lights” even though the object has remained astronomically fixed throughout the observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Under dark-sky viewing conditions, especially when there are few surrounding [reference points]({{ 'reference-points/' | relative_url }}), the brain can misread those atmospheric distortions as purposeful behaviour. A witness may sincerely report a “craft flashing coloured lights” even though the object has remained astronomically fixed throughout the observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 This becomes particularly important in event reconstruction. A structured UFO case [review]({{ 'review/' | relative_url }}) should compare the reported object position against the known locations of bright stars at the exact time and azimuth of the sighting. AI-assisted correlation systems can automate this step quickly using [astronomy]({{ 'astronomy/' | relative_url }}) software and sky catalogues.
 
@@ -306,11 +306,11 @@ This becomes particularly important in event reconstruction. A structured UFO ca
 
 ## Why low stars flash stronger colours
 
-The strongest scintillation usually occurs when a star sits low above the horizon. At low angles, the starlight travels through far more atmosphere than it does when overhead. The extra distance increases the amount of turbulence, moisture, pollution and thermal mixing affecting the light path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The strongest scintillation usually occurs when a star sits low above the horizon. At low angles, the starlight travels through far more atmosphere than it does when overhead. The extra distance increases the amount of turbulence, moisture, pollution and thermal mixing affecting the light path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This low-angle [geometry]({{ 'geometry/' | relative_url }}) explains why many UFO reports occur shortly after sunset or before dawn, when bright stars and planets sit near the horizon line and become visually unstable.
 
-Colour changes become especially noticeable because Earth’s atmosphere acts partly like a weak prism. Different wavelengths of light are bent by slightly different amounts. Rapid fluctuations in air density then scatter those colours unevenly, creating split-second flashes of red, green and blue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Is that a UFO?!</span><span class="citation-popover-snippet">There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</span></span></span>
+Colour changes become especially noticeable because Earth’s atmosphere acts partly like a weak prism. Different wavelengths of light are bent by slightly different amounts. Rapid fluctuations in air density then scatter those colours unevenly, creating split-second flashes of red, green and blue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Is that a UFO?!</span><span class="citation-popover-snippet">There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</span></span></span>
 
 [Sirius]({{ 'sirius/' | relative_url }}) is the classic example. As the brightest true star in the night sky, it repeatedly appears in UFO databases and witness reports. Observers frequently describe it as:
 
@@ -323,7 +323,7 @@ Colour changes become especially noticeable because Earth’s atmosphere acts pa
 
 </div>
 
-Astronomy sources specifically note that Sirius’s brightness and strong colour flickering near the horizon regularly lead people to report it as a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span>
+Astronomy sources specifically note that Sirius’s brightness and strong colour flickering near the horizon regularly lead people to report it as a UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span>
 
 From UK latitudes, Sirius often remains relatively low in winter evenings, which strengthens the effect. Other bright stars such as Capella and Arcturus can also produce vivid scintillation under unstable atmospheric conditions.
 
@@ -387,7 +387,7 @@ An AI-assisted investigation system can:
 
 * Reconstruct the sky for the reported time and coordinates
 * Identify bright stars near the witness line of sight
-* Calculate star elevation above the horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[universetoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span>
+* Calculate star elevation above the horizon<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[universetoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span>
 * Flag periods of strong atmospheric instability
 * Compare witness descriptions against previous scintillation-driven reports
 * Score the likelihood of astronomical misidentification
@@ -409,194 +409,194 @@ The effect also exploits expectation. Once someone frames the light as a possibl
 That combination of atmospheric physics, human perception and modern imaging technology makes scintillation one of the most persistent ordinary explanations in UFO investigation. Understanding it does not trivialise witness experiences. Instead, it explains why sincere observers can report extraordinary-looking aerial behaviour even when the original source is a stationary star distorted by turbulent air.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When twinkling becomes a flashing craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When twinkling becomes a flashing craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains stars, atmospheric effects and observation conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains stars, atmospheric effects and observation conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps identify stars commonly mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify stars commonly mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Discusses atmospheric distortion and visual effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses atmospheric distortion and visual effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides broader astronomy context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader astronomy context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM"><img src="https://i.ebayimg.com/images/g/CVoAAOSwbRtoTrsj/s-l225.jpg" alt="Listing image for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM"><img src="https://i.ebayimg.com/images/g/CVoAAOSwbRtoTrsj/s-l225.jpg" alt="Listing image for MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">MTG ~ Astrologian&#x27;s Planisphere ~ FIN ~ NM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North"><img src="https://i.ebayimg.com/images/g/YHoAAeSwslZpCj2L/s-l225.jpg" alt="Listing image for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Glow-In-The-Dark Planisphere Latitude 51.5 North</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North"><img src="https://i.ebayimg.com/images/g/YHoAAeSwslZpCj2L/s-l225.jpg" alt="Listing image for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Glow-In-The-Dark Planisphere Latitude 51.5 North</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/~1sAAeSwPw9p5W0B/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/~1sAAeSwPw9p5W0B/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 N..., Philip&#x27;s Maps</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/Qw4AAeSwUuFpMuVN/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/Qw4AAeSwUuFpMuVN/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-twinkling-becomes-a-flashing-craft-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="when-twinkling-becomes-a-flashing-craft-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,128 +802,128 @@ That combination of atmospheric physics, human perception and modern imaging tec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: earthsky.org  
    Title: why dont planets twinkle as stars do  
-   Link: <a href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</p></details>
+   Link:<a href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astronomy.com  
    Title: simply scintillating  
-   Link: <a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
+   Link:<a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhy Do Stars Twinkle? | Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</p></details>
+   Link:<a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhy Do Stars Twinkle? | Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: earthsky.org  
    Title: Earth Sky Is that a UFO?!  
-   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</p></details>
+   Link:<a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: astronomy.com  
-   Link: <a href="https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?4 days ago — Stars twinkle and sometimes appear to move around d...</p></details>
+   Link:<a href="https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?4 days ago — Stars twinkle and sometimes appear to move around d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: earthsky.org  
-   Link: <a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
+   Link:<a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SiriusSirius often flashes rainbow colours in the sky due to its twinkling. Sirius can be observed in daylight with the naked eye unde...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SiriusSirius often flashes rainbow colours in the sky due to its twinkling. Sirius can be observed in daylight with the naked eye unde...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skyandtelescope.org  
    Title: Why Don't Planets Twinkle Too?Read more  
-   Link: <a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skyatnightmagazine.com  
    Title: why do stars twinkle  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universetoday.com  
    Title: sirius ufo trickster extraordinaire  
-   Link: <a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: universetoday.com  
    Title: why do stars twinkle  
-   Link: <a href="https://www.universetoday.com/articles/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/why-do-stars-twinkle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Aug 2013 — Stars twinkle, I mean scintillate, because as light passes down through a volume of air, turbulence in the Earth&#x27;s atmosphe...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/why-do-stars-twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Aug 2013 — Stars twinkle, I mean scintillate, because as light passes down through a volume of air, turbulence in the Earth&#x27;s atmosphe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: meteorwatch.org  
    Title: It is very bright, which can amplify atmospheric effects.Read more  
-   Link: <a href="https://meteorwatch.org/sirius-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://meteorwatch.org/sirius-twinkle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius - The Multicoloured Star and Why it TwinklesJan 10, 2019 — Sirius appears to twinkle or shimmer more than other stars due to some...</p></details>
+   Link:<a href="https://meteorwatch.org/sirius-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://meteorwatch.org/sirius-twinkle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius - The Multicoloured Star and Why it TwinklesJan 10, 2019 — Sirius appears to twinkle or shimmer more than other stars due to some...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Successfully Beat Atmospheric SeeingTelescope users recognize two types of atmospheric seeing: &quot;slow&quot; and &quot;fast.&quot; Slow seeing make...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Successfully Beat Atmospheric SeeingTelescope users recognize two types of atmospheric seeing: &quot;slow&quot; and &quot;fast.&quot; Slow seeing make...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonThe flickering colours are especially easy to notice when you spot Sirius low in the s...</p></details>
+   Link:<a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonThe flickering colours are especially easy to notice when you spot Sirius low in the s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — The lustrous star Sirius will be putting on its best show for eve...</p></details>
+   Link:<a href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — The lustrous star Sirius will be putting on its best show for eve...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/326916019733179/posts/625950963163015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326916019733179/posts/625950963163015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Atmospheric Refraction: • The Earth&#x27;s atmosphere is made up of layers of air with varying densities and temperatures.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/326916019733179/posts/625950963163015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326916019733179/posts/625950963163015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. Atmospheric Refraction: • The Earth&#x27;s atmosphere is made up of layers of air with varying densities and temperatures.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does when...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does when...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as a UFO! In fact, these changes are simply what happens...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as a UFO! In fact, these changes are simply what happens...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSirius Scintillation - General Observing and AstronomyJan 18, 2026 — All stars scintillate-- Sirius is just more noticeable...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSirius Scintillation - General Observing and AstronomyJan 18, 2026 — All stars scintillate-- Sirius is just more noticeable...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 object of known origin that&#x27;s mistaken for a UFO, as...Read more...</p></details>
+   Link:<a href="https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 object of known origin that&#x27;s mistaken for a UFO, as...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: naturalnavigator.com  
-   Link: <a href="https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scintillating Secrets of Twinkling Stars5 Apr 2023 — When you look at stars at night, they appear to fluctuate in brightness...</p></details>
+   Link:<a href="https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scintillating Secrets of Twinkling Stars5 Apr 2023 — When you look at stars at night, they appear to fluctuate in brightness...</p></details>

@@ -297,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 Yes. Under the right conditions, the Moon can look surprisingly unlike the Moon. Thin cloud, haze, broken gaps between trees or buildings, and low-angle viewing near the horizon can turn a familiar object into something that appears detached, hovering, pulsing, moving or oddly shaped. In UFO investigations, this matters because witnesses are often reporting what they genuinely perceived rather than what was physically present. A bright fragment of moonlight seen through drifting cloud can resemble a glowing craft. A low Moon behind haze can seem to change colour and size. A partially hidden lunar disc can appear to dart between gaps in trees when viewed from a moving vehicle.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-dark.svg" | relative_url }}" alt="Moon illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, this is one of the fastest and most useful [astronomy]({{ 'astronomy/' | relative_url }}) checks. If the Moon was above the horizon at the reported bearing and time, investigators should test whether [weather]({{ 'weather/' | relative_url }}), foreground obstruction and viewing angle could have distorted it before treating the sighting as an unknown aerial object. NASA and astronomy educators repeatedly note that the Moon’s apparent size, colour and shape are heavily affected by human perception and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
+For AI-assisted UFO sighting investigation, this is one of the fastest and most useful [astronomy]({{ 'astronomy/' | relative_url }}) checks. If the Moon was above the horizon at the reported bearing and time, investigators should test whether [weather]({{ 'weather/' | relative_url }}), foreground obstruction and viewing angle could have distorted it before treating the sighting as an unknown aerial object. NASA and astronomy educators repeatedly note that the Moon’s apparent size, colour and shape are heavily affected by human perception and atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
 
 ## Can the Moon really look like a UFO?
 
@@ -329,7 +329,7 @@ Under those conditions, a witness may report:
 
 </div>
 
-Many historical UFO catalogues include reports later linked to astronomical objects seen under distorted viewing conditions. Project [Blue Book]({{ 'blue-book/' | relative_url }}) and later civilian UFO investigators repeatedly identified the Moon and [bright planets]({{ 'bright-planets/' | relative_url }}) as common sources of misidentification, especially when atmospheric conditions were poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Geipanaids to identification of flying objectsAre UFO sightings new? Recorded sightings of UFOs are not new, although descrip- tive terms...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
+Many historical UFO catalogues include reports later linked to astronomical objects seen under distorted viewing conditions. Project [Blue Book]({{ 'blue-book/' | relative_url }}) and later civilian UFO investigators repeatedly identified the Moon and [bright planets]({{ 'bright-planets/' | relative_url }}) as common sources of misidentification, especially when atmospheric conditions were poor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Geipanaids to identification of flying objectsAre UFO sightings new? Recorded sightings of UFOs are not new, although descrip- tive terms...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
 
 ## Cloud and foreground conditions that hide the lunar disc
 
@@ -348,7 +348,7 @@ This effect becomes more dramatic with layered cloud:
 
 </div>
 
-People frequently interpret these changing brightness patterns as the object itself moving or changing shape, even though the Moon remains stationary. NASA notes that atmospheric conditions near the horizon can also distort the Moon vertically, making it appear flattened or warped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span>
+People frequently interpret these changing brightness patterns as the object itself moving or changing shape, even though the Moon remains stationary. NASA notes that atmospheric conditions near the horizon can also distort the Moon vertically, making it appear flattened or warped.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span>
 
 Broken cloud can also create the illusion that:
 
@@ -391,7 +391,7 @@ Because the foreground is moving while the Moon remains fixed, the light can app
 
 This “[following Moon]({{ 'following-moon/' | relative_url }})” effect is a normal consequence of parallax and distant-object perception. Nearby objects shift position rapidly as the observer moves, while distant objects such as the Moon barely shift at all. The brain can interpret this incorrectly as active pursuit or hovering behaviour.
 
-The illusion becomes stronger when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span>
+The illusion becomes stronger when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span>
 
 * the observer cannot see the full horizon
 * there are no nearby stars for reference
@@ -402,7 +402,7 @@ A partially hidden Moon can therefore look much smaller, closer and more object-
 
 ### Haze changes colour, brightness and apparent distance
 
-A low Moon viewed through haze often appears orange, red or deep yellow because shorter blue wavelengths scatter more strongly in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">optical illusion you see every single day without realizing 1749075</span><span class="citation-popover-snippet">The Moon Illusion Explained: The Optical Illusion You Can...5 Oct 2022 — &quot;When the moon lies low in the sky instead of overhead...</span></span></span>
+A low Moon viewed through haze often appears orange, red or deep yellow because shorter blue wavelengths scatter more strongly in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">optical illusion you see every single day without realizing 1749075</span><span class="citation-popover-snippet">The Moon Illusion Explained: The Optical Illusion You Can...5 Oct 2022 — &quot;When the moon lies low in the sky instead of overhead...</span></span></span>
 
 To witnesses unfamiliar with atmospheric optics, this can resemble:
 
@@ -425,7 +425,7 @@ In urban conditions, pollution and moisture intensify these effects.
 
 In a structured UFO investigation, the Moon should be treated as a testable candidate explanation rather than a vague possibility.
 
-The most important checks are: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Moon Height vs. Moon Phase at the time of structured...The most important measurements for the scientific investigation of Unidentified...</span></span></span>
+The most important checks are:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Moon Height vs. Moon Phase at the time of structured...The most important measurements for the scientific investigation of Unidentified...</span></span></span>
 
 * **Phase:** Was the Moon full, crescent, gibbous or near new?
 * **Altitude:** How high above the horizon was it?
@@ -436,7 +436,7 @@ The most important checks are: <span class="citation-chip-wrap"><a class="citati
 
 A bright unidentified light low in the west shortly after sunset, for example, becomes much less mysterious if lunar data show a waxing crescent Moon sitting exactly at that bearing behind broken cloud.
 
-Tools such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date Moonrise Calculator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">FAQ: Moonrise, Moonset, and Moon PhaseThe Moonrise &amp; Moonset page offers Moon times and directions for any location. It also shows the cu...</span></span></span> and <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mooncalc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mooncalc.org">[MoonCalc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mooncalc.org</span><span class="citation-popover-snippet">moon phase, lunar eclipse, moon position, lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...</span></span></span> allow investigators to reconstruct the Moon’s exact position for a specific date, time and location. These checks are particularly valuable when witness memory is uncertain.
+Tools such as<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date Moonrise Calculator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">FAQ: Moonrise, Moonset, and Moon PhaseThe Moonrise &amp; Moonset page offers Moon times and directions for any location. It also shows the cu...</span></span></span> and<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mooncalc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mooncalc.org">[MoonCalc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mooncalc.org</span><span class="citation-popover-snippet">moon phase, lunar eclipse, moon position, lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...</span></span></span> allow investigators to reconstruct the Moon’s exact position for a specific date, time and location. These checks are particularly valuable when witness memory is uncertain.
 
 AI-assisted case systems can automate this process by:
 
@@ -452,7 +452,7 @@ The goal is not to dismiss witnesses automatically. It is to test whether a know
 
 ## Why the Moon can appear detached, enormous or unusually close
 
-The classic “Moon illusion” is already a strong perceptual effect even before cloud or foreground interference is added. The Moon near the horizon often appears much larger than when high overhead, despite remaining nearly the same angular size. NASA and perception researchers note that foreground cues such as trees, buildings and terrain strongly influence this perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
+The classic “Moon illusion” is already a strong perceptual effect even before cloud or foreground interference is added. The Moon near the horizon often appears much larger than when high overhead, despite remaining nearly the same angular size. NASA and perception researchers note that foreground cues such as trees, buildings and terrain strongly influence this perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
 
 This matters for UFO investigation because witnesses often estimate size and distance incorrectly when observing bright objects in the night sky.
 
@@ -463,7 +463,7 @@ A low Moon behind rooftops may therefore appear:
 * suspended over a nearby field or town
 * large enough to resemble a structured object
 
-Foreground references are central to the effect. Research into the Moon illusion repeatedly finds that terrain and nearby visual cues play a major role in perceived scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">moon illusion confusion11252015</span><span class="citation-popover-snippet">Moon Illusion is All in Your Head24 Nov 2015 — The lower central circle surrounded by small circles represents the horizon Moon with fore...</span></span></span>
+Foreground references are central to the effect. Research into the Moon illusion repeatedly finds that terrain and nearby visual cues play a major role in perceived scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">moon illusion confusion11252015</span><span class="citation-popover-snippet">Moon Illusion is All in Your Head24 Nov 2015 — The lower central circle surrounded by small circles represents the horizon Moon with fore...</span></span></span>
 
 When those same cues are [incomplete]({{ 'incomplete-data/' | relative_url }}) or fragmented through cloud and obstruction, the observer can lose recognition of the object entirely.
 
@@ -487,7 +487,7 @@ A lunar explanation becomes weaker when:
 * multiple independent witnesses observed clear directional travel
 * the object manoeuvred relative to fixed stars
 * instrument evidence shows movement inconsistent with lunar position
-* timestamps place the Moon below the horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
+* timestamps place the Moon below the horizon<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
 
 Phone video can complicate interpretation. Autofocus hunting, overexposure and digital zoom frequently turn the Moon into a glowing, shapeless object with apparent motion. Minor hand movement then produces dramatic shifts in the image. This is especially common when filming through cloud or haze.
 
@@ -527,194 +527,194 @@ Yet the underlying mechanism may simply be:
 For AI-assisted UFO analysis systems, this mechanism is valuable because it is highly testable. Lunar position, cloud cover and foreground geometry can all be reconstructed after the event. That makes Moon-related misidentification one of the strongest early-stage filters in astronomy-based UFO triage.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Moon really look like a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Moon really look like a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Excellent for understanding Moon position and appearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for understanding Moon position and appearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for learning how celestial objects appear in real conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for learning how celestial objects appear in real conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Explains cloud effects that alter lunar appearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cloud effects that alter lunar appearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Supports practical sky identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical sky identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp"><img src="https://i.ebayimg.com/images/g/XgoAAeSwcnFp8BW-/s-l225.jpg" alt="Listing image for 3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp"><img src="https://i.ebayimg.com/images/g/XgoAAeSwcnFp8BW-/s-l225.jpg" alt="Listing image for 3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">3D And 2D Crystal Ball LED Night Light Planet Globe Space Decor Gift Glass Lamp</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa"><img src="https://i.ebayimg.com/images/g/vNUAAeSw~bdqHodi/s-l225.jpg" alt="Listing image for Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa"><img src="https://i.ebayimg.com/images/g/vNUAAeSw~bdqHodi/s-l225.jpg" alt="Listing image for Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">Unique 3D Crystal Ball Night Light Led Lamp Bedside Table Glowing Galaxy Lamp Sa</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Globe for STEM Education - Moon Model - Astronomy Globe for"><img src="https://i.ebayimg.com/images/g/cUgAAeSwX8Rp8wWb/s-l225.jpg" alt="Listing image for Lunar Globe for STEM Education - Moon Model - Astronomy Globe for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">Lunar Globe for STEM Education - Moon Model - Astronomy Globe for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Globe for STEM Education - Moon Model - Astronomy Globe for"><img src="https://i.ebayimg.com/images/g/cUgAAeSwX8Rp8wWb/s-l225.jpg" alt="Listing image for Lunar Globe for STEM Education - Moon Model - Astronomy Globe for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">Lunar Globe for STEM Education - Moon Model - Astronomy Globe for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside"><img src="https://i.ebayimg.com/images/g/1MgAAeSwg11qI3Fl/s-l225.jpg" alt="Listing image for USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside"><img src="https://i.ebayimg.com/images/g/1MgAAeSwg11qI3Fl/s-l225.jpg" alt="Listing image for USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">USB 3D Moon Planet Globe Galaxy Night Light LED Crystal Ball Table Lamp Bedside</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon globe">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon globe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+globe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-moon-really-look-like-a-ufo-moon-globe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon globe" data-ebay-reference="can-the-moon-really-look-like-a-ufo-moon-globe" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,111 +921,111 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
 ## References
 
 - [Time and Date Moonrise Calculator](https://www.timeanddate.com/moon/help) [- MoonCalc(https://www.mooncalc.org/)](#endnote-6 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MoonCalc - moon phase, lunar eclipse, moon position, lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoonCalc - moon phase, lunar eclipse, moon position, lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...&quot;)...</p></details>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: the moon illusion why does the moon look so big sometimes  
-   Link: <a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Moon illusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moon_illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moon_illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsweek.com  
    Title: optical illusion you see every single day without realizing 1749075  
-   Link: <a href="https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moon Illusion Explained: The Optical Illusion You Can...5 Oct 2022 — &quot;When the moon lies low in the sky instead of overhead...</p></details>
+   Link:<a href="https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/optical-illusion-you-see-every-single-day-without-realizing-1749075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Moon Illusion Explained: The Optical Illusion You Can...5 Oct 2022 — &quot;When the moon lies low in the sky instead of overhead...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExplaining the moon illusion  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mooncalc.org  
-   Link: <a href="https://www.mooncalc.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.mooncalc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>moon phase, lunar eclipse, [moon position](&amp;#123;&amp;#123; &#x27;moon-position/&#x27; | relative_url &amp;#125;&amp;#125;), lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...</p></details>
+   Link:<a href="https://www.mooncalc.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.mooncalc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>moon phase, lunar eclipse, [moon position](&amp;#123;&amp;#123; &#x27;moon-position/&#x27; | relative_url &amp;#125;&amp;#125;), lunar...MoonCalc shows the motion of the Moon and Moon phase for a particular day a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipanaids to identification of flying objectsAre UFO sightings new? Recorded sightings of UFOs are not new, although descrip- tive terms...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geipanaids to identification of flying objectsAre UFO sightings new? Recorded sightings of UFOs are not new, although descrip- tive terms...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skyandtelescope.org  
    Title: moon illusion confusion11252015  
-   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Illusion is All in Your Head24 Nov 2015 — The lower central circle surrounded by small circles represents the horizon Moon with fore...</p></details>
+   Link:<a href="https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Illusion is All in Your Head24 Nov 2015 — The lower central circle surrounded by small circles represents the horizon Moon with fore...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ: Moonrise, Moonset, and Moon PhaseThe Moonrise &amp; Moonset page offers Moon times and directions for any location. It also shows the cu...</p></details>
+   Link:<a href="https://www.timeanddate.com/moon/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ: Moonrise, Moonset, and Moon PhaseThe Moonrise &amp; Moonset page offers Moon times and directions for any location. It also shows the cu...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uapsightings.org  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/1fdxsq7/something_off_with_the_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/1fdxsq7/something_off_with_the_moon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Something off with the moon: r/Glitch_in_the_MatrixLook up moon phases. The moon isn&#x27;t visible every night because during the new moon p...</p></details>
+   Link:<a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/1fdxsq7/something_off_with_the_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/1fdxsq7/something_off_with_the_moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Something off with the moon: r/Glitch_in_the_MatrixLook up moon phases. The moon isn&#x27;t visible every night because during the new moon p...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Height vs. Moon Phase at the time of structured...The most important measurements for the scientific investigation of Unidentified...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-Moon-Height-vs-Moon-Phase-at-the-time-of-structured-UAP-sightings-reported-in-the_fig8_253464694</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Height vs. Moon Phase at the time of structured...The most important measurements for the scientific investigation of Unidentified...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: michaelbach.de  
-   Link: <a href="https://michaelbach.de/ot/sze-moon/" target="_blank" rel="noopener noreferrer nofollow">https://michaelbach.de/ot/sze-moon/</a>  
+   Link:<a href="https://michaelbach.de/ot/sze-moon/" target="_blank" rel="noopener noreferrer nofollow">https://michaelbach.de/ot/sze-moon/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dismissing UFO sightings as misidentification like optical illusions or hoaxes is a... effects of unfamiliar phenomena like...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dismissing UFO sightings as misidentification like optical illusions or hoaxes is a... effects of unfamiliar phenomena like...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalgeographic.com  
    Title: moon illusion explained horizon size supermoon space science  
-   Link: <a href="https://www.nationalgeographic.com/science/article/moon-illusion-explained-horizon-size-supermoon-space-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/moon-illusion-explained-horizon-size-supermoon-space-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Moon Looks Bigger Near the Horizon13 Dec 2016 — A gigantic moon appears to hover near the horizon, but as that overgrown orb clim...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/moon-illusion-explained-horizon-size-supermoon-space-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/moon-illusion-explained-horizon-size-supermoon-space-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Moon Looks Bigger Near the Horizon13 Dec 2016 — A gigantic moon appears to hover near the horizon, but as that overgrown orb clim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astronomy.stackexchange.com  
    Title: wrong results of calculating moons altitude and azimuth  
-   Link: <a href="https://astronomy.stackexchange.com/questions/57816/wrong-results-of-calculating-moons-altitude-and-azimuth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/57816/wrong-results-of-calculating-moons-altitude-and-azimuth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>results of calculating moon&#x27;s altitude and azimuth4 Jun 2024 — I&#x27;m trying to calculate moon&#x27;s altitude and azimuth and I followed this fo...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/57816/wrong-results-of-calculating-moons-altitude-and-azimuth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/57816/wrong-results-of-calculating-moons-altitude-and-azimuth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>results of calculating moon&#x27;s altitude and azimuth4 Jun 2024 — I&#x27;m trying to calculate moon&#x27;s altitude and azimuth and I followed this fo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYuglEgiG9T/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYuglEgiG9T/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ound the Moon, giving it the appearance of floating through smoke...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYuglEgiG9T/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYuglEgiG9T/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ound the Moon, giving it the appearance of floating through smoke...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencenews.org  
    Title: Scientists are getting serious about UFOs  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact nation...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact nation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61563144540652/posts/a-mysterious-movement-near-the-moons-surface-was-captured-during-a-telescope-obs/122191983728438151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61563144540652/posts/a-mysterious-movement-near-the-moons-surface-was-captured-during-a-telescope-obs/122191983728438151/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e. #ufo #uap #ufosighting #moonmystery #ufofiles...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/61563144540652/posts/a-mysterious-movement-near-the-moons-surface-was-captured-during-a-telescope-obs/122191983728438151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61563144540652/posts/a-mysterious-movement-near-the-moons-surface-was-captured-during-a-telescope-obs/122191983728438151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e. #ufo #uap #ufosighting #moonmystery #ufofiles...Read more...</p></details>

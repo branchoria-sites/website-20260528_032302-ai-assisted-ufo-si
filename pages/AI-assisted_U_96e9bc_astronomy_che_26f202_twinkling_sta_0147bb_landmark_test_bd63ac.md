@@ -272,11 +272,11 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 When witnesses report a flashing light that “hovered”, “shifted sideways” or “darted slightly”, one of the fastest reality checks is surprisingly simple: did the light stay fixed relative to nearby landmarks? A bright star low on the horizon can appear restless because of atmospheric [scintillation]({{ 'scintillation/' | relative_url }}), eye movement, drifting cloud gaps and handheld camera shake, even while remaining in the same true sky position. In many UFO investigations, rooftops, chimneys, trees, pylons or hill lines become more useful than the light itself.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, this matters because apparent movement is often the dividing line between a probable astronomical explanation and a genuinely moving object. A structured workflow that compares the light against fixed foreground references can rapidly separate “the light moved” from “the observer or scene moved”. That distinction is especially important in reports involving flashing stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella or Vega, which are repeatedly mistaken for hovering craft when viewed through unstable atmosphere near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
+For AI-assisted UFO sighting investigation, this matters because apparent movement is often the dividing line between a probable astronomical explanation and a genuinely moving object. A structured workflow that compares the light against fixed foreground references can rapidly separate “the light moved” from “the observer or scene moved”. That distinction is especially important in reports involving flashing stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella or Vega, which are repeatedly mistaken for hovering craft when viewed through unstable atmosphere near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
 
 ## Why dark skies make motion hard to judge
 
-Human motion perception works best when the brain has stable [reference points]({{ 'reference-points/' | relative_url }}). In darkness, especially over open countryside or water, isolated lights lose that context. A stationary point of light can then appear to wander, pulse or drift. Psychologists and aviation researchers call this the autokinetic effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> Skybrary The effect becomes stronger under several common sighting conditions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
+Human motion perception works best when the brain has stable [reference points]({{ 'reference-points/' | relative_url }}). In darkness, especially over open countryside or water, isolated lights lose that context. A stationary point of light can then appear to wander, pulse or drift. Psychologists and aviation researchers call this the autokinetic effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> Skybrary The effect becomes stronger under several common sighting conditions:<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,7 +288,7 @@ Human motion perception works best when the brain has stable [reference points](
 
 </div>
 
-Investigators often underestimate how much visual instability can come from the observer rather than the object. Tiny involuntary eye movements, known as saccades, constantly shift the image on the retina. Without a stable frame around the light, the brain can misinterpret those corrections as external motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Fixational eye movements and the autokinetic illusion</span><span class="citation-popover-snippet">March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</span><span class="citation-popover-meta">Published: March 23, 2010</span></span></span>
+Investigators often underestimate how much visual instability can come from the observer rather than the object. Tiny involuntary eye movements, known as saccades, constantly shift the image on the retina. Without a stable frame around the light, the brain can misinterpret those corrections as external motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Fixational eye movements and the autokinetic illusion</span><span class="citation-popover-snippet">March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</span><span class="citation-popover-meta">Published: March 23, 2010</span></span></span>
 
 This is why witnesses may sincerely describe a star as “zig-zagging”, “circling”, or “responding” to observation even when astronomical software later places a bright star at exactly that location. The experience can feel convincing because the apparent motion is genuinely perceived, not deliberately invented.
 
@@ -323,7 +323,7 @@ Investigators compare the light against stable objects in the foreground:
 
 If the light remains in the same position relative to those features over several minutes, the case for a star or planet becomes much stronger.
 
-For example, a witness may report that a flashing object “hovered over the church tower”. If smartphone footage taken ten minutes apart still shows the light aligned with the same point above the tower, the object is probably not nearby. Earth’s rotation moves stars slowly enough that short observations often appear stationary to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bresser.com">[Bresser]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bresser.com</span><span class="citation-popover-snippet">Zodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</span></span></span>
+For example, a witness may report that a flashing object “hovered over the church tower”. If smartphone footage taken ten minutes apart still shows the light aligned with the same point above the tower, the object is probably not nearby. Earth’s rotation moves stars slowly enough that short observations often appear stationary to casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bresser.com">[Bresser]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bresser.com</span><span class="citation-popover-snippet">Zodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</span></span></span>
 
 A nearby aircraft or drone would normally drift against the foreground much more obviously unless it was intentionally hovering.
 
@@ -345,7 +345,7 @@ A highly magnified smartphone recording can make a stationary star appear to:
 
 </div>
 
-In reality, the apparent motion often comes from hand tremor, autofocus hunting and atmospheric turbulence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Estimation of based on scintillation of fixed targets imaged</span><span class="citation-popover-snippet">November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</span><span class="citation-popover-meta">Published: November 26, 2015</span></span></span>
+In reality, the apparent motion often comes from hand tremor, autofocus hunting and atmospheric turbulence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Estimation of based on scintillation of fixed targets imaged</span><span class="citation-popover-snippet">November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</span><span class="citation-popover-meta">Published: November 26, 2015</span></span></span>
 
 This is why investigators prefer wide shots that preserve foreground structures. Even crude references can be useful. A branch silhouette crossing the frame may provide more investigative value than a perfectly zoomed light blob.
 
@@ -367,7 +367,7 @@ The method is powerful, but not foolproof. Several real-world complications can 
 
 If the witness is driving, walking or filming from a moving vehicle, even distant stars can appear to “follow” them. Nearby foreground objects shift rapidly while the star barely moves, creating a strong illusion that the light is pacing the observer.
 
-This effect, known as parallax, is a major source of mistaken motion reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP</span><span class="citation-popover-snippet">Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</span></span></span>
+This effect, known as parallax, is a major source of mistaken motion reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP</span><span class="citation-popover-snippet">Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</span></span></span>
 
 Investigators therefore ask:
 
@@ -406,7 +406,7 @@ A structured case file may combine:
 * Foreground geometry
 * Camera stability
 * Weather conditions
-* Astronomical object positions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</span></span></span>
+* Astronomical object positions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</span></span></span>
 * Cloud cover
 * Observer movement
 
@@ -458,7 +458,7 @@ Good investigative systems therefore distinguish between:
 
 * **Confirmed astronomical match**
 * **Probable star explanation**
-* **Consistent with star behaviour** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/seestar/posts/816042597874691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</span></span></span>
+* **Consistent with star behaviour**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/seestar/posts/816042597874691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</span></span></span>
 * **Insufficient evidence**
 * **Motion unresolved**
 
@@ -481,7 +481,7 @@ Landmark testing becomes especially persuasive when several indicators align tog
 * Astronomical software identifies a bright star in the same position.
 * Weather conditions favoured strong scintillation.
 
-Community [astronomy]({{ 'astronomy/' | relative_url }}) discussions repeatedly show these patterns, particularly involving Sirius and other bright stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</span></span></span>
+Community [astronomy]({{ 'astronomy/' | relative_url }}) discussions repeatedly show these patterns, particularly involving Sirius and other bright stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</span></span></span>
 
 ### Indicators that deserve further investigation
 
@@ -500,197 +500,197 @@ The key point is not that all flashing UFO reports reduce to stars. It is that f
 
 Sophisticated AI tools, image analysis systems and astronomical databases are increasingly useful in UFO investigations, but some of the strongest evidence still comes from ordinary visual anchors. A chimney edge or hill silhouette can reveal more about a flashing light than extreme digital zoom ever will.
 
-That is partly because landmark testing addresses a central weakness in human night-time observation: people are far better at noticing brightness and colour changes than judging precise motion in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In practical investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>, the question often becomes less “What was the light?” and more “Did the light itself move at all?” Once that question is answered carefully, many apparently mysterious flashing-object reports become much easier to classify.
+That is partly because landmark testing addresses a central weakness in human night-time observation: people are far better at noticing brightness and colour changes than judging precise motion in darkness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In practical investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>, the question often becomes less “What was the light?” and more “Did the light itself move at all?” Once that question is answered carefully, many apparently mysterious flashing-object reports become much easier to classify.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the light move, or did the scene move?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the light move, or did the scene move?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful for distinguishing stars from moving objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for distinguishing stars from moving objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Supports motion and position assessment in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports motion and position assessment in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps verify fixed celestial targets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps verify fixed celestial targets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides context on observing the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on observing the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG"><img src="https://i.ebayimg.com/images/g/GQ4AAeSwFpBoZXsd/s-l225.jpg" alt="Listing image for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG"><img src="https://i.ebayimg.com/images/g/GQ4AAeSwFpBoZXsd/s-l225.jpg" alt="Listing image for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort"><img src="https://i.ebayimg.com/images/g/wUQAAOSwjiJoWKC3/s-l225.jpg" alt="Listing image for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort"><img src="https://i.ebayimg.com/images/g/wUQAAOSwjiJoWKC3/s-l225.jpg" alt="Listing image for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/mN0AAeSwYfVqJYqg/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/mN0AAeSwYfVqJYqg/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s"><img src="https://i.ebayimg.com/images/g/IdIAAeSwvuppPCY9/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s"><img src="https://i.ebayimg.com/images/g/IdIAAeSwvuppPCY9/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-light-move-or-did-the-scene-move-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-light-move-or-did-the-scene-move-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -706,7 +706,7 @@ That is partly because landmark testing addresses a central weakness in human ni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -726,7 +726,7 @@ That is partly because landmark testing addresses a central weakness in human ni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -758,7 +758,7 @@ That is partly because landmark testing addresses a central weakness in human ni
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -810,7 +810,7 @@ That is partly because landmark testing addresses a central weakness in human ni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -855,7 +855,7 @@ That is partly because landmark testing addresses a central weakness in human ni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -896,129 +896,129 @@ That is partly because landmark testing addresses a central weakness in human ni
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</p></details>
+   Link:<a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Fixational eye movements and the autokinetic illusion  
-   Link: <a href="https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</p></details>
    Published: March 23, 2010  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bresser.com  
-   Link: <a href="https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</p></details>
+   Link:<a href="https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Estimation of based on scintillation of fixed targets imaged  
-   Link: <a href="https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</p></details>
    Published: November 26, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a phenomenon in the sky last night that I have never...Article: The Autokinetic effect is an optical illusion that makes stars loo...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a phenomenon in the sky last night that I have never...Article: The Autokinetic effect is an optical illusion that makes stars loo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Visual Illusions Every Pilot Should Know  
-   Link: <a href="http://www.youtube.com/watch?v=4gG9RlbPb5Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4gG9RlbPb5Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect - Social Influence &amp; Group Processes | Class 12 Psychology Chapter 7...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4gG9RlbPb5Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4gG9RlbPb5Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect - Social Influence &amp; Group Processes | Class 12 Psychology Chapter 7...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Autokinetic Effect  
-   Link: <a href="http://www.youtube.com/watch?v=cZUHoyEderQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cZUHoyEderQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#mpc004 Social Psychology Experiment By Sherif | #autokineticeffect...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cZUHoyEderQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cZUHoyEderQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#mpc004 Social Psychology Experiment By Sherif | #autokineticeffect...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=hxRw4pNGIyA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxRw4pNGIyA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hxRw4pNGIyA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hxRw4pNGIyA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Magnet Brains  
-   Link: <a href="https://www.youtube.com/watch?v=b12rHkg1gsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b12rHkg1gsw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect | #mpc004 Social Psychology Experiment By Sherif | #autokineticeffect Achiever&#x27;s Hive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b12rHkg1gsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b12rHkg1gsw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect | #mpc004 Social Psychology Experiment By Sherif | #autokineticeffect Achiever&#x27;s Hive...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Proceedings DatabaseATMOSPHERIC SCINTILLATION IN RESIDENT...by M Kuhn — A particular focus was placed on how the scintillation noise...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Proceedings DatabaseATMOSPHERIC SCINTILLATION IN RESIDENT...by M Kuhn — A particular focus was placed on how the scintillation noise...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/816042597874691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/816042597874691/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/816042597874691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/816042597874691/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/5889909863/posts/10160545347924864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10160545347924864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Autokinetic Effect in AstronomyBasically your brain will impart movement to a stationary object, especially if it&#x27;s a p...</p></details>
+   Link:<a href="https://www.facebook.com/groups/5889909863/posts/10160545347924864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10160545347924864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Autokinetic Effect in AstronomyBasically your brain will impart movement to a stationary object, especially if it&#x27;s a p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sky-lens.com  
-   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
+   Link:<a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: whats in the night sky february saturn and jupiter winter hexagon asterism artem  
-   Link: <a href="https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s in the night sky? February 🔭 🪐 Saturn and Jupiter...TWINKLE TWINKLE LITTLE STAR You can tell whether you are looking at a planet...</p></details>
+   Link:<a href="https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s in the night sky? February 🔭 🪐 Saturn and Jupiter...TWINKLE TWINKLE LITTLE STAR You can tell whether you are looking at a planet...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DKQ8XuCINUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DKQ8XuCINUU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introductory Astronomy: Motions of the StarsVideo lecture that explains the apparent motion of stars in the sky using the celestial spher...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DKQ8XuCINUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DKQ8XuCINUU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introductory Astronomy: Motions of the StarsVideo lecture that explains the apparent motion of stars in the sky using the celestial spher...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparent Motion of Stars &amp; Planets | Overview &amp; TypesApparent motion is what happens when something that is not moving appears to move. T...</p></details>
+   Link:<a href="https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apparent Motion of Stars &amp; Planets | Overview &amp; TypesApparent motion is what happens when something that is not moving appears to move. T...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=xuWscrshR4o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xuWscrshR4o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate ufo sightings using fixed landmarks What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=xuWscrshR4o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xuWscrshR4o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate ufo sightings using fixed landmarks What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scholarship.richmond.edu  
    Title: UR Scholarship Repository"Autokinetic Effect" by Donelson R  
-   Link: <a href="https://scholarship.richmond.edu/jepson-faculty-publications/162/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.richmond.edu/jepson-faculty-publications/162/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
+   Link:<a href="https://scholarship.richmond.edu/jepson-faculty-publications/162/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.richmond.edu/jepson-faculty-publications/162/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
    Title: (PDF) UFOs and the extraterrestrial contact movement  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations in the early days. His stance as a genuinely open-minded fact finder deflated for a time the charges of an Air Force c...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations in the early days. His stance as a genuinely open-minded fact finder deflated for a time the charges of an Air Force c...</p></details>

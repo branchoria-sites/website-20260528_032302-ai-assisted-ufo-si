@@ -272,13 +272,13 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 In late 2019, a smooth disc-shaped cloud hanging near Colorado’s Flatirons rock formation spread rapidly across social media as an apparent UFO sighting. The formation was visually striking enough that many viewers initially rejected ordinary [weather]({{ 'weather/' | relative_url }}) explanations. Yet the case quickly became a useful example of how modern UFO stories can emerge from real atmospheric phenomena before contextual analysis catches up.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" alt="Flatirons Case illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, the Flatirons incident matters because it shows how quickly a dramatic image can detach from its environmental context. The event also demonstrates the value of automated weather correlation, terrain analysis, and timeline reconstruction. Within minutes of the images spreading online, investigators could already compare the sighting against mountain-wave cloud conditions, National Weather Service observations, local geography, and known lenticular cloud behaviour. Rather than treating witness interpretation and sceptical analysis as opposites, the case shows how both can coexist: people genuinely saw something unusual, but the underlying phenomenon was meteorologically well understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
+For AI-assisted UFO sighting investigation, the Flatirons incident matters because it shows how quickly a dramatic image can detach from its environmental context. The event also demonstrates the value of automated weather correlation, terrain analysis, and timeline reconstruction. Within minutes of the images spreading online, investigators could already compare the sighting against mountain-wave cloud conditions, National Weather Service observations, local geography, and known lenticular cloud behaviour. Rather than treating witness interpretation and sceptical analysis as opposites, the case shows how both can coexist: people genuinely saw something unusual, but the underlying phenomenon was meteorologically well understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
 
 ## The Flatirons sighting and public reaction
 
-The most widely shared images came from Boulder, Colorado, where a circular cloud appeared suspended near the Flatirons, the dramatic sandstone formations west of the city. The cloud seemed almost stationary while surrounding clouds moved normally. That apparent stillness became central to the UFO speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
+The most widely shared images came from Boulder, Colorado, where a circular cloud appeared suspended near the Flatirons, the dramatic sandstone formations west of the city. The cloud seemed almost stationary while surrounding clouds moved normally. That apparent stillness became central to the UFO speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
 
-The National Weather Service office in Boulder posted time-lapse footage recorded near the David Skaggs Research Center, a NOAA facility positioned at the base of the Flatirons. The footage showed a sharply defined lenticular cloud maintaining its position over the mountains while changing shape slowly over time. News outlets and social media users rapidly described it as “UFO-like” or resembling a hovering spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
+The National Weather Service office in Boulder posted time-lapse footage recorded near the David Skaggs Research Center, a NOAA facility positioned at the base of the Flatirons. The footage showed a sharply defined lenticular cloud maintaining its position over the mountains while changing shape slowly over time. News outlets and social media users rapidly described it as “UFO-like” or resembling a hovering spacecraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
 
 The public reaction followed a familiar pattern seen in many modern UFO image cycles:
 
@@ -292,7 +292,7 @@ The public reaction followed a familiar pattern seen in many modern UFO image cy
 
 </div>
 
-Colorado is particularly fertile ground for these reactions because the Rocky Mountains regularly generate the airflow conditions required for lenticular clouds. Locals familiar with mountain weather may recognise the formation immediately, but visitors or online viewers elsewhere often do not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span>
+Colorado is particularly fertile ground for these reactions because the Rocky Mountains regularly generate the airflow conditions required for lenticular clouds. Locals familiar with mountain weather may recognise the formation immediately, but visitors or online viewers elsewhere often do not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span>
 
 The Flatirons location also amplified the effect visually. The steep mountain backdrop gave the cloud a cinematic appearance, making it seem intentionally positioned above the landscape rather than naturally embedded within a broader weather system.
 
@@ -300,7 +300,7 @@ The Flatirons location also amplified the effect visually. The steep mountain ba
 
 The Boulder cloud displayed several characteristics strongly associated with classic “flying saucer” UFO reports.
 
-First, the cloud had unusually smooth edges. Unlike fragmented cumulus clouds, lenticular formations can appear polished and symmetrical. Second, it remained visually fixed over the terrain. Witnesses often interpret hovering behaviour as evidence of controlled flight because ordinary clouds are expected to drift visibly across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
+First, the cloud had unusually smooth edges. Unlike fragmented cumulus clouds, lenticular formations can appear polished and symmetrical. Second, it remained visually fixed over the terrain. Witnesses often interpret hovering behaviour as evidence of controlled flight because ordinary clouds are expected to drift visibly across the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
 
 Third, lighting conditions enhanced the illusion. Lenticular clouds can reflect low-angle sunlight in ways that resemble metallic surfaces. Under some conditions they also develop layered or stacked structures that appear engineered rather than organic. The Flatirons images circulated online largely because the cloud looked cleanly separated from surrounding weather, reinforcing the impression of a discrete object.
 
@@ -312,7 +312,7 @@ The case also illustrates why witness sincerity alone cannot establish an extrao
 
 ## The National Weather Service explanation
 
-Meteorologists identified the formation as a lenticular cloud produced by mountain-wave airflow along the Front Range of the Rockies. Stable, moist air moving across the mountains created standing atmospheric waves. As air rose at wave crests, moisture condensed into cloud; as it descended, the cloud evaporated. This process allowed the visible formation to remain in roughly the same position while air continued moving rapidly through it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</span></span></span>
+Meteorologists identified the formation as a lenticular cloud produced by mountain-wave airflow along the Front Range of the Rockies. Stable, moist air moving across the mountains created standing atmospheric waves. As air rose at wave crests, moisture condensed into cloud; as it descended, the cloud evaporated. This process allowed the visible formation to remain in roughly the same position while air continued moving rapidly through it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</span></span></span>
 
 The National Weather Service explanation aligned closely with known lenticular cloud mechanics:
 
@@ -325,7 +325,7 @@ The National Weather Service explanation aligned closely with known lenticular c
 
 </div>
 
-Importantly, the explanation was not speculative or retrofitted after the fact. The Boulder region experiences these conditions regularly enough that meteorologists immediately recognised the formation type. Similar clouds have been photographed repeatedly around the Flatirons and elsewhere in Colorado. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Stacked &#124; A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</span></span></span>
+Importantly, the explanation was not speculative or retrofitted after the fact. The Boulder region experiences these conditions regularly enough that meteorologists immediately recognised the formation type. Similar clouds have been photographed repeatedly around the Flatirons and elsewhere in Colorado.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Stacked &#124; A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</span></span></span>
 
 This distinction is important for structured UFO investigation. Some atmospheric explanations remain tentative because supporting environmental data are [incomplete]({{ 'incomplete-data/' | relative_url }}). In the Flatirons case, however, the match between the observed object and known mountain-wave cloud behaviour was unusually strong.
 
@@ -354,7 +354,7 @@ Historical weather datasets could confirm:
 
 </div>
 
-These checks are especially effective because lenticular clouds require relatively specific environmental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span>
+These checks are especially effective because lenticular clouds require relatively specific environmental conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pETFGg5zp5A" title="Lenticular cloud looks like UFO hovering over Colorado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pETFGg5zp5A" target="_blank" rel="noopener noreferrer">Lenticular cloud looks like UFO hovering over Colorado</a></p><p class="youtube-embed-meta">Channel: AccuWeather &middot; Views: 15.4K &middot; Uploaded: December 2019 &middot; Length: 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pETFGg5zp5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pETFGg5zp5A">Open on YouTube</a></p></div></div></div>
 
@@ -396,7 +396,7 @@ Second, social amplification creates apparent corroboration. Thousands of commen
 
 Third, many viewers encounter the image without geographic context. Someone in a flat coastal region may never have seen a lenticular cloud and therefore lacks the visual experience to recognise one immediately.
 
-The Flatirons case also demonstrates why UFO investigation should avoid dismissive framing. Simply mocking witnesses as irrational misses the real lesson. Lenticular clouds genuinely look extraordinary. Meteorological agencies themselves routinely describe them as resembling flying saucers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the... National Weather Service. NOAA. Retri...</span></span></span>
+The Flatirons case also demonstrates why UFO investigation should avoid dismissive framing. Simply mocking witnesses as irrational misses the real lesson. Lenticular clouds genuinely look extraordinary. Meteorological agencies themselves routinely describe them as resembling flying saucers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the... National Weather Service. NOAA. Retri...</span></span></span>
 
 The stronger investigative approach is comparative and evidence-led:
 
@@ -414,194 +414,194 @@ In the Colorado case, the available evidence strongly favoured a conventional at
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 309 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Colorado Cloud Became a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Colorado Cloud Became a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/QVcAAOSwyJRiWXco/s-l225.jpg" alt="Listing image for Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/QVcAAOSwyJRiWXco/s-l225.jpg" alt="Listing image for Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">Lenticular Cloud Over Mount Everest Sky Photo Wall Art Home Decor - POSTER 20x30</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nUMAAeSwgOdp1TSG/s-l225.jpg" alt="Listing image for lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nUMAAeSwgOdp1TSG/s-l225.jpg" alt="Listing image for lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">lenticular clouds above fields Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print"><img src="https://i.ebayimg.com/images/g/sg4AAMXQgb1RUdTL/s-l225.jpg" alt="Listing image for 018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print"><img src="https://i.ebayimg.com/images/g/sg4AAMXQgb1RUdTL/s-l225.jpg" alt="Listing image for 018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">018047 Lenticular Clouds Kluane Park Yukon A4 Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/By4AAeSwQldp1~Y9/s-l225.jpg" alt="Listing image for Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/By4AAeSwQldp1~Y9/s-l225.jpg" alt="Listing image for Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">Sunrise On Lenticular Clouds (A 108 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud photo print" data-ebay-reference="when-a-colorado-cloud-became-a-ufo-story-lenticular-cloud-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,95 +807,95 @@ In the Colorado case, the available evidence strongly favoured a conventional at
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the... National Weather Service. NOAA. Retri...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the... National Weather Service. NOAA. Retri...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</p></details>
+   Link:<a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/wdbowman/24558577479</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stacked | A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</p></details>
+   Link:<a href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/wdbowman/24558577479</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stacked | A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives | HomeVisit the National Archives, view online exhibits, apply for a grant, research presidential records, view highlig...</p></details>
+   Link:<a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives | HomeVisit the National Archives, view online exhibits, apply for a grant, research presidential records, view highlig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: National Car Rental  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Car_Rental" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Car_Rental</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Car RentalNational Car Rental is a private American rental car agency based in Clayton, Missouri, United States. National is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Car_Rental" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Car_Rental</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Car RentalNational Car Rental is a private American rental car agency based in Clayton, Missouri, United States. National is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc7news.com  
    Title: circular cloud hovers over mountain like ufo video  
-   Link: <a href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
+   Link:<a href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies of Sciences, Engineering, and MedicineOur work helps shape sound policies, inform public opinion, and advance the purs...</p></details>
+   Link:<a href="https://www.nationalacademies.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies of Sciences, Engineering, and MedicineOur work helps shape sound policies, inform public opinion, and advance the purs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalgridus.com  
-   Link: <a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
+   Link:<a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nl.edu  
-   Link: <a href="https://nl.edu/" target="_blank" rel="noopener noreferrer nofollow">https://nl.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Louis University | Chicago, Illinois | Tampa, FloridaNational Louis University offers over 80 career-focused certificates, endor...</p></details>
+   Link:<a href="https://nl.edu/" target="_blank" rel="noopener noreferrer nofollow">https://nl.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Louis University | Chicago, Illinois | Tampa, FloridaNational Louis University offers over 80 career-focused certificates, endor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/</a>  
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/</a>  
+   Link:<a href="https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/269932320474748/posts/1561542257980408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/269932320474748/posts/1561542257980408/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of lenticular clouds, aka UFO clouds. Since moving to Estes Park, with an innumerable amount of tall mountain peaks...</p></details>
+   Link:<a href="https://www.facebook.com/groups/269932320474748/posts/1561542257980408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/269932320474748/posts/1561542257980408/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of lenticular clouds, aka UFO clouds. Since moving to Estes Park, with an innumerable amount of tall mountain peaks...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: These are often mistaken for UFOs because of the saucer-like shape  
-   Link: <a href="https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An absolutely brilliant display of lenticular clouds along the...Thus, a wave cloud, or a series of lenticular clouds, is capable of for...</p></details>
+   Link:<a href="https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An absolutely brilliant display of lenticular clouds along the...Thus, a wave cloud, or a series of lenticular clouds, is capable of for...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalgridus.com  
-   Link: <a href="https://www.nationalgridus.com/NY-Home/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/NY-Home/</a>  
+   Link:<a href="https://www.nationalgridus.com/NY-Home/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/NY-Home/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalgeneral.com  
    Title: With a network of over 55,000 independent agents nationwide  
-   Link: <a href="https://nationalgeneral.com/" target="_blank" rel="noopener noreferrer nofollow">https://nationalgeneral.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Offering Home and Auto Coverage | National General, an...National General, an Allstate company, offers coverage to help protect your hom...</p></details>
+   Link:<a href="https://nationalgeneral.com/" target="_blank" rel="noopener noreferrer nofollow">https://nationalgeneral.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Offering Home and Auto Coverage | National General, an...National General, an Allstate company, offers coverage to help protect your hom...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: accuweather.com  
    Title: Potentially responsible for some of the earliest U.S. UFO  
-   Link: <a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...Sep 25, 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>
+   Link:<a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...Sep 25, 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>

@@ -278,15 +278,15 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 Starlink satellites have changed the visual texture of the night sky in ways that directly affect modern UFO and UAP reporting. Large numbers of low Earth orbit satellites now produce moving lines, clustered formations, brief bright flashes, and sudden disappearances that many witnesses have never seen before. In AI-assisted UFO investigation, this matters because a growing share of “strange lights” reports can only be understood by checking satellite [geometry]({{ 'geometry/' | relative_url }}), launch schedules, and flare timing alongside the witness account.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Flares illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike the older Iridium satellites, whose reflections were highly predictable, Starlink brightness behaviour is more varied. A single satellite in a train may suddenly become far brighter than the others, then fade or vanish within seconds. Witnesses often interpret this as acceleration, intelligent manoeuvring, cloaking, or an object changing direction. In many cases the effect is instead caused by changing reflection angles, orbital orientation, or the satellite crossing into Earth’s shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Unlike the older Iridium satellites, whose reflections were highly predictable, Starlink brightness behaviour is more varied. A single satellite in a train may suddenly become far brighter than the others, then fade or vanish within seconds. Witnesses often interpret this as acceleration, intelligent manoeuvring, cloaking, or an object changing direction. In many cases the effect is instead caused by changing reflection angles, orbital orientation, or the satellite crossing into Earth’s shadow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
-The rapid expansion of Starlink has also changed the scale of the problem. Thousands of satellites are now visible during twilight conditions, increasing the odds that unusual-looking reflections will be mistaken for UFOs by casual observers, pilots, and even experienced skywatchers. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
+The rapid expansion of Starlink has also changed the scale of the problem. Thousands of satellites are now visible during twilight conditions, increasing the odds that unusual-looking reflections will be mistaken for UFOs by casual observers, pilots, and even experienced skywatchers. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
 
 ## How Starlink brightness changes with viewing angle
 
 Starlink satellites do not behave like steady moving stars. Their brightness can vary dramatically during a single pass because the spacecraft use large flat solar panels and reflective surfaces that interact strongly with sunlight.
 
-Research into Starlink photometry shows that the satellites produce strong directional reflections rather than uniform brightness. Their apparent magnitude depends heavily on the angle between the Sun, the satellite, and the observer. Small geometric changes can create sudden surges in visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Research into Starlink photometry shows that the satellites produce strong directional reflections rather than uniform brightness. Their apparent magnitude depends heavily on the angle between the Sun, the satellite, and the observer. Small geometric changes can create sudden surges in visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 This creates several recurring witness impressions:
 
@@ -300,11 +300,11 @@ This creates several recurring witness impressions:
 
 </div>
 
-These effects are especially common shortly after sunset or before sunrise, when observers on the ground are already in darkness but satellites several hundred kilometres above remain sunlit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">May 5, 2026 — A train of SpaceX Starlink satellites are visible in the night sky in this still from a video captured by satellite tr...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+These effects are especially common shortly after sunset or before sunrise, when observers on the ground are already in darkness but satellites several hundred kilometres above remain sunlit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">May 5, 2026 — A train of SpaceX Starlink satellites are visible in the night sky in this still from a video captured by satellite tr...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 The geometry is also different from many [aircraft]({{ 'aircraft/' | relative_url }}) observations. Aircraft lights usually pulse rhythmically and maintain visibility as the aircraft travels. Starlink reflections can intensify and vanish smoothly with no blinking pattern at all. This silent, gliding behaviour strongly overlaps with common UFO descriptions.
 
-AI-assisted investigation systems therefore benefit from modelling not just orbital position but predicted brightness variation. A satellite may technically be above the horizon while remaining invisible for most of its pass, only flaring brightly for a few seconds when the reflection geometry aligns correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO[PDF] Correlations of Starlink Satellite Flaring with UAP ObservationsThis has driven some groups to create software models that pred...</span></span></span>
+AI-assisted investigation systems therefore benefit from modelling not just orbital position but predicted brightness variation. A satellite may technically be above the horizon while remaining invisible for most of its pass, only flaring brightly for a few seconds when the reflection geometry aligns correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO[PDF] Correlations of Starlink Satellite Flaring with UAP ObservationsThis has driven some groups to create software models that pred...</span></span></span>
 
 ## Why one satellite suddenly outshines the rest
 
@@ -312,26 +312,26 @@ A major source of confusion in modern UFO reports is the “single standout obje
 
 Witnesses often report a line of moving lights where one object behaves differently from the others. The brighter object may appear larger, closer, or under intelligent control. In some sightings it seems to overtake neighbouring lights or flare independently.
 
-In reality, satellites within the same train are rarely oriented identically from the observer’s perspective. Slight differences in angle, altitude, panel orientation, or orbit-raising behaviour can cause one satellite to reflect sunlight far more efficiently than nearby satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+In reality, satellites within the same train are rarely oriented identically from the observer’s perspective. Slight differences in angle, altitude, panel orientation, or orbit-raising behaviour can cause one satellite to reflect sunlight far more efficiently than nearby satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 This matters because the human visual system tends to interpret brightness changes as motion changes. A rapidly brightening satellite can appear to surge forward or approach the observer even when its orbital speed remains constant.
 
-Researchers studying Starlink brightness distributions have documented brief flare events lasting only a few seconds. These flashes are particularly noticeable during twilight when the sky background is dark enough for contrast but the satellites remain illuminated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Researchers studying Starlink brightness distributions have documented brief flare events lasting only a few seconds. These flashes are particularly noticeable during twilight when the sky background is dark enough for contrast but the satellites remain illuminated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
-The effect becomes more dramatic during orbit-raising phases after launch. Newly deployed Starlink satellites travel in tighter groups and often remain brighter before reaching their operational altitudes. Observers unfamiliar with satellite deployments frequently describe these formations as fleets, swarms, or coordinated craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x starlink satellites 10 weird things</span><span class="citation-popover-snippet">Starlink in live-fire exercises; 9... aliens — SpaceX&#x27;s Starlink satellites surprise British skywatchers...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky U.S</span><span class="citation-popover-snippet">astronomers speak on SpaceX Starlink satellites12 Jun 2019 — Some people, unaware that artificial satellites can be seen moving against t...</span></span></span>
+The effect becomes more dramatic during orbit-raising phases after launch. Newly deployed Starlink satellites travel in tighter groups and often remain brighter before reaching their operational altitudes. Observers unfamiliar with satellite deployments frequently describe these formations as fleets, swarms, or coordinated craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x starlink satellites 10 weird things</span><span class="citation-popover-snippet">Starlink in live-fire exercises; 9... aliens — SpaceX&#x27;s Starlink satellites surprise British skywatchers...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky U.S</span><span class="citation-popover-snippet">astronomers speak on SpaceX Starlink satellites12 Jun 2019 — Some people, unaware that artificial satellites can be seen moving against t...</span></span></span>
 
 This explains why many viral UFO videos since 2019 show:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* evenly spaced moving lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* evenly spaced moving lights<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 * “string of pearls” formations
 * lights appearing and disappearing in sequence
 * one or two objects flashing more intensely than the rest
 
 </div>
 
-These patterns are now strongly associated with Starlink deployments rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Are they UFOs?&#x27;, one witness said.Read more...</span></span></span>
+These patterns are now strongly associated with Starlink deployments rather than unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Are they UFOs?&#x27;, one witness said.Read more...</span></span></span>
 
 ## Sudden disappearances and the illusion of impossible motion
 
@@ -349,11 +349,11 @@ People commonly assume that satellites should fade gradually into the distance. 
 
 </div>
 
-In many cases the explanation is orbital shadowing. The satellite crosses from sunlight into Earth’s shadow and instantly stops reflecting light toward the observer. Because the object itself is tiny and unlit, it becomes effectively invisible within moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Starlink train disappears from view?I was watching the night sky and snapped a few pics of starlink train, but watched as it disapp...</span></span></span>
+In many cases the explanation is orbital shadowing. The satellite crosses from sunlight into Earth’s shadow and instantly stops reflecting light toward the observer. Because the object itself is tiny and unlit, it becomes effectively invisible within moments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Starlink train disappears from view?I was watching the night sky and snapped a few pics of starlink train, but watched as it disapp...</span></span></span>
 
 This can happen unevenly across a train. One satellite may remain illuminated while another slightly lower or differently positioned enters shadow first. The result is a staggered pattern of disappearances that can appear coordinated or intelligent.
 
-Online witness reports repeatedly describe satellites “vanishing into a tunnel” or fading simultaneously near the same area of sky. These reports closely match known shadow-entry geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">satellite constellation of other companies goes into higher...Read more...</span></span></span>
+Online witness reports repeatedly describe satellites “vanishing into a tunnel” or fading simultaneously near the same area of sky. These reports closely match known shadow-entry geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">satellite constellation of other companies goes into higher...Read more...</span></span></span>
 
 For investigators, this means disappearance timing is one of the most useful diagnostic clues. If multiple witnesses describe:
 
@@ -374,7 +374,7 @@ then satellite shadow entry becomes a strong candidate explanation.
 
 Visible satellites existed long before Starlink, but the constellation changed both frequency and public awareness.
 
-The launch of tightly packed satellite trains produced waves of UFO reports worldwide from 2019 onward. News outlets documented spikes in public sightings after early deployments, particularly when observers encountered large formations for the first time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Are they UFOs?&#x27;, one witness said.Read more...</span></span></span>
+The launch of tightly packed satellite trains produced waves of UFO reports worldwide from 2019 onward. News outlets documented spikes in public sightings after early deployments, particularly when observers encountered large formations for the first time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Are they UFOs?&#x27;, one witness said.Read more...</span></span></span>
 
 The effect was amplified by several factors:
 
@@ -389,9 +389,9 @@ The effect was amplified by several factors:
 
 </div>
 
-Even experienced observers were occasionally caught off guard. Reports from pilots and aircrew led to scientific analysis of how Starlink flaring can resemble anomalous aerial phenomena under certain viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
+Even experienced observers were occasionally caught off guard. Reports from pilots and aircrew led to scientific analysis of how Starlink flaring can resemble anomalous aerial phenomena under certain viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
 
-A 2024 paper discussed “extreme flaring” events where Starlink satellites became unusually bright for cockpit observers. Researchers argued that the growing density of satellites increases the likelihood of misidentification and complicates aviation reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
+A 2024 paper discussed “extreme flaring” events where Starlink satellites became unusually bright for cockpit observers. Researchers argued that the growing density of satellites increases the likelihood of misidentification and complicates aviation reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Airline Pilots Couldn&#x27;t Stop Seeing UFOs</span><span class="citation-popover-snippet">Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</span></span></span>
 
 Importantly, this does not mean every modern UFO sighting is explainable as Starlink. Many reports involve behaviour inconsistent with orbital motion, including hovering at low altitude, visible structure, radar returns at aircraft height, or manoeuvres impossible for satellites. The investigative point is narrower: modern investigators must now rule out satellite flare behaviour much earlier in the workflow than they would have a decade ago.
 
@@ -403,24 +403,24 @@ Several recurring UFO-report patterns now strongly correlate with Starlink visib
 
 ### “A silent convoy crossed the sky”
 
-This is the classic newly launched Starlink train report. Witnesses describe dozens of evenly spaced lights moving in formation without sound. These sightings usually occur within days of launch before satellites spread into higher operational orbits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">A worst-case solar storm could knock out satellites, GPS and power...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+This is the classic newly launched Starlink train report. Witnesses describe dozens of evenly spaced lights moving in formation without sound. These sightings usually occur within days of launch before satellites spread into higher operational orbits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">A worst-case solar storm could knock out satellites, GPS and power...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
 ### “One light became impossibly bright”
 
-This often reflects a temporary flare geometry affecting one satellite more strongly than nearby objects. Witnesses may perceive acceleration or a change in altitude even though the object remains in stable orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+This often reflects a temporary flare geometry affecting one satellite more strongly than nearby objects. Witnesses may perceive acceleration or a change in altitude even though the object remains in stable orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 ### “The lights disappeared one by one”
 
-This pattern strongly matches Earth-shadow entry. Satellites crossing the terminator line can extinguish sequentially as their geometry changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Starlink satellites passing right in front of the Moon!</span><span class="citation-popover-snippet">😲 This...Starlink Satellite Train Visibility in North West. Sheryl Day... fade away as they enter the Earth&#x27;s shadow. Currently, a larg...</span></span></span>
+This pattern strongly matches Earth-shadow entry. Satellites crossing the terminator line can extinguish sequentially as their geometry changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Starlink satellites passing right in front of the Moon!</span><span class="citation-popover-snippet">😲 This...Starlink Satellite Train Visibility in North West. Sheryl Day... fade away as they enter the Earth&#x27;s shadow. Currently, a larg...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Flares illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### “The object appeared, then vanished within seconds”
 
-Brief isolated glints from individual Starlink satellites can resemble transient UFO lights because the observer only sees the reflection peak rather than the full orbital pass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Brief isolated glints from individual Starlink satellites can resemble transient UFO lights because the observer only sees the reflection peak rather than the full orbital pass.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 ### “Pilots saw racetrack orbs”
 
-Some aviation-related UAP reports from recent years were later examined in connection with satellite flare geometry and Starlink visibility. Debate continues around specific cases, but satellite explanations became a serious line of inquiry because the timing and viewing angles aligned with orbital predictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022As one UFO enthusiast put it on Reddit: “30+ pilots and aircrew reported t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span>
+Some aviation-related UAP reports from recent years were later examined in connection with satellite flare geometry and Starlink visibility. Debate continues around specific cases, but satellite explanations became a serious line of inquiry because the timing and viewing angles aligned with orbital predictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022As one UFO enthusiast put it on Reddit: “30+ pilots and aircrew reported t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Space X Starlink &quot;Extreme Flaring&quot; Increases Reported UAP</span><span class="citation-popover-snippet">The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span>
 
 ## What AI-assisted UFO workflows should check first
 
@@ -433,7 +433,7 @@ A modern workflow should prioritise:
 * sunset or sunrise offset
 * duration of visibility
 * steady versus erratic motion
-* launch schedules * satellite pass predictions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">My clearest sighting of a Starlink satellite &quot;train&quot; from orbit!</span><span class="citation-popover-snippet">Eventually, their altitude gets to be too high and thus the lights in them aren&#x27;t visible from Earth. The goal of these satellites is to...</span></span></span> * Earth-shadow timing <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</span></span></span>
+* launch schedules * satellite pass predictions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">My clearest sighting of a Starlink satellite &quot;train&quot; from orbit!</span><span class="citation-popover-snippet">Eventually, their altitude gets to be too high and thus the lights in them aren&#x27;t visible from Earth. The goal of these satellites is to...</span></span></span> * Earth-shadow timing<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</span></span></span>
 
 Automated systems can compare witness reports against databases containing:
 
@@ -447,7 +447,7 @@ Automated systems can compare witness reports against databases containing:
 
 </div>
 
-Several public tools already help investigators visualise these passes, including satellite trackers and Starlink visibility maps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[Satflare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-title">STARLINK Train</span><span class="citation-popover-snippet">STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D...</span></span></span>
+Several public tools already help investigators visualise these passes, including satellite trackers and Starlink visibility maps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[Satflare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-title">STARLINK Train</span><span class="citation-popover-snippet">STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D...</span></span></span>
 
 The strongest matches usually involve:
 
@@ -461,194 +461,194 @@ The strongest matches usually involve:
 Cases that survive these checks become more interesting precisely because modern satellite explanations are now so common. In practical UFO investigation, ruling out Starlink behaviour is no longer a niche [astronomy]({{ 'astronomy/' | relative_url }}) step. It is one of the fastest and most important forms of explanation triage available.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Starlink Has Changed Modern UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Starlink Has Changed Modern UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Elon Musk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14420016-M.jpg" alt="Cover for Elon Musk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Elon Musk">Elon Musk</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Elon Musk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14420016-M.jpg" alt="Cover for Elon Musk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Elon Musk">Elon Musk</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Commercially strong adjacency for Starlink-related UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Commercially strong adjacency for Starlink-related UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful interpretation of unfamiliar lights before UFO conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful interpretation of unfamiliar lights before UFO conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Best general-reader fit for satellite visibility and unusual night-sky lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best general-reader fit for satellite visibility and unusual night-sky lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Relevant to understanding satellite brightness, motion and visibility conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding satellite brightness, motion and visibility conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Elon Musk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Elon+Musk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Elon Musk</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/lpoAAOSwg5Rn2V~f/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/lpoAAOSwg5Rn2V~f/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-has-changed-modern-ufo-reports-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-has-changed-modern-ufo-reports-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -664,7 +664,7 @@ Cases that survive these checks become more interesting precisely because modern
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -684,7 +684,7 @@ Cases that survive these checks become more interesting precisely because modern
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -716,7 +716,7 @@ Cases that survive these checks become more interesting precisely because modern
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -768,7 +768,7 @@ Cases that survive these checks become more interesting precisely because modern
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -813,7 +813,7 @@ Cases that survive these checks become more interesting precisely because modern
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -854,265 +854,265 @@ Cases that survive these checks become more interesting precisely because modern
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
    Published: March 17, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO[PDF] Correlations of Starlink Satellite Flaring with UAP ObservationsThis has driven some groups to create software models that pred...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO[PDF] Correlations of Starlink Satellite Flaring with UAP ObservationsThis has driven some groups to create software models that pred...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
+   Link:<a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A train of SpaceX Starlink satellites are visible in the night sky in this still from a video captured by satellite tr...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A train of SpaceX Starlink satellites are visible in the night sky in this still from a video captured by satellite tr...</p></details>
    Published: May 5, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv The Brightness of Starlink Mini Satellites During Orbit-Raising  
-   Link: <a href="https://arxiv.org/abs/2405.12007" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12007</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brightness of Starlink Mini Satellites During Orbit-RaisingMay 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.12007" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12007</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brightness of Starlink Mini Satellites During Orbit-RaisingMay 20, 2024...</p></details>
    Published: May 20, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: earthsky.org  
    Title: Earth Sky U.S  
-   Link: <a href="https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>astronomers speak on SpaceX Starlink satellites12 Jun 2019 — Some people, unaware that artificial satellites can be seen moving against t...</p></details>
+   Link:<a href="https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/aas-statement-spacex-starlink-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astronomers speak on SpaceX Starlink satellites12 Jun 2019 — Some people, unaware that artificial satellites can be seen moving against t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gizmodo.com  
    Title: starlink satellites produce wave of ufo sightings in th 1840678429  
-   Link: <a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink train disappears from view?I was watching the night sky and snapped a few pics of starlink train, but watched as it disapp...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1498t1p/starlink_train_disappears_from_view/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink train disappears from view?I was watching the night sky and snapped a few pics of starlink train, but watched as it disapp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Starlink satellites passing right in front of the Moon!  
-   Link: <a href="https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>😲 This...Starlink Satellite Train Visibility in North West. Sheryl Day... fade away as they enter the Earth&#x27;s shadow. Currently, a larg...</p></details>
+   Link:<a href="https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>😲 This...Starlink Satellite Train Visibility in North West. Sheryl Day... fade away as they enter the Earth&#x27;s shadow. Currently, a larg...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: satflare.com  
    Title: STARLINK Train  
-   Link: <a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D...</p></details>
+   Link:<a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: So-called "Starlink Flares" visible near the horizon,  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/931626799649603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/931626799649603/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink flares captured in time-lapse mode - FacebookMarch 22, 2026 — Something different captured with my S30 Pro in scenery time-lapse...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/931626799649603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/931626799649603/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink flares captured in time-lapse mode - FacebookMarch 22, 2026 — Something different captured with my S30 Pro in scenery time-lapse...</p></details>
    Published: March 22, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Starlink satellites with clustered flashes!  
-   Link: <a href="https://www.facebook.com/SpaceXFP/posts/starlink-satellites-with-clustered-flashes-new-and-frequent-visual-phenomena-in-/834180802463311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceXFP/posts/starlink-satellites-with-clustered-flashes-new-and-frequent-visual-phenomena-in-/834180802463311/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New and frequent visual...September 26, 2025 — A stunning new video shot from the International Space Station (ISS) shows a train of Spa...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceXFP/posts/starlink-satellites-with-clustered-flashes-new-and-frequent-visual-phenomena-in-/834180802463311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceXFP/posts/starlink-satellites-with-clustered-flashes-new-and-frequent-visual-phenomena-in-/834180802463311/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New and frequent visual...September 26, 2025 — A stunning new video shot from the International Space Station (ISS) shows a train of Spa...</p></details>
    Published: September 26, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26505113839084303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26505113839084303/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites cause orb sightingsThis was reported as a UAP (a.k.a. UFO) by pilots. I&#x27;ve seen tightly grouped clusters just a few h...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/26505113839084303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26505113839084303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites cause orb sightingsThis was reported as a UAP (a.k.a. UFO) by pilots. I&#x27;ve seen tightly grouped clusters just a few h...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vers are seeing is much more innocent. These are satellite trains...</p></details>
+   Link:<a href="https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vers are seeing is much more innocent. These are satellite trains...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/combatlearjet/posts/i-filmed-these-lights-last-night-from-40000-they-kept-appearing-and-disappearing/938974315091898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/combatlearjet/posts/i-filmed-these-lights-last-night-from-40000-they-kept-appearing-and-disappearing/938974315091898/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ic · In this video, I zoomed out, and it zooms...</p></details>
+   Link:<a href="https://www.facebook.com/combatlearjet/posts/i-filmed-these-lights-last-night-from-40000-they-kept-appearing-and-disappearing/938974315091898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/combatlearjet/posts/i-filmed-these-lights-last-night-from-40000-they-kept-appearing-and-disappearing/938974315091898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ic · In this video, I zoomed out, and it zooms...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites disappear in the Earth&#x27;s shadowThe reason they disappear is because they enter the &#x27;umbra&#x27; (darkest part) of the earth&#x27;s shado...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites disappear in the Earth&#x27;s shadowThe reason they disappear is because they enter the &#x27;umbra&#x27; (darkest part) of the earth&#x27;s shado...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JoeRaoWeather/posts/starlink-train-no-visibility-tonight-two-reasons-the-satellites-passed-by-near-t/824356992383223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoeRaoWeather/posts/starlink-train-no-visibility-tonight-two-reasons-the-satellites-passed-by-near-t/824356992383223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK TRAIN -- NO VISIBILITY TONIGHT. Two...This fact reveals that these satellites are in sunlight almost all the way across the sky...</p></details>
+   Link:<a href="https://www.facebook.com/JoeRaoWeather/posts/starlink-train-no-visibility-tonight-two-reasons-the-satellites-passed-by-near-t/824356992383223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoeRaoWeather/posts/starlink-train-no-visibility-tonight-two-reasons-the-satellites-passed-by-near-t/824356992383223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK TRAIN -- NO VISIBILITY TONIGHT. Two...This fact reveals that these satellites are in sunlight almost all the way across the sky...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink in live-fire exercises; 9... aliens — SpaceX&#x27;s Starlink satellites surprise British skywatchers...Read more...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink in live-fire exercises; 9... aliens — SpaceX&#x27;s Starlink satellites surprise British skywatchers...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A worst-case solar storm could knock out satellites, GPS and power...Read more...</p></details>
+   Link:<a href="https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A worst-case solar storm could knock out satellites, GPS and power...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: earthsky.org  
-   Link: <a href="https://earthsky.org/space/wow-photo-video-spacex-starlink-satellite-train/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/wow-photo-video-spacex-starlink-satellite-train/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wow! The SpaceX Starlink satellite train | SpaceThe spooky wagon train of dots culminated near Polaris, before it disappeared in the Eart...</p></details>
+   Link:<a href="https://earthsky.org/space/wow-photo-video-spacex-starlink-satellite-train/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/wow-photo-video-spacex-starlink-satellite-train/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wow! The SpaceX Starlink satellite train | SpaceThe spooky wagon train of dots culminated near Polaris, before it disappeared in the Eart...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellite constellation of other companies goes into higher...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/s6ih0f/mixed_effect_of_starlink_satellites_on_astronomy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellite constellation of other companies goes into higher...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s starlink.: r/spaceLots of the &quot;UFO&quot; videos and sightings that are being reported lately are also just Starlink.... Satellites or U...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s starlink.: r/spaceLots of the &quot;UFO&quot; videos and sightings that are being reported lately are also just Starlink.... Satellites or U...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: starlink.com  
    Title: [PDF] Brightness Mitigation Best Practices for Satellite Operators  
-   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoqJH9RvFcrODvH2VNM2kbGqOGFmifwDDxlG2cmnyk17aPdOyZUX" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoqJH9RvFcrODvH2VNM2kbGqOGFmifwDDxlG2cmnyk17aPdOyZUX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The visibility of a satellite also depends on the...</p></details>
+   Link:<a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoqJH9RvFcrODvH2VNM2kbGqOGFmifwDDxlG2cmnyk17aPdOyZUX" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoqJH9RvFcrODvH2VNM2kbGqOGFmifwDDxlG2cmnyk17aPdOyZUX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The visibility of a satellite also depends on the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are they UFOs?&#x27;, one witness said.Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are they UFOs?&#x27;, one witness said.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thedebrief.org  
    Title: The Debrief Space X Starlink "Extreme Flaring" Increases Reported UAP  
-   Link: <a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</p></details>
+   Link:<a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported UAP...May 28, 2024 — New research shows SpaceX&#x27;s Starlink satellites can...</p></details>
    Published: May 28, 2024  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022As one UFO enthusiast put it on Reddit: “30+ pilots and aircrew reported t...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022As one UFO enthusiast put it on Reddit: “30+ pilots and aircrew reported t...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites, not UFOs, spotted in night sky...May 5, 2021 — It turns out the lights in the night sky over western Washing...</p></details>
+   Link:<a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites, not UFOs, spotted in night sky...May 5, 2021 — It turns out the lights in the night sky over western Washing...</p></details>
    Published: May 5, 2021  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/science/spacexs-starlink-loses-contact-with-satellite-says-no-threat-space-missions-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/spacexs-starlink-loses-contact-with-satellite-says-no-threat-space-missions-2026-03-30/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink loses contact with satellite, says no threat...30 Mar 2026 — SpaceX&#x27;s Starlink said one of its satellites had an anoma...</p></details>
+   Link:<a href="https://www.reuters.com/science/spacexs-starlink-loses-contact-with-satellite-says-no-threat-space-missions-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/spacexs-starlink-loses-contact-with-satellite-says-no-threat-space-missions-2026-03-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink loses contact with satellite, says no threat...30 Mar 2026 — SpaceX&#x27;s Starlink said one of its satellites had an anoma...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Keep Mistaking SpaceX&#x27;s Satellites for Alien...27 Dec 2019 — Sightings of &quot;strange lights&quot; in the Montana night sky turned out to...</p></details>
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People Keep Mistaking SpaceX&#x27;s Satellites for Alien...27 Dec 2019 — Sightings of &quot;strange lights&quot; in the Montana night sky turned out to...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: vitotechnology.com  
-   Link: <a href="https://vitotechnology.com/apps/satellite-tracker" target="_blank" rel="noopener noreferrer nofollow">https://vitotechnology.com/apps/satellite-tracker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS, Starlink Tracker App — Satellite TrackingSatellite Tracker is a powerful free application that will help you observe artificial sate...</p></details>
+   Link:<a href="https://vitotechnology.com/apps/satellite-tracker" target="_blank" rel="noopener noreferrer nofollow">https://vitotechnology.com/apps/satellite-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISS, Starlink Tracker App — Satellite TrackingSatellite Tracker is a powerful free application that will help you observe artificial sate...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2BMEFIWXEtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2BMEFIWXEtw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS and STARLINK G5-15 satellite train seen at same moment... Starlink train disappear as it dives into Earth&#x27;s shadow. seen from the ava...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2BMEFIWXEtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2BMEFIWXEtw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISS and STARLINK G5-15 satellite train seen at same moment... Starlink train disappear as it dives into Earth&#x27;s shadow. seen from the ava...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
+   Link:<a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eventually, their altitude gets to be too high and thus the lights in them aren&#x27;t visible from Earth. The goal of these satellites is to...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eventually, their altitude gets to be too high and thus the lights in them aren&#x27;t visible from Earth. The goal of these satellites is to...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: astronomy.stackexchange.com  
    Title: why do satellites arcs end abruptly when observed from earth  
-   Link: <a href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do satellites arcs end abruptly when observed from...Dec 26, 2018 — Because satellites are only visible when they are in sunlight, they...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do satellites arcs end abruptly when observed from...Dec 26, 2018 — Because satellites are only visible when they are in sunlight, they...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DS0EU23jiOr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS0EU23jiOr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more. May 3 · starlink... low earth orbit · astronomy education · kelxsii&#x27;s profile picture...</p></details>
+   Link:<a href="https://www.instagram.com/p/DS0EU23jiOr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS0EU23jiOr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more. May 3 · starlink... low earth orbit · astronomy education · kelxsii&#x27;s profile picture...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: inverse.com  
    Title: 56591 elon musk starlink irk international astronomers  
-   Link: <a href="https://www.inverse.com/article/56591-elon-musk-starlink-irk-international-astronomers" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/article/56591-elon-musk-starlink-irk-international-astronomers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk&#x27;s Starlink Continues to Irk the International...10 Jun 2019 — Many people, who weren&#x27;t aware that artificial satellites can of...</p></details>
+   Link:<a href="https://www.inverse.com/article/56591-elon-musk-starlink-irk-international-astronomers" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/article/56591-elon-musk-starlink-irk-international-astronomers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk&#x27;s Starlink Continues to Irk the International...10 Jun 2019 — Many people, who weren&#x27;t aware that artificial satellites can of...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: skyandtelescope.org  
    Title: Starlink Flares Can Fool Anyone — Even Airline Pilots  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2024 — The flare from numerous Starlink satellites, launched by SpaceX to provide broadband internet, can fool airline pilots an...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2024 — The flare from numerous Starlink satellites, launched by SpaceX to provide broadband internet, can fool airline pilots an...</p></details>
    Published: June 10, 2024  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: universetoday.com  
-   Link: <a href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: astronomy.stackexchange.com  
    Title: recurring flying object near the big dipper  
-   Link: <a href="https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>

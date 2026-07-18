@@ -297,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8
 AI-assisted UFO investigation systems are often very good at finding patterns, but that strength creates a specific danger: the software may confidently match a sighting to a balloon or drone even when the evidence is [incomplete]({{ 'incomplete-data/' | relative_url }}), distorted or misleading. In practical case review, this usually happens with infrared footage, low-light video, compressed phone clips, or reports that lack reliable altitude, range or wind data. A drifting weather balloon, consumer drone, bird, lens flare and distant [aircraft]({{ 'aircraft/' | relative_url }}) can all collapse into similar-looking “orb” signatures once image quality falls.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4-Illustration-1-dark.svg" | relative_url }}" alt="False Matches illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because modern UAP workflows increasingly use automated comparison tools to triage reports quickly. The system may search historical cases, compare movement profiles, classify shapes, estimate flight behaviour and rank likely explanations. But a ranked match is not the same thing as a proven explanation. NASA’s independent UAP study warned that analysis is weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and lack of multiple measurements, conditions that make overconfident AI classification especially risky. NASA Science Wikisource This is one of the most important human-review safeguards in AI-assisted UFO investigation: recognising when the model is seeing superficial <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span> similarity rather than genuine evidence.
+That matters because modern UAP workflows increasingly use automated comparison tools to triage reports quickly. The system may search historical cases, compare movement profiles, classify shapes, estimate flight behaviour and rank likely explanations. But a ranked match is not the same thing as a proven explanation. NASA’s independent UAP study warned that analysis is weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and lack of multiple measurements, conditions that make overconfident AI classification especially risky. NASA Science Wikisource This is one of the most important human-review safeguards in AI-assisted UFO investigation: recognising when the model is seeing superficial<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span> similarity rather than genuine evidence.
 
 ## Infrared shapes that resemble almost anything
 
@@ -305,11 +305,11 @@ Infrared and thermal imagery are especially vulnerable to false matches because 
 
 For AI systems trained on labelled imagery, this creates a classification trap. The model may learn that “small bright orb drifting slowly” often corresponds to balloons, then begin forcing weakly similar footage into that category. The result is not necessarily malicious or irrational; it is simply how probabilistic pattern matching behaves when detail is poor.
 
-The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly noted that low-quality electro-optical and infrared imagery can blur ordinary objects into ambiguous forms. Its published case material warns that some signatures may be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}), thermal reflections or display effects rather than clearly identifiable physical objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">m a physical source. The available...Read more...</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly noted that low-quality electro-optical and infrared imagery can blur ordinary objects into ambiguous forms. Its published case material warns that some signatures may be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}), thermal reflections or display effects rather than clearly identifiable physical objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">m a physical source. The available...Read more...</span></span></span>
 
-AARO’s reporting also highlights how birds, balloons and drones are frequently transformed by compression and infrared glare into amorphous “orb” shapes. In some full-motion video, wing motion creates flickering signatures that can appear mechanically unusual when slowed or stabilised by software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</span></span></span>
+AARO’s reporting also highlights how birds, balloons and drones are frequently transformed by compression and infrared glare into amorphous “orb” shapes. In some full-motion video, wing motion creates flickering signatures that can appear mechanically unusual when slowed or stabilised by software.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</span></span></span>
 
-This matters because many UFO review pipelines now use computer vision systems adapted from drone-detection or aerial-target-recognition research. Those systems are designed to detect tiny moving objects under difficult conditions, but the academic literature openly describes major limitations involving cluttered backgrounds, low resolution, changing illumination and weak thermal contrast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/8/9/518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Firstly, we emphasize the key challenges of existing anti-UAV.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReal-Time and Accurate Drone Detection in a Video</span><span class="citation-popover-snippet">by U Seidaliyeva · 2020 · Cited by 314 — This paper addresses the problem of real-time drone detection with high accuracy. We divided...</span></span></span>
+This matters because many UFO review pipelines now use computer vision systems adapted from drone-detection or aerial-target-recognition research. Those systems are designed to detect tiny moving objects under difficult conditions, but the academic literature openly describes major limitations involving cluttered backgrounds, low resolution, changing illumination and weak thermal contrast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2504-446X/8/9/518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Firstly, we emphasize the key challenges of existing anti-UAV.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReal-Time and Accurate Drone Detection in a Video</span><span class="citation-popover-snippet">by U Seidaliyeva · 2020 · Cited by 314 — This paper addresses the problem of real-time drone detection with high accuracy. We divided...</span></span></span>
 
 In UFO analysis, the danger is not merely that the AI gets the answer wrong. The danger is that it produces a tidy explanation with a confidence score that appears stronger than the underlying evidence.
 
@@ -330,7 +330,7 @@ Balloons create unusually persistent false positives because their behaviour ove
 
 A balloon at unknown range can also create false impressions of acceleration. If the witness assumes the object is far away when it is actually nearby, ordinary drift may appear to become rapid flight. AI systems that infer speed from screen movement without verified range data can inherit the same mistake.
 
-This is one reason AARO and other official reviewers separate “possible balloon” from “confirmed balloon”. A visual resemblance alone is [weak evidence]({{ 'weak-evidence/' | relative_url }}) if the environmental conditions are unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+This is one reason AARO and other official reviewers separate “possible balloon” from “confirmed balloon”. A visual resemblance alone is [weak evidence]({{ 'weak-evidence/' | relative_url }}) if the environmental conditions are unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 ### Drones produce a different kind of false match
 
@@ -352,7 +352,7 @@ A balloon drifting east at 3,000 metres may move in a completely different direc
 
 The same problem affects drones. Wind resistance, battery endurance and flight stability vary dramatically with altitude and conditions. A drone explanation that seems plausible at low level may become unrealistic once actual wind shear or gust conditions are examined.
 
-NASA’s UAP study repeatedly stressed the importance of contextual metadata, calibrated measurements and multi-sensor observations because isolated imagery rarely contains enough information to resolve these questions confidently. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span>
+NASA’s UAP study repeatedly stressed the importance of contextual metadata, calibrated measurements and multi-sensor observations because isolated imagery rarely contains enough information to resolve these questions confidently. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span>
 
 ### The altitude illusion problem
 
@@ -434,7 +434,7 @@ Without these contradiction checks, AI-assisted systems can become explanation e
 
 One of the recurring findings in official UAP reviews is that many cases remain unresolved not because they are extraordinary, but because the available data is too poor for reliable identification.
 
-AARO has publicly stated that some infrared signatures cannot be conclusively determined to be physical objects, thermal reflections or sensor artefacts because corroborating telemetry and multi-modal data are absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">m a physical source. The available...Read more...</span></span></span>
+AARO has publicly stated that some infrared signatures cannot be conclusively determined to be physical objects, thermal reflections or sensor artefacts because corroborating telemetry and multi-modal data are absent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">m a physical source. The available...Read more...</span></span></span>
 
 That distinction matters. A weak balloon match is not automatically better than an unresolved classification. In fact, forcing an ordinary explanation onto inadequate evidence can damage the integrity of the investigation just as much as exaggerating anomalous claims.
 
@@ -467,194 +467,194 @@ A careful reviewer can notice when a thermal blob has been overinterpreted, when
 In practical case work, that restraint is often the difference between a credible investigation and an overconfident story.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When AI Sees a Balloon in Every Light. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When AI Sees a Balloon in Every Light. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Relevant to AI classification errors and pattern matching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to AI classification errors and pattern matching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains real-world drone capabilities and limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains real-world drone capabilities and limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses overconfident interpretations of ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses overconfident interpretations of ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Useful for testing balloon and drone explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for testing balloon and drone explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U..."><img src="https://i.ebayimg.com/images/g/mTgAAeSwnW5pNRBS/s-l225.jpg" alt="Listing image for Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U..."><img src="https://i.ebayimg.com/images/g/mTgAAeSwnW5pNRBS/s-l225.jpg" alt="Listing image for Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Game of Drones: Consumer UAVs in Modern Warfare by Bennett, W. F., Like New U...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Droni Consumer Two Dots Snap The Social Drone Giallo NEW"><img src="https://i.ebayimg.com/images/g/TgwAAeSwrclp6-cW/s-l225.jpg" alt="Listing image for Droni Consumer Two Dots Snap The Social Drone Giallo NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Droni Consumer Two Dots Snap The Social Drone Giallo NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Droni Consumer Two Dots Snap The Social Drone Giallo NEW"><img src="https://i.ebayimg.com/images/g/TgwAAeSwrclp6-cW/s-l225.jpg" alt="Listing image for Droni Consumer Two Dots Snap The Social Drone Giallo NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Droni Consumer Two Dots Snap The Social Drone Giallo NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Droni Consumer Toylab Drone Gs Mini 2.0 NEW"><img src="https://i.ebayimg.com/images/g/QxsAAeSwVRdp6-eG/s-l225.jpg" alt="Listing image for Droni Consumer Toylab Drone Gs Mini 2.0 NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Droni Consumer Toylab Drone Gs Mini 2.0 NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Droni Consumer Toylab Drone Gs Mini 2.0 NEW"><img src="https://i.ebayimg.com/images/g/QxsAAeSwVRdp6-eG/s-l225.jpg" alt="Listing image for Droni Consumer Toylab Drone Gs Mini 2.0 NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Droni Consumer Toylab Drone Gs Mini 2.0 NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3"><img src="https://i.ebayimg.com/images/g/jj8AAOSwgCFm2XlV/s-l225.jpg" alt="Listing image for Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3"><img src="https://i.ebayimg.com/images/g/jj8AAOSwgCFm2XlV/s-l225.jpg" alt="Listing image for Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">Expand Your Drone&#x27;s Abilities Water Landing Skid Float Kit for DJI Mini 3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sees-a-balloon-in-every-light-consumer-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer drone" data-ebay-reference="when-ai-sees-a-balloon-in-every-light-consumer-drone" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ In practical case work, that restraint is often the difference between a credibl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ In practical case work, that restraint is often the difference between a credibl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ In practical case work, that restraint is often the difference between a credibl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ In practical case work, that restraint is often the difference between a credibl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -819,7 +819,7 @@ In practical case work, that restraint is often the difference between a credibl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -860,102 +860,102 @@ In practical case work, that restraint is often the difference between a credibl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>m a physical source. The available...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>m a physical source. The available...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/8/9/518" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/8/9/518</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, we emphasize the key challenges of existing anti-UAV.Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/8/9/518" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/8/9/518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, we emphasize the key challenges of existing anti-UAV.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReal-Time and Accurate Drone Detection in a Video  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by U Seidaliyeva · 2020 · Cited by 314 — This paper addresses the problem of real-time drone detection with high accuracy. We divided...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7412503/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by U Seidaliyeva · 2020 · Cited by 314 — This paper addresses the problem of real-time drone detection with high accuracy. We divided...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403018790_Review_of_Recent_Trends_in_Sensing_Methodologies_and_AI_Techniques_for_Non-Cooperative_Aerial_Target_Recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403018790_Review_of_Recent_Trends_in_Sensing_Methodologies_and_AI_Techniques_for_Non-Cooperative_Aerial_Target_Recognition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Recent Trends in Sensing Methodologies and AI...2 Apr 2026 — The aim of this article is to carry out a structured review of UA...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403018790_Review_of_Recent_Trends_in_Sensing_Methodologies_and_AI_Techniques_for_Non-Cooperative_Aerial_Target_Recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403018790_Review_of_Recent_Trends_in_Sensing_Methodologies_and_AI_Techniques_for_Non-Cooperative_Aerial_Target_Recognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Recent Trends in Sensing Methodologies and AI...2 Apr 2026 — The aim of this article is to carry out a structured review of UA...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...AARO has posted another unresolved case (video): &quot;This footage, captured by an i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...AARO has posted another unresolved case (video): &quot;This footage, captured by an i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/computervision/comments/mrqtfc/object_detection_on_infrared_aerial_images/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/computervision/comments/mrqtfc/object_detection_on_infrared_aerial_images/</a>  
+   Link:<a href="https://www.reddit.com/r/computervision/comments/mrqtfc/object_detection_on_infrared_aerial_images/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/computervision/comments/mrqtfc/object_detection_on_infrared_aerial_images/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the 21 anomalous cases are under further investigation.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the 21 anomalous cases are under further investigation.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Unidentified: A Comprehensive Analysis of UAP...2 Dec 2025 — Most UAP reports resolve to ordinary objects like balloons or...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Unidentified: A Comprehensive Analysis of UAP...2 Dec 2025 — Most UAP reports resolve to ordinary objects like balloons or...</p></details>

@@ -276,7 +276,7 @@ For AI-assisted UFO investigation, twilight timing is therefore one of the faste
 
 ## Why ground darkness and sunlit satellites overlap
 
-The central mechanism is simple but counterintuitive. After sunset, darkness reaches ground observers before it reaches low Earth orbit. A person standing under a darkening sky may already be inside Earth’s shadow while satellites at roughly 550 km altitude remain in direct sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
+The central mechanism is simple but counterintuitive. After sunset, darkness reaches ground observers before it reaches low Earth orbit. A person standing under a darkening sky may already be inside Earth’s shadow while satellites at roughly 550 km altitude remain in direct sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
 
 That overlap creates ideal conditions for satellite visibility:
 
@@ -289,7 +289,7 @@ That overlap creates ideal conditions for satellite visibility:
 
 </div>
 
-This is why Starlink trains are most often reported shortly after sunset or before dawn rather than at midnight. Multiple [astronomy]({{ 'astronomy/' | relative_url }}) and tracking guides note that visibility is strongest during these transition periods. Space Flypix The effect becomes even stronger with freshly launched Starlink groups because the satellites remain tightly packed. Instead of isolated movi <span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[flypix.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span> ng points, witnesses see a coordinated chain of lights maintaining equal spacing. In darkness, the human visual system naturally interprets orderly motion as deliberate formation flight rather than orbital mechanics.
+This is why Starlink trains are most often reported shortly after sunset or before dawn rather than at midnight. Multiple [astronomy]({{ 'astronomy/' | relative_url }}) and tracking guides note that visibility is strongest during these transition periods. Space Flypix The effect becomes even stronger with freshly launched Starlink groups because the satellites remain tightly packed. Instead of isolated movi<span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[flypix.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span> ng points, witnesses see a coordinated chain of lights maintaining equal spacing. In darkness, the human visual system naturally interprets orderly motion as deliberate formation flight rather than orbital mechanics.
 
 A useful comparison for investigators is commercial [aircraft]({{ 'aircraft/' | relative_url }}) lighting. Aircraft usually show blinking navigation lights, colour variation, altitude changes, and engine noise. Twilight Starlink passes instead produce:
 
@@ -311,7 +311,7 @@ Twilight does more than make satellites visible. It also changes how they appear
 
 ### Sudden appearance and disappearance
 
-Witnesses often report lights that “materialise” from nowhere or “vanish instantly”. In many Starlink cases, this is simply the boundary of Earth’s shadow moving across the orbital path. A satellite can remain invisible while in shadow, then brighten rapidly when it enters sunlight. Later in the pass, it may fade again as it re-enters darkness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can someone explain why I&#x27;m seeing these satellites during a...January 22, 2025 — These are starlinks flaring low on the horizon...</span><span class="citation-popover-meta">Published: January 22, 2025</span></span></span>
+Witnesses often report lights that “materialise” from nowhere or “vanish instantly”. In many Starlink cases, this is simply the boundary of Earth’s shadow moving across the orbital path. A satellite can remain invisible while in shadow, then brighten rapidly when it enters sunlight. Later in the pass, it may fade again as it re-enters darkness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can someone explain why I&#x27;m seeing these satellites during a...January 22, 2025 — These are starlinks flaring low on the horizon...</span><span class="citation-popover-meta">Published: January 22, 2025</span></span></span>
 
 To an observer without orbital context, this can resemble:
 
@@ -330,7 +330,7 @@ In reality, the geometry between Sun, satellite, and observer has changed.
 
 ### Brightness changes and “flares”
 
-Starlink satellites also contain reflective surfaces that can briefly angle sunlight toward the observer. This can create pulses or flares where one object suddenly becomes brighter than the others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space Exploration Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">I was wondering about what makes them visible. Do they have large mirrors that</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeHow do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked...</span></span></span>
+Starlink satellites also contain reflective surfaces that can briefly angle sunlight toward the observer. This can create pulses or flares where one object suddenly becomes brighter than the others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space Exploration Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">I was wondering about what makes them visible. Do they have large mirrors that</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeHow do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked...</span></span></span>
 
 In UFO reports, witnesses sometimes interpret these brightness changes as:
 
@@ -349,7 +349,7 @@ The effect is especially misleading near the horizon during twilight because atm
 
 Human depth perception performs poorly against a dark sky with no foreground references. A low Earth orbit satellite moving at orbital velocity can appear slow and nearby rather than extremely fast and distant.
 
-Twilight increases this problem because the horizon may already be difficult to distinguish. During civil and nautical twilight, the ground is dim while the sky still contains residual glow. [Weather]({{ 'weather/' | relative_url }}). gov <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Dawn, dusk and twilight &#124; Meanings and TimingsDuring civil twilight, the brightest stars are visible and at sea the horizon is clearly de...</span></span></span>
+Twilight increases this problem because the horizon may already be difficult to distinguish. During civil and nautical twilight, the ground is dim while the sky still contains residual glow. [Weather]({{ 'weather/' | relative_url }}). gov<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Dawn, dusk and twilight &#124; Meanings and TimingsDuring civil twilight, the brightest stars are visible and at sea the horizon is clearly de...</span></span></span>
 
 As a result, witnesses commonly underestimate altitude by enormous margins. A satellite at several hundred kilometres altitude may be perceived as:
 
@@ -383,7 +383,7 @@ Investigators should therefore compare the sighting direction against local sola
 
 ### Latitude and season matter
 
-At higher latitudes, especially in parts of northern Europe, twilight can last much longer during summer months. This extends the window in which satellites remain illuminated. Jonathan McDowell’s modelling of low Earth orbit satellite visibility found that hundreds of satellites may remain visible near twilight at mid-to-high northern latitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
+At higher latitudes, especially in parts of northern Europe, twilight can last much longer during summer months. This extends the window in which satellites remain illuminated. Jonathan McDowell’s modelling of low Earth orbit satellite visibility found that hundreds of satellites may remain visible near twilight at mid-to-high northern latitudes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
 
 This matters for UK-based UFO investigations because long summer twilight creates ideal conditions for repeated Starlink sightings well into late evening.
 
@@ -405,7 +405,7 @@ That is why reports repeatedly use phrases like:
 
 The darkness of twilight removes competing visual references, making the moving chain dominate perception.
 
-This effect has been documented not only among casual observers but also among pilots. A 2024 case study reconstructed a commercial aviation UAP report that was ultimately linked to a recently launched Starlink train viewed under unusual illumination conditions. Researchers used [orbital data]({{ 'orbital-data/' | relative_url }}) and aircraft tracking to reproduce the cockpit perspective and show how changing reflection angles created a convincing anomalous appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
+This effect has been documented not only among casual observers but also among pilots. A 2024 case study reconstructed a commercial aviation UAP report that was ultimately linked to a recently launched Starlink train viewed under unusual illumination conditions. Researchers used [orbital data]({{ 'orbital-data/' | relative_url }}) and aircraft tracking to reproduce the cockpit perspective and show how changing reflection angles created a convincing anomalous appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
 
 That case is important for investigators because it demonstrates that even trained observers can misinterpret satellite formations when the lighting geometry is unfamiliar.
 
@@ -418,7 +418,7 @@ Twilight-related Starlink misidentifications are often solvable quickly if the [
 
 For a suspected train sighting, investigators should immediately compare:
 
-1. Local sunset or sunrise time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
+1. Local sunset or sunrise time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
 2. Predicted satellite pass timing
 3. Witness viewing direction
 
@@ -433,7 +433,7 @@ Particular scrutiny is warranted when reports occur:
 * During long summer twilight periods
 * Within days of a major Starlink launch
 
-These are the conditions repeatedly associated with highly visible trains. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[Flypix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span>
+These are the conditions repeatedly associated with highly visible trains. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[Flypix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
@@ -441,7 +441,7 @@ These are the conditions repeatedly associated with highly visible trains. Space
 
 An automated UFO investigation workflow can test the hypothesis rapidly by combining:
 
-* Local astronomical twilight data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</span></span></span>
+* Local astronomical twilight data<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</span></span></span>
 * Satellite orbital elements
 * Witness coordinates
 * Compass direction
@@ -453,7 +453,7 @@ The system can then reconstruct whether the observer would have seen satellites 
 
 This matters because many UFO reports contain accurate observations but incorrect interpretations. The witness may genuinely report:
 
-* A straight line of lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* A straight line of lights<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 * Silent motion
 * Sudden fading
 * Constant spacing
@@ -462,201 +462,201 @@ The investigative task is determining whether those features fit known orbital b
 
 ## Why twilight remains the peak confusion window
 
-Despite public familiarity with Starlink, twilight still produces large numbers of mistaken UFO reports because the visual effect is genuinely unusual. Even astronomers have noted that twilight observations are disproportionately affected by Starlink visibility. Studies of astronomical imaging found that satellite streaks become especially common during twilight periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
+Despite public familiarity with Starlink, twilight still produces large numbers of mistaken UFO reports because the visual effect is genuinely unusual. Even astronomers have noted that twilight observations are disproportionately affected by Starlink visibility. Studies of astronomical imaging found that satellite streaks become especially common during twilight periods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
 
 For the general public, the same geometry creates an experience that feels uncanny rather than routine. The observer sees a dark sky, unfamiliar moving lights, no sound, and coordinated motion. Without contextual data, the event naturally appears anomalous.
 
 That is why twilight timing is one of the strongest first-pass indicators in modern UFO triage. A sighting occurring in the correct illumination window does not automatically prove a Starlink explanation, but it immediately changes the investigative baseline from “unknown aerial object” to “high-probability orbital visibility event”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Starlink looks strangest at twilight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Starlink looks strangest at twilight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Ideal for understanding twilight satellite visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for understanding twilight satellite visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Covers observing conditions and sky geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observing conditions and sky geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical sky identification skills.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical sky identification skills.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful interpretation of unusual twilight sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful interpretation of unusual twilight sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-strangest-at-twilight-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-starlink-looks-strangest-at-twilight-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -776,7 +776,7 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -821,7 +821,7 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,203 +862,203 @@ That is why twilight timing is one of the strongest first-pass indicators in mod
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/fsd/twilight</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</p></details>
+   Link:<a href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/fsd/twilight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flypix.ai  
-   Link: <a href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow">https://flypix.ai/what-time-are-the-starlink-satellites-tonight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</p></details>
+   Link:<a href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow">https://flypix.ai/what-time-are-the-starlink-satellites-tonight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain why I&#x27;m seeing these satellites during a...January 22, 2025 — These are starlinks flaring low on the horizon...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain why I&#x27;m seeing these satellites during a...January 22, 2025 — These are starlinks flaring low on the horizon...</p></details>
    Published: January 22, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/lmk/twilight-types</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</p></details>
+   Link:<a href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/lmk/twilight-types</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ga.gov.au  
    Title: astronomical definitions  
-   Link: <a href="https://www.ga.gov.au/scientific-topics/astronomical/astronomical-definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.gov.au/scientific-topics/astronomical/astronomical-definitions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience AustraliaAstronomical definitions27 June 2014 — Ending of evening civil twilight... Defined as the instant in the evening, wh...</p></details>
+   Link:<a href="https://www.ga.gov.au/scientific-topics/astronomical/astronomical-definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.gov.au/scientific-topics/astronomical/astronomical-definitions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience AustraliaAstronomical definitions27 June 2014 — Ending of evening civil twilight... Defined as the instant in the evening, wh...</p></details>
    Published: June 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07446</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07446</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</p></details>
    Published: March 16, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2201.05343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.05343</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of the SpaceX Starlink Satellites on the Zwicky Transient Facility Survey ObservationsJanuary 14, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2201.05343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.05343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of the SpaceX Starlink Satellites on the Zwicky Transient Facility Survey ObservationsJanuary 14, 2022...</p></details>
    Published: January 14, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomyAliens · Missions · International Space Station · Space Shuttle · Apollo · Ar...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomyAliens · Missions · International Space Station · Space Shuttle · Apollo · Ar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: spacex starlink objects train 24 may 2019  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpaceXLoungeMany proper UFO people are sceptical and will look for and accept rational explanations.... twilight, which isn&#x27;t a great...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpaceXLoungeMany proper UFO people are sceptical and will look for and accept rational explanations.... twilight, which isn&#x27;t a great...</p></details>
    Published: may 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/1izudtk/spacex_update_on_targeted_reentry_for_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/1izudtk/spacex_update_on_targeted_reentry_for_starlink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Update on Targeted Re-entry for Starlink satellites...Successful targeted reentry requires maintaining attitude control down to v...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/1izudtk/spacex_update_on_targeted_reentry_for_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/1izudtk/spacex_update_on_targeted_reentry_for_starlink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Update on Targeted Re-entry for Starlink satellites...Successful targeted reentry requires maintaining attitude control down to v...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/g5dp89/yesterday_i_saw_multiple_10_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/g5dp89/yesterday_i_saw_multiple_10_starlink_satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e sun is beneath the horizon but still able to reflect off the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/g5dp89/yesterday_i_saw_multiple_10_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/g5dp89/yesterday_i_saw_multiple_10_starlink_satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e sun is beneath the horizon but still able to reflect off the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/btwemx/visual_demonstration_explaining_when_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/btwemx/visual_demonstration_explaining_when_starlink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Demonstration Explaining when StarLink satellites...Here&#x27;s my video demonstration of the same thing, showing why we can currently...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/btwemx/visual_demonstration_explaining_when_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/btwemx/visual_demonstration_explaining_when_starlink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Demonstration Explaining when StarLink satellites...Here&#x27;s my video demonstration of the same thing, showing why we can currently...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/z1mkb0/eli5_what_is_the_difference_between_civil/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/z1mkb0/eli5_what_is_the_difference_between_civil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is nautical twilight · 12° to 18° below the horizon is astronomical...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/z1mkb0/eli5_what_is_the_difference_between_civil/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/z1mkb0/eli5_what_is_the_difference_between_civil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is nautical twilight · 12° to 18° below the horizon is astronomical...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: It is a small window where the sun is far enough below  
-   Link: <a href="https://www.reddit.com/r/space/comments/1npqxmv/is_there_a_reason_i_am_seeing_more_satellites_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1npqxmv/is_there_a_reason_i_am_seeing_more_satellites_at/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a reason I am seeing more satellites at dusk: r/spaceFor decades, I have loved trying to catch a satellite in the night sky jus...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1npqxmv/is_there_a_reason_i_am_seeing_more_satellites_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1npqxmv/is_there_a_reason_i_am_seeing_more_satellites_at/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a reason I am seeing more satellites at dusk: r/spaceFor decades, I have loved trying to catch a satellite in the night sky jus...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the satellites need to be in the sun to be visible.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the satellites need to be in the sun to be visible.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: astronomy.com  
    Title: twilights glow is calling  
-   Link: <a href="https://www.astronomy.com/observing/twilights-glow-is-calling/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/twilights-glow-is-calling/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the three kinds of twilightNov 9, 2023 — In the evening, nautical twilight starts once civil twilight ends, and it culminates wh...</p></details>
+   Link:<a href="https://www.astronomy.com/observing/twilights-glow-is-calling/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/twilights-glow-is-calling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the three kinds of twilightNov 9, 2023 — In the evening, nautical twilight starts once civil twilight ends, and it culminates wh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.stackexchange.com  
    Title: I was wondering about what makes them visible. Do they have large mirrors that  
-   Link: <a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeHow do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeHow do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dawn, dusk and twilight | Meanings and TimingsDuring civil twilight, the brightest stars are visible and at sea the horizon is clearly de...</p></details>
+   Link:<a href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dawn, dusk and twilight | Meanings and TimingsDuring civil twilight, the brightest stars are visible and at sea the horizon is clearly de...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TwilightTwilight is the period between dawn and sunrise, and between sunset and dusk. Morning twilight: astronomical, nautical, and ci...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TwilightTwilight is the period between dawn and sunrise, and between sunset and dusk. Morning twilight: astronomical, nautical, and ci...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: satellitemap.space  
-   Link: <a href="https://satellitemap.space/constellation/starlink" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/constellation/starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites are visible on most clear evenings within 1–2 hours after sunset or before sunrise. Newly...Read more...</p></details>
+   Link:<a href="https://satellitemap.space/constellation/starlink" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/constellation/starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellites are visible on most clear evenings within 1–2 hours after sunset or before sunrise. Newly...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: earthsky.org  
    Title: spacex starlink satellites explained  
-   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens and that it was only the #starlink satellite.... Is the sudden upsurge in the number of Starlink satellites also causing UFO sigh...</p></details>
+   Link:<a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens and that it was only the #starlink satellite.... Is the sudden upsurge in the number of Starlink satellites also causing UFO sigh...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink satellites and not UFOs like locals thought... READ MORE: Starlink Satellites Produce Wave of UFO Sightings in the US...</p></details>
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink satellites and not UFOs like locals thought... READ MORE: Starlink Satellites Produce Wave of UFO Sightings in the US...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-above star chart inaccuraciesI FINALLY figured out that the HA star chart is TOTALITY wrong. I use the program Heavensat and it m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-above star chart inaccuraciesI FINALLY figured out that the HA star chart is TOTALITY wrong. I use the program Heavensat and it m...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2022/01/18/spacex-starlink-streaks-images" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2022/01/18/spacex-starlink-streaks-images</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From November 2019 to September 2021, 5,301 satellite streaks were identified in twilight photos, raising concerns among scientists about...</p></details>
+   Link:<a href="https://www.axios.com/2022/01/18/spacex-starlink-streaks-images" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2022/01/18/spacex-starlink-streaks-images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From November 2019 to September 2021, 5,301 satellite streaks were identified in twilight photos, raising concerns among scientists about...</p></details>
    Published: November 2019  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/RST_defs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise, Set, and Twilight DefinitionsThere are three kinds of twilight defined: civil twilight, nautical twilight, and...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/RST_defs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise, Set, and Twilight DefinitionsThere are three kinds of twilight defined: civil twilight, nautical twilight, and...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some seven years ago I created the Starlink Satellite Observing Group. I can run simulations that show which Starlink satellites...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some seven years ago I created the Starlink Satellite Observing Group. I can run simulations that show which Starlink satellites...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For information on the definitions of rise, set, and twilight, see Rise, Set, and Twilight Definitions in the Astronomical Information Ce...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For information on the definitions of rise, set, and twilight, see Rise, Set, and Twilight Definitions in the Astronomical Information Ce...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/AZ8wJ07MFpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/AZ8wJ07MFpI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When to see Starlink &#x27;satellite train&#x27; in the night skyYou can only really see these about one to three days after launch and they have t...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/AZ8wJ07MFpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/AZ8wJ07MFpI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When to see Starlink &#x27;satellite train&#x27; in the night skyYou can only really see these about one to three days after launch and they have t...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: seashelf.co.uk  
    Title: whats the difference between nautical twilight and civil twilight  
-   Link: <a href="https://www.seashelf.co.uk/blog/celestial-nav-blogs/whats-the-difference-between-nautical-twilight-and-civil-twilight/" target="_blank" rel="noopener noreferrer nofollow">https://www.seashelf.co.uk/blog/celestial-nav-blogs/whats-the-difference-between-nautical-twilight-and-civil-twilight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s The Difference Between Nautical Twilight And Civil...29 Nov 2022 — During the Civil phase you can conduct most outdoor work witho...</p></details>
+   Link:<a href="https://www.seashelf.co.uk/blog/celestial-nav-blogs/whats-the-difference-between-nautical-twilight-and-civil-twilight/" target="_blank" rel="noopener noreferrer nofollow">https://www.seashelf.co.uk/blog/celestial-nav-blogs/whats-the-difference-between-nautical-twilight-and-civil-twilight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s The Difference Between Nautical Twilight And Civil...29 Nov 2022 — During the Civil phase you can conduct most outdoor work witho...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/predicting-the-iss-and-other-satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In winter, most satellites are only visible during a short period after sunset and before sunrise...</p></details>
+   Link:<a href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/predicting-the-iss-and-other-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In winter, most satellites are only visible during a short period after sunset and before sunrise...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/different-types-twilight.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/different-types-twilight.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Nautical twilight occurs when the center of the Sun is between 6 degrees and 12...Read more...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/different-types-twilight.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/different-types-twilight.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Nautical twilight occurs when the center of the Sun is between 6 degrees and 12...Read more...</p></details>

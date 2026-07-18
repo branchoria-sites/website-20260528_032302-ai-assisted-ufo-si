@@ -325,7 +325,7 @@ This matters because many reports can be downgraded from “unidentified” to �
 
 The strongest aircraft check starts with a precise event file. An investigator needs the sighting time, time zone, observer location, viewing direction, approximate angle above the horizon, duration, object movement, visible colours, sound, and any video [metadata]({{ 'metadata/' | relative_url }}). AI can help by converting a witness statement into structured fields, but the real value comes when those fields are tested against aviation data rather than treated as a story on its own.
 
-The main public evidence source is ADS-B, short for Automatic Dependent Surveillance–Broadcast. In simple terms, many aircraft broadcast their identity, GPS-derived position, altitude, speed and other flight data, which can be received by ground stations and displayed by tracking services. Flightradar24 says its tracking data comes primarily from ADS-B signals, while also using multilateration, radar and other sources where available; ADS-B Exchange describes itself as a global independent receiver network showing real-time and historical aircraft broadcasts as received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span>
+The main public evidence source is ADS-B, short for Automatic Dependent Surveillance–Broadcast. In simple terms, many aircraft broadcast their identity, GPS-derived position, altitude, speed and other flight data, which can be received by ground stations and displayed by tracking services. Flightradar24 says its tracking data comes primarily from ADS-B signals, while also using multilateration, radar and other sources where available; ADS-B Exchange describes itself as a global independent receiver network showing real-time and historical aircraft broadcasts as received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span>
 
 For UFO investigation, the useful test is not whether an aircraft was somewhere in the county. It is whether a candidate aircraft would have appeared in the same part of the witness’s sky at the right moment. A workflow should therefore calculate the aircraft’s bearing and elevation from the observer’s location, compare its apparent track with the report, and allow for clock error. If a witness says a bright light was moving slowly west to east for four minutes at 21:43, a flight that crossed the same bearing at 21:41–21:46 is a far stronger candidate than a flight ten miles away in the wrong direction.
 
@@ -342,13 +342,13 @@ AI can make this faster by querying multiple track sources, plotting candidate a
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When aircraft lights look strange
 
-Many night-time UFO reports begin with a simple problem: a light in the sky contains very little distance information. A bright point could be a drone nearby, a helicopter a few miles away, or an airliner tens of miles away. During the 2024 New Jersey drone-[sighting wave]({{ 'sighting-wave/' | relative_url }}), Associated Press quoted experts explaining that a light might be roughly 100 yards away or 40 miles away and still look similar to an observer at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
+Many night-time UFO reports begin with a simple problem: a light in the sky contains very little distance information. A bright point could be a drone nearby, a helicopter a few miles away, or an airliner tens of miles away. During the 2024 New Jersey drone-[sighting wave]({{ 'sighting-wave/' | relative_url }}), Associated Press quoted experts explaining that a light might be roughly 100 yards away or 40 miles away and still look similar to an observer at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
 
-Aircraft lights are designed for safety, not for easy identification by casual observers. UK retained rules require aircraft at night to display anti-collision lights and, except for balloons, navigation lights that indicate the relative path of the aircraft. The same rule also warns against displaying other lights that could be mistaken for those navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> In practice, an observer may see combinations of steady red and green navigation lights, white strobes, red beacons, taxi lights and very bright landing lights.
+Aircraft lights are designed for safety, not for easy identification by casual observers. UK retained rules require aircraft at night to display anti-collision lights and, except for balloons, navigation lights that indicate the relative path of the aircraft. The same rule also warns against displaying other lights that could be mistaken for those navigation lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span> In practice, an observer may see combinations of steady red and green navigation lights, white strobes, red beacons, taxi lights and very bright landing lights.
 
 This can produce several common “UFO-like” impressions. An aircraft flying almost directly towards the observer may appear to hover because its bearing changes very slowly. Its landing lights may look like a single brilliant orb. When it turns, the landing lights can fade abruptly and the red, green or white navigation pattern may become visible, creating the impression that the object changed shape or vanished. A helicopter can genuinely hover or move slowly, and its searchlight or landing light can make its body invisible against a dark sky.
 
-The New Jersey episode is a useful cautionary example because it mixed ordinary misidentification with legitimate public concern about drones. A joint statement from the FBI, Department of Homeland Security, FAA and Department of Defense said the FBI had received more than 5,000 tips and generated about 100 leads, while federal agencies deployed detection technology and trained visual observers. The same official response said their work had not identified anything anomalous and that many reports were consistent with lawful drones, manned aircraft, helicopters and stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The New Jersey episode is a useful cautionary example because it mixed ordinary misidentification with legitimate public concern about drones. A joint statement from the FBI, Department of Homeland Security, FAA and Department of Defense said the FBI had received more than 5,000 tips and generated about 100 leads, while federal agencies deployed detection technology and trained visual observers. The same official response said their work had not identified anything anomalous and that many reports were consistent with lawful drones, manned aircraft, helicopters and stars.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean every witness was careless. It means the night sky is a poor measuring instrument. A serious UFO workflow should treat “looked too slow”, “looked too low”, “made no sound” and “seemed to hover” as prompts for geometry checks, not as conclusions. Sound can be lost in wind, traffic or distance. Size is nearly impossible to judge without a known range. A “sudden acceleration” may be a light turning towards the camera, a change in zoom, camera shake, or a nearby object crossing the frame.
 
@@ -356,11 +356,11 @@ That does not mean every witness was careless. It means the night sky is a poor 
 
 ## Drones need a different kind of check
 
-Drones are harder to rule in or out than airliners because many small drone flights do not appear in public flight-tracking tools. A consumer quadcopter at night may show only one or two bright LEDs, may be nearly silent at distance, and may move in ways that fixed-wing aircraft cannot: stopping abruptly, pivoting, reversing, climbing steeply or holding a position. Experts cited by Associated Press note that multicopter drones can stop, pivot and reverse, while planes and helicopters usually move more smoothly; they also note that most drones operate below 400 feet under US rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
+Drones are harder to rule in or out than airliners because many small drone flights do not appear in public flight-tracking tools. A consumer quadcopter at night may show only one or two bright LEDs, may be nearly silent at distance, and may move in ways that fixed-wing aircraft cannot: stopping abruptly, pivoting, reversing, climbing steeply or holding a position. Experts cited by Associated Press note that multicopter drones can stop, pivot and reverse, while planes and helicopters usually move more smoothly; they also note that most drones operate below 400 feet under US rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
 
-For UK-centred investigations, drone lighting rules are especially important. The UK Civil Aviation Authority states that when operating at night in the Open Category, the remote pilot must ensure a green flashing light is activated on the unmanned aircraft. The CAA’s [Remote ID]({{ 'remote-id/' | relative_url }}) page also says Remote ID must be enabled by either 1 January 2026 or 1 January 2028 depending on drone class and operating category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For UK-centred investigations, drone lighting rules are especially important. The UK Civil Aviation Authority states that when operating at night in the Open Category, the remote pilot must ensure a green flashing light is activated on the unmanned aircraft. The CAA’s [Remote ID]({{ 'remote-id/' | relative_url }}) page also says Remote ID must be enabled by either 1 January 2026 or 1 January 2028 depending on drone class and operating category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In the United States, the FAA says Remote ID applies to drone pilots who are required to register or who have registered their drones, and describes Remote ID as crucial to integrating drones into the National Airspace System. The FAA’s rule framework is designed to broadcast identifying and location information, but it is not the same as a complete public map of every drone flight at every moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In the United States, the FAA says Remote ID applies to drone pilots who are required to register or who have registered their drones, and describes Remote ID as crucial to integrating drones into the National Airspace System. The FAA’s rule framework is designed to broadcast identifying and location information, but it is not the same as a complete public map of every drone flight at every moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For an AI-assisted case file, drone screening should therefore combine several weaker signals rather than expecting a single definitive dataset. Useful checks include proximity to likely operators, distance from airports or restricted sites, local temporary flight restrictions, weather conditions for small drones, nearby events, police or media helicopter activity that might have been mistaken for drones, and whether the motion described is physically plausible for a small multicopter.
 
@@ -369,11 +369,11 @@ A drone explanation becomes stronger when the report includes low altitude, near
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “not on the tracker” is not enough
 
-A common mistake in public UFO analysis is treating consumer flight-tracking apps as if they were complete airspace records. They are not. Flightradar24 explains that some older civilian aircraft and many military aircraft are only equipped with Mode S transponders, which require multilateration to calculate position. It also notes that receiver coverage matters: a ground receiver’s range is limited, and aircraft farther from receivers need to be higher to be detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with ads b</span><span class="citation-popover-snippet">how we track flights with ads b</span></span></span>
+A common mistake in public UFO analysis is treating consumer flight-tracking apps as if they were complete airspace records. They are not. Flightradar24 explains that some older civilian aircraft and many military aircraft are only equipped with Mode S transponders, which require multilateration to calculate position. It also notes that receiver coverage matters: a ground receiver’s range is limited, and aircraft farther from receivers need to be higher to be detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with ads b</span><span class="citation-popover-snippet">how we track flights with ads b</span></span></span>
 
-Coverage also varies by region and data source. OpenSky says it provides open air-traffic data for research, including ADS-B, Mode-S, ADS-C, FLARM and VHF data, but its FAQ notes that it generally has no data before 2013 and has its best coverage in Europe and the US. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In remote areas, over water, at low altitude, or near terrain that blocks receiver line of sight, a real aircraft may leave little or no trace in a public dataset.
+Coverage also varies by region and data source. OpenSky says it provides open air-traffic data for research, including ADS-B, Mode-S, ADS-C, FLARM and VHF data, but its FAQ notes that it generally has no data before 2013 and has its best coverage in Europe and the US.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In remote areas, over water, at low altitude, or near terrain that blocks receiver line of sight, a real aircraft may leave little or no trace in a public dataset.
 
-There are also technical and policy complications. Aircraft positions derived from ADS-B depend on onboard navigation data, and GPS jamming or spoofing can produce misleading reported positions. Flightradar24 has described using multilateration to counter GPS interference, while also acknowledging that MLAT needs enough receivers and cannot solve every case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">How Flightradar24 uses MLAT to counter GPS jamming</span><span class="citation-popover-snippet">How Flightradar24 uses MLAT to counter GPS jamming</span></span></span> Some state, military, law-enforcement or sensitive flights may be filtered, delayed, blocked, incomplete, or visible on one service but not another.
+There are also technical and policy complications. Aircraft positions derived from ADS-B depend on onboard navigation data, and GPS jamming or spoofing can produce misleading reported positions. Flightradar24 has described using multilateration to counter GPS interference, while also acknowledging that MLAT needs enough receivers and cannot solve every case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">How Flightradar24 uses MLAT to counter GPS jamming</span><span class="citation-popover-snippet">How Flightradar24 uses MLAT to counter GPS jamming</span></span></span> Some state, military, law-enforcement or sensitive flights may be filtered, delayed, blocked, incomplete, or visible on one service but not another.
 
 This is why a careful case status should distinguish between “matched”, “not matched” and “ruled out”. If a reported light matches a known aircraft track within a narrow time-and-sky window, aircraft may be a strong explanation. If no public track appears, the correct wording is usually weaker: “No matching public broadcast track found.” That leaves room for non-broadcast aircraft, low-level helicopters, military activity, drones, balloons, satellites, weather effects, or an unresolved event.
 
@@ -385,7 +385,7 @@ AI is well suited to the repetitive part of aircraft and drone checking: gatheri
 
 A useful scoring model should not simply label a case “aircraft” or “drone”. It should score each candidate explanation by evidence strength. For aircraft, the strongest evidence is a track that matches time, bearing, elevation, direction, apparent speed and light behaviour. Medium-strength evidence might be an aircraft in the right general area but with uncertain timing or bearing. Weak evidence might be a nearby airport or general traffic pattern without a specific track. For drones, the evidence may rely more on motion, altitude, location, operator plausibility, legal notices and local reports because public drone tracks are less complete.
 
-NASA’s independent UAP study is relevant here because it emphasised data quality, calibration and systematic collection rather than dramatic claims. The report says many UAP observations suffer from limited high-quality data and argues that future progress depends on better-characterised datasets and scientific methodology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> A flight-track match is only as good as the sighting metadata it is being matched against. A beautifully plotted aircraft path cannot solve a case if the witness time is approximate, the viewing direction is guessed, and the video has no reliable landmarks.
+NASA’s independent UAP study is relevant here because it emphasised data quality, calibration and systematic collection rather than dramatic claims. The report says many UAP observations suffer from limited high-quality data and argues that future progress depends on better-characterised datasets and scientific methodology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> A flight-track match is only as good as the sighting metadata it is being matched against. A beautifully plotted aircraft path cannot solve a case if the witness time is approximate, the viewing direction is guessed, and the video has no reliable landmarks.
 
 Human review remains essential for three reasons. First, witness language is imprecise: “above the house”, “over the town” and “very low” may describe appearance, not measured position. Second, camera footage can mislead: zoom, autofocus, rolling shutter, digital stabilisation and low-light noise can all change perceived motion. Third, aviation context matters: a local pilot, air-traffic specialist or drone operator may recognise a pattern that a generic model misses.
 
@@ -393,7 +393,7 @@ Human review remains essential for three reasons. First, witness language is imp
 
 ## How to classify the result
 
-The best outcome of aircraft and drone screening is not always a neat debunking. It is a transparent classification that tells the reader what has and has not been explained. Official UAP work shows why this matters. AARO’s public case pages include cases marked unresolved, under analysis, closed as not anomalous, and resolved as objects such as balloons; its broader public messaging says it uses a data-driven framework for UAP analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The best outcome of aircraft and drone screening is not always a neat debunking. It is a transparent classification that tells the reader what has and has not been explained. Official UAP work shows why this matters. AARO’s public case pages include cases marked unresolved, under analysis, closed as not anomalous, and resolved as objects such as balloons; its broader public messaging says it uses a data-driven framework for UAP analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 For public-facing [case files]({{ 'case-file/' | relative_url }}), five practical categories are usually enough:
 
@@ -417,194 +417,194 @@ Aircraft and drone checks are high-yield because they test the most common movin
 A strong AI-assisted investigation therefore treats aviation screening as a structured evidence layer. It reconstructs what was visible from the witness’s position, searches for matching aircraft and helicopter tracks, considers drone motion and lighting, records data gaps, and assigns a confidence level. When the match is good, the case can be resolved quickly and plainly. When the match is weak or absent, the result should be written with restraint: not “alien”, not “impossible”, but “unresolved after aircraft and drone checks”, with the exact reasons preserved for the next stage of investigation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was It an Aircraft or Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was It an Aircraft or Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centres pilots, official reports, and aviation-related UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres pilots, official reports, and aviation-related UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful evidence triage before extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful evidence triage before extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains structured classification and investigation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains structured classification and investigation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Broadens the UFO investigation lane without becoming too technical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the UFO investigation lane without becoming too technical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model"><img src="https://i.ebayimg.com/images/g/14gAAeSwAdRqHreJ/s-l225.jpg" alt="Listing image for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model"><img src="https://i.ebayimg.com/images/g/14gAAeSwAdRqHreJ/s-l225.jpg" alt="Listing image for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-an-aircraft-or-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="was-it-an-aircraft-or-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,186 +810,186 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
+   Link:<a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
+   Link:<a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: flightradar24.com  
    Title: How Flightradar24 uses MLAT to counter GPS jamming  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/data" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data</a>  
+   Link:<a href="https://opensky-network.org/data" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mode-s.org  
-   Link: <a href="https://mode-s.org/atmdata/sources/" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/atmdata/sources/</a>  
+   Link:<a href="https://mode-s.org/atmdata/sources/" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/atmdata/sources/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/not-all-drone-lights-are-the-same-ae70d7700319" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/not-all-drone-lights-are-the-same-ae70d7700319</a>  
+   Link:<a href="https://medium.com/faa/not-all-drone-lights-are-the-same-ae70d7700319" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/not-all-drone-lights-are-the-same-ae70d7700319</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane? Experts help explain the differences  
-   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
+   Link:<a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Remote ID (RID)  
-   Link: <a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
+   Link:<a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Remote ID  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa</a>  
+   Link:<a href="https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeAircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and flight informa...</p></details>
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeAircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and flight informa...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Understanding data fusion for aviation and UAP tracking  
-   Link: <a href="https://www.youtube.com/watch?v=G-N1a8xQ4p4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G-N1a8xQ4p4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify aircraft and drones in the sky for UAP investigation What do drones look like? Are lights in the night UFOs, planes? Here...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G-N1a8xQ4p4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G-N1a8xQ4p4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify aircraft and drones in the sky for UAP investigation What do drones look like? Are lights in the night UFOs, planes? Here...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pqkxYbVEvAU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pqkxYbVEvAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes  
-   Link: <a href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NrM_NQS3_Fc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to distinguish between something like a drone, satellite, or UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NrM_NQS3_Fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to distinguish between something like a drone, satellite, or UFO...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
+   Link:<a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: How to distinguish between something like a drone, satellite, or UFO  
-   Link: <a href="https://www.youtube.com/watch?v=R9U0O1T2SgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9U0O1T2SgQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of identifying UAP and aerial phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R9U0O1T2SgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9U0O1T2SgQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The science of identifying UAP and aerial phenomena...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516658.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516658.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516658.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516658.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-89" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-89</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-89" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-89</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>

@@ -297,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 Many dramatic UFO videos become less mysterious once investigators examine what the camera and sensor were actually doing. Infrared glare, autofocus hunting, rolling shutter distortion, digital stabilisation, compression noise and low-light processing can all create shapes, movements or “structured craft” appearances that were never present in the sky itself. In AI-assisted UFO investigation, this matters because machine-learning systems are excellent at finding patterns in images, but they can also mistake [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) for genuine anomalous behaviour if the underlying footage is poorly understood.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-NASA’s independent UAP study warned that current analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and the lack of multiple independent measurements. The report also stressed that AI tools only work reliably on well-characterised data gathered to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor...</span></span></span> In practical terms, a UFO investigation workflow should treat camera behaviour as a candidate explanation from the start, not as an afterthought after more exotic theories are considered.
+NASA’s independent UAP study warned that current analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and the lack of multiple independent measurements. The report also stressed that AI tools only work reliably on well-characterised data gathered to strong standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor...</span></span></span> In practical terms, a UFO investigation workflow should treat camera behaviour as a candidate explanation from the start, not as an afterthought after more exotic theories are considered.
 
 ## Could the Camera Be Creating the UFO?
 
@@ -324,13 +324,13 @@ These checks sound mundane, but they often separate genuine unknowns from imagin
 
 Infrared targeting systems are especially vulnerable to misleading imagery because they convert heat differences into visible contrast. Bright heat sources can bloom, smear or flare across the sensor, producing large glowing forms that appear structured or solid.
 
-The widely discussed US Navy “Gimbal” footage became a central example in this debate. Some analysts argue the rotating shape is evidence of unusual flight behaviour, while others argue the apparent rotation is primarily an infrared glare effect linked to the camera’s optical system and stabilisation mechanics. Technical analyses have shown how glare orientation can rotate with the sensor assembly rather than with the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the Gimbal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Gimbal UFO</span><span class="citation-popover-snippet">Gimbal UFO - A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">iginal &quot;UFO&quot; video. The more I describe this effect the more I...</span></span></span>
+The widely discussed US Navy “Gimbal” footage became a central example in this debate. Some analysts argue the rotating shape is evidence of unusual flight behaviour, while others argue the apparent rotation is primarily an infrared glare effect linked to the camera’s optical system and stabilisation mechanics. Technical analyses have shown how glare orientation can rotate with the sensor assembly rather than with the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the Gimbal...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Gimbal UFO</span><span class="citation-popover-snippet">Gimbal UFO - A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">iginal &quot;UFO&quot; video. The more I describe this effect the more I...</span></span></span>
 
 Importantly, even sceptical explanations do not necessarily prove what the object was. They instead narrow the claim. A glare-based interpretation may explain why the object appears to rotate without proving whether the underlying source was a jet, balloon or something else. That distinction matters in responsible AI-assisted review because “the footage is distorted” is not the same as “the entire event is solved”.
 
 Autofocus systems create another common source of false UFO structure. Cameras constantly adjust focus to maximise edge contrast. In low light, small bright objects such as stars, aircraft lights or planets can become large soft discs or geometric shapes as focus shifts. This effect becomes more dramatic with [digital zoom]({{ 'digital-zoom/' | relative_url }}).
 
-One well-known example involved triangular “pyramid UFO” footage recorded by US Navy personnel. Several investigators argued that the triangular appearance was consistent with out-of-focus light sources taking on the shape of the camera aperture rather than the shape of the underlying object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+One well-known example involved triangular “pyramid UFO” footage recorded by US Navy personnel. Several investigators argued that the triangular appearance was consistent with out-of-focus light sources taking on the shape of the camera aperture rather than the shape of the underlying object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 For AI systems, this creates a serious risk. A model trained on social-media UFO imagery may accidentally learn that blur halos, focus bloom or aperture shapes indicate “structured craft”. Human review is therefore essential to determine whether the geometry originates from the scene or from the optics.
 
@@ -340,7 +340,7 @@ For AI systems, this creates a serious risk. A model trained on social-media UFO
 
 Infrared systems amplify ambiguity because heat signatures rarely map neatly onto physical shape. A hot exhaust plume may appear larger than the aircraft producing it. Reflections from clouds, sea surfaces or humid air can distort apparent boundaries.
 
-The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly noted that some apparent heat signatures cannot confidently be separated from reflections, thermal differentials or sensor display errors using available footage alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryHowever, AARO cannot determine whether the observed signature originates from a physical source, either as a thermal emiss...</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly noted that some apparent heat signatures cannot confidently be separated from reflections, thermal differentials or sensor display errors using available footage alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryHowever, AARO cannot determine whether the observed signature originates from a physical source, either as a thermal emiss...</span></span></span>
 
 That uncertainty is important. AI-assisted systems should not interpret every bright infrared blob as a discrete craft performing manoeuvres. In some cases, the “object” may partly represent the sensor’s response to contrast conditions rather than the shape or behaviour of a physical target.
 
@@ -367,7 +367,7 @@ AI-assisted investigation systems face a particular danger here because machine-
 
 Low-light smartphone footage is especially problematic. Modern phones aggressively combine frames, brighten shadows and smooth noise. This computational photography process can generate moving halos or “energy field” appearances around ordinary lights. A distant aircraft beacon recorded at night may therefore appear as a glowing morphing orb once processed through the phone’s software stack.
 
-The problem becomes worse when clips are re-uploaded multiple times. Every compression pass removes more detail while amplifying synthetic patterns. By the time a video reaches investigators, the apparent “craft texture” may be entirely digital.
+The problem becomes worse when clips are re-uploaded multiple times. Every compression pass removes while amplifying synthetic patterns. By the time a video reaches investigators, the apparent “craft texture” may be entirely digital.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stabilisation can create false motion
@@ -398,7 +398,7 @@ Human reviewers should therefore compare the object’s movement against environ
 
 The strongest safeguard against false UFO anomalies is independent confirmation across multiple sensor types. A genuine physical object should usually leave correlated evidence beyond a single distorted video frame.
 
-NASA’s UAP study repeatedly highlighted the importance of multiple measurements and reliable metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span> A lone clip without calibration data is inherently difficult to interpret because investigators cannot determine whether the anomaly originated in the environment or inside the imaging chain itself.
+NASA’s UAP study repeatedly highlighted the importance of multiple measurements and reliable metadata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span> A lone clip without calibration data is inherently difficult to interpret because investigators cannot determine whether the anomaly originated in the environment or inside the imaging chain itself.
 
 In practical UFO investigation workflows, stronger cases typically involve combinations such as:
 
@@ -456,194 +456,194 @@ When those answers are missing, caution becomes essential. A video can still doc
 In AI-assisted UFO investigation, this is one of the most important human safeguards of all. The goal is not to debunk every sighting automatically, nor to treat every ambiguity as evidence of something extraordinary. The goal is to recognise when the camera itself may be generating part of the mystery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Camera Be Creating the UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Camera Be Creating the UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Directly supports interpretation of camera-generated effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports interpretation of camera-generated effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes testing ordinary explanations before exotic ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes testing ordinary explanations before exotic ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Supports careful analysis of visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful analysis of visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Relevant to assessing imagery and sensor evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing imagery and sensor evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller"><img src="https://i.ebayimg.com/images/g/HxUAAOSwVk1mc09H/s-l225.jpg" alt="Listing image for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller"><img src="https://i.ebayimg.com/images/g/HxUAAOSwVk1mc09H/s-l225.jpg" alt="Listing image for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm"><img src="https://i.ebayimg.com/images/g/xxkAAeSwcoJotvTu/s-l225.jpg" alt="Listing image for Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm"><img src="https://i.ebayimg.com/images/g/xxkAAeSwcoJotvTu/s-l225.jpg" alt="Listing image for Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">Ultra Slim CPL Filter Circular Polarizer Camera Lens Polarizing Filter 49-82mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera"><img src="https://i.ebayimg.com/images/g/sooAAeSwbvhqF7Qh/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera"><img src="https://i.ebayimg.com/images/g/sooAAeSwbvhqF7Qh/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT MC UV Lens Filter Protection 37-82mm Ultra Slim K Series For Camera</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X"><img src="https://i.ebayimg.com/images/g/Xt0AAOSwmPNl9BAR/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X"><img src="https://i.ebayimg.com/images/g/Xt0AAOSwmPNl9BAR/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Magnetic ND1000 Lens Filter+Magnetic Adapter Ring+Filter Cap Nano-X</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera filter">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera filter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-camera-be-creating-the-ufo-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="could-the-camera-be-creating-the-ufo-camera-filter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -808,7 +808,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,174 +849,174 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: You Tube Gimbal UFO  
-   Link: <a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO - A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO - A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: a [gimbal glare](&#123;&#123; 'gimbal-glare/' | relative_url &#125;&#125;) explainer.12230  
-   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the Gimbal...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the Gimbal...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X1PRDbtiF0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: Gimbal UFO rotation caused by...a Gimbal!The Gimbal UFO video seems to show a rotating flying saucer. However, the shape real...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X1PRDbtiF0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: Gimbal UFO rotation caused by...a Gimbal!The Gimbal UFO video seems to show a rotating flying saucer. However, the shape real...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iginal &quot;UFO&quot; video. The more I describe this effect the more I...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-video-simulating-the-atflir-tracking-and-gimbal-rotation.11391/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iginal &quot;UFO&quot; video. The more I describe this effect the more I...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryHowever, AARO cannot determine whether the observed signature originates from a physical source, either as a thermal emiss...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryHowever, AARO cannot determine whether the observed signature originates from a physical source, either as a thermal emiss...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Navy UFO Videos  
-   Link: <a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn5Qr0tCHkCVnqTx_c0P3O2t" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn5Qr0tCHkCVnqTx_c0P3O2t</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West · 2:54. Explained: New Navy UFO... Explained: GIMBAL UFO Video - The [IR Glare](&amp;#123;&amp;#123; &#x27;ir-glare/&#x27; | relative_url &amp;#125;&amp;#125;) Hypothesis. Mick West · 51:39 · Alex...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn5Qr0tCHkCVnqTx_c0P3O2t" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn5Qr0tCHkCVnqTx_c0P3O2t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West · 2:54. Explained: New Navy UFO... Explained: GIMBAL UFO Video - The [IR Glare](&amp;#123;&amp;#123; &#x27;ir-glare/&#x27; | relative_url &amp;#125;&amp;#125;) Hypothesis. Mick West · 51:39 · Alex...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Do Cameras Do This? | Rolling Shutter Explained  
-   Link: <a href="http://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dNVtMmLlnoE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[En] Ep. 40: Infrared Lensflares in Backlight - InfraBlue Filter...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dNVtMmLlnoE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[En] Ep. 40: Infrared Lensflares in Backlight - InfraBlue Filter...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: [En] Ep. 40: Infrared Lensflares in Backlight  
-   Link: <a href="http://www.youtube.com/watch?v=gNl5GGV1oJI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gNl5GGV1oJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lens Flares: Why they look like that?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=gNl5GGV1oJI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gNl5GGV1oJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lens Flares: Why they look like that?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Lens Flares: Why they look like that?  
-   Link: <a href="http://www.youtube.com/watch?v=OaHVdA8KLtw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OaHVdA8KLtw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rolling Shutter Effect Demystified...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OaHVdA8KLtw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OaHVdA8KLtw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rolling Shutter Effect Demystified...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Rolling Shutter Effect Demystified!  
-   Link: <a href="http://www.youtube.com/watch?v=TXE81AH2mFs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TXE81AH2mFs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We’ve hit peak lens flare. Here’s how it started...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TXE81AH2mFs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TXE81AH2mFs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We’ve hit peak lens flare. Here’s how it started...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: We’ve hit peak lens flare. Here’s how it started  
-   Link: <a href="http://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_IesAvesFUo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera lens flare UFO explanation Lens Flares: Why they look like that?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_IesAvesFUo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera lens flare UFO explanation Lens Flares: Why they look like that?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtu.be  
    Title: IRre Cams  
-   Link: <a href="https://youtu.be/ByeYOWEo9Gs" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/ByeYOWEo9Gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling shutter effect explanation distortion The Rolling Shutter Effect Demystified...</p></details>
+   Link:<a href="https://youtu.be/ByeYOWEo9Gs" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/ByeYOWEo9Gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling shutter effect explanation distortion The Rolling Shutter Effect Demystified...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Smarter Every Day  
-   Link: <a href="https://www.youtube.com/watch?v=eMJFpj-0ogA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMJFpj-0ogA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=eMJFpj-0ogA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMJFpj-0ogA</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY OF NASA UNIDENTIFIED ANOMALOUS...- **Challenges in UAP Data Analysis**: Poor sensor calibration, lack of... sensor metadata, an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY OF NASA UNIDENTIFIED ANOMALOUS...- **Challenges in UAP Data Analysis**: Poor sensor calibration, lack of... sensor metadata, an...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: multipix.com  
-   Link: <a href="https://multipix.com/wp-content/uploads/2020/08/Reflective-Surfaces-Whitepaper-SmartXtract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://multipix.com/wp-content/uploads/2020/08/Reflective-Surfaces-Whitepaper-SmartXtract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It requires the software and/or the sensor to determine a correct reflective signal at a...Read more...</p></details>
+   Link:<a href="https://multipix.com/wp-content/uploads/2020/08/Reflective-Surfaces-Whitepaper-SmartXtract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://multipix.com/wp-content/uploads/2020/08/Reflective-Surfaces-Whitepaper-SmartXtract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It requires the software and/or the sensor to determine a correct reflective signal at a...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — Use of AI and Machine Learning: NASA&#x27;s UAPIST emphasizes that AI and machine...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — Use of AI and Machine Learning: NASA&#x27;s UAPIST emphasizes that AI and machine...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: behavior-podcast.com  
    Title: gimbal ufo video and others explained in new documentary  
-   Link: <a href="https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Gimbal” UFO video and other famous videos explained in...9 Jan 2025 — The documentary also delves into some of the more famous UFO myth...</p></details>
+   Link:<a href="https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Gimbal” UFO video and other famous videos explained in...9 Jan 2025 — The documentary also delves into some of the more famous UFO myth...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: spaceanddefense.io  
    Title: nasa new director of unidentified anomalous phenomena  
-   Link: <a href="https://spaceanddefense.io/nasa-new-director-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://spaceanddefense.io/nasa-new-director-of-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implementation of NASA&#x27;s scientific vision for UAP resear...</p></details>
+   Link:<a href="https://spaceanddefense.io/nasa-new-director-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://spaceanddefense.io/nasa-new-director-of-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implementation of NASA&#x27;s scientific vision for UAP resear...</p></details>

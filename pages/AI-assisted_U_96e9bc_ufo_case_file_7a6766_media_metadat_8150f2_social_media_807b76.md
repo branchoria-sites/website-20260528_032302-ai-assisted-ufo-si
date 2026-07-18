@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_81
 Most viral UFO footage online is not the [original evidence]({{ 'original-evidence/' | relative_url }}). It is usually a compressed repost, cropped clip, screenshot, screen recording or edited remix several generations removed from the source file. That matters because the technical information stripped away during upload is often more valuable to investigators than the glowing object itself.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" alt="Reposts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In AI-assisted UFO sighting investigation, [metadata]({{ 'metadata/' | relative_url }}) helps establish whether a sighting can be reconstructed against known [aircraft]({{ 'aircraft/' | relative_url }}) routes, satellite passes, weather conditions, astronomical objects or camera artefacts. Once a clip passes through TikTok, X, Instagram, Reddit or messaging apps, large parts of that evidential layer can disappear. Upload systems routinely re-encode videos, resize images, remove EXIF metadata, alter timestamps and generate entirely new files optimised for streaming rather than forensic analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
+In AI-assisted UFO sighting investigation, [metadata]({{ 'metadata/' | relative_url }}) helps establish whether a sighting can be reconstructed against known [aircraft]({{ 'aircraft/' | relative_url }}) routes, satellite passes, weather conditions, astronomical objects or camera artefacts. Once a clip passes through TikTok, X, Instagram, Reddit or messaging apps, large parts of that evidential layer can disappear. Upload systems routinely re-encode videos, resize images, remove EXIF metadata, alter timestamps and generate entirely new files optimised for streaming rather than forensic analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
 The result is a recurring problem in modern UFO research: public debate centres on low-quality reposts while the [original]({{ 'original-evidence/' | relative_url }}) recording, device information and contextual data remain inaccessible or lost.
 
@@ -300,9 +300,9 @@ Investigators trying to assess a sighting usually want to answer a series of bas
 
 </div>
 
-Original files sometimes preserve these answers through embedded metadata and codec information. Reposts usually do not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
+Original files sometimes preserve these answers through embedded metadata and codec information. Reposts usually do not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
 
-A common social-media evidence chain now looks like this: <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A common social-media evidence chain now looks like this:">[A common social-media evidence chain now looks like this:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A common social-media evidence chain now looks like this:</span><span class="citation-popover-snippet">PrivacyStripDo X, Instagram &amp; WhatsApp Strip EXIF Metadata? (2026)15 Dec 2024 — See whether X/Twitter, Instagram, WhatsApp, Signal, Faceb...</span></span></span>
+A common social-media evidence chain now looks like this:<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A common social-media evidence chain now looks like this:">[A common social-media evidence chain now looks like this:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A common social-media evidence chain now looks like this:</span><span class="citation-popover-snippet">PrivacyStripDo X, Instagram &amp; WhatsApp Strip EXIF Metadata? (2026)15 Dec 2024 — See whether X/Twitter, Instagram, WhatsApp, Signal, Faceb...</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -316,13 +316,13 @@ A common social-media evidence chain now looks like this: <span class="citation-
 
 </div>
 
-By the final stage, the online version may contain almost none of the original forensic information. The public still sees “the UFO video”, but investigators are often examining a completely new media file created by platform processing systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
+By the final stage, the online version may contain almost none of the original forensic information. The public still sees “the UFO video”, but investigators are often examining a completely new media file created by platform processing systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
 This is one reason serious investigations prioritise obtaining source media directly from witnesses rather than downloading public reposts.
 
 ## How TikTok, X and Instagram Strip Metadata
 
-Many social platforms remove metadata deliberately for privacy, bandwidth and storage reasons. The downloaded public version is often not the original upload but a recompressed derivative file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
+Many social platforms remove metadata deliberately for privacy, bandwidth and storage reasons. The downloaded public version is often not the original upload but a recompressed derivative file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
 
 ### What Usually Gets Removed
 
@@ -344,7 +344,7 @@ Depending on the platform and upload method, investigators may lose:
 
 </div>
 
-Testing across major platforms consistently shows that Instagram, Facebook, TikTok and X commonly strip or rewrite EXIF data from public copies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://privacystrip.com/blog/social-media-metadata-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacystrip.com">[PrivacyStrip]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacystrip.com</span><span class="citation-popover-title">Privacy Strip Do Social Media Platforms Strip EXIF Metadata?</span><span class="citation-popover-snippet">2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span> EXIFData That does not necessarily mean the platforms <span class="citation-chip-wrap"><a class="citation-chip" href="https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exifdata.org">[exifdata.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exifdata.org</span><span class="citation-popover-title">Do Social Media Sites Strip EXIF Data?</span><span class="citation-popover-snippet">2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</span></span></span>“delete” metadata from the witness’s original upload in a simple sense. In many cases, the service generates a new optimised media file for distribution and streaming. The metadata investigators expect was never recreated in the exported version. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
+Testing across major platforms consistently shows that Instagram, Facebook, TikTok and X commonly strip or rewrite EXIF data from public copies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://privacystrip.com/blog/social-media-metadata-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacystrip.com">[PrivacyStrip]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacystrip.com</span><span class="citation-popover-title">Privacy Strip Do Social Media Platforms Strip EXIF Metadata?</span><span class="citation-popover-snippet">2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span> EXIFData That does not necessarily mean the platforms<span class="citation-chip-wrap"><a class="citation-chip" href="https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exifdata.org">[exifdata.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exifdata.org</span><span class="citation-popover-title">Do Social Media Sites Strip EXIF Data?</span><span class="citation-popover-snippet">2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</span></span></span>“delete” metadata from the witness’s original upload in a simple sense. In many cases, the service generates a new optimised media file for distribution and streaming. The metadata investigators expect was never recreated in the exported version.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
 This distinction matters because many internet users assume a downloaded TikTok clip is still close to the original recording. Technically, it may be a heavily transformed derivative with altered bitrate, changed dimensions, recompressed frames and rewritten container data.
 
@@ -373,13 +373,13 @@ A distant aircraft light viewed through atmospheric haze may become a featureles
 
 This becomes especially important in UFO clips claiming impossible acceleration or sudden direction changes. Without the original stabilisation data and full frame sequence, AI-assisted motion analysis can produce misleading estimates of speed or trajectory.
 
-Research into forensic video analysis repeatedly notes that metadata and compression history are central to determining whether footage has been manipulated or transformed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
+Research into forensic video analysis repeatedly notes that metadata and compression history are central to determining whether footage has been manipulated or transformed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
 
 ## Why Screenshots Are Particularly Weak Evidence
 
 Screenshots are among the least useful forms of UFO evidence because they destroy both motion context and embedded file information.
 
-A screenshot captures only displayed pixels. It does not preserve the original camera metadata from the source image or video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hackerfactor.com">[Hacker Factor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hackerfactor.com</span><span class="citation-popover-snippet">Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</span></span></span>
+A screenshot captures only displayed pixels. It does not preserve the original camera metadata from the source image or video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hackerfactor.com">[Hacker Factor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hackerfactor.com</span><span class="citation-popover-snippet">Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</span></span></span>
 
 That creates several problems for investigators.
 
@@ -447,7 +447,7 @@ Analysts may look for:
 
 </div>
 
-Some forensic tools also analyse MP4 container metadata and codec structures to identify likely editing workflows or device origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
+Some forensic tools also analyse MP4 container metadata and codec structures to identify likely editing workflows or device origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
 
 In UFO cases, this can reveal that a supposedly “raw” clip was exported through software such as Adobe Premiere, CapCut or Photoshop before publication.
 
@@ -476,7 +476,7 @@ A viral repost can therefore create a false impression that “the evidence is o
 
 Official and institutional investigations consistently emphasise full-length source recordings rather than short social-media excerpts.
 
-The US All-domain Anomaly Resolution Office (AARO), for example, has shown that longer sensor sequences and additional contextual information often lead to conventional explanations such as balloons or ordinary airborne objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span>
+The US All-domain Anomaly Resolution Office (AARO), for example, has shown that longer sensor sequences and additional contextual information often lead to conventional explanations such as balloons or ordinary airborne objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span>
 
 A six-second viral fragment may omit:
 
@@ -517,194 +517,194 @@ Once uploads, reposts and screenshots destroy that evidential layer, the investi
 That does not mean every viral UFO video is false. It means the path from “interesting footage” to “investigable evidence” is much narrower than online discussion usually assumes.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Gets Lost When UFO Clips Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Gets Lost When UFO Clips Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Keeps the reading block grounded in UFO evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the reading block grounded in UFO evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful scrutiny of viral claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful scrutiny of viral claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Schneier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
+</h4>
+<p class="fr-book-author">By Bruce Schneier</p>
         
-        <p class="fr-book-desc">Useful for metadata, platforms, and digital traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for metadata, platforms, and digital traces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eEzlDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eEzlDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Adjacent to metadata loss and platform handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adjacent to metadata loss and platform handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK"><img src="https://i.ebayimg.com/images/g/iWYAAeSwbGlqHTqJ/s-l225.jpg" alt="Listing image for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK"><img src="https://i.ebayimg.com/images/g/iWYAAeSwbGlqHTqJ/s-l225.jpg" alt="Listing image for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone"><img src="https://i.ebayimg.com/images/g/wZcAAOSwnIxnKXPV/s-l225.jpg" alt="Listing image for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone"><img src="https://i.ebayimg.com/images/g/wZcAAOSwnIxnKXPV/s-l225.jpg" alt="Listing image for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK"><img src="https://i.ebayimg.com/images/g/2b4AAeSwnc1pqADZ/s-l225.jpg" alt="Listing image for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK"><img src="https://i.ebayimg.com/images/g/2b4AAeSwnc1pqADZ/s-l225.jpg" alt="Listing image for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwzGVqBTXR/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwzGVqBTXR/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-ufo-clips-go-viral-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-gets-lost-when-ufo-clips-go-viral-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -720,7 +720,7 @@ That does not mean every viral UFO video is false. It means the path from “int
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -740,7 +740,7 @@ That does not mean every viral UFO video is false. It means the path from “int
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -772,7 +772,7 @@ That does not mean every viral UFO video is false. It means the path from “int
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -824,7 +824,7 @@ That does not mean every viral UFO video is false. It means the path from “int
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -869,7 +869,7 @@ That does not mean every viral UFO video is false. It means the path from “int
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -910,111 +910,111 @@ That does not mean every viral UFO video is false. It means the path from “int
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ipaco.fr  
    Title: Analysis methodology  
-   Link: <a href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/page27.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
+   Link:<a href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/page27.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+   Link:<a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: privacystrip.com  
    Title: Privacy Strip Do Social Media Platforms Strip EXIF Metadata?  
-   Link: <a href="https://privacystrip.com/blog/social-media-metadata-policies" target="_blank" rel="noopener noreferrer nofollow">https://privacystrip.com/blog/social-media-metadata-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</p></details>
+   Link:<a href="https://privacystrip.com/blog/social-media-metadata-policies" target="_blank" rel="noopener noreferrer nofollow">https://privacystrip.com/blog/social-media-metadata-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: exifdata.org  
    Title: Do Social Media Sites Strip EXIF Data?  
-   Link: <a href="https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test" target="_blank" rel="noopener noreferrer nofollow">https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</p></details>
+   Link:<a href="https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test" target="_blank" rel="noopener noreferrer nofollow">https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
+   Link:<a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fast.io  
-   Link: <a href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/social-media-photo-metadata-platforms-strip/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
+   Link:<a href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/social-media-photo-metadata-platforms-strip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hackerfactor.com  
-   Link: <a href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</p></details>
+   Link:<a href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blogs.loc.gov  
    Title: social media networks stripping data from your digital photos  
-   Link: <a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
+   Link:<a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metaclean.app  
    Title: Meta Clean Which Social Media Apps Remove EXIF Data?  
-   Link: <a href="https://metaclean.app/blog/social-media-metadata-comparison-2026" target="_blank" rel="noopener noreferrer nofollow">https://metaclean.app/blog/social-media-metadata-comparison-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Platforms...Short answer: Instagram, TikTok, WhatsApp (Photo mode), Twitter/X, Facebook, and Snapchat all strip EXIF from public post...</p></details>
+   Link:<a href="https://metaclean.app/blog/social-media-metadata-comparison-2026" target="_blank" rel="noopener noreferrer nofollow">https://metaclean.app/blog/social-media-metadata-comparison-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Platforms...Short answer: Instagram, TikTok, WhatsApp (Photo mode), Twitter/X, Facebook, and Snapchat all strip EXIF from public post...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forensicosint.com  
-   Link: <a href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/free-tools/image-metadata-analyzer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PS coordinates, camera serial numbers, XMP edit history, and IPTC copyright...</p></details>
+   Link:<a href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/free-tools/image-metadata-analyzer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PS coordinates, camera serial numbers, XMP edit history, and IPTC copyright...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How Forensic Tools Retrieve Data off your phone  
-   Link: <a href="http://www.youtube.com/watch?v=1SABOmGJoUY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1SABOmGJoUY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do social media platforms strip metadata from images and videos Do All Photos Have EXIF Data? The Truth Exif Injector...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1SABOmGJoUY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1SABOmGJoUY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do social media platforms strip metadata from images and videos Do All Photos Have EXIF Data? The Truth Exif Injector...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy  
-   Link: <a href="http://www.youtube.com/watch?v=DpZQYHQbgXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DpZQYHQbgXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Forensic Tools Retrieve Data off your phone...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DpZQYHQbgXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DpZQYHQbgXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Forensic Tools Retrieve Data off your phone...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mobile Device Forensics: Collection and Preservation  
-   Link: <a href="http://www.youtube.com/watch?v=uZxb_pTAELg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uZxb_pTAELg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=uZxb_pTAELg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uZxb_pTAELg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ijsrcseit.com  
-   Link: <a href="https://ijsrcseit.com/CSEIT2390373" target="_blank" rel="noopener noreferrer nofollow">https://ijsrcseit.com/CSEIT2390373</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Significance of Metadata and Video Compression for...30 Jun 2023 — We first propose the acquisition extraction analysis in...</p></details>
+   Link:<a href="https://ijsrcseit.com/CSEIT2390373" target="_blank" rel="noopener noreferrer nofollow">https://ijsrcseit.com/CSEIT2390373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Significance of Metadata and Video Compression for...30 Jun 2023 — We first propose the acquisition extraction analysis in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: craigball.net  
    Title: the metadata vanishes  
-   Link: <a href="https://craigball.net/2020/11/20/the-metadata-vanishes/" target="_blank" rel="noopener noreferrer nofollow">https://craigball.net/2020/11/20/the-metadata-vanishes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the defense sought the missing metadata, the legal assistant...Read more...</p></details>
+   Link:<a href="https://craigball.net/2020/11/20/the-metadata-vanishes/" target="_blank" rel="noopener noreferrer nofollow">https://craigball.net/2020/11/20/the-metadata-vanishes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the defense sought the missing metadata, the legal assistant...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How image compression algorithms work  
-   Link: <a href="http://www.youtube.com/watch?v=sROvs6dQ528" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sROvs6dQ528</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Device Forensics: Collection and Preservation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sROvs6dQ528" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sROvs6dQ528</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Device Forensics: Collection and Preservation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: OSINT At Home #2  
-   Link: <a href="http://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d3NsT8lJRlE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How image compression algorithms work...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d3NsT8lJRlE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How image compression algorithms work...</p></details>

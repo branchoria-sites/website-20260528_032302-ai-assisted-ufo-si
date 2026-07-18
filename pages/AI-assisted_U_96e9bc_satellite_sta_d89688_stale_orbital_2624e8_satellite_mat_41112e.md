@@ -289,9 +289,9 @@ A common failure mode in UFO analysis software is proximity bias. The system fin
 
 If any of those conditions fail, the confidence should fall sharply.
 
-This matters because publicly available orbital predictions drift over time. Standard Two-Line Element (TLE) predictions propagated through SGP4 models can accumulate kilometre-scale errors within days, especially for low Earth orbit satellites and manoeuvring constellations such as Starlink. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</span></span></span> Even a small positional error can move a predicted pass far enough across the sky to create a false visual “match”.
+This matters because publicly available orbital predictions drift over time. Standard Two-Line Element (TLE) predictions propagated through SGP4 models can accumulate kilometre-scale errors within days, especially for low Earth orbit satellites and manoeuvring constellations such as Starlink.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</span></span></span> Even a small positional error can move a predicted pass far enough across the sky to create a false visual “match”.
 
-Modern mega-constellations complicate this further because satellites regularly alter orbit. Research on Starlink tracking has shown that public prediction errors can grow substantially over time and that manoeuvre activity degrades long-term reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raa-journal.org">[Raa Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raa-journal.org</span><span class="citation-popover-snippet">Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO case review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>, that means “nearest object” should usually be treated as the start of the investigation, not the conclusion.
+Modern mega-constellations complicate this further because satellites regularly alter orbit. Research on Starlink tracking has shown that public prediction errors can grow substantially over time and that manoeuvre activity degrades long-term reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raa-journal.org">[Raa Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raa-journal.org</span><span class="citation-popover-snippet">Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO case review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>, that means “nearest object” should usually be treated as the start of the investigation, not the conclusion.
 
 ## Track, timing and brightness checks
 
@@ -342,7 +342,7 @@ Low-confidence matches often involve:
 
 </div>
 
-Research into TLE propagation accuracy consistently shows prediction quality degrades with time from the orbital epoch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Inside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span> GNSS](#endnote-18 "Snippet: ENTER LEO on the GNSS Stage: Navigation with Starlink...Nov 29, 2021 — The tradeoff is in satellite position accuracy: the SGP4 propagat...") A robust scoring system therefore needs to penalise explanations built on old or weak orbital assumptions.
+Research into TLE propagation accuracy consistently shows prediction quality degrades with time from the orbital epoch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Inside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span> GNSS](#endnote-18 "Snippet: ENTER LEO on the GNSS Stage: Navigation with Starlink...Nov 29, 2021 — The tradeoff is in satellite position accuracy: the SGP4 propagat...") A robust scoring system therefore needs to penalise explanations built on old or weak orbital assumptions.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
 
@@ -350,9 +350,9 @@ Research into TLE propagation accuracy consistently shows prediction quality deg
 
 Many false satellite identifications ignore a basic visibility question: could the object realistically have appeared that bright?
 
-Satellites do not emit visible light themselves. They reflect sunlight. Visibility therefore depends on solar geometry, atmospheric conditions, observer position, and spacecraft orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</span></span></span> This is especially important in flare cases. Bright satellite glints can appear suddenly and disappear within seconds, producing dramatic reports that resemble UFO behaviour. Iridium flares became famous examples because highly reflective antennas created narrow reflection zones visible only from certain ground positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>
+Satellites do not emit visible light themselves. They reflect sunlight. Visibility therefore depends on solar geometry, atmospheric conditions, observer position, and spacecraft orientation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</span></span></span> This is especially important in flare cases. Bright satellite glints can appear suddenly and disappear within seconds, producing dramatic reports that resemble UFO behaviour. Iridium flares became famous examples because highly reflective antennas created narrow reflection zones visible only from certain ground positions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>
 
-Modern Starlink satellites can also produce strong flares under specific geometries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> But not every Starlink pass produces visible brightness. A weakly illuminated object below naked-eye visibility should not receive a high-confidence identification score simply because its orbit crossed the area.
+Modern Starlink satellites can also produce strong flares under specific geometries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> But not every Starlink pass produces visible brightness. A weakly illuminated object below naked-eye visibility should not receive a high-confidence identification score simply because its orbit crossed the area.
 
 Good scoring systems therefore separate:
 
@@ -472,7 +472,7 @@ For example:
 
 Those cases should not collapse into the same confidence number.
 
-Research into improving orbital prediction models shows that even advanced propagation techniques still face substantial uncertainty when relying on public TLE data alone. ScienceDirect Springer That makes transparency essential. Investigators should be able to see whether uncertainty comes from the witness account <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">position error from 2.5 km to approximately 200 m for Orbcomm satellites</span><span class="citation-popover-snippet">Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</span></span></span>, the orbital model, or the visibility reconstruction.
+Research into improving orbital prediction models shows that even advanced propagation techniques still face substantial uncertainty when relying on public TLE data alone. ScienceDirect Springer That makes transparency essential. Investigators should be able to see whether uncertainty comes from the witness account<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">position error from 2.5 km to approximately 200 m for Orbcomm satellites</span><span class="citation-popover-snippet">Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</span></span></span>, the orbital model, or the visibility reconstruction.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" alt="Match Confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Report wording that avoids false closure
@@ -535,194 +535,194 @@ A well-designed confidence-scoring system therefore does something more useful t
 That distinction is crucial in AI-assisted UFO investigation because the most misleading outcome is often not an unresolved sighting. It is a weak explanation presented with unjustified certainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why nearest satellite is not always the answer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why nearest satellite is not always the answer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Relevant to satellite visibility, sky position and timing checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to satellite visibility, sky position and timing checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Best fit for distinguishing strong satellite matches from weak correlations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best fit for distinguishing strong satellite matches from weak correlations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Supports practical checks of track, brightness and sky direction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical checks of track, brightness and sky direction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Fits avoiding false closure when the nearest satellite only partly fits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits avoiding false closure when the nearest satellite only partly fits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="https://i.ebayimg.com/images/g/ygkAAOSwXAVmSMX7/s-l225.jpg" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearest-satellite-is-not-always-the-answer-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-nearest-satellite-is-not-always-the-answer-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -738,7 +738,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -758,7 +758,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -790,7 +790,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -842,7 +842,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -887,7 +887,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -928,148 +928,148 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/10/6/532</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/10/6/532</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: raa-journal.org  
-   Link: <a href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</p></details>
+   Link:<a href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
+   Link:<a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Simplified General Perturbations-4 (SGP4) propagator was used.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Simplified General Perturbations-4 (SGP4) propagator was used.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The visual appearance of the Iridium® satellites  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The cause of the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cause of the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576524006374" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576524006374</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the gap between SGP4 and high-precision...by G Acciarini · 2025 · Cited by 16 — We showed how the new propagation m...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0094576524006374" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576524006374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the gap between SGP4 and high-precision...by G Acciarini · 2025 · Cited by 16 — We showed how the new propagation m...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: link.springer.com  
    Title: position error from 2.5 km to approximately 200 m for Orbcomm satellites  
-   Link: <a href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10291-025-01963-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10291-025-01963-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/13/4079" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/13/4079</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 3 — Compared to infrequently maneuvering space t...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/13/4079" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/13/4079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 3 — Compared to infrequently maneuvering space t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/11/21/10181" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/11/21/10181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simplified Approach to Detect Satellite Maneuvers Using...by A Mukundan · 2021 · Cited by 42 — In this study, an algorithm to identify t...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/11/21/10181" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/11/21/10181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simplified Approach to Detect Satellite Maneuvers Using...by A Mukundan · 2021 · Cited by 42 — In this study, an algorithm to identify t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical representations of precise orbit predictions for...by J Sang · 2017 · Cited by 22 — The fitting errors of the 7-day orbit pos...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical representations of precise orbit predictions for...by J Sang · 2017 · Cited by 22 — The fitting errors of the 7-day orbit pos...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2402.04830" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2402.04830</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>closing the gap between sgp4 and high-precision...by G Acciarini · 2024 · Cited by 16 — Then, we also conduct an experiment on a group o...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2402.04830" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2402.04830</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>closing the gap between sgp4 and high-precision...by G Acciarini · 2024 · Cited by 16 — Then, we also conduct an experiment on a group o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2402.04830v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.04830v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Gap Between SGP4 and High-Precision...Feb 26, 2024 — In the context of SGP4, most of the proposed techniques focus on creati...</p></details>
+   Link:<a href="https://arxiv.org/html/2402.04830v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.04830v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Gap Between SGP4 and High-Precision...Feb 26, 2024 — In the context of SGP4, most of the proposed techniques focus on creati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: satfleetlive.com  
    Title: Sat Fleet Live Why Are Satellites So Bright?  
-   Link: <a href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/why-are-satellites-so-bright/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</p></details>
+   Link:<a href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/why-are-satellites-so-bright/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Accuracy Assessment of SGP4 Orbit Information...Mar 12, 2022 — The satellite ephemeris derived from the TLE-SGP4 model may contain...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Accuracy Assessment of SGP4 Orbit Information...Mar 12, 2022 — The satellite ephemeris derived from the TLE-SGP4 model may contain...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amostech.com  
-   Link: <a href="https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Mega-Constellation Data Time-Series Charles CoOur investigation into TLE latencies and locations aimed to ascertain whether t...</p></details>
+   Link:<a href="https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Mega-Constellation Data Time-Series Charles CoOur investigation into TLE latencies and locations aimed to ascertain whether t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: catchingtime.com  
-   Link: <a href="https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/" target="_blank" rel="noopener noreferrer nofollow">https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4/10/24: Starlink Satellite Swarm from 37°N latitudeFlares of this type are essentially direct specular reflections of the sun (which lie...</p></details>
+   Link:<a href="https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/" target="_blank" rel="noopener noreferrer nofollow">https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4/10/24: Starlink Satellite Swarm from 37°N latitudeFlares of this type are essentially direct specular reflections of the sun (which lie...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsThe 31 Space Track GPEs show an average error of 7.54 km over this period with a maximum error (for P...</p></details>
+   Link:<a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsThe 31 Space Track GPEs show an average error of 7.54 km over this period with a maximum error (for P...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: space-track.org  
-   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationThe general perturbations (GP) class is an efficient listing of the newest SGP4 keplerian element set for each man-made...</p></details>
+   Link:<a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationThe general perturbations (GP) class is an efficient listing of the newest SGP4 keplerian element set for each man-made...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: satspy.com  
-   Link: <a href="https://satspy.com/when-to-look-satellite.html" target="_blank" rel="noopener noreferrer nofollow">https://satspy.com/when-to-look-satellite.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When are the best times to look?Satellites are visible when the observer is in darkness, but the satellite is still illuminated by sunlig...</p></details>
+   Link:<a href="https://satspy.com/when-to-look-satellite.html" target="_blank" rel="noopener noreferrer nofollow">https://satspy.com/when-to-look-satellite.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When are the best times to look?Satellites are visible when the observer is in darkness, but the satellite is still illuminated by sunlig...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some info was send to me concering the TLE&#x27;s drawn...CelesTrak was accurate. H-A wasn&#x27;t. Today I compared a prediction using yesterday&#x27;s...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some info was send to me concering the TLE&#x27;s drawn...CelesTrak was accurate. H-A wasn&#x27;t. Today I compared a prediction using yesterday&#x27;s...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kids.kiddle.co  
-   Link: <a href="https://kids.kiddle.co/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Satellite_flare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flare Facts for KidsIt happens when sunlight bounces off a man-made satellite and reflects directly back to Earth. Imagine a mirror catch...</p></details>
+   Link:<a href="https://kids.kiddle.co/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Satellite_flare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flare Facts for KidsIt happens when sunlight bounces off a man-made satellite and reflects directly back to Earth. Imagine a mirror catch...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresThe plate or MMA can provide a direct (specular) reflection of the sun&#x27;s disk. This specular reflection...</p></details>
+   Link:<a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresThe plate or MMA can provide a direct (specular) reflection of the sun&#x27;s disk. This specular reflection...</p></details>

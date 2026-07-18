@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 A surprising amount of “impossible” UFO motion is created by the camera rather than the object in the sky. Modern phones, drones and military imaging systems routinely stabilise footage in real time, digitally shifting frames to reduce shake and keep the horizon steady. Combined with rolling shutter distortion, zoom, autofocus and low-light processing, that correction can make ordinary lights appear to leap sideways, stop instantly, accelerate unnaturally or hover with impossible precision.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" alt="False Motion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO investigation, this matters because the apparent movement in a clip may not represent the real motion of the target at all. NASA’s independent UAP study warned that many investigations are weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and limited understanding of how the imaging system itself alters footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Before analysts treat a video as evidence of extreme acceleration or exotic flight behaviour, they first need to determine whether the motion belongs to the object, the camera, or the software attempting to stabilise the shot.
+For AI-assisted UFO investigation, this matters because the apparent movement in a clip may not represent the real motion of the target at all. NASA’s independent UAP study warned that many investigations are weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and limited understanding of how the imaging system itself alters footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Before analysts treat a video as evidence of extreme acceleration or exotic flight behaviour, they first need to determine whether the motion belongs to the object, the camera, or the software attempting to stabilise the shot.
 
 ## Why stabilisation shifts moving objects
 
@@ -322,7 +322,7 @@ Investigators should therefore be cautious when witnesses say a filmed object �
 
 ## Rolling shutter distortions in UFO clips
 
-Most phones and consumer cameras use CMOS sensors with a rolling shutter rather than a global shutter. Instead of capturing the whole frame simultaneously, the sensor records the image line-by-line over a short interval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
+Most phones and consumer cameras use CMOS sensors with a rolling shutter rather than a global shutter. Instead of capturing the whole frame simultaneously, the sensor records the image line-by-line over a short interval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
 
 If either the camera or object moves during that readout period, the frame becomes geometrically distorted.
 
@@ -342,7 +342,7 @@ These distortions are well known in cinematography and drone footage, but in UFO
 
 A bright point of light filmed during rapid panning can become elongated or warped because different rows of the sensor captured the object at slightly different moments. A moving aircraft may appear to bend sharply. A hovering drone can appear to oscillate or ripple unnaturally.
 
-Adobe’s own documentation on rolling shutter correction describes how fast motion and sensor readout timing create visible distortion in video footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adobe.com">[Adobe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adobe.com</span><span class="citation-popover-snippet">How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</span></span></span> Technical research into rolling shutter stabilisation likewise shows that modern stabilisation systems actively reshape frames to compensate for these distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span>
+Adobe’s own documentation on rolling shutter correction describes how fast motion and sensor readout timing create visible distortion in video footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adobe.com">[Adobe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adobe.com</span><span class="citation-popover-snippet">How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</span></span></span> Technical research into rolling shutter stabilisation likewise shows that modern stabilisation systems actively reshape frames to compensate for these distortions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span>
 
 That correction process matters because stabilisation and rolling shutter interact with each other. The software is not merely recording the distortion. It is trying to predict and repair it in real time.
 
@@ -359,7 +359,7 @@ A typical sequence looks like this:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The witness rapidly pans the camera trying to keep up with a distant light.
-2. Rolling shutter skews the object across the frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
+2. Rolling shutter skews the object across the frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
 3. Stabilisation software attempts to smooth the motion.
 4. The correction overshoots.
 5. The object appears to abruptly change direction.
@@ -379,7 +379,7 @@ People sometimes assume that military footage avoids these issues because it com
 
 Infrared tracking systems often stabilise the horizon or target independently while the sensor assembly rotates internally. This can make glare patterns or optical artefacts appear to rotate, drift or maintain impossible orientation relative to the background.
 
-Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
 The key investigative point is not whether every sceptical interpretation is correct. It is that stabilised military footage still requires sensor analysis before motion claims can be trusted.
 
@@ -401,7 +401,7 @@ A useful technique is frame-by-frame background tracking. If trees, rooftops or 
 
 This becomes especially important in AI-assisted workflows. Motion-analysis systems can mistakenly classify stabilisation artefacts as anomalous behaviour if they only track the bright target rather than the full frame context.
 
-Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
+Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
 
 Good investigative practice therefore compares:
 
@@ -410,7 +410,7 @@ Good investigative practice therefore compares:
 * Multiple witness recordings if available
 * Sensor metadata versus visual interpretation
 
-The absence of original metadata is a major limitation. NASA’s UAP [review]({{ 'review/' | relative_url }}) repeatedly stressed that missing sensor information makes rigorous interpretation extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The absence of original metadata is a major limitation. NASA’s UAP [review]({{ 'review/' | relative_url }}) repeatedly stressed that missing sensor information makes rigorous interpretation extremely difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" alt="False Motion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI systems should check before flagging “anomalous motion”
@@ -419,7 +419,7 @@ An AI-assisted UFO investigation pipeline should treat stabilisation artefacts a
 
 Useful automated checks include:
 
-* Detecting rolling shutter skew patterns(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
+* Detecting rolling shutter skew patterns(#endnote-2 "Endnote 2")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
 * Estimating camera shake from background features
 * Comparing object motion to gyro metadata
 * Measuring frame warping introduced by stabilisation
@@ -427,7 +427,7 @@ Useful automated checks include:
 * Flagging heavy zoom conditions
 * Detecting compression interpolation between frames
 
-Research into rolling shutter calibration and stabilisation already uses gyroscope data and frame geometry to reconstruct true camera motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span> Similar methods can help UFO investigators estimate whether apparent manoeuvres originated in the sky or inside the imaging pipeline.
+Research into rolling shutter calibration and stabilisation already uses gyroscope data and frame geometry to reconstruct true camera motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span> Similar methods can help UFO investigators estimate whether apparent manoeuvres originated in the sky or inside the imaging pipeline.
 
 The most reliable cases are usually those where:
 
@@ -456,194 +456,194 @@ A balanced investigation separates:
 In many cases, the most dramatic manoeuvre in the clip may belong not to the object in the sky, but to the stabilisation system trying to keep the video watchable.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can camera software fake impossible UFO movement?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can camera software fake impossible UFO movement?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to how cameras alter apparent light and motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to how cameras alter apparent light and motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Helps readers separate image evidence from camera-created effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers separate image evidence from camera-created effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports testing sensor explanations before claiming impossible motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports testing sensor explanations before claiming impossible motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits misread motion caused by stabilisation and processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits misread motion caused by stabilisation and processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR"><img src="https://i.ebayimg.com/images/g/E8kAAOSwaaNcL3Tl/s-l225.jpg" alt="Listing image for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR"><img src="https://i.ebayimg.com/images/g/E8kAAOSwaaNcL3Tl/s-l225.jpg" alt="Listing image for Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Camera Tripod Portable Heavy Duty Travel Large Stand For Canon Nikon Pentax DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="https://i.ebayimg.com/images/g/rhEAAOSwtOpm~FXl/s-l225.jpg" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="https://i.ebayimg.com/images/g/rhEAAOSwtOpm~FXl/s-l225.jpg" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="https://i.ebayimg.com/images/g/wHkAAOSwQa5lLigt/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="https://i.ebayimg.com/images/g/wHkAAOSwQa5lLigt/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-camera-software-fake-impossible-ufo-movement-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="can-camera-software-fake-impossible-ufo-movement-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -808,7 +808,7 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,171 +849,171 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rolling shutter  
-   Link: <a href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rolling_shutter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rolling_shutter</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: adobe.com  
-   Link: <a href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</p></details>
+   Link:<a href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: graphics.stanford.edu  
-   Link: <a href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using our algorithm, we show...Read more...</p></details>
+   Link:<a href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using our algorithm, we show...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
    Published: August 31, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PmbKPrQoaRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PmbKPrQoaRY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DO YOU NEED IMAGE STABILIZATION | Can You Tell the...Image stabilization can be helpful only if you&#x27;re already shooting at a proper shut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PmbKPrQoaRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PmbKPrQoaRY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DO YOU NEED IMAGE STABILIZATION | Can You Tell the...Image stabilization can be helpful only if you&#x27;re already shooting at a proper shut...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixTICcLXueg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and other smartphone sensor metadata from multiple...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixTICcLXueg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and other smartphone sensor metadata from multiple...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dNVtMmLlnoE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rd shapes out of fast moving objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dNVtMmLlnoE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rd shapes out of fast moving objects...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28L2XalNr5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r &amp; Rolling Shutter Repair effects in Adobe After Effects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28L2XalNr5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r &amp; Rolling Shutter Repair effects in Adobe After Effects...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Warp Stabilizer EXPLAINED  
-   Link: <a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9ucxKwZmec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fix Shaky Video in Premiere Pro... Crop Less, Smooth More 11:02 Borders, Synthesize Edges 13:55 Detailed &amp; Fast Analysis 14:47 Rolling Sh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9ucxKwZmec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fix Shaky Video in Premiere Pro... Crop Less, Smooth More 11:02 Borders, Synthesize Edges 13:55 Detailed &amp; Fast Analysis 14:47 Rolling Sh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Smartphone Video Stabilisation Explained  
-   Link: <a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qbMJfIhmtz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BEST Video...New smartphone image stabilisation to hit smartphone is changing how we shoot video, from OIS, EIS Super Steady Mode an...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qbMJfIhmtz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BEST Video...New smartphone image stabilisation to hit smartphone is changing how we shoot video, from OIS, EIS Super Steady Mode an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Da Vinci Resolve Stabilizer EXPLAINED  
-   Link: <a href="https://www.youtube.com/watch?v=lAQsITCy9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lAQsITCy9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DaVinci Resolve Stabilizer EXPLAINED - Fix Shaky Video FASTI&#x27;m going to be explaining everything that you need to know about DaVinci Reso...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lAQsITCy9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lAQsITCy9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DaVinci Resolve Stabilizer EXPLAINED - Fix Shaky Video FASTI&#x27;m going to be explaining everything that you need to know about DaVinci Reso...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...If someone can establish a baseline of how it&#x27;s moving relative to the ground, th...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...If someone can establish a baseline of how it&#x27;s moving relative to the ground, th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How Electronic Image Stabilization Works  
-   Link: <a href="http://www.youtube.com/watch?v=0h9V4_o87Sg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0h9V4_o87Sg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Optical vs Electronic Image Stabilization...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0h9V4_o87Sg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0h9V4_o87Sg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Optical vs Electronic Image Stabilization...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Understanding Optical vs Electronic Image Stabilization  
-   Link: <a href="http://www.youtube.com/watch?v=uD5o9VlP618" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uD5o9VlP618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Zoom is Usually a Bad Idea...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=uD5o9VlP618" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uD5o9VlP618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Zoom is Usually a Bad Idea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Why Digital Zoom is Usually a Bad Idea  
-   Link: <a href="http://www.youtube.com/watch?v=kYJjSjN7Upo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kYJjSjN7Upo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Image Stabilization - Why it creates warping...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kYJjSjN7Upo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kYJjSjN7Upo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Image Stabilization - Why it creates warping...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Digital Image Stabilization  
-   Link: <a href="http://www.youtube.com/watch?v=o04jB71W2iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=o04jB71W2iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Camera Stabilization Effects Can Mislead Viewers...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=o04jB71W2iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=o04jB71W2iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Camera Stabilization Effects Can Mislead Viewers...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: How Camera Stabilization Effects Can Mislead Viewers  
-   Link: <a href="http://www.youtube.com/watch?v=yW4cI1c6k2g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yW4cI1c6k2g</a>  
+   Link:<a href="http://www.youtube.com/watch?v=yW4cI1c6k2g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yW4cI1c6k2g</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dpreview.com  
-   Link: <a href="https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DPReview TV: Why electronic image stabilization works better...Chris explains the limits of electronic image stabilization, and why your...</p></details>
+   Link:<a href="https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DPReview TV: Why electronic image stabilization works better...Chris explains the limits of electronic image stabilization, and why your...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimizing rolling shutter effect in photos and videosThe distortion of a rolling shutter is only noticeable with very fast moving object...</p></details>
+   Link:<a href="https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minimizing rolling shutter effect in photos and videosThe distortion of a rolling shutter is only noticeable with very fast moving object...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cvl.isy.liu.se  
-   Link: <a href="https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>III: Rectification and StabilisationClear improvement compared to input videos, but small difference compared to frame-global rectificati...</p></details>
+   Link:<a href="https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>III: Rectification and StabilisationClear improvement compared to input videos, but small difference compared to frame-global rectificati...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smartphones.gadgethacks.com  
    Title: everything you should know about rolling shutter your phones camera 0196244  
-   Link: <a href="https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/" target="_blank" rel="noopener noreferrer nofollow">https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Should Know About Rolling Shutter on Your...29 Apr 2019 — If the camera uses a CMOS sensor, rolling shutter will likely be an issue...</p></details>
+   Link:<a href="https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/" target="_blank" rel="noopener noreferrer nofollow">https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Should Know About Rolling Shutter on Your...29 Apr 2019 — If the camera uses a CMOS sensor, rolling shutter will likely be an issue...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+   Link:<a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>

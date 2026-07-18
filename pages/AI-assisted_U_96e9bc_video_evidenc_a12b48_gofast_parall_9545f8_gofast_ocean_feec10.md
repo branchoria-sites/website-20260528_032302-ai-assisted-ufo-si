@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 
 ## Introduction
 
-The “GoFast” Navy infrared video became famous because the object appeared to be tearing across the ocean surface at extreme speed. Viewers instinctively used the sea below as a visual ruler. If the object seemed to race over the water, many assumed it must really be moving that fast. Later analysis showed that this was the core illusion. The ocean was not a reliable speed reference at all. The dramatic impression came from a fast-moving jet, a stabilised targeting camera, compressed depth perception, and motion parallax working together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
+The “GoFast” Navy infrared video became famous because the object appeared to be tearing across the ocean surface at extreme speed. Viewers instinctively used the sea below as a visual ruler. If the object seemed to race over the water, many assumed it must really be moving that fast. Later analysis showed that this was the core illusion. The ocean was not a reliable speed reference at all. The dramatic impression came from a fast-moving jet, a stabilised targeting camera, compressed depth perception, and motion parallax working together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, GoFast is a valuable case because it demonstrates how easily a background can mislead both witnesses and viewers. A sighting can look extraordinary when a human observer unconsciously anchors motion to terrain, clouds, or water that only appear stable from a particular viewpoint. In GoFast, the ocean created exactly that false frame of reference.
@@ -285,7 +285,7 @@ The video showed a small infrared target apparently streaking over textured ocea
 
 The problem was that the [geometry]({{ 'geometry/' | relative_url }}) did not support that interpretation.
 
-Analysts later used the telemetry visible on the targeting display — including [aircraft]({{ 'aircraft/' | relative_url }}) altitude, viewing angle and target range — to estimate that the object was not skimming the water at all. Instead, it was likely thousands of feet above it. NASA’s UAP study presentation described the object as roughly 13,000 feet in altitude and several miles in front of the ocean background that viewers mentally attached it to. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+Analysts later used the telemetry visible on the targeting display — including [aircraft]({{ 'aircraft/' | relative_url }}) altitude, viewing angle and target range — to estimate that the object was not skimming the water at all. Instead, it was likely thousands of feet above it. NASA’s UAP study presentation described the object as roughly 13,000 feet in altitude and several miles in front of the ocean background that viewers mentally attached it to. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 That distinction matters because the farther away the object is from the background reference, the less trustworthy apparent screen motion becomes as an indicator of true speed.
 
@@ -295,7 +295,7 @@ The ocean also created a particularly strong illusion because water has no obvio
 
 The ATFLIR targeting pod on the F/A-18 was designed to stabilise and track targets while the aircraft itself moved rapidly. That stabilisation unintentionally strengthened the speed illusion.
 
-The jet was travelling at hundreds of miles per hour while the camera attempted to keep the target centred. Because the target stayed relatively stable inside the tracking box, the background ocean appeared to slide underneath it. This created the impression that the object itself was outrunning the sea below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Go Fast</span><span class="citation-popover-snippet">Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</span></span></span>
+The jet was travelling at hundreds of miles per hour while the camera attempted to keep the target centred. Because the target stayed relatively stable inside the tracking box, the background ocean appeared to slide underneath it. This created the impression that the object itself was outrunning the sea below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Go Fast</span><span class="citation-popover-snippet">Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</span></span></span>
 
 In reality, much of the apparent motion belonged to the observing aircraft.
 
@@ -326,7 +326,7 @@ The object visually seemed attached to the water because the targeting system fr
 
 But the display itself never actually proved the object was near the water.
 
-Open-source investigators and later official reviews reconstructed the geometry using the sensor readouts visible on-screen. Those reconstructions suggested the object sat well above the sea rather than directly over it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">post 240166</span><span class="citation-popover-snippet">The azimuth always has the same meaning for both A/G and A/A...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 2</span><span class="citation-popover-snippet">3D Analysis of the Yemen Orb &#124; Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</span></span></span>
+Open-source investigators and later official reviews reconstructed the geometry using the sensor readouts visible on-screen. Those reconstructions suggested the object sat well above the sea rather than directly over it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">post 240166</span><span class="citation-popover-snippet">The azimuth always has the same meaning for both A/G and A/A...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 2</span><span class="citation-popover-snippet">3D Analysis of the Yemen Orb &#124; Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</span></span></span>
 
 This changed the interpretation completely.
 
@@ -342,9 +342,9 @@ Before reconstruction work became widely known, many viewers believed GoFast sho
 
 Parallax analysis changed the discussion from “How can anything move that fast?” to “How much of this speed is only apparent?”
 
-Independent analysts began modelling the camera geometry years before formal government discussion acknowledged the effect. Their calculations suggested that the object’s true speed could be relatively modest once aircraft motion and viewing angle were included. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 4</span><span class="citation-popover-snippet">F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Fravor&#x27;s Hypersonic UFO observation</span><span class="citation-popover-snippet">Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</span></span></span>
+Independent analysts began modelling the camera geometry years before formal government discussion acknowledged the effect. Their calculations suggested that the object’s true speed could be relatively modest once aircraft motion and viewing angle were included.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 4</span><span class="citation-popover-snippet">F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Fravor&#x27;s Hypersonic UFO observation</span><span class="citation-popover-snippet">Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</span></span></span>
 
-NASA’s later public discussion echoed the same conclusion: the object looked fast largely because of parallax created by the moving jet. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">er. And so we&#x27;ve written a detailed paper on parallax...</span></span></span>
+NASA’s later public discussion echoed the same conclusion: the object looked fast largely because of parallax created by the moving jet. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">er. And so we&#x27;ve written a detailed paper on parallax...</span></span></span>
 
 Importantly, this did not automatically identify the object with certainty. Debate continued over whether it might have been a balloon, bird, drifting object or something else. But the central extraordinary claim — apparent hypersonic speed just above the ocean — became far weaker once the background illusion was understood.
 
@@ -383,194 +383,194 @@ That approach changes the role of the footage itself. The image becomes one data
 GoFast remains an important case because the illusion was genuinely persuasive. Even experienced observers initially described the object as moving extraordinarily fast near the water. The later reassessment showed how easily human perception can fuse a moving target and a textured background into a false picture of impossible speed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Ocean Made Go Fast Look So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Ocean Made Go Fast Look So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ocean-made-gofast-look-so-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-ocean-made-gofast-look-so-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,146 +776,146 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</p></details>
    Published: September 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes [go fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;). 13174  
-   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>er. And so we&#x27;ve written a detailed paper on parallax...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er. And so we&#x27;ve written a detailed paper on parallax...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;), ocean, and other environmental characteristics c...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;), ocean, and other environmental characteristics c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
-   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Go Fast  
-   Link: <a href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-balloon-theory.12781/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-balloon-theory.12781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
    Title: post 240166  
-   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The azimuth always has the same meaning for both A/G and A/A...Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The azimuth always has the same meaning for both A/G and A/A...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: page 2  
-   Link: <a href="https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Analysis of the Yemen Orb | Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3D Analysis of the Yemen Orb | Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metabunk.org  
    Title: page 4  
-   Link: <a href="https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
    Title: Fravor's Hypersonic UFO observation  
-   Link: <a href="https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: Go Fast  
-   Link: <a href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory | Page 229 Nov 2022 — Supposedly Go Fast was at around 13k feet it&#x27;s being said and 300 miles off the coast. The 300 miles...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory | Page 229 Nov 2022 — Supposedly Go Fast was at around 13k feet it&#x27;s being said and 300 miles off the coast. The 300 miles...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
    Title: page 4  
-   Link: <a href="https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling objects can be faster than free fall | Page 421 Nov 2023 — It is a frame in which an isolated physical object—an object with zero...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falling objects can be faster than free fall | Page 421 Nov 2023 — It is a frame in which an isolated physical object—an object with zero...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Video of &quot;Tic-Tac&quot; circling the USS NimitzThis video was recently posted on Reddit supposedly showing a tictac circling over a warsh...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Video of &quot;Tic-Tac&quot; circling the USS NimitzThis video was recently posted on Reddit supposedly showing a tictac circling over a warsh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
    Title: new science of uap paper.14041  
-   Link: <a href="https://www.metabunk.org/threads/new-science-of-uap-paper.14041/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/new-science-of-uap-paper.14041/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of UAP Paper24 Feb 2025 — The authors are trying to tie their work into an official government program that is part of a fals...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/new-science-of-uap-paper.14041/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/new-science-of-uap-paper.14041/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of UAP Paper24 Feb 2025 — The authors are trying to tie their work into an official government program that is part of a fals...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pinterest.com  
-   Link: <a href="https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Underwater World Parallax Game BackgroundsBefore you Free Underwater World Parallax Game Backgrounds. This set includes 4 great back...</p></details>
+   Link:<a href="https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Underwater World Parallax Game BackgroundsBefore you Free Underwater World Parallax Game Backgrounds. This set includes 4 great back...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/x9vpgo2" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x9vpgo2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/x9vpgo2" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x9vpgo2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: itch.io  
-   Link: <a href="https://itch.io/game-assets/tag-parallax" target="_blank" rel="noopener noreferrer nofollow">https://itch.io/game-assets/tag-parallax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top game assets tagged parallaxFind game assets tagged parallax like Multi Platformer Tileset, Free Sky Backgrounds, Mountain Dusk Parall...</p></details>
+   Link:<a href="https://itch.io/game-assets/tag-parallax" target="_blank" rel="noopener noreferrer nofollow">https://itch.io/game-assets/tag-parallax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top game assets tagged parallaxFind game assets tagged parallax like Multi Platformer Tileset, Free Sky Backgrounds, Mountain Dusk Parall...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>can calculate whether this UFO might just be a bird, or a balloon...</p></details>
+   Link:<a href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can calculate whether this UFO might just be a bird, or a balloon...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
    Title: ufo uap panel nasa better data ai  
-   Link: <a href="https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Panelists Say NASA Needs Better Data31 May 2023 — The data recorded by the fighter jet&#x27;s instruments helped investigators determine t...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Panelists Say NASA Needs Better Data31 May 2023 — The data recorded by the fighter jet&#x27;s instruments helped investigators determine t...</p></details>
    Published: May 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: magnific.com  
    Title: Parallax underwater Images  
-   Link: <a href="https://www.magnific.com/free-photos-vectors/parallax-underwater" target="_blank" rel="noopener noreferrer nofollow">https://www.magnific.com/free-photos-vectors/parallax-underwater</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Parallax underwater Vectors, Stock Photos &amp; PSD files. ✓ Free for commerci...</p></details>
+   Link:<a href="https://www.magnific.com/free-photos-vectors/parallax-underwater" target="_blank" rel="noopener noreferrer nofollow">https://www.magnific.com/free-photos-vectors/parallax-underwater</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Parallax underwater Vectors, Stock Photos &amp; PSD files. ✓ Free for commerci...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: NASA Independent Study Team on Go Fast and Parallax  
-   Link: <a href="https://www.youtube.com/watch?v=4dJ614P8j3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4dJ614P8j3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the GoFast ocean background illusion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4dJ614P8j3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4dJ614P8j3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the GoFast ocean background illusion...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Pixel Art Class  
-   Link: <a href="https://www.youtube.com/watch?v=TWAvAXV2MLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWAvAXV2MLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Beach SceneHeya Pals, Sit back and relax as we go through the motions of the ocean in painting a pixel parallax beach scene! I t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TWAvAXV2MLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWAvAXV2MLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Beach SceneHeya Pals, Sit back and relax as we go through the motions of the ocean in painting a pixel parallax beach scene! I t...</p></details>

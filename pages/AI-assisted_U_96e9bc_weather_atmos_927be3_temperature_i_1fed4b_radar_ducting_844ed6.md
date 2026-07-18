@@ -275,12 +275,12 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 ## Introduction
 
-Many famous mid-20th-century UFO incidents involved both eyewitnesses and radar operators reporting unusual targets at the same time. That combination gave some cases an aura of technical certainty: if trained controllers saw objects on radar as well as in the sky, surely something physical had to be present. Yet atmospheric scientists and radar engineers have long argued that some of those events occurred under conditions known to produce “anomalous propagation”, often shortened to AP. In strong temperature [inversions]({{ 'inversions/' | relative_url }}), radar beams can bend, skim the ground or sea surface, and generate misleading returns that appear to move or hover. Wikipedia Radartutorial The dispute is not whether radar ducting is real. It absolutely is. The harder question is whether it adequately explains specific historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[radartutorial.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span> UFO reports that combined radar tracks, pilot testimony and visual observations. For AI-assisted UFO investigation, this matters because older [case files]({{ 'case-file/' | relative_url }}) are often revisited without reconstructing the actual atmospheric conditions at the time. Modern automation can now compare archived weather profiles, radar geometry and witness timing in ways investigators in the 1950s simply could not.
+Many famous mid-20th-century UFO incidents involved both eyewitnesses and radar operators reporting unusual targets at the same time. That combination gave some cases an aura of technical certainty: if trained controllers saw objects on radar as well as in the sky, surely something physical had to be present. Yet atmospheric scientists and radar engineers have long argued that some of those events occurred under conditions known to produce “anomalous propagation”, often shortened to AP. In strong temperature [inversions]({{ 'inversions/' | relative_url }}), radar beams can bend, skim the ground or sea surface, and generate misleading returns that appear to move or hover. Wikipedia Radartutorial The dispute is not whether radar ducting is real. It absolutely is. The harder question is whether it adequately explains specific historical<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[radartutorial.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span> UFO reports that combined radar tracks, pilot testimony and visual observations. For AI-assisted UFO investigation, this matters because older [case files]({{ 'case-file/' | relative_url }}) are often revisited without reconstructing the actual atmospheric conditions at the time. Modern automation can now compare archived weather profiles, radar geometry and witness timing in ways investigators in the 1950s simply could not.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" alt="Radar Ducting illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How ducting creates unexpected radar returns
 
-Radar systems assume radio waves travel in a reasonably predictable curve through the atmosphere. Under ordinary conditions, that assumption works well enough for air traffic control and military surveillance. During strong inversions, however, layers of warm and cool air alter the refractive index of the atmosphere and bend radar energy downward more sharply than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radartutorial In severe cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span>, the beam becomes trapped inside an atmospheric “duct”. Instead of travelling normally into open air, it can skim along the surface for long distances, repeatedly reflecting between the ground or sea and the inversion layer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: its.ntia.gov">[ITS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">its.ntia.gov</span><span class="citation-popover-snippet">The fields of interest are the...Read more...</span></span></span>
+Radar systems assume radio waves travel in a reasonably predictable curve through the atmosphere. Under ordinary conditions, that assumption works well enough for air traffic control and military surveillance. During strong inversions, however, layers of warm and cool air alter the refractive index of the atmosphere and bend radar energy downward more sharply than expected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radartutorial In severe cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span>, the beam becomes trapped inside an atmospheric “duct”. Instead of travelling normally into open air, it can skim along the surface for long distances, repeatedly reflecting between the ground or sea and the inversion layer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: its.ntia.gov">[ITS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">its.ntia.gov</span><span class="citation-popover-snippet">The fields of interest are the...Read more...</span></span></span>
 
 That can produce several misleading effects relevant to older UFO reports:
 
@@ -295,7 +295,7 @@ That can produce several misleading effects relevant to older UFO reports:
 
 </div>
 
-Modern meteorological agencies still warn that anomalous propagation contaminates radar data. NOAA describes AP as a source of false echoes caused by unusual refractive conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span>
+Modern meteorological agencies still warn that anomalous propagation contaminates radar data. NOAA describes AP as a source of false echoes caused by unusual refractive conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span>
 
 For UFO investigators, the important point is narrower than many debates suggest. Ducting can create convincing radar anomalies, especially near coastlines, over water and during calm night-time inversion conditions. But it does not automatically explain every radar contact in every historical case.
 
@@ -316,7 +316,7 @@ Several technical limitations mattered:
 
 </div>
 
-Radar historians and later sceptical investigators argued that these weaknesses made false targets more common than many UFO enthusiasts realised. Philip Klass later claimed that improved digital filtering in the 1970s sharply reduced radar-based UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+Radar historians and later sceptical investigators argued that these weaknesses made false targets more common than many UFO enthusiasts realised. Philip Klass later claimed that improved digital filtering in the 1970s sharply reduced radar-based UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 At the same time, many radar operators insisted they already understood ordinary clutter and weather effects. This disagreement became one of the defining tensions in classic UFO literature: were experienced controllers misled by atmospheric artefacts, or were official explanations underestimating the skill of the witnesses?
 
@@ -324,29 +324,29 @@ That debate still shapes modern analysis of older case files.
 
 ## The Washington 1952 sightings became the classic ducting argument
 
-The most famous radar ducting dispute is the July 1952 Washington, DC wave, often called the Washington National Airport sightings or the Washington flap. Multiple radar operators at Washington National Airport and Andrews Air Force Base tracked unusual targets over consecutive weekends, while some pilots and ground witnesses also reported lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base...</span></span></span>
+The most famous radar ducting dispute is the July 1952 Washington, DC wave, often called the Washington National Airport sightings or the Washington flap. Multiple radar operators at Washington National Airport and Andrews Air Force Base tracked unusual targets over consecutive weekends, while some pilots and ground witnesses also reported lights in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base...</span></span></span>
 
-The case became politically explosive because the radar tracks appeared near the White House and Capitol. Interceptor [aircraft]({{ 'aircraft/' | relative_url }}) were scrambled. President Truman reportedly sought explanations directly from Air Force officials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+The case became politically explosive because the radar tracks appeared near the White House and Capitol. Interceptor [aircraft]({{ 'aircraft/' | relative_url }}) were scrambled. President Truman reportedly sought explanations directly from Air Force officials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 ### The official explanation
 
-Air Force officials argued that strong temperature inversions over Washington created false radar returns through anomalous propagation. Major General John Samford publicly stated that inversion conditions existed during the sightings and could explain the radar contacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+Air Force officials argued that strong temperature inversions over Washington created false radar returns through anomalous propagation. Major General John Samford publicly stated that inversion conditions existed during the sightings and could explain the radar contacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
-Subsequent technical analysis by the Civil Aeronautics Administration reportedly concluded that inversion conditions were present in almost every radar incident associated with the sightings. Project [Blue Book]({{ 'blue-book/' | relative_url }}) later classified the radar targets as false images caused by temperature inversion effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Subsequent technical analysis by the Civil Aeronautics Administration reportedly concluded that inversion conditions were present in almost every radar incident associated with the sightings. Project [Blue Book]({{ 'blue-book/' | relative_url }}) later classified the radar targets as false images caused by temperature inversion effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-The case became a textbook example for sceptical writers such as Donald Menzel and Philip Klass, both of whom argued that atmospheric and radar effects sufficiently explained the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+The case became a textbook example for sceptical writers such as Donald Menzel and Philip Klass, both of whom argued that atmospheric and radar effects sufficiently explained the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 ### Why the dispute never disappeared
 
 The controversy survived because several participants disputed the explanation even after the official investigation ended.
 
-Radar personnel claimed the targets behaved unlike ordinary clutter. Some witnesses reported simultaneous visual observations corresponding to radar returns. Edward Ruppelt, the former head of Project Blue Book, later wrote that radar operators and some Air Force personnel rejected the inversion explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Radar personnel claimed the targets behaved unlike ordinary clutter. Some witnesses reported simultaneous visual observations corresponding to radar returns. Edward Ruppelt, the former head of Project Blue Book, later wrote that radar operators and some Air Force personnel rejected the inversion explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 Critics of the official account focused on several points:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* targets reportedly appeared on multiple radars <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasiantimes.com">[eurasiantimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasiantimes.com</span><span class="citation-popover-title">America&#x27;s &quot;Most Dramatic&quot; UFO Encounter!</span><span class="citation-popover-snippet">73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</span><span class="citation-popover-meta">Published: July 26, 1952</span></span></span>
+* targets reportedly appeared on multiple radars<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasiantimes.com">[eurasiantimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasiantimes.com</span><span class="citation-popover-title">America&#x27;s &quot;Most Dramatic&quot; UFO Encounter!</span><span class="citation-popover-snippet">73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</span><span class="citation-popover-meta">Published: July 26, 1952</span></span></span>
 * some returns appeared to manoeuvre rapidly
 * radar and visual reports sometimes overlapped in time
 * trained operators believed they could distinguish AP clutter from aircraft
@@ -410,7 +410,7 @@ For example:
 
 </div>
 
-The Washington case itself included reports later interpreted as stars, meteors or ordinary lights distorted by atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+The Washington case itself included reports later interpreted as stars, meteors or ordinary lights distorted by atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 Still, some investigators argue that certain radar-visual combinations lasted too long or involved too many observers to dismiss comfortably. This is where historical disputes tend to persist rather than resolve cleanly.
 
@@ -489,201 +489,201 @@ That approach avoids overstating certainty in either direction.
 
 ## The real lesson from the ducting disputes
 
-Radar ducting is neither a universal debunking tool nor a trivial excuse invented after the fact. Atmospheric propagation effects are well-documented physical phenomena that genuinely produced misleading radar returns, especially in older analogue systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[2U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole &#124; ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</span></span></span>
+Radar ducting is neither a universal debunking tool nor a trivial excuse invented after the fact. Atmospheric propagation effects are well-documented physical phenomena that genuinely produced misleading radar returns, especially in older analogue systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[2U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole &#124; ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</span></span></span>
 
 At the same time, historical UFO disputes persisted because many cases blended imperfect radar data with human testimony, incomplete records and rapidly changing atmospheric conditions. Even decades later, investigators still argue about whether specific incidents crossed the line from explainable artefact into something more difficult to classify.
 
 For AI-assisted UFO investigation, the practical takeaway is clear: radar evidence should never be accepted uncritically, but neither should it be dismissed with a generic reference to “temperature inversions”. The useful question is always case-specific: did the atmosphere at that exact time and place create conditions capable of generating the reported radar behaviour?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Radar UFOs Might Be Weather Ghosts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Radar UFOs Might Be Weather Ghosts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK"><img src="https://i.ebayimg.com/images/g/b~kAAeSwUIZo8JY5/s-l225.jpg" alt="Listing image for Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Radio Controlled Clock Calendar Indoor/Outdoor Thermometer UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor"><img src="https://i.ebayimg.com/images/g/u5sAAeSwPJRpFdsq/s-l225.jpg" alt="Listing image for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor"><img src="https://i.ebayimg.com/images/g/u5sAAeSwPJRpFdsq/s-l225.jpg" alt="Listing image for Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Wireless Digital LCD Colored Screen with Sensor Indoor Outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor"><img src="https://i.ebayimg.com/images/g/jZAAAeSwDFNpu5Ms/s-l225.jpg" alt="Listing image for 5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">5-in-1 Wireless Weather Station with Color Display, Wind &amp; Rain Outdoor Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/rxAAAOSwu5BfLl4x/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="https://i.ebayimg.com/images/g/rxAAAOSwu5BfLl4x/s-l225.jpg" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-ufos-might-be-weather-ghosts-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="when-radar-ufos-might-be-weather-ghosts-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -699,7 +699,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -719,7 +719,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -751,7 +751,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -803,7 +803,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -848,7 +848,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -889,103 +889,103 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: radartutorial.eu  
-   Link: <a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</p></details>
+   Link:<a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US9810773B2/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</p></details>
+   Link:<a href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US9810773B2/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: its.ntia.gov  
-   Link: <a href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://its.ntia.gov/publications/download/76-107.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fields of interest are the...Read more...</p></details>
+   Link:<a href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://its.ntia.gov/publications/download/76-107.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fields of interest are the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usni.org  
    Title: dont fall radar hole  
-   Link: <a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</p></details>
+   Link:<a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
    Title: ufos and radar targets clutter safety and false certainty c3eab7a878ad  
-   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>
+   Link:<a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: visiontimes.com  
    Title: the 1952 washington d c ufo incidents that shocked the white house  
-   Link: <a href="https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incidents That Shocked...Feb 10, 2026 — Some radar operators and researchers noted that temperature inversions occurred almost daily...</p></details>
+   Link:<a href="https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incidents That Shocked...Feb 10, 2026 — Some radar operators and researchers noted that temperature inversions occurred almost daily...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
-   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — “I don&#x27;t think temperature inversion had much to do with it, but...</p></details>
+   Link:<a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — “I don&#x27;t think temperature inversion had much to do with it, but...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nstable surface layers to provide better understanding and predictions for radio...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nstable surface layers to provide better understanding and predictions for radio...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dcist.com  
    Title: in the early 1950s d c was obsessed with ufos heres why  
-   Link: <a href="https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Obsessed With UFOs. Here&#x27;s...9 Dec 2019 — The incidents over D.C. was one of a number of UFO sightings across the country that the A...</p></details>
+   Link:<a href="https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Obsessed With UFOs. Here&#x27;s...9 Dec 2019 — The incidents over D.C. was one of a number of UFO sightings across the country that the A...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ut in the gulf the last several days, it&#x27;s because of something called anomalous...</p></details>
+   Link:<a href="https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ut in the gulf the last several days, it&#x27;s because of something called anomalous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eurasiantimes.com  
    Title: America's "Most Dramatic" UFO Encounter!  
-   Link: <a href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</p></details>
+   Link:<a href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</p></details>
    Published: July 26, 1952  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Washington D.C. UFO Incident and similarities to...In response to a question as to whether the Air Force had recorded similar U...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Washington D.C. UFO Incident and similarities to...In response to a question as to whether the Air Force had recorded similar U...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
    Title: ucl.ac.uk UNIVERSIT Y OF LONDON THESIS  
-   Link: <a href="https://discovery.ucl.ac.uk/1445249/1/U592569.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1445249/1/U592569.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF LONDON THESIS - UCL DiscoveryUniquely for a generic radar propagation model, a number of important system effects have been added to s...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1445249/1/U592569.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1445249/1/U592569.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF LONDON THESIS - UCL DiscoveryUniquely for a generic radar propagation model, a number of important system effects have been added to s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: military-history.fandom.com  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident - Military WikiSamford also stated that the unknown radar targets could be explained by temperature inversion, which was pre...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident - Military WikiSamford also stated that the unknown radar targets could be explained by temperature inversion, which was pre...</p></details>

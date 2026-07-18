@@ -288,20 +288,20 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 
 ## Introduction
 
-A surprising number of night-time UFO reports in the UK now overlap with a very specific aviation question: was the witness actually seeing a legally operated drone? Since January 2026, UK Civil Aviation Authority (CAA) rules have added two particularly useful clues for investigators. One is visual: drones flown at night in the Open Category are expected to show a green flashing light. The other is digital: many drones are now required to broadcast [Remote ID]({{ 'remote-id/' | relative_url }}) data, effectively a short-range electronic identifier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+A surprising number of night-time UFO reports in the UK now overlap with a very specific aviation question: was the witness actually seeing a legally operated drone? Since January 2026, UK Civil Aviation Authority (CAA) rules have added two particularly useful clues for investigators. One is visual: drones flown at night in the Open Category are expected to show a green flashing light. The other is digital: many drones are now required to broadcast [Remote ID]({{ 'remote-id/' | relative_url }}) data, effectively a short-range electronic identifier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-dark.svg" | relative_url }}" alt="UK drone rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For UFO case analysis, these rules matter because they convert vague descriptions such as “a hovering flashing object” into more testable questions. Was the light green? Did it pulse regularly like an anti-collision beacon? Was the object low, local and slow enough to fit typical drone operations? Could police, event security staff or nearby operators have detected a Remote ID broadcast? These checks do not solve every sighting, but they help investigators separate likely drone activity from more unusual cases much faster.
 
 ## The green flashing light investigators should ask about
 
-The most important recent UK change for night sightings is simple: drones flown at night in the Open Category must use a flashing green light. The CAA introduced the rule to improve visibility and distinguish drones from other [aircraft]({{ 'aircraft/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+The most important recent UK change for night sightings is simple: drones flown at night in the Open Category must use a flashing green light. The CAA introduced the rule to improve visibility and distinguish drones from other [aircraft]({{ 'aircraft/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 For UFO investigations, this creates a practical screening question that did not exist in older cases. Witnesses are often asked whether an object showed “red and [green lights]({{ 'green-lights/' | relative_url }})”, because that is associated with aircraft navigation lighting. Modern UK drone checks now add another detail: a distinct flashing green beacon, especially on a low-altitude hovering object, can strongly suggest a lawful drone flight rather than an unknown aerial phenomenon.
 
 ### What the light usually looks like
 
-Most consumer drones already carry LEDs for orientation and visibility, but the new UK requirement specifically focuses on a green flashing anti-collision light during night operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heliguy.com">[Heliguy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heliguy.com</span><span class="citation-popover-title">Consumer drones typically use small</span><span class="citation-popover-snippet">Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flas...</span></span></span>
+Most consumer drones already carry LEDs for orientation and visibility, but the new UK requirement specifically focuses on a green flashing anti-collision light during night operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heliguy.com">[Heliguy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heliguy.com</span><span class="citation-popover-title">Consumer drones typically use small</span><span class="citation-popover-snippet">Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flas...</span></span></span>
 
 In practice, witnesses may report:
 
@@ -334,7 +334,7 @@ The new green-light rule gives investigators a more concrete feature to compare 
 
 ## Remote ID dates and limits
 
-Remote ID is often described as a digital number plate for drones. The aircraft broadcasts identification and location information during flight so regulators and authorised users can identify it nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+Remote ID is often described as a digital number plate for drones. The aircraft broadcasts identification and location information during flight so regulators and authorised users can identify it nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 For UFO investigations, the key point is not that the public can automatically track every drone online. They cannot. The important point is that some sightings may now leave a recoverable electronic trace even when no public flight-tracking website shows anything.
 
@@ -342,9 +342,9 @@ For UFO investigations, the key point is not that the public can automatically t
 
 The UK system is being introduced in stages.
 
-From 1 January 2026, certain UK class-marked drones must use Direct Remote ID. The requirement initially applies mainly to UK1, UK2, UK3, UK5 and UK6 aircraft categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+From 1 January 2026, certain UK class-marked drones must use Direct Remote ID. The requirement initially applies mainly to UK1, UK2, UK3, UK5 and UK6 aircraft categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
-From 1 January 2028, the requirement broadens substantially. The CAA says Remote ID will then apply to almost all drone and model aircraft operations unless exempted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+From 1 January 2028, the requirement broadens substantially. The CAA says Remote ID will then apply to almost all drone and model aircraft operations unless exempted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 This timeline matters when reviewing older UFO reports. A sighting from 2023 cannot reasonably be checked for mandatory UK Remote ID compliance. A report from 2026 or 2027 may involve only partial adoption. A report after 2028 potentially allows much stronger questions about whether a lawful drone should have been broadcasting identification data.
 
@@ -364,7 +364,7 @@ Remote ID systems generally broadcast:
 
 </div>
 
-Sources discussing the UK framework repeatedly stress that the system is intended for airspace safety and accountability rather than public surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronedj.com">[DroneDJ For investigators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronedj.com</span><span class="citation-popover-title">uk drone rules remote id</span><span class="citation-popover-snippet">UK introduces class marks and Remote ID for drones1 Jan 2026 — In the UK, Remote ID will become mandatory for class-marked drones startin...</span></span></span>, the important operational limitation is range. Remote ID is not a nationwide public radar feed. Detection usually depends on nearby receivers, compatible apps or enforcement equipment within local distance of the aircraft.
+Sources discussing the UK framework repeatedly stress that the system is intended for airspace safety and accountability rather than public surveillance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronedj.com">[DroneDJ For investigators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronedj.com</span><span class="citation-popover-title">uk drone rules remote id</span><span class="citation-popover-snippet">UK introduces class marks and Remote ID for drones1 Jan 2026 — In the UK, Remote ID will become mandatory for class-marked drones startin...</span></span></span>, the important operational limitation is range. Remote ID is not a nationwide public radar feed. Detection usually depends on nearby receivers, compatible apps or enforcement equipment within local distance of the aircraft.
 
 That means a witness cannot assume that “no Remote ID record exists” proves the object was anomalous. The signal may simply never have been captured.
 
@@ -377,7 +377,7 @@ A good AI-assisted case workflow should treat UK drone rules as one layer in a b
 
 ### Questions investigators should now ask
 
-For UK night sightings after January 2026, investigators can add several targeted prompts: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">the drone code january 2026</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft Code1 Jan 2026 — If you fly a drone or model aircraft at night, your aircraft must h...</span><span class="citation-popover-meta">Published: january 2026</span></span></span>
+For UK night sightings after January 2026, investigators can add several targeted prompts:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">the drone code january 2026</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft Code1 Jan 2026 — If you fly a drone or model aircraft at night, your aircraft must h...</span><span class="citation-popover-meta">Published: january 2026</span></span></span>
 
 * Was the object below normal aircraft altitude?
 
@@ -403,7 +403,7 @@ Machine-assisted analysis becomes particularly valuable when many reports arrive
 
 An automated workflow can:
 
-* flag reports mentioning green flashing lights; <span class="citation-chip-wrap"><a class="citation-chip" href="https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greyarro.ws">[greyarro.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greyarro.ws</span><span class="citation-popover-snippet">C0 drones allegedly no longer require additional green...22 Jan 2026 — Aircraft don&#x27;t need to see the flashing lights, it&#x27;s for people o...</span></span></span>
+* flag reports mentioning green flashing lights;<span class="citation-chip-wrap"><a class="citation-chip" href="https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greyarro.ws">[greyarro.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greyarro.ws</span><span class="citation-popover-snippet">C0 drones allegedly no longer require additional green...22 Jan 2026 — Aircraft don&#x27;t need to see the flashing lights, it&#x27;s for people o...</span></span></span>
 * estimate likely drone operating altitude from witness [geometry]({{ 'geometry/' | relative_url }});
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
@@ -440,201 +440,201 @@ For serious UFO/UAP investigation, that distinction matters. The aim is not to f
 
 ## The practical takeaway for modern UK sightings
 
-The UK’s new drone-lighting and Remote ID rules have quietly changed how night UFO reports should be investigated. A flashing green light is no longer just a vague visual detail. It is now a regulatory clue tied to identifiable operating practices. Remote ID adds a second layer: some modern drones are expected to broadcast machine-readable identity information during flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
+The UK’s new drone-lighting and Remote ID rules have quietly changed how night UFO reports should be investigated. A flashing green light is no longer just a vague visual detail. It is now a regulatory clue tied to identifiable operating practices. Remote ID adds a second layer: some modern drones are expected to broadcast machine-readable identity information during flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 For investigators, this means a modern UK night sighting can often be analysed more rigorously than older reports. Instead of treating “mysterious lights” as a single category, the [case file]({{ 'case-file/' | relative_url }}) can test whether the behaviour matches lawful drone operations, partially compliant activity, illegal flying, ordinary aircraft lighting, or something that remains unresolved after those checks.
 
 That does not eliminate uncertainty. But it does make the first stage of UFO triage more evidence-driven, more reproducible and far less dependent on guesswork alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The green flashing light investigators should ask about. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The green flashing light investigators should ask about. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Directly relevant to drone operations and lighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to drone operations and lighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
         
-        <p class="fr-book-desc">Useful for understanding aviation lighting conventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding aviation lighting conventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Fits the wider UFO investigation theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the wider UFO investigation theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Pilot&#x27;s Handbook">Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Pilot&#x27;s Handbook">Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">First published 2016.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3"><img src="https://i.ebayimg.com/images/g/pbcAAeSwRZlp9x9V/s-l225.jpg" alt="Listing image for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3"><img src="https://i.ebayimg.com/images/g/pbcAAeSwRZlp9x9V/s-l225.jpg" alt="Listing image for Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Mini Drone Strobe Light 7 Colors Modes for DJI NEO/Mini 4 Pro/Mini 2/Mavic 3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Strobe Lights Remote Control Anti Collision Light for Drone Night"><img src="https://i.ebayimg.com/images/g/bNsAAOSwCehnTqpO/s-l225.jpg" alt="Listing image for LED Strobe Lights Remote Control Anti Collision Light for Drone Night" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">LED Strobe Lights Remote Control Anti Collision Light for Drone Night</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Strobe Lights Remote Control Anti Collision Light for Drone Night"><img src="https://i.ebayimg.com/images/g/bNsAAOSwCehnTqpO/s-l225.jpg" alt="Listing image for LED Strobe Lights Remote Control Anti Collision Light for Drone Night" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">LED Strobe Lights Remote Control Anti Collision Light for Drone Night</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK"><img src="https://i.ebayimg.com/images/g/i4oAAOSw3AJjkQT-/s-l225.jpg" alt="Listing image for RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK"><img src="https://i.ebayimg.com/images/g/i4oAAOSw3AJjkQT-/s-l225.jpg" alt="Listing image for RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">RC Drone Bike Plane Car Boat Camping Rechargeable 7 Colour LED Strobe Light UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS"><img src="https://i.ebayimg.com/images/g/3ioAAeSwjlJpsp5L/s-l225.jpg" alt="Listing image for Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS"><img src="https://i.ebayimg.com/images/g/3ioAAeSwjlJpsp5L/s-l225.jpg" alt="Listing image for Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">Drone Flash Led Lamp Light ABS RC Drone Strobe Light For Mini 2 FIS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone strobe light">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone strobe light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+strobe+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-green-flashing-light-investigators-should-ask-about-drone-strobe-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone strobe light" data-ebay-reference="the-green-flashing-light-investigators-should-ask-about-drone-strobe-light" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,138 +840,138 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: heliguy.com  
    Title: Consumer drones typically use small  
-   Link: <a href="https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flas...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flas...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dronedj.com  
    Title: uk drone rules remote id  
-   Link: <a href="https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK introduces class marks and Remote ID for drones1 Jan 2026 — In the UK, Remote ID will become mandatory for class-marked drones startin...</p></details>
+   Link:<a href="https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK introduces class marks and Remote ID for drones1 Jan 2026 — In the UK, Remote ID will become mandatory for class-marked drones startin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heliguy.com  
-   Link: <a href="https://www.heliguy.com/blogs/posts/remote-id-what-it-means-for-uk-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/remote-id-what-it-means-for-uk-drone-pilots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote ID 2026: What it means for UK drone pilots2 Jan 2026 — From January 1, 2026, pilots flying drones with the new UK class mar...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/remote-id-what-it-means-for-uk-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/remote-id-what-it-means-for-uk-drone-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote ID 2026: What it means for UK drone pilots2 Jan 2026 — From January 1, 2026, pilots flying drones with the new UK class mar...</p></details>
    Published: January 1, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: heliguy.com  
    Title: c0 drones green flashing light at night uk caa update  
-   Link: <a href="https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones green flashing light at night: UK CAA update26 Jan 2026 — C0/UK1 drones, including the DJI Mini 5 Pro, do not require an active...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones green flashing light at night: UK CAA update26 Jan 2026 — C0/UK1 drones, including the DJI Mini 5 Pro, do not require an active...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: heliguy.com  
-   Link: <a href="https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at night in the Open Category: UK CAA update17 Mar 2026 — The UK CAA has released updated guidance on flying a drone at ni...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at night in the Open Category: UK CAA update17 Mar 2026 — The UK CAA has released updated guidance on flying a drone at ni...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: heliguy.com  
    Title: U K drone rules change  
-   Link: <a href="https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK drone rules change January 1, 2026: What you need to...31 Dec 2025 — Before 2026, Remote ID was not mandatory in the UK. But from Jan...</p></details>
+   Link:<a href="https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK drone rules change January 1, 2026: What you need to...31 Dec 2025 — Before 2026, Remote ID was not mandatory in the UK. But from Jan...</p></details>
    Published: January 1, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>set for hottest day of the year so far with temperatures set to reach 28C...</p></details>
+   Link:<a href="https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/uk-set-for-hottest-day-of-the-year-so-far-with-temperatures-set-to-reach-28c-13545738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>set for hottest day of the year so far with temperatures set to reach 28C...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</p></details>
    Published: January 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Remote ID (RID)  
-   Link: <a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesFrom 1 January 2028, you must use Remote ID for all drone and model operations (unless yo...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesFrom 1 January 2028, you must use Remote ID for all drone and model operations (unless yo...</p></details>
    Published: January 2028  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caa.co.uk  
    Title: the drone code january 2026  
-   Link: <a href="https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityThe Drone and Model Aircraft Code1 Jan 2026 — If you fly a drone or model aircraft at night, your aircraft must h...</p></details>
+   Link:<a href="https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/q1il5nqs/the-drone-code-january-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityThe Drone and Model Aircraft Code1 Jan 2026 — If you fly a drone or model aircraft at night, your aircraft must h...</p></details>
    Published: january 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) | UK Civil Aviation AuthorityFrom 1 January 2026, there is a legal requirement for operators to f...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/regulations-consultations-and-policy-programmes/policy-programmes/remote-id-rid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) | UK Civil Aviation AuthorityFrom 1 January 2026, there is a legal requirement for operators to f...</p></details>
    Published: January 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityUpdates | UK Civil Aviation AuthorityPoint 19: Use a green flashing light when flying at night. New content on us...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityUpdates | UK Civil Aviation AuthorityPoint 19: Use a green flashing light when flying at night. New content on us...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA changes stance on drone green light requirementIt seems the CAA have back-pedalled again on the whole green light at night situation...</p></details>
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAA changes stance on drone green light requirementIt seems the CAA have back-pedalled again on the whole green light at night situation...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thebalmoregroup.co.uk  
-   Link: <a href="https://thebalmoregroup.co.uk/flying-a-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://thebalmoregroup.co.uk/flying-a-drone-at-night/</a>  
+   Link:<a href="https://thebalmoregroup.co.uk/flying-a-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://thebalmoregroup.co.uk/flying-a-drone-at-night/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: greyarro.ws  
-   Link: <a href="https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones allegedly no longer require additional green...22 Jan 2026 — Aircraft don&#x27;t need to see the flashing lights, it&#x27;s for people o...</p></details>
+   Link:<a href="https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/c0-drones-allegedly-no-longer-require-additional-green-flashing-light-for-night-flights/106702?page=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones allegedly no longer require additional green...22 Jan 2026 — Aircraft don&#x27;t need to see the flashing lights, it&#x27;s for people o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mavicpilots.com  
    Title: dji mini 4 pro night flying light dilemma under new uk drone rules.154997  
-   Link: <a href="https://mavicpilots.com/threads/dji-mini-4-pro-night-flying-light-dilemma-under-new-uk-drone-rules.154997/" target="_blank" rel="noopener noreferrer nofollow">https://mavicpilots.com/threads/dji-mini-4-pro-night-flying-light-dilemma-under-new-uk-drone-rules.154997/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mini 4 Pro Night Flying Light Dilemma Under New UK...1 Jan 2026 — With the new UK drone rules in effect from today (1 January 2026)...</p></details>
+   Link:<a href="https://mavicpilots.com/threads/dji-mini-4-pro-night-flying-light-dilemma-under-new-uk-drone-rules.154997/" target="_blank" rel="noopener noreferrer nofollow">https://mavicpilots.com/threads/dji-mini-4-pro-night-flying-light-dilemma-under-new-uk-drone-rules.154997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mini 4 Pro Night Flying Light Dilemma Under New UK...1 Jan 2026 — With the new UK drone rules in effect from today (1 January 2026)...</p></details>
    Published: January 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: botsanddrones.uk  
-   Link: <a href="https://botsanddrones.uk/best-commercial-drones-1/f/uk-remote-id-rules-start-1-jan-2026-drone-pilot-compliance-guide" target="_blank" rel="noopener noreferrer nofollow">https://botsanddrones.uk/best-commercial-drones-1/f/uk-remote-id-rules-start-1-jan-2026-drone-pilot-compliance-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Remote ID Rules Start 1 Jan 2026: Drone Pilot...15 Nov 2025 — What Are the New CAA Remote ID Rules (From 1 Jan 2026)...</p></details>
+   Link:<a href="https://botsanddrones.uk/best-commercial-drones-1/f/uk-remote-id-rules-start-1-jan-2026-drone-pilot-compliance-guide" target="_blank" rel="noopener noreferrer nofollow">https://botsanddrones.uk/best-commercial-drones-1/f/uk-remote-id-rules-start-1-jan-2026-drone-pilot-compliance-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Remote ID Rules Start 1 Jan 2026: Drone Pilot...15 Nov 2025 — What Are the New CAA Remote ID Rules (From 1 Jan 2026)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lcegroup.co.uk  
    Title: This is to ensure your aircraft is clearly distinguishable from manned  
-   Link: <a href="https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to knowFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
+   Link:<a href="https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to knowFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
    Published: January 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unmannedtechshop.co.uk  
-   Link: <a href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/uk-drone-laws-2026-complete-guide-caa-regulations?srsltid=AfmBOoonhi0KQTuUyJ-CY63xkYnRvCIEiTeBkFwxZo4OdvFMOKgDnDQ7" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedtechshop.co.uk/blogs/knowledge-base/uk-drone-laws-2026-complete-guide-caa-regulations?srsltid=AfmBOoonhi0KQTuUyJ-CY63xkYnRvCIEiTeBkFwxZo4OdvFMOKgDnDQ7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Complete Guide to CAA Regulations4 Apr 2026 — Any drone weighing 100g or more must be registered with the CAA...</p></details>
+   Link:<a href="https://www.unmannedtechshop.co.uk/blogs/knowledge-base/uk-drone-laws-2026-complete-guide-caa-regulations?srsltid=AfmBOoonhi0KQTuUyJ-CY63xkYnRvCIEiTeBkFwxZo4OdvFMOKgDnDQ7" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedtechshop.co.uk/blogs/knowledge-base/uk-drone-laws-2026-complete-guide-caa-regulations?srsltid=AfmBOoonhi0KQTuUyJ-CY63xkYnRvCIEiTeBkFwxZo4OdvFMOKgDnDQ7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Complete Guide to CAA Regulations4 Apr 2026 — Any drone weighing 100g or more must be registered with the CAA...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shop.coptrz.com  
    Title: how will the 2026 drone regulation changes affect flying in the uk  
-   Link: <a href="https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1 January 2026, Remote ID is now required for the following UK class marked drones: UK1; UK2; UK3; UK5...Read more...</p></details>
+   Link:<a href="https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 1 January 2026, Remote ID is now required for the following UK class marked drones: UK1; UK2; UK3; UK5...Read more...</p></details>
    Published: January 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fpvuk.org  
-   Link: <a href="https://fpvuk.org/class-marks-and-remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/class-marks-and-remote-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA New Regulations: Class Marks and Remote ID (RID)From 1st January 2026 you must have a flyer ID to fly any drone with a mass of more t...</p></details>
+   Link:<a href="https://fpvuk.org/class-marks-and-remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/class-marks-and-remote-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAA New Regulations: Class Marks and Remote ID (RID)From 1st January 2026 you must have a flyer ID to fly any drone with a mass of more t...</p></details>
    Published: January 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bmfa.club  
    Title: latest caa regulatory changes from jan 1st 2026  
-   Link: <a href="https://bmfa.club/latest-caa-regulatory-changes-from-jan-1st-2026" target="_blank" rel="noopener noreferrer nofollow">https://bmfa.club/latest-caa-regulatory-changes-from-jan-1st-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Sept 2025 — It is important to note that none of the new requirements will come into effect for model aircraft until 2028 and as we re...</p></details>
+   Link:<a href="https://bmfa.club/latest-caa-regulatory-changes-from-jan-1st-2026" target="_blank" rel="noopener noreferrer nofollow">https://bmfa.club/latest-caa-regulatory-changes-from-jan-1st-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Sept 2025 — It is important to note that none of the new requirements will come into effect for model aircraft until 2028 and as we re...</p></details>

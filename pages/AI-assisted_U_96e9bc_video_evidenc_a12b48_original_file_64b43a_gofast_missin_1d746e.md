@@ -276,7 +276,7 @@ For independent analysts, the central problem was not simply whether the object 
 
 ## What was available for public analysis
 
-The GoFast footage was recorded by a US Navy F/A-18 Super Hornet using an ATFLIR targeting pod during operations linked to the USS Theodore Roosevelt carrier group in 2015. The clip later entered public circulation through leaks and media releases before the Pentagon formally authenticated it as genuine military footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The GoFast footage was recorded by a US Navy F/A-18 Super Hornet using an ATFLIR targeting pod during operations linked to the USS Theodore Roosevelt carrier group in 2015. The clip later entered public circulation through leaks and media releases before the Pentagon formally authenticated it as genuine military footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 What the public received, however, was limited:
 
@@ -288,7 +288,7 @@ What the public received, however, was limited:
 * No synchronised pilot communications beyond partial audio
 * No full environmental reconstruction data
 
-That distinction is crucial. Authentic footage is not the same thing as complete evidence. The Pentagon confirmed the video came from a real Navy system, but that did not mean outside investigators gained access to the underlying sensor archive needed for rigorous reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</span></span></span>
+That distinction is crucial. Authentic footage is not the same thing as complete evidence. The Pentagon confirmed the video came from a real Navy system, but that did not mean outside investigators gained access to the underlying sensor archive needed for rigorous reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</span></span></span>
 
 For public viewers, the clip created a powerful visual impression: a small object apparently skimming low across the sea at high speed while Navy aviators reacted in surprise. The framing strongly encouraged the interpretation that the object was moving rapidly and close to the water.
 
@@ -296,7 +296,7 @@ But the clip’s apparent simplicity hid a deeper problem. Almost every key esti
 
 ## How missing metadata limited independent checks
 
-In video forensics, metadata often matters more than the visible pixels. Modern sensor systems store timing information, aircraft state vectors, [calibration]({{ 'calibration/' | relative_url }}) data, compression histories and recording parameters that help analysts reconstruct what a camera was actually seeing. Research into video metadata analysis shows these embedded structures can reveal device characteristics, editing history and technical context unavailable from the visible image alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
+In video forensics, metadata often matters more than the visible pixels. Modern sensor systems store timing information, aircraft state vectors, [calibration]({{ 'calibration/' | relative_url }}) data, compression histories and recording parameters that help analysts reconstruct what a camera was actually seeing. Research into video metadata analysis shows these embedded structures can reveal device characteristics, editing history and technical context unavailable from the visible image alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
 
 GoFast became difficult because much of that underlying context was absent from the public release.
 
@@ -309,7 +309,7 @@ Independent analysts could read some information directly from the targeting dis
 * Exact aircraft heading changes
 * Precise aircraft altitude history
 * Full pod orientation data
-* Sensor calibration values <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* Sensor calibration values<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 * Radar lock information
 * Wind conditions integrated into mission systems
 * Object tracking continuity before and after the released clip
@@ -318,7 +318,7 @@ Independent analysts could read some information directly from the targeting dis
 
 Without those variables, analysts had to model ranges rather than calculate definitive trajectories.
 
-This became especially important when later Pentagon analysis revisited the clip. The All-domain Anomaly Resolution Office (AARO) stated that its own assessment had limitations because the original file and metadata were unavailable, forcing analysts to work from a compressed version of the video and estimate possible aircraft headings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+This became especially important when later Pentagon analysis revisited the clip. The All-domain Anomaly Resolution Office (AARO) stated that its own assessment had limitations because the original file and metadata were unavailable, forcing analysts to work from a compressed version of the video and estimate possible aircraft headings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 That admission mattered because it showed the metadata problem was not merely an internet debate issue. Even official investigators were constrained by missing source material.
 
@@ -343,7 +343,7 @@ Compression affects:
 
 For AI-assisted investigation systems, these losses are significant. Automated tracking tools can estimate [angular motion]({{ 'angular-motion/' | relative_url }}) and apparent acceleration from compressed footage, but [confidence]({{ 'confidence/' | relative_url }}) drops sharply when frame-level integrity is uncertain.
 
-NASA’s independent UAP study warned more broadly that UAP analysis is hindered by poor calibration data, limited measurements and missing sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> GoFast became a practical demonstration of that warning rather than an abstract methodological point.
+NASA’s independent UAP study warned more broadly that UAP analysis is hindered by poor calibration data, limited measurements and missing sensor metadata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> GoFast became a practical demonstration of that warning rather than an abstract methodological point.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cwACSrLEPeM" title="Quantum physicists analyze pentagon US navy UFO video footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer">Quantum physicists analyze pentagon US navy UFO video footage</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 6.8K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cwACSrLEPeM">Open on YouTube</a></p></div></div></div>
 
@@ -374,9 +374,9 @@ The biggest shift in GoFast interpretation came when analysts argued that the ob
 
 Parallax is a normal visual effect caused by motion and perspective. Objects closer to a moving observer appear to move faster across the background than distant objects. Anyone looking from a train or aircraft window experiences the same effect: nearby terrain seems to race by while distant mountains drift slowly.
 
-Several analysts, most visibly Mick West, argued that the GoFast object was probably moving relatively slowly and that the dramatic apparent speed came largely from the jet’s own movement combined with viewing geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[2leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</span></span></span>
+Several analysts, most visibly Mick West, argued that the GoFast object was probably moving relatively slowly and that the dramatic apparent speed came largely from the jet’s own movement combined with viewing geometry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[2leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</span></span></span>
 
-Later official reviews broadly supported the same interpretation. AARO concluded with high confidence that the object’s apparent extreme speed was attributable to parallax and estimated that the object was likely much higher above the water than viewers initially assumed. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</span></span></span>
+Later official reviews broadly supported the same interpretation. AARO concluded with high confidence that the object’s apparent extreme speed was attributable to parallax and estimated that the object was likely much higher above the water than viewers initially assumed. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</span></span></span>
 
 That conclusion did not necessarily identify the object itself with certainty. But it significantly weakened one of the strongest public claims attached to the clip: that it showed an object travelling at impossible velocity just above the ocean surface.
 
@@ -435,18 +435,18 @@ Instead of treating dramatic footage as self-explanatory, investigators increasi
 
 * original acquisition files
 * exact timestamps
-* sensor calibration data <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* sensor calibration data<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 * location and orientation records
 * atmospheric conditions
 * radar correlation
 * flight telemetry
-* multiple independent sensors <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* multiple independent sensors<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 </div>
 
 AI systems can help reconstruct scenes, estimate trajectories and compare motion profiles against aircraft, balloons, drones or atmospheric effects. But their output quality depends heavily on source integrity.
 
-GoFast showed that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+GoFast showed that:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 * authentic military footage can still be evidentially incomplete
 * compressed clips create false certainty
@@ -461,194 +461,194 @@ In that sense, GoFast remains important not because it definitively proved or di
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fh3znHctOkA" title="Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer">Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 4.8K &middot; Uploaded: November 2024 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fh3znHctOkA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Go Fast teaches about missing originals. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Go Fast teaches about missing originals. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025"><img src="https://i.ebayimg.com/images/g/eQ4AAeSwknNqJQ5g/s-l225.jpg" alt="Listing image for WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search <span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025"><img src="https://i.ebayimg.com/images/g/eQ4AAeSwknNqJQ5g/s-l225.jpg" alt="Listing image for WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">WD Elements AE 4TB Portable External Hard drive HDD Black - USB 3.2 version 2025</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search<span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK"><img src="https://i.ebayimg.com/images/g/0XAAAeSwfE5qIV9i/s-l225.jpg" alt="Listing image for Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search <span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK"><img src="https://i.ebayimg.com/images/g/0XAAAeSwfE5qIV9i/s-l225.jpg" alt="Listing image for Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">Mini External 4TB Hard Drive Large Capacity SSD Hard Drive USB Laptop/MAC/PC-UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search<span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included"><img src="https://i.ebayimg.com/images/g/WYgAAeSwlh1qHyf2/s-l225.jpg" alt="Listing image for Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search <span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included"><img src="https://i.ebayimg.com/images/g/WYgAAeSwlh1qHyf2/s-l225.jpg" alt="Listing image for Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">Kinwind External Hard Drive Computer Accessory 2TB Storage Black Wires Included</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search<span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming"><img src="https://i.ebayimg.com/images/g/4ucAAeSwN6lqH1gf/s-l225.jpg" alt="Listing image for 1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search <span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming"><img src="https://i.ebayimg.com/images/g/4ucAAeSwN6lqH1gf/s-l225.jpg" alt="Listing image for 1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">1TB Portable External Hard Drive USB Storage Backup for Laptop PC Phone Gaming</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for external hard drive">Search<span data-ebay-domain-label>eBay.co.uk</span>: external hard drive</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=external+hard+drive&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gofast-teaches-about-missing-originals-external-hard-drive&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="external hard drive" data-ebay-reference="what-gofast-teaches-about-missing-originals-external-hard-drive" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -664,7 +664,7 @@ In that sense, GoFast remains important not because it definitively proved or di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -684,7 +684,7 @@ In that sense, GoFast remains important not because it definitively proved or di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -716,7 +716,7 @@ In that sense, GoFast remains important not because it definitively proved or di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -768,7 +768,7 @@ In that sense, GoFast remains important not because it definitively proved or di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -813,7 +813,7 @@ In that sense, GoFast remains important not because it definitively proved or di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -854,133 +854,133 @@ In that sense, GoFast remains important not because it definitively proved or di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
    Published: May 13, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</p></details>
    Published: February 13, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travelled d...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travelled d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
    Published: May 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</p></details>
+   Link:<a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1syayuw/the_truth_about_nasas_gofast_ufo_verdict_exposed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1syayuw/the_truth_about_nasas_gofast_ufo_verdict_exposed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report PDF, but the AARO report explicitly states it has no other data than the mp4 video with no metadata. digital-designer. • 27d...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1syayuw/the_truth_about_nasas_gofast_ufo_verdict_exposed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1syayuw/the_truth_about_nasas_gofast_ufo_verdict_exposed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report PDF, but the AARO report explicitly states it has no other data than the mp4 video with no metadata. digital-designer. • 27d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gva2xj/aaro_report_about_gofast_seem_to_be_the_same_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gva2xj/aaro_report_about_gofast_seem_to_be_the_same_as/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gva2xj/aaro_report_about_gofast_seem_to_be_the_same_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gva2xj/aaro_report_about_gofast_seem_to_be_the_same_as/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
    Title: quick guide to modern video analysis techniques for uap and ufos  
-   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide to Modern Video Analysis Techniques for UAP...Short for “Situation Recreation,” this tool was originally designed to analyze...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide to Modern Video Analysis Techniques for UAP...Short for “Situation Recreation,” this tool was originally designed to analyze...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...Nov 20, 2024 — The “GOFAST” video shows a radar recording of an object that appear...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...Nov 20, 2024 — The “GOFAST” video shows a radar recording of an object that appear...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — “As the platform is flying and capturing the object, if it is...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — “As the platform is flying and capturing the object, if it is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rev.com  
    Title: senate hearing on unidentified aerial phenomena  
-   Link: <a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial Phenomena23 Jan 2026 — The Senate holds a hearing on unidentified aerial phenomena, better kno...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial Phenomena23 Jan 2026 — The Senate holds a hearing on unidentified aerial phenomena, better kno...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: foxnews.com  
    Title: pentagon solves one its highest profile ufo mysteries  
-   Link: <a href="https://www.foxnews.com/us/pentagon-solves-one-its-highest-profile-ufo-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pentagon-solves-one-its-highest-profile-ufo-mysteries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski explains how the DOD solved the GOFAST UFO mystery of an object flying at a high speed just above water.Read more...</p></details>
+   Link:<a href="https://www.foxnews.com/us/pentagon-solves-one-its-highest-profile-ufo-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pentagon-solves-one-its-highest-profile-ufo-mysteries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski explains how the DOD solved the GOFAST UFO mystery of an object flying at a high speed just above water.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nextbigfuture.com  
    Title: debating and analyzing the ufo videos and claims  
-   Link: <a href="https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2021 — Mike West shows more of the math and how to read the altitude, viewing angles and speeds of the plane.Read more...</p></details>
+   Link:<a href="https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2021 — Mike West shows more of the math and how to read the altitude, viewing angles and speeds of the plane.Read more...</p></details>
    Published: May 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commentary.org  
-   Link: <a href="https://www.commentary.org/articles/james-meigs/ufo-government-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.commentary.org/articles/james-meigs/ufo-government-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Report and What It Didn&#x27;t FindSep 15, 2021 — But an analysis by visual-effects expert Mick West shows why such footage can be dec...</p></details>
+   Link:<a href="https://www.commentary.org/articles/james-meigs/ufo-government-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.commentary.org/articles/james-meigs/ufo-government-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Report and What It Didn&#x27;t FindSep 15, 2021 — But an analysis by visual-effects expert Mick West shows why such footage can be dec...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — NASA did an analysis but didn&#x27;t take into account turn rate or wind or something and got the lo...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — NASA did an analysis but didn&#x27;t take into account turn rate or wind or something and got the lo...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-weather-atmos/
 description: Focused pages that expand on Weather data.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b
 parent_title: Weather data
@@ -16,7 +16,7 @@ parent_permalink: /weather-data/
 
 # Explore Topics in Weather data
 
-The following pages expand on the main **[Weather data]({{ '/weather-data/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Weather data]({{ '/weather-data/' | relative_url }})** page and cover its key branches in.
 
 - [Cloud Ceilings]({{ '/cloud-ceilings/' | relative_url }})
 - [Storm Flashes]({{ '/storm-flashes/' | relative_url }})

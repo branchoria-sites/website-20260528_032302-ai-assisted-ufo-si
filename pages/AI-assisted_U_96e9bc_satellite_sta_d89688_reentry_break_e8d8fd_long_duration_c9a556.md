@@ -275,7 +275,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8
 
 ## Introduction
 
-A fireball that stays visible for 30 seconds, a minute, or even longer is one of the strongest clues that a reported “meteor UFO” may actually be orbital debris re-entering the atmosphere. In UFO case investigation, witness timing matters far more than many people realise. Ordinary meteors usually cross the visible sky in only a few seconds because they strike the atmosphere at enormous speeds. Re-entering satellites and rocket bodies arrive on much shallower paths and at lower orbital velocities, producing slower, horizon-spanning breakups that can resemble burning formations or fleets of lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
+A fireball that stays visible for 30 seconds, a minute, or even longer is one of the strongest clues that a reported “meteor UFO” may actually be orbital debris re-entering the atmosphere. In UFO case investigation, witness timing matters far more than many people realise. Ordinary meteors usually cross the visible sky in only a few seconds because they strike the atmosphere at enormous speeds. Re-entering satellites and rocket bodies arrive on much shallower paths and at lower orbital velocities, producing slower, horizon-spanning breakups that can resemble burning formations or fleets of lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-dark.svg" | relative_url }}" alt="Long Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is valuable for AI-assisted UFO analysis because duration is one of the easiest witness details to extract and compare across reports. If dozens of witnesses independently describe a glowing object remaining visible long enough to fetch a phone, call family members outside, or watch multiple fragmentation stages, the case rapidly shifts toward a probable re-entry scenario rather than a conventional meteor event. That does not solve every sighting automatically, but it changes which datasets, orbital records, and environmental correlations investigators should prioritise first.
@@ -284,11 +284,11 @@ This distinction is valuable for AI-assisted UFO analysis because duration is on
 
 The clearest separation between meteors and orbital debris often comes down to time.
 
-Natural meteors usually enter the atmosphere at roughly 11 to 72 kilometres per second. Their visible fireball phase is commonly over within a few seconds. Even bright bolides that fragment dramatically are normally fast and abrupt. The American Meteor Society notes that large meteoroids can break apart violently under aerodynamic stress, often losing coherence quickly once fragmentation begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsLarger meteoroids, particularly the stone variety, tend to break up between 7 and 17 miles (11 to 27...</span></span></span>
+Natural meteors usually enter the atmosphere at roughly 11 to 72 kilometres per second. Their visible fireball phase is commonly over within a few seconds. Even bright bolides that fragment dramatically are normally fast and abrupt. The American Meteor Society notes that large meteoroids can break apart violently under aerodynamic stress, often losing coherence quickly once fragmentation begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsLarger meteoroids, particularly the stone variety, tend to break up between 7 and 17 miles (11 to 27...</span></span></span>
 
-Re-entering spacecraft debris behaves differently because the object is already orbiting Earth and descends gradually from low Earth orbit. Human-made debris typically travels at around 7 to 8 kilometres per second during re-entry, substantially slower than many meteors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceacademy.net.au">[Space Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceacademy.net.au</span><span class="citation-popover-snippet">Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</span></span></span>
+Re-entering spacecraft debris behaves differently because the object is already orbiting Earth and descends gradually from low Earth orbit. Human-made debris typically travels at around 7 to 8 kilometres per second during re-entry, substantially slower than many meteors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceacademy.net.au">[Space Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceacademy.net.au</span><span class="citation-popover-snippet">Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</span></span></span>
 
-That lower speed combines with a shallow entry angle to produce much longer visible tracks. The Aerospace Corporation’s public guidance on re-entry identification states that meteors “typically last less than a few seconds”, while human-made re-entries “can last 20–90 seconds or more”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
+That lower speed combines with a shallow entry angle to produce much longer visible tracks. The Aerospace Corporation’s public guidance on re-entry identification states that meteors “typically last less than a few seconds”, while human-made re-entries “can last 20–90 seconds or more”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
 
 This difference changes the entire witness experience:
 
@@ -301,7 +301,7 @@ This difference changes the entire witness experience:
 
 </div>
 
-Astronomers interviewed by ABC Australia summarised the practical distinction in simple observational terms: a five-second fireball may still be a meteor, but something visible for “minutes” strongly suggests space debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">fireballs meteorites space junk desert network</span><span class="citation-popover-snippet">ABC NewsMeteors vs space junk: Are we seeing more fireballs in...Oct 22, 2024 — &quot;Something five or six seconds long, that&#x27;s probably a f...</span></span></span>
+Astronomers interviewed by ABC Australia summarised the practical distinction in simple observational terms: a five-second fireball may still be a meteor, but something visible for “minutes” strongly suggests space debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">fireballs meteorites space junk desert network</span><span class="citation-popover-snippet">ABC NewsMeteors vs space junk: Are we seeing more fireballs in...Oct 22, 2024 — &quot;Something five or six seconds long, that&#x27;s probably a f...</span></span></span>
 
 For UFO investigators, this is one of the most useful first-pass filters available from witness testimony alone.
 
@@ -309,7 +309,7 @@ For UFO investigators, this is one of the most useful first-pass filters availab
 
 The physics behind long-duration re-entries explains why they look so unusual to ground observers.
 
-Uncontrolled orbital re-entries generally approach at extremely shallow grazing angles. One re-entry analysis describes many uncontrolled descents as occurring below roughly one degree relative to the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceacademy.net.au">[Space Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceacademy.net.au</span><span class="citation-popover-snippet">Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</span></span></span>
+Uncontrolled orbital re-entries generally approach at extremely shallow grazing angles. One re-entry analysis describes many uncontrolled descents as occurring below roughly one degree relative to the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceacademy.net.au">[Space Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceacademy.net.au</span><span class="citation-popover-snippet">Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</span></span></span>
 
 That shallow [geometry]({{ 'geometry/' | relative_url }}) produces several effects that witnesses commonly interpret as anomalous:
 
@@ -325,7 +325,7 @@ That shallow [geometry]({{ 'geometry/' | relative_url }}) produces several effec
 
 From the ground, this can look surprisingly unlike a stereotypical shooting star. Witnesses often report that the object looked controlled, escorted, formation-like, or intelligently manoeuvring simply because the trajectory remains stable for so long.
 
-Some re-entries also appear to slow dramatically as fragmentation increases. The International Astronomical Center describes a common pattern in which a single bright object gradually separates into multiple glowing pieces over 20 seconds to a minute or more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
+Some re-entries also appear to slow dramatically as fragmentation increases. The International Astronomical Center describes a common pattern in which a single bright object gradually separates into multiple glowing pieces over 20 seconds to a minute or more.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
 
 This progressive breakup is important in UFO case analysis because it differs from many cinematic assumptions about meteors. A witness expecting a meteor to behave like a brief diagonal streak may instead interpret a slow-moving debris train as something artificial or extraordinary.
 
@@ -361,9 +361,9 @@ AI-assisted investigation systems can reduce this confusion by comparing witness
 
 </div>
 
-are statistically more compatible with orbital debris re-entry than with ordinary meteor events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
+are statistically more compatible with orbital debris re-entry than with ordinary meteor events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
 
-This does not mean duration alone proves a re-entry. Some shallow-angle meteors can also produce unusually long fireballs. NASA’s meteorite fall records include genuine meteoroid events described as “long-lasting” and “shallow angle”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">Meteorite Falls &#124; Recent Events</span><span class="citation-popover-snippet">June 24, 2025. This event was a long-lasting, shallow angle fireball that fragmented and visibly slowed near the terminus. Learn More.Rea...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
+This does not mean duration alone proves a re-entry. Some shallow-angle meteors can also produce unusually long fireballs. NASA’s meteorite fall records include genuine meteoroid events described as “long-lasting” and “shallow angle”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">Meteorite Falls &#124; Recent Events</span><span class="citation-popover-snippet">June 24, 2025. This event was a long-lasting, shallow angle fireball that fragmented and visibly slowed near the terminus. Learn More.Rea...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
 
 The key point is that long duration sharply changes the probability balance in triage.
 
@@ -395,7 +395,7 @@ While there is no absolute cut-off, certain ranges are highly suggestive:
 
 Reported visibilityInvestigative implicationUnder 3 secondsMore consistent with ordinary meteor5–10 secondsCould fit bright bolide or shallow meteor20–60 secondsStrongly compatible with orbital debris re-entryMore than 1 minuteRe-entry becomes increasingly likely
 
-These are not hard scientific boundaries, but they are useful triage heuristics supported by aerospace guidance and observational experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
+These are not hard scientific boundaries, but they are useful triage heuristics supported by aerospace guidance and observational experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
 
 AI systems can also cross-check witness timing against:
 
@@ -410,7 +410,7 @@ AI systems can also cross-check witness timing against:
 
 </div>
 
-The European Space Agency maintains public re-entry prediction resources because large orbital objects return regularly. ESA notes that objects above one tonne re-enter on average every couple of weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</span></span></span>
+The European Space Agency maintains public re-entry prediction resources because large orbital objects return regularly. ESA notes that objects above one tonne re-enter on average every couple of weeks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</span></span></span>
 
 That frequency matters for UFO investigation because many dramatic “mystery fireball” sightings occur during entirely expected orbital decay events.
 
@@ -429,201 +429,201 @@ Unlike ordinary meteors, re-entries are slow enough for witnesses to:
 
 This produces a social amplification effect. A meteor that flashes for two seconds rarely develops into a sustained public mystery. A glowing debris train crossing the sky for nearly a minute can generate hundreds of reports before official identification appears.
 
-The delay between observation and confirmation also matters. Even when a re-entry is eventually matched to a known satellite or rocket body, prediction windows can initially span many hours because atmospheric drag changes constantly. ESA and Aerospace Corporation guidance both note that precise re-entry timing is difficult until shortly before atmospheric breakup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.esa.int">[2blogs.esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.esa.int</span><span class="citation-popover-title">ER S-2 reentry – live updates – Rocket Science</span><span class="citation-popover-snippet">ERS-2 reentry – live updates – Rocket Science - ESA&#x27;s blogsFeb 5, 2024 — *This post provides live updates from ESA&#x27;s Space Debris Office...</span></span></span>
+The delay between observation and confirmation also matters. Even when a re-entry is eventually matched to a known satellite or rocket body, prediction windows can initially span many hours because atmospheric drag changes constantly. ESA and Aerospace Corporation guidance both note that precise re-entry timing is difficult until shortly before atmospheric breakup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</span><span class="citation-popover-meta">Published: November 3, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.esa.int">[2blogs.esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.esa.int</span><span class="citation-popover-title">ER S-2 reentry – live updates – Rocket Science</span><span class="citation-popover-snippet">ERS-2 reentry – live updates – Rocket Science - ESA&#x27;s blogsFeb 5, 2024 — *This post provides live updates from ESA&#x27;s Space Debris Office...</span></span></span>
 
 That uncertainty creates a temporary information gap in which UFO speculation flourishes.
 
 For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidly test whether the reported behaviour matches known atmospheric re-entry mechanics. Long visibility duration is one of the strongest early indicators that it probably does.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some &#x27;Meteor&#x27; UFOs Stay Visible For Minutes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some &#x27;Meteor&#x27; UFOs Stay Visible For Minutes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Strong fit for identifying meteors, satellites and re-entry-like sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for identifying meteors, satellites and re-entry-like sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Useful for comparing duration and movement of night-sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing duration and movement of night-sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports wider sky literacy for fireball and re-entry checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports wider sky literacy for fireball and re-entry checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages testing dramatic fireballs against natural and aerospace explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing dramatic fireballs against natural and aerospace explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="https://i.ebayimg.com/images/g/TNgAAOSwSIpmoj36/s-l225.jpg" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/geQAAeSwQWtpX-H6/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models"><img src="https://i.ebayimg.com/images/g/9Q0AAeSwyXBp89eJ/s-l225.jpg" alt="Listing image for Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Genuine Audi Satellite Navigation SAT NAV SD Card To Fit All Audi Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-meteor-ufos-stay-visible-for-minutes-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="why-some-meteor-ufos-stay-visible-for-minutes-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,164 +829,164 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</p></details>
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These reentries can often look like shooting stars (meteors) with a bright central body followed by a long...Read more...</p></details>
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These reentries can often look like shooting stars (meteors) with a bright central body followed by a long...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: It's Fireball Season!  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor QuestionsMar 26, 2026 — The fireball – caused by a small asteroid nearly 6 feet in diameter and weighing about 7 to...</p></details>
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor QuestionsMar 26, 2026 — The fireball – caused by a small asteroid nearly 6 feet in diameter and weighing about 7 to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ares.jsc.nasa.gov  
    Title: Meteorite Falls | Recent Events  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2025. This event was a long-lasting, shallow angle fireball that fragmented and visibly slowed near the terminus. Learn More.Rea...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2025. This event was a long-lasting, shallow angle fireball that fragmented and visibly slowed near the terminus. Learn More.Rea...</p></details>
    Published: June 24, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reentry.esoc.esa.int  
-   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</p></details>
+   Link:<a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blogs.esa.int  
    Title: ER S-2 reentry – live updates – Rocket Science  
-   Link: <a href="https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERS-2 reentry – live updates – Rocket Science - ESA&#x27;s blogsFeb 5, 2024 — *This post provides live updates from ESA&#x27;s Space Debris Office...</p></details>
+   Link:<a href="https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2024/02/05/ers-2-reentry-live-updates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERS-2 reentry – live updates – Rocket Science - ESA&#x27;s blogsFeb 5, 2024 — *This post provides live updates from ESA&#x27;s Space Debris Office...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</p></details>
+   Link:<a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Quick Guide to Understanding Orbital Debris Reentry...November 3, 2022 — The current prediction window for reentry of the CZ-5B...</p></details>
    Published: November 3, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/13036-nasa-satellite-falling-earth-skywatching-light-show.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13036-nasa-satellite-falling-earth-skywatching-light-show.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling NASA Satellite Could Spark Stunning Light ShowSep 21, 2011 — But even two hours before re-entry, the average time uncertainty amo...</p></details>
+   Link:<a href="https://www.space.com/13036-nasa-satellite-falling-earth-skywatching-light-show.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13036-nasa-satellite-falling-earth-skywatching-light-show.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falling NASA Satellite Could Spark Stunning Light ShowSep 21, 2011 — But even two hours before re-entry, the average time uncertainty amo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19840002101" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19840002101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of measured and theoretical predictions for...by F Garcia Jr · 1983 · Cited by 1 — A comparison of measured and theoretical p...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19840002101" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19840002101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of measured and theoretical predictions for...by F Garcia Jr · 1983 · Cited by 1 — A comparison of measured and theoretical p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210018893/downloads/Space_debris_Tellus_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210018893/downloads/Space_debris_Tellus_2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris: Overview and Hazardby B Cooke · 2021 — High speed meteoroids (~50 km s-1) can induce electrical anomalies in spacecraft through d...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210018893/downloads/Space_debris_Tellus_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210018893/downloads/Space_debris_Tellus_2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris: Overview and Hazardby B Cooke · 2021 — High speed meteoroids (~50 km s-1) can induce electrical anomalies in spacecraft through d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv20i4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv20i4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News4 Oct 2016 — All debris are in orbits similar to the parent object, with a maximum change in period of 0.5 minutes and change in incl...</p></details>
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv20i4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv20i4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News4 Oct 2016 — All debris are in orbits similar to the parent object, with a maximum change in period of 0.5 minutes and change in incl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force Releases Decades of Bolide Data to...Apr 7, 2022 — The newly released data is composed of information on the changing bright...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force Releases Decades of Bolide Data to...Apr 7, 2022 — The newly released data is composed of information on the changing bright...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19790006807/downloads/19790006807.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790006807/downloads/19790006807.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Entry and Fragmentation of Dense Meteoroidsby TD Bess · 1979 · Cited by 1 — These anomalies also show up in the meteor light curve in tha...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19790006807/downloads/19790006807.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790006807/downloads/19790006807.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Entry and Fragmentation of Dense Meteoroidsby TD Bess · 1979 · Cited by 1 — These anomalies also show up in the meteor light curve in tha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Fireball_over_Europe_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2026/03/Fireball_over_Europe_8_March_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Europe, 8 March 20268 Mar 2026 — The fireball glowed for approximately six seconds, leaving a visible trail in the sk...</p></details>
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Fireball_over_Europe_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2026/03/Fireball_over_Europe_8_March_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Europe, 8 March 20268 Mar 2026 — The fireball glowed for approximately six seconds, leaving a visible trail in the sk...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceacademy.net.au  
-   Link: <a href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</p></details>
+   Link:<a href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsLarger meteoroids, particularly the stone variety, tend to break up between 7 and 17 miles (11 to 27...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsLarger meteoroids, particularly the stone variety, tend to break up between 7 and 17 miles (11 to 27...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc.net.au  
    Title: fireballs meteorites space junk desert network  
-   Link: <a href="https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsMeteors vs space junk: Are we seeing more fireballs in...Oct 22, 2024 — &quot;Something five or six seconds long, that&#x27;s probably a f...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2024-10-23/fireballs-meteorites-space-junk-desert-network/104418550</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsMeteors vs space junk: Are we seeing more fireballs in...Oct 22, 2024 — &quot;Something five or six seconds long, that&#x27;s probably a f...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: astronomycenter.net  
-   Link: <a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</p></details>
+   Link:<a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fFpL36n68eY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry...It appears to be either a meteor a meteor or a satellite that was reenterin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fFpL36n68eY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry...It appears to be either a meteor a meteor or a satellite that was reenterin...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/a-1323-pound-nasa-satellite-is-expected-to-re-enter-earths-atmosphere-tuesday-at/1350391693614374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-1323-pound-nasa-satellite-is-expected-to-re-enter-earths-atmosphere-tuesday-at/1350391693614374/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 1323-pound NASA satellite is expected to re-enter...A 1323-pound NASA satellite is expected to re-enter Earth&#x27;s atmosphere Tuesday at...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/a-1323-pound-nasa-satellite-is-expected-to-re-enter-earths-atmosphere-tuesday-at/1350391693614374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-1323-pound-nasa-satellite-is-expected-to-re-enter-earths-atmosphere-tuesday-at/1350391693614374/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 1323-pound NASA satellite is expected to re-enter...A 1323-pound NASA satellite is expected to re-enter Earth&#x27;s atmosphere Tuesday at...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: iaaspace.org  
-   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The drag force that such objects experience is due to their interaction with the few air...Read more...</p></details>
+   Link:<a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The drag force that such objects experience is due to their interaction with the few air...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: khmertimeskh.com  
    Title: meteors vs space junk are we seeing more fireballs in the sky  
-   Link: <a href="https://www.khmertimeskh.com/501579036/meteors-vs-space-junk-are-we-seeing-more-fireballs-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.khmertimeskh.com/501579036/meteors-vs-space-junk-are-we-seeing-more-fireballs-in-the-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors vs space junk Are we seeing more fireballs in the...Oct 24, 2024 — “Something five or six seconds long, that&#x27;s probably a fireba...</p></details>
+   Link:<a href="https://www.khmertimeskh.com/501579036/meteors-vs-space-junk-are-we-seeing-more-fireballs-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.khmertimeskh.com/501579036/meteors-vs-space-junk-are-we-seeing-more-fireballs-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors vs space junk Are we seeing more fireballs in the...Oct 24, 2024 — “Something five or six seconds long, that&#x27;s probably a fireba...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10158220197551620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158220197551620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So what&#x27;s the generally accepted speed of a meteor falling...Aug 18, 2020 — Space debris reentry is about 4 - 5 miles/sec or 6...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10158220197551620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158220197551620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So what&#x27;s the generally accepted speed of a meteor falling...Aug 18, 2020 — Space debris reentry is about 4 - 5 miles/sec or 6...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: spacewatch.lpl.arizona.edu  
    Title: i saw something moving across sky last night what was it  
-   Link: <a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What was it?Usually, fireballs streak across the sky in a matter of seconds, but can leave a faint ionization trail visible for minutes...</p></details>
+   Link:<a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What was it?Usually, fireballs streak across the sky in a matter of seconds, but can leave a faint ionization trail visible for minutes...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spaceporn/comments/1b7y4sb/tips_to_tell_the_difference_between_a_meteor_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1b7y4sb/tips_to_tell_the_difference_between_a_meteor_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d typically last less than a few seconds, while human-made reentries...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/spaceporn/comments/1b7y4sb/tips_to_tell_the_difference_between_a_meteor_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1b7y4sb/tips_to_tell_the_difference_between_a_meteor_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d typically last less than a few seconds, while human-made reentries...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pauldmaley.com  
    Title: FINA L PHASE OF SPACE SHUTTLE REENTRIES  
-   Link: <a href="https://pauldmaley.com/caron/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/caron/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FINAL PHASE OF SPACE SHUTTLE REENTRIES - Paul MaleyApr 17, 2018 — The main idea is to start the tape recorder about some minutes before t...</p></details>
+   Link:<a href="https://pauldmaley.com/caron/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/caron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FINAL PHASE OF SPACE SHUTTLE REENTRIES - Paul MaleyApr 17, 2018 — The main idea is to start the tape recorder about some minutes before t...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
    Title: My stupid layman thought is  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1bjmeiy/eli5_why_do_rockets_have_to_hit_the_atmosphere_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bjmeiy/eli5_why_do_rockets_have_to_hit_the_atmosphere_at/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do rockets have to hit the atmosphere at an angle on...I remember this from Apollo 13, they had to hit the atmosphere at an angle, i...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1bjmeiy/eli5_why_do_rockets_have_to_hit_the_atmosphere_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bjmeiy/eli5_why_do_rockets_have_to_hit_the_atmosphere_at/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do rockets have to hit the atmosphere at an angle on...I remember this from Apollo 13, they had to hit the atmosphere at an angle, i...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/245393117_Spacecraft_re-entry_strategies_Meeting_debris_mitigation_and_ground_safety_requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245393117_Spacecraft_re-entry_strategies_Meeting_debris_mitigation_and_ground_safety_requirements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d evidence that large, hazardous objects survive, highlights current...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/245393117_Spacecraft_re-entry_strategies_Meeting_debris_mitigation_and_ground_safety_requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245393117_Spacecraft_re-entry_strategies_Meeting_debris_mitigation_and_ground_safety_requirements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d evidence that large, hazardous objects survive, highlights current...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: forum.nasaspaceflight.com  
-   Link: <a href="https://forum.nasaspaceflight.com/index.php?topic=59942.0" target="_blank" rel="noopener noreferrer nofollow">https://forum.nasaspaceflight.com/index.php?topic=59942.0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs reentry of Space DebrisNov 23, 2023 — This lasted a good 2 or 3 seconds after I got my eyes to it - so given the time it must have tak...</p></details>
+   Link:<a href="https://forum.nasaspaceflight.com/index.php?topic=59942.0" target="_blank" rel="noopener noreferrer nofollow">https://forum.nasaspaceflight.com/index.php?topic=59942.0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs reentry of Space DebrisNov 23, 2023 — This lasted a good 2 or 3 seconds after I got my eyes to it - so given the time it must have tak...</p></details>

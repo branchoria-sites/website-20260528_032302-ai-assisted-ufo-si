@@ -349,7 +349,7 @@ Elevation describes how high an object appeared above the horizon. An object on 
 
 A report saying “about halfway between the horizon and directly overhead” is often more trustworthy than one claiming “47° elevation” unless a measurement tool was actually used.
 
-Astronomy education material commonly teaches rough sky-angle estimation using hands held at arm’s length. A clenched fist spans roughly 10° of sky, while a little finger is close to 1°. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lco.global">[lco.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lco.global</span><span class="citation-popover-snippet">Positions and Sizes of Cosmic ObjectsIf you extend your hand to arm&#x27;s length, you can use your fingers to estimate angular distances and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky These methods are approximate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">sky measurements degrees arc minutes arc seconds</span><span class="citation-popover-snippet">For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</span></span></span>, but they are useful because they create repeatable reference scales that ordinary witnesses can understand.
+Astronomy education material commonly teaches rough sky-angle estimation using hands held at arm’s length. A clenched fist spans roughly 10° of sky, while a little finger is close to 1°.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lco.global">[lco.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lco.global</span><span class="citation-popover-snippet">Positions and Sizes of Cosmic ObjectsIf you extend your hand to arm&#x27;s length, you can use your fingers to estimate angular distances and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky These methods are approximate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">sky measurements degrees arc minutes arc seconds</span><span class="citation-popover-snippet">For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</span></span></span>, but they are useful because they create repeatable reference scales that ordinary witnesses can understand.
 
 For UFO investigation work, the key is consistency rather than laboratory accuracy. If a witness says:
 
@@ -393,7 +393,7 @@ Investigators therefore treat claims like “it shot across the entire sky insta
 
 Witnesses are usually poor at estimating distance and speed for unknown aerial objects. Angular motion is often more reliable.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">sky measurements degrees arc minutes arc seconds</span><span class="citation-popover-snippet">For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">sky measurements degrees arc minutes arc seconds</span><span class="citation-popover-snippet">For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -413,7 +413,7 @@ Once bearing and elevation are estimated, the sighting can be converted into a l
 
 Terrain analysis asks a simple question: could the witness physically see the claimed object from that location?
 
-Modern mapping systems and GIS visibility tools can test this using digital elevation models and line-of-sight analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span> Hills, ridges, buildings and treelines can block or reveal parts of the sky in ways witnesses may not consciously notice.
+Modern mapping systems and GIS visibility tools can test this using digital elevation models and line-of-sight analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span> Hills, ridges, buildings and treelines can block or reveal parts of the sky in ways witnesses may not consciously notice.
 
 A classic failure mode in UFO reports is misunderstanding horizon geometry. An aircraft descending behind a ridge may appear to “vanish instantly”. A light emerging from behind cloud gaps may appear to accelerate or change direction.
 
@@ -444,7 +444,7 @@ Examples include:
 
 A witness may honestly report an object “dropping vertically into the hills” when the geometry actually reflects a normal aircraft descending along a hidden valley approach path.
 
-Viewshed analysis tools used in mapping and planning can help reconstruct these scenarios. These systems model which areas are visible from a given observer position and which are obscured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span>
+Viewshed analysis tools used in mapping and planning can help reconstruct these scenarios. These systems model which areas are visible from a given observer position and which are obscured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span>
 
 In UFO case work, this is especially valuable when multiple witnesses report the same event from different locations. If their reported bearings intersect in physically impossible ways, the accounts may involve separate objects, memory distortion or inaccurate direction estimates. If the [sightlines]({{ 'sightlines/' | relative_url }}) converge consistently, the geometry strengthens the case reconstruction.
 
@@ -534,194 +534,194 @@ Even then, geometry alone does not prove something extraordinary occurred. It on
 That distinction is central to evidence-led UFO investigation. The purpose of bearing and elevation analysis is not to force a conclusion, but to narrow the range of plausible explanations using measurable relationships between observer, sky and terrain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where in the sky was the object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where in the sky was the object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Anchors the page in evidence-focused UFO investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors the page in evidence-focused UFO investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports testing claims through disciplined evidence gathering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports testing claims through disciplined evidence gathering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand sky position, direction and observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand sky position, direction and observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">Directly relevant to building testable sighting case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to building testable sighting case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-in-the-sky-was-the-object-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-in-the-sky-was-the-object-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,69 +927,69 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lco.global  
-   Link: <a href="https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/" target="_blank" rel="noopener noreferrer nofollow">https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/</a>  
+   Link:<a href="https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/" target="_blank" rel="noopener noreferrer nofollow">https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthsky.org  
    Title: sky measurements degrees arc minutes arc seconds  
-   Link: <a href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</p></details>
+   Link:<a href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: doc.arcgis.com  
-   Link: <a href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
+   Link:<a href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow">https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/educational-resources/topographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/educational-resources/topographic-mapping</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
+   Link:<a href="https://www.usgs.gov/educational-resources/topographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/educational-resources/topographic-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Night Sky by HandMeasure distances in the night sky with your hands ✋ For starters, hold your hands at arm&#x27;s length in fron...</p></details>
+   Link:<a href="https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Night Sky by HandMeasure distances in the night sky with your hands ✋ For starters, hold your hands at arm&#x27;s length in fron...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of GeographyTwo fundamental parameters in visibility analysis can also be computed from a DTM, that is, point...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of GeographyTwo fundamental parameters in visibility analysis can also be computed from a DTM, that is, point...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyA “Handy” Way to Measure Distances: Hold your hand at arm&#x27;s length and close one eye. It is important t...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyA “Handy” Way to Measure Distances: Hold your hand at arm&#x27;s length and close one eye. It is important t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ryancbinns.com  
-   Link: <a href="https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Scanning and Collision AvoidanceThis lesson introduces pilots to the concepts behind proper visual scanning and collision avoidanc...</p></details>
+   Link:<a href="https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Scanning and Collision AvoidanceThis lesson introduces pilots to the concepts behind proper visual scanning and collision avoidanc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rxyink0U_fQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rxyink0U_fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncsciencefestival.org  
-   Link: <a href="https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that you can use two hands to combine measures, such as in this photo showing 10° fist width + 25° thumb...Read more...</p></details>
+   Link:<a href="https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Note that you can use two hands to combine measures, such as in this photo showing 10° fist width + 25° thumb...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hfcc.dot.gov  
    Title: zz FAA General Guidance Doc Chapter 02 Section 03  
-   Link: <a href="https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 – CHG 1 2.3 Field-of-View1 Nov 2013 — General. • Each flight, navigation, and powerplant instrument for use by any pilot must be pla...</p></details>
+   Link:<a href="https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2013 – CHG 1 2.3 Field-of-View1 Nov 2013 — General. • Each flight, navigation, and powerplant instrument for use by any pilot must be pla...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndow (OTW) visual scanning pattern to avoid traffic conflicts, however little research...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndow (OTW) visual scanning pattern to avoid traffic conflicts, however little research...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/</a>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/</a>

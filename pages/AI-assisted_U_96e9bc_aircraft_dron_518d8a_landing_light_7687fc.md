@@ -301,7 +301,7 @@ This matters in AI-assisted UFO sighting investigation because witnesses often d
 
 ## Head-on flight paths and slow bearing change
 
-Human vision is much better at detecting sideways movement than motion directly towards or away from the observer. A distant aircraft crossing left to right creates obvious angular movement against the background sky. An aircraft flying almost directly towards the witness may show very little apparent change in position even while travelling at hundreds of miles per hour. Aviation discussions often describe this in terms of “angular speed”: a head-on aircraft can appear nearly stationary because its position relative to the observer changes very slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-snippet">Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</span></span></span>
+Human vision is much better at detecting sideways movement than motion directly towards or away from the observer. A distant aircraft crossing left to right creates obvious angular movement against the background sky. An aircraft flying almost directly towards the witness may show very little apparent change in position even while travelling at hundreds of miles per hour. Aviation discussions often describe this in terms of “angular speed”: a head-on aircraft can appear nearly stationary because its position relative to the observer changes very slowly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-snippet">Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</span></span></span>
 
 This effect becomes especially strong during:
 
@@ -316,7 +316,7 @@ This effect becomes especially strong during:
 
 Large airports can produce repeated reports of “hovering lights” from people located beneath or beside the extended runway centreline. The aircraft may remain visually fixed for several minutes before suddenly drifting sideways as the geometry changes near the end of the approach.
 
-Distance also matters. A jet twenty or thirty miles away may already have landing lights visible at night while its fuselage remains invisible. Aircraft landing lights are extremely bright and are specifically intended to improve visibility over long distances. FAA guidance and aviation references note that landing-light systems can be visible many miles away at night and are commonly used to increase aircraft conspicuity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</span></span></span> Wikipedia For a witness with no depth cues <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, the result can look deeply unnatural:
+Distance also matters. A jet twenty or thirty miles away may already have landing lights visible at night while its fuselage remains invisible. Aircraft landing lights are extremely bright and are specifically intended to improve visibility over long distances. FAA guidance and aviation references note that landing-light systems can be visible many miles away at night and are commonly used to increase aircraft conspicuity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</span></span></span> Wikipedia For a witness with no depth cues<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, the result can look deeply unnatural:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,7 +332,7 @@ This is one reason why reports describing a “stationary white orb” near an a
 
 ## Landing lights, strobes and sudden fading
 
-Landing lights are not subtle. Modern commercial aircraft use very high-intensity forward-facing white lights designed to make the aircraft visible to pilots and ground observers during take-off and landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</span></span></span>
+Landing lights are not subtle. Modern commercial aircraft use very high-intensity forward-facing white lights designed to make the aircraft visible to pilots and ground observers during take-off and landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</span></span></span>
 
 When those lights point almost directly at an observer, they can overwhelm other visual cues. The witness may see only a bright white source rather than an aircraft body. Several common sighting details follow naturally from this geometry.
 
@@ -371,7 +371,7 @@ Common reasons include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The pilot switches off landing lights after departure or before changing flight phase <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
+* The pilot switches off landing lights after departure or before changing flight phase<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
 * The aircraft turns slightly, directing the beam away from the observer
 * Thin cloud or haze obscures the line of sight
 * Terrain or buildings block the approach path
@@ -381,14 +381,14 @@ Common reasons include:
 
 Even a small heading change can dramatically reduce brightness because landing lights are strongly directional. An object that seemed dazzling one second may become faint or invisible the next once the beam no longer points towards the observer.
 
-Strobe lights can add to the confusion. White anti-collision strobes may create periodic flashes around the central glow, especially in humid or hazy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-title">aircraft lights</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</span></span></span> Wikipedia Witnesses sometimes interpret this as pulsation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, structured lighting patterns or erratic behaviour.
+Strobe lights can add to the confusion. White anti-collision strobes may create periodic flashes around the central glow, especially in humid or hazy conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-title">aircraft lights</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</span></span></span> Wikipedia Witnesses sometimes interpret this as pulsation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, structured lighting patterns or erratic behaviour.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" alt="Landing lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night-time perception makes the effect stronger
 
 Many UFO reports involving hovering lights occur at night because darkness removes visual [reference points]({{ 'reference-points/' | relative_url }}). Without nearby objects, the observer cannot easily judge size, distance or speed.
 
-Aviation research on visual illusions shows that isolated lights in dark conditions can create strong misperceptions. Pilots themselves are trained to recognise night illusions such as autokinesis, where a stationary light appears to move when stared at against a featureless background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartzellprop.com">[Hartzell Propeller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartzellprop.com</span><span class="citation-popover-title">watch out for night flight illusions</span><span class="citation-popover-snippet">illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
+Aviation research on visual illusions shows that isolated lights in dark conditions can create strong misperceptions. Pilots themselves are trained to recognise night illusions such as autokinesis, where a stationary light appears to move when stared at against a featureless background.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartzellprop.com">[Hartzell Propeller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartzellprop.com</span><span class="citation-popover-title">watch out for night flight illusions</span><span class="citation-popover-snippet">illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
 
 For a ground observer unfamiliar with aviation lighting, several factors combine:
 
@@ -468,194 +468,194 @@ For AI-assisted investigation systems, this makes head-on aircraft analysis a hi
 That does not solve every case. Some reports remain poorly explained after aviation checks. But many night-time “hovering orb” sightings become much less mysterious once the interaction between landing lights, viewing angle and human perception is reconstructed carefully and honestly.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a plane can look like a hovering orb. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a plane can look like a hovering orb. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C99DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration (FAA)</p>
         
-        <p class="fr-book-desc">Explains aircraft lighting and flight geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains aircraft lighting and flight geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration+%28FAA%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages testing ordinary explanations first.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing ordinary explanations first.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Provides practical aviation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical aviation context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Useful for understanding approach paths and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding approach paths and perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-plane-can-look-like-a-hovering-orb-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-a-plane-can-look-like-a-hovering-orb-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -671,7 +671,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -691,7 +691,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -723,7 +723,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -775,7 +775,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -820,7 +820,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -861,129 +861,129 @@ That does not solve every case. Some reports remain poorly explained after aviat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 2  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11Landing lights are not only useful for taxi, takeoffs, and landings, but also provide a means by...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11Landing lights are not only useful for taxi, takeoffs, and landings, but also provide a means by...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Navigation light  
-   Link: <a href="https://en.wikipedia.org/wiki/Navigation_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Navigation_light</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation lightHowever, the red and green colours do indicate which vessel has the duty to &quot;give way&quot; (change course or speed) or to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Navigation_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Navigation_light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation lightHowever, the red and green colours do indicate which vessel has the duty to &quot;give way&quot; (change course or speed) or to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: A C 20-30B  
-   Link: <a href="https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 20-30B - Aircraft Position Light and Anticollision...Sets forth acceptable means, but not the only means, of showing compliance with...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AC 20-30B - Aircraft Position Light and Anticollision...Sets forth acceptable means, but not the only means, of showing compliance with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: Section 2  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Obstruction LightingAviation orange and white paint is used for daytime marking. Medium Intensity Flashing White Obstr...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Obstruction LightingAviation orange and white paint is used for daytime marking. Medium Intensity Flashing White Obstr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Hafele–Keating experiment  
-   Link: <a href="https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hafele–Keating experimentThey flew twice around the world, first eastward, then westward, and compared the clocks in motion to station...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hafele–Keating experimentThey flew twice around the world, first eastward, then westward, and compared the clocks in motion to station...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aviation.stackexchange.com  
-   Link: <a href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</p></details>
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hartzellprop.com  
    Title: watch out for night flight illusions  
-   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</p></details>
+   Link:<a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aviation.stackexchange.com  
    Title: However, my  
-   Link: <a href="https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to use beacon, anti-collision, strobe, logo, and...18 Dec 2013 — During taxi, the taxi lights are used, and I think the landing lights a...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to use beacon, anti-collision, strobe, logo, and...18 Dec 2013 — During taxi, the taxi lights are used, and I think the landing lights a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook and Visual Illusions.5 Feb 2012 — This occurs when an aviator unknowingly positions an aircraft in an unusual attit...</p></details>
+   Link:<a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook and Visual Illusions.5 Feb 2012 — This occurs when an aviator unknowingly positions an aircraft in an unusual attit...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting Guide for PilotsExterior lighting increases the conspicuousness of the aircraft to controllers and other pilots landing...</p></details>
+   Link:<a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting Guide for PilotsExterior lighting increases the conspicuousness of the aircraft to controllers and other pilots landing...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: flywat.com  
-   Link: <a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting RegulationsThe position lights consist of an Aviation Red on the left side, an Aviation Green on the right and an Aviat...</p></details>
+   Link:<a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting RegulationsThe position lights consist of an Aviation Red on the left side, an Aviation Green on the right and an Aviat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correct use of external lights: r/flightsimPresumably this is to increase visibility so that if there was an aircraft on approach they&#x27;d...</p></details>
+   Link:<a href="https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correct use of external lights: r/flightsimPresumably this is to increase visibility so that if there was an aircraft on approach they&#x27;d...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ulc.gov.pl  
-   Link: <a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3: Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the a...</p></details>
+   Link:<a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3: Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pvaaust.com  
-   Link: <a href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/</a>  
+   Link:<a href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/961481447272242/posts/7331440183609638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/961481447272242/posts/7331440183609638/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A airplane just up in the sky not moving. I watched it for about 10 minutes and it didn&#x27;t move at all, motor loud and propellers...</p></details>
+   Link:<a href="https://www.facebook.com/groups/961481447272242/posts/7331440183609638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/961481447272242/posts/7331440183609638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A airplane just up in the sky not moving. I watched it for about 10 minutes and it didn&#x27;t move at all, motor loud and propellers...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So far I have Strobes - white blinking lights on the tip of each wing. These are required in low light situations...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So far I have Strobes - white blinking lights on the tip of each wing. These are required in low light situations...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flyaeroguard.com  
-   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n moving lighting can create different atmospheric or ground lighting illusions as...Read more...</p></details>
+   Link:<a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n moving lighting can create different atmospheric or ground lighting illusions as...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
+   Link:<a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>

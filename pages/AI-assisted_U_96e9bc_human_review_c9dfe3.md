@@ -325,7 +325,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview-social.j
 AI can help a UFO sighting investigation move faster, but it should not be allowed to issue a final verdict on its own. Human review is the safeguard that keeps “the model found a match” from becoming “the case is solved”, and keeps “unresolved” from being inflated into “extraordinary”. The central rule is simple: every AI-assisted conclusion should show what is confirmed, what is inferred, what remains uncertain, and who checked the reasoning.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview.webp" | relative_url }}" alt="Overview image for Review" loading="eager" decoding="sync" fetchpriority="high">
-This matters because UAP and UFO reports often arrive with weak, partial or uneven data. NASA’s independent UAP study found that present analysis is hampered by poor sensor [calibration]({{ 'calibration/' | relative_url }}), lack of multiple measurements, lack of sensor metadata and lack of baseline data; it also warned that AI and machine learning are useful only when applied to well-characterised data gathered to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> In practice, a responsible AI-assisted [case file]({{ 'case-file/' | relative_url }}) needs a human reviewer who can challenge neat explanations, preserve uncertainty and reopen a case when better evidence appears.
+This matters because UAP and UFO reports often arrive with weak, partial or uneven data. NASA’s independent UAP study found that present analysis is hampered by poor sensor [calibration]({{ 'calibration/' | relative_url }}), lack of multiple measurements, lack of sensor metadata and lack of baseline data; it also warned that AI and machine learning are useful only when applied to well-characterised data gathered to strong standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> In practice, a responsible AI-assisted [case file]({{ 'case-file/' | relative_url }}) needs a human reviewer who can challenge neat explanations, preserve uncertainty and reopen a case when better evidence appears.
 
 ## Human review of candidate explanations
 
@@ -344,7 +344,7 @@ A useful review begins by separating five labels that are often blurred in UFO d
 
 </div>
 
-This protects both sides of the investigation. It prevents sceptical overreach, where any bright light becomes “probably a plane”, and it prevents extraordinary overreach, where a missing explanation becomes evidence of a non-human craft. AARO’s published case material shows why this discipline matters. Some cases are resolved with high confidence as balloons, birds or other ordinary objects, while others remain unresolved because the available video or sensor data is insufficient to determine whether a signature is a physical object, a reflection, a heat differential or a sensor display artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+This protects both sides of the investigation. It prevents sceptical overreach, where any bright light becomes “probably a plane”, and it prevents extraordinary overreach, where a missing explanation becomes evidence of a non-human craft. AARO’s published case material shows why this discipline matters. Some cases are resolved with high confidence as balloons, birds or other ordinary objects, while others remain unresolved because the available video or sensor data is insufficient to determine whether a signature is a physical object, a reflection, a heat differential or a sensor display artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 The human reviewer should also look for “automation-shaped” errors. AI systems are good at pattern matching, but a UFO case can be misled by the wrong comparison set. A round infrared signature may resemble a balloon, a bird, a drone, glare or a compression artefact depending on the sensor, distance, lens, background and motion. A line of lights may resemble Starlink, aircraft in approach, flares or reflections. A model can rank the closest match in its database even when the correct explanation is absent from that database.
 
@@ -357,7 +357,7 @@ This is where human judgement adds value that automation cannot fully supply. A 
 
 A good AI-assisted UFO conclusion should be auditable. That means a later reviewer should be able to see the original witness account, the cleaned case-file fields, the datasets queried, the candidate explanations considered, the reasons each one was accepted or rejected, and the human decision that changed the case status.
 
-This is not just good paperwork. In AI governance, documentation is a practical safety control. The NIST AI Risk Management Framework says documentation can improve transparency, human review and accountability across AI system teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Artificial Intelligence Risk Management Framework (AI RMF 1.0</span><span class="citation-popover-snippet">NIST PublicationsArtificial Intelligence Risk Management Framework (AI RMF 1.0)...</span></span></span> For UFO casework, that principle becomes very concrete: a conclusion without source notes is not a conclusion the public can fairly assess.
+This is not just good paperwork. In AI governance, documentation is a practical safety control. The NIST AI Risk Management Framework says documentation can improve transparency, human review and accountability across AI system teams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Artificial Intelligence Risk Management Framework (AI RMF 1.0</span><span class="citation-popover-snippet">NIST PublicationsArtificial Intelligence Risk Management Framework (AI RMF 1.0)...</span></span></span> For UFO casework, that principle becomes very concrete: a conclusion without source notes is not a conclusion the public can fairly assess.
 
 A useful audit trail should preserve at least four layers:
 
@@ -368,7 +368,7 @@ A useful audit trail should preserve at least four layers:
 
 The audit trail should also mark evidence quality, not just evidence quantity. Ten reposted copies of the same compressed video do not equal ten independent observations. A timestamp from a social media upload is not the same as the original camera timestamp. A witness estimate of “very fast” is not the same as a measured angular velocity. These distinctions are easy to lose when an automated system gathers sources at speed.
 
-Official UAP reporting shows the value of this separation. The 2024 AARO annual report said that 444 cases lacked sufficient data for analysis and were placed in an active archive for trend analysis or possible reopening if more information appears. It also said resolved cases during the reporting period were attributed to prosaic objects such as balloons, birds and unmanned aerial systems, while other cases merited further analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span> That is the right posture for public-facing AI work: not every case needs a dramatic verdict, and “insufficient data” is often the most honest outcome.
+Official UAP reporting shows the value of this separation. The 2024 AARO annual report said that 444 cases lacked sufficient data for analysis and were placed in an active archive for trend analysis or possible reopening if more information appears. It also said resolved cases during the reporting period were attributed to prosaic objects such as balloons, birds and unmanned aerial systems, while other cases merited further analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span> That is the right posture for public-facing AI work: not every case needs a dramatic verdict, and “insufficient data” is often the most honest outcome.
 
 Audit notes should be written in plain language. A public case file does not need to expose sensitive systems or private personal details, but it should explain the reasoning well enough for a reader to understand the status. For example:
 
@@ -396,7 +396,7 @@ A practical pre-publication review asks:
 
 </div>
 
-This approach mirrors the more careful classification culture used by GEIPAN, the French UAP investigation group within CNES. GEIPAN classifies cases using both the consistency of the observation and the residual strangeness after investigation; its methodology weighs the quantity and reliability of collected data and asks how far the case remains from known phenomena after hypotheses are tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span> The lesson for AI-assisted work is that a strange-looking report with weak data should not be treated the same as a strange-looking report with strong, independent evidence.
+This approach mirrors the more careful classification culture used by GEIPAN, the French UAP investigation group within CNES. GEIPAN classifies cases using both the consistency of the observation and the residual strangeness after investigation; its methodology weighs the quantity and reliability of collected data and asks how far the case remains from known phenomena after hypotheses are tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span> The lesson for AI-assisted work is that a strange-looking report with weak data should not be treated the same as a strange-looking report with strong, independent evidence.
 
 Human review should also guard against “explanation laundering”. This happens when an AI-generated possibility is repeated by analysts, websites or social media until it appears to be an established finding. A case note should therefore state whether a match is based on direct evidence, analogy to prior cases, environmental correlation, or simple absence of a better explanation. Those are very different levels of support.
 
@@ -418,7 +418,7 @@ The panel should not be asked, “Is this a UFO?” That question is too vague. 
 
 </div>
 
-This matters because even official investigations have repeatedly faced the same problem: public trust suffers when conclusions look either dismissive or credulous. Historical UFO files show that many reports remain unidentified, but “unidentified” has never automatically meant extraordinary. The US National Archives summary of Project Blue Book records 12,618 sightings between 1947 and 1969, with 701 remaining unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> That historical residue is a warning: unresolved cases are expected in large reporting systems, especially when reports are late, incomplete or based on brief observations.
+This matters because even official investigations have repeatedly faced the same problem: public trust suffers when conclusions look either dismissive or credulous. Historical UFO files show that many reports remain unidentified, but “unidentified” has never automatically meant extraordinary. The US National Archives summary of Project Blue Book records 12,618 sightings between 1947 and 1969, with 701 remaining unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> That historical residue is a warning: unresolved cases are expected in large reporting systems, especially when reports are late, incomplete or based on brief observations.
 
 A review board also helps with language. Public UFO writing often fails at the final sentence. “The object was a balloon” is too strong if the case only shows balloon-like motion and appearance. “The object defies explanation” is too strong if basic checks were incomplete. Better wording might be: “The strongest current explanation is a windborne balloon, but the case remains classed as plausible rather than resolved because no range or recovery evidence is available.”
 
@@ -428,7 +428,7 @@ A review board also helps with language. Public UFO writing often fails at the f
 
 A UFO case should not be frozen at first publication. New evidence can arrive later: original camera files, additional witnesses, air traffic data, launch records, satellite predictions, local CCTV, weather balloon releases, drone-event reports, or expert review of sensor artefacts. A responsible AI-assisted workflow treats case status as versioned, not final.
 
-AARO’s 2024 report describes an active archive where cases lacking sufficient data can be held for pattern-of-life and trend analysis, and reopened if additional information emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span> That is a strong model for public-facing work. An unresolved case should not be abandoned; it should be parked with a clear explanation of what is missing.
+AARO’s 2024 report describes an active archive where cases lacking sufficient data can be held for pattern-of-life and trend analysis, and reopened if additional information emerges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span> That is a strong model for public-facing work. An unresolved case should not be abandoned; it should be parked with a clear explanation of what is missing.
 
 Updates should be visible and dated. A case file might move from “unresolved” to “plausible satellite flare” after orbital modelling, or from “plausible balloon” to “resolved balloon” after a launch/recovery record is found. It may also move in the other direction: a previously neat aircraft explanation may weaken if the flight track was in the wrong part of the sky or if the timestamp was corrected.
 
@@ -469,7 +469,7 @@ The opposite style should be avoided:
 
 </div>
 
-Those statements either hide uncertainty or imply more evidence than the case contains. NASA’s UAP study is especially relevant here: it says AI and machine learning can help identify rare occurrences in large datasets, but the limiting factor is often data quality, and reliable analysis depends on calibrated instruments, metadata and proper curation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The public conclusion should reflect that reality.
+Those statements either hide uncertainty or imply more evidence than the case contains. NASA’s UAP study is especially relevant here: it says AI and machine learning can help identify rare occurrences in large datasets, but the limiting factor is often data quality, and reliable analysis depends on calibrated instruments, metadata and proper curation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The public conclusion should reflect that reality.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCWB1YZrEuU" title="NASA UAP Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer">NASA UAP Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Space Science Health &middot; Views: 7 &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCWB1YZrEuU">Open on YouTube</a></p></div></div></div>
 
@@ -480,194 +480,194 @@ In AI-assisted UFO sighting investigation, the human safeguard is not a decorati
 That is the difference between an AI-generated answer and an evidence-led case conclusion. The machine can gather tracks, compare images, cluster reports and surface likely explanations. The human reviewer must decide whether those outputs are sufficient, whether the case should remain unresolved, and how to state the result without confusing data, inference and belief.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Checks the AI UFO Verdict?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Checks the AI UFO Verdict?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how human investigators classify and challenge sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how human investigators classify and challenge sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects official UFO claims with the need for review and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects official UFO claims with the need for review and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Perfect fit for human review, scepticism, and evidential caution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Perfect fit for human review, scepticism, and evidential caution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Relevant to checking AI outputs rather than accepting automated verdicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to checking AI outputs rather than accepting automated verdicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa"><img src="https://i.ebayimg.com/images/g/K2kAAeSwrcVpgVnX/s-l225.jpg" alt="Listing image for Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa"><img src="https://i.ebayimg.com/images/g/K2kAAeSwrcVpgVnX/s-l225.jpg" alt="Listing image for Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Nerdy Detective Girl 1:9 scale or 100mm scale by Jigglystix SFW NSFW Futa</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J"><img src="https://i.ebayimg.com/images/g/GKoAAOSwGvhULO4e/s-l225.jpg" alt="Listing image for Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J"><img src="https://i.ebayimg.com/images/g/GKoAAOSwGvhULO4e/s-l225.jpg" alt="Listing image for Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Christmas Ornament Cake Topper Decor Figurine Lupin Third 3 Detective ZENIGATA J</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)"><img src="https://i.ebayimg.com/images/g/kUcAAeSwZXlqF~-A/s-l225.jpg" alt="Listing image for Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)"><img src="https://i.ebayimg.com/images/g/kUcAAeSwZXlqF~-A/s-l225.jpg" alt="Listing image for Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Detective Conan - Shinichi Kudo #115 Minx Collectible Figurines (New/Sealed)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character"><img src="https://i.ebayimg.com/images/g/HiUAAeSw86lp0qI7/s-l225.jpg" alt="Listing image for Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character"><img src="https://i.ebayimg.com/images/g/HiUAAeSw86lp0qI7/s-l225.jpg" alt="Listing image for Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">Sherlock Holmes Miniature Statue – Detective Figurine – Literary Character</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for detective figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: detective figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=detective+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-checks-the-ai-ufo-verdict-detective-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="detective figurine" data-ebay-reference="who-checks-the-ai-ufo-verdict-detective-figurine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -683,7 +683,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -703,7 +703,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -735,7 +735,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -787,7 +787,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -832,7 +832,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -873,140 +873,140 @@ That is the difference between an AI-generated answer and an evidence-led case c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nvlpubs.nist.gov  
    Title: Publications Artificial Intelligence Risk Management Framework (AI RMF 1.0)  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsArtificial Intelligence Risk Management Framework (AI RMF 1.0)...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsArtificial Intelligence Risk Management Framework (AI RMF 1.0)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
    Title: Classification | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ai-risk-management-framework</a>  
+   Link:<a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ai-risk-management-framework</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=GivGke4kyC4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GivGke4kyC4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Report — Press Conference (September 14, 2023)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GivGke4kyC4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GivGke4kyC4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Report — Press Conference (September 14, 2023)...</p></details>
    Published: September 14, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: NASA UAP Independent Study Report  
-   Link: <a href="http://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TCWB1YZrEuU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report independent study findings and methodology NASA UAP Independent Study Report — Press Conference (September 14, 2023) Lies...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TCWB1YZrEuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report independent study findings and methodology NASA UAP Independent Study Report — Press Conference (September 14, 2023) Lies...</p></details>
    Published: September 14, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: NASA: UAP Study Report Highlights  
-   Link: <a href="http://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qSAQyOgiELA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s in-depth UFO investigation report: Key findings and surprises | The truth about UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qSAQyOgiELA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s in-depth UFO investigation report: Key findings and surprises | The truth about UFOs...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: artificial-intelligence-act.com  
-   Link: <a href="https://www.artificial-intelligence-act.com/Artificial_Intelligence_Act_Article_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.artificial-intelligence-act.com/Artificial_Intelligence_Act_Article_12.html</a>  
+   Link:<a href="https://www.artificial-intelligence-act.com/Artificial_Intelligence_Act_Article_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.artificial-intelligence-act.com/Artificial_Intelligence_Act_Article_12.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: artificialintelligenceact.eu  
-   Link: <a href="https://artificialintelligenceact.eu/article/14/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/article/14/</a>
+   Link:<a href="https://artificialintelligenceact.eu/article/14/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/article/14/</a>

@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 A one-hour clock error can completely change the outcome of a UFO sky reconstruction. In many disputed sightings, the difference between “unexplained object” and “likely Venus” depends on whether the recorded time was converted correctly between local civil time and UTC. A bright planet may have already set below the horizon an hour later. A satellite flare may not yet have occurred an hour earlier. Twilight conditions, [Moon position]({{ 'moon-position/' | relative_url }}), [aircraft]({{ 'aircraft/' | relative_url }}) traffic and visible stars can all shift enough to break a proposed explanation.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" alt="Time Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because UFO investigations increasingly rely on reproducible digital reconstructions using [astronomy]({{ 'astronomy/' | relative_url }}) software, satellite databases and archived environmental data. If the time basis is wrong, the entire reconstruction becomes unstable. A witness may have reported local summer time while a database stores UTC. A camera may embed one standard while an investigator assumes another. Around daylight saving transitions, the same local clock reading can even occur twice in one night. In practice, some of the strongest-looking astronomy matches in UFO investigations fail because the time conversion chain was never audited properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
+This matters because UFO investigations increasingly rely on reproducible digital reconstructions using [astronomy]({{ 'astronomy/' | relative_url }}) software, satellite databases and archived environmental data. If the time basis is wrong, the entire reconstruction becomes unstable. A witness may have reported local summer time while a database stores UTC. A camera may embed one standard while an investigator assumes another. Around daylight saving transitions, the same local clock reading can even occur twice in one night. In practice, some of the strongest-looking astronomy matches in UFO investigations fail because the time conversion chain was never audited properly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 ## Why daylight saving errors are so common
 
@@ -280,7 +280,7 @@ Most witnesses do not think in UTC. They remember what was on the kitchen clock,
 
 The risk becomes especially high because daylight saving rules are inconsistent across countries and time periods. The UK switches between GMT and BST. Much of Europe uses CET and CEST. Some regions abandon daylight saving entirely, then restore it years later. Historical cases become even harder because software defaults may apply modern rules to older dates incorrectly.
 
-The problem is not theoretical. Astronomical and meteorological organisations explicitly separate UTC from local daylight-adjusted time because observational timing depends on precision. The U.S. Naval Observatory explains that astronomical events are routinely expressed in Universal Time, while local civil time depends on zone offsets and daylight saving adjustments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
+The problem is not theoretical. Astronomical and meteorological organisations explicitly separate UTC from local daylight-adjusted time because observational timing depends on precision. The U.S. Naval Observatory explains that astronomical events are routinely expressed in Universal Time, while local civil time depends on zone offsets and daylight saving adjustments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 In UFO casework, several recurring failure modes appear repeatedly:
 
@@ -303,7 +303,7 @@ Many people assume the night sky changes slowly. Some objects do, but many impor
 
 Earth rotates roughly 15 degrees per hour. That means stars, planets and constellations noticeably shift position across the sky during a single hour. Near the horizon, that shift can determine whether an object is visible at all.
 
-Venus is one of the most important examples because it is frequently reported as a UFO when low in the sky and unusually bright. NASA’s Night Sky Network notes that observers regularly contact astronomers asking about a strange bright light that later proves to be Venus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</span></span></span>
+Venus is one of the most important examples because it is frequently reported as a UFO when low in the sky and unusually bright. NASA’s Night Sky Network notes that observers regularly contact astronomers asking about a strange bright light that later proves to be Venus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</span></span></span>
 
 But Venus only fits a sighting if the timing matches. A reconstruction generated one hour late may place Venus below the horizon, causing investigators to dismiss a perfectly good explanation. Conversely, a reconstruction shifted one hour earlier may force Venus into a case where it was never actually visible.
 
@@ -323,7 +323,7 @@ The same applies to:
 
 </div>
 
-Even sunrise and sunset calculations depend on correct daylight saving handling. NOAA’s solar calculator explicitly warns that daylight saving settings alter displayed solar times by one hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[NOAA Global Monitoring Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</span></span></span>
+Even sunrise and sunset calculations depend on correct daylight saving handling. NOAA’s solar calculator explicitly warns that daylight saving settings alter displayed solar times by one hour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[NOAA Global Monitoring Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</span></span></span>
 
 ## The duplicated-hour problem during autumn clock changes
 
@@ -351,7 +351,7 @@ There are actually two possible skies:
 
 Those skies differ by a full hour of Earth rotation. Venus, Jupiter or the Moon may occupy entirely different positions. A satellite pass may exist in one reconstruction but not the other.
 
-The reverse transition in spring creates a different problem: some local times never exist at all because clocks jump forward. A witness recalling a missing or uncertain time near the transition can accidentally generate impossible timestamps inside reconstruction software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
+The reverse transition in spring creates a different problem: some local times never exist at all because clocks jump forward. A witness recalling a missing or uncertain time near the transition can accidentally generate impossible timestamps inside reconstruction software.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 ## How astronomy software can quietly introduce the error
 
@@ -363,7 +363,7 @@ Planetarium applications often ask users for:
 
 * location
 * date
-* local time <span class="citation-chip-wrap"><a class="citation-chip" href="https://timegov.nist.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timegov.nist.gov">[timegov.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timegov.nist.gov</span><span class="citation-popover-snippet">local time) on Sunday 03/08/2026. Set your clocks FORWARD one hour. Non-Contiguous U.S. and Territories.Read more...</span></span></span>
+* local time<span class="citation-chip-wrap"><a class="citation-chip" href="https://timegov.nist.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timegov.nist.gov">[timegov.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timegov.nist.gov</span><span class="citation-popover-snippet">local time) on Sunday 03/08/2026. Set your clocks FORWARD one hour. Non-Contiguous U.S. and Territories.Read more...</span></span></span>
 * time zone
 
 </div>
@@ -409,7 +409,7 @@ Common examples include:
 
 </div>
 
-The U.S. Naval Observatory and other astronomical services publish event timing in Universal Time specifically to avoid local daylight ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
+The U.S. Naval Observatory and other astronomical services publish event timing in Universal Time specifically to avoid local daylight ambiguity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 A reproducible UFO workflow should therefore never overwrite the [original]({{ 'original-evidence/' | relative_url }}) witness time. The local statement is part of the evidence. The UTC conversion is an analytical layer added afterward.
 
@@ -473,7 +473,7 @@ This matters because UFO debates often become polarised around absolute claims:
 
 In reality, the reconstruction may depend entirely on whether BST was converted correctly to UTC.
 
-Historical UFO identification studies repeatedly found that astronomical objects account for a large proportion of explainable sightings, especially [bright planets]({{ 'bright-planets/' | relative_url }}) and stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span> But those explanations only hold if the temporal reconstruction is reliable.
+Historical UFO identification studies repeatedly found that astronomical objects account for a large proportion of explainable sightings, especially [bright planets]({{ 'bright-planets/' | relative_url }}) and stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span> But those explanations only hold if the temporal reconstruction is reliable.
 
 A careful investigator therefore treats time handling as evidence preservation, not administrative housekeeping.
 
@@ -486,7 +486,7 @@ Minimum best practice includes:
 * Original witness wording exactly as stated
 * Explicit timezone label
 * UTC conversion
-* Daylight saving status <span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[gml.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</span></span></span>
+* Daylight saving status<span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[gml.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</span></span></span>
 * Source of conversion
 * Timestamp uncertainty estimate
 * Software version used
@@ -499,194 +499,194 @@ Without that metadata, later investigators may not be able to determine whether 
 In UFO investigations, the most convincing reconstruction is not the most dramatic image. It is the one another investigator can reproduce independently and obtain the same sky from the same evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could A One Hour Clock Error Change The Whole Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could A One Hour Clock Error Change The Whole Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Covers observation planning and astronomical timing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observation planning and astronomical timing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Provides context for time-sensitive sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for time-sensitive sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for reconstructing sky conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for reconstructing sky conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports rigorous evidence review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports rigorous evidence review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s"><img src="https://i.ebayimg.com/images/g/IdIAAeSwvuppPCY9/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s"><img src="https://i.ebayimg.com/images/g/IdIAAeSwvuppPCY9/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North)..., Philip&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/mN0AAeSwYfVqJYqg/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/mN0AAeSwYfVqJYqg/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/Qw4AAeSwUuFpMuVN/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product"><img src="https://i.ebayimg.com/images/g/Qw4AAeSwUuFpMuVN/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere: Northern 51.5 Degrees - ... by Philips Mixed media product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG"><img src="https://i.ebayimg.com/images/g/GQ4AAeSwFpBoZXsd/s-l225.jpg" alt="Listing image for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG"><img src="https://i.ebayimg.com/images/g/GQ4AAeSwFpBoZXsd/s-l225.jpg" alt="Listing image for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-one-hour-clock-error-change-the-whole-case-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="could-a-one-hour-clock-error-change-the-whole-case-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -702,7 +702,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -722,7 +722,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -754,7 +754,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -806,7 +806,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -851,7 +851,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -892,116 +892,116 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gml.noaa.gov  
-   Link: <a href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/sunrise.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</p></details>
+   Link:<a href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/sunrise.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Coordinated Universal Time  
-   Link: <a href="https://en.wikipedia.org/wiki/Coordinated_Universal_Time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coordinated_Universal_Time</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Universal TimeCoordinated Universal Time (UTC) is the primary time standard globally used to regulate clocks and time. It...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Coordinated_Universal_Time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coordinated_Universal_Time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Universal TimeCoordinated Universal Time (UTC) is the primary time standard globally used to regulate clocks and time. It...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Read more  
-   Link: <a href="https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight saving time in the United StatesIn the US, daylight saving time starts on the second Sunday in March and ends on the first Su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight saving time in the United StatesIn the US, daylight saving time starts on the second Sunday in March and ends on the first Su...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: chapter2 3  
-   Link: <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2: Reference Systems16 Jan 2025 — Local time is UT adjusted for location around the Earth in time zones. Its reference point is one&#x27;s imm...</p></details>
+   Link:<a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2: Reference Systems16 Jan 2025 — Local time is UT adjusted for location around the Earth in time zones. Its reference point is one&#x27;s imm...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/UT</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/UT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/faq/daylight_time" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/daylight_time</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryDaylight Saving TimeOn the first Sunday in November, clocks are set back one hour at 2:00 a.m. local Daylight Saving...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/faq/daylight_time" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/daylight_time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryDaylight Saving TimeOn the first Sunday in November, clocks are set back one hour at 2:00 a.m. local Daylight Saving...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/faq/us_tzones" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/us_tzones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryU.S. Time ZonesU.S. Time Zones; Eastern daylight time (EDT), subtract 4 hours from UTC; Eastern standard time (EST)...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/faq/us_tzones" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/us_tzones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryU.S. Time ZonesU.S. Time Zones; Eastern daylight time (EDT), subtract 4 hours from UTC; Eastern standard time (EST)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timegov.nist.gov  
-   Link: <a href="https://timegov.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://timegov.nist.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(local time) on Sunday 03/08/2026. Set your clocks FORWARD one hour. Non-Contiguous U.S. and Territories.Read more...</p></details>
+   Link:<a href="https://timegov.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://timegov.nist.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(local time) on Sunday 03/08/2026. Set your clocks FORWARD one hour. Non-Contiguous U.S. and Territories.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
+   Link:<a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/mrst" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/mrst</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise/Set/Transit Times for Major Solar System Bodies and...This data service provides the times of rise, set, and tr...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/mrst" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/mrst</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise/Set/Transit Times for Major Solar System Bodies and...This data service provides the times of rise, set, and tr...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: [weather](&#123;&#123; 'weather/' | relative_url &#125;&#125;). gov  
-   Link: <a href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/box/sunmoon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</p></details>
+   Link:<a href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/box/sunmoon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: observablehq.com  
-   Link: <a href="https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool" target="_blank" rel="noopener noreferrer nofollow">https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight Saving Time Gripe Assistant Tool / Andy WoodruffA handy tool to help make your case when whining about a biannual time change, f...</p></details>
+   Link:<a href="https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool" target="_blank" rel="noopener noreferrer nofollow">https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight Saving Time Gripe Assistant Tool / Andy WoodruffA handy tool to help make your case when whining about a biannual time change, f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsWhat causes UFOs? Amateur astronomers know more about the causes of UFO sightings than most so-called UFO rese...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsWhat causes UFOs? Amateur astronomers know more about the causes of UFO sightings than most so-called UFO rese...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/sun/%404140844" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%404140844</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise and sunset times in United States Navy MemorialToday is highlighted. Note that Daylight Saving Time starts on Sunday, March 8, 20...</p></details>
+   Link:<a href="https://www.timeanddate.com/sun/%404140844" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%404140844</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise and sunset times in United States Navy MemorialToday is highlighted. Note that Daylight Saving Time starts on Sunday, March 8, 20...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: penningtonplanetarium.wordpress.com  
-   Link: <a href="https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/" target="_blank" rel="noopener noreferrer nofollow">https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Thought Daylight Savings Time Was Confusing7 Nov 2013 — The addition or subtraction of leap seconds, as necessary, at two opportuniti...</p></details>
+   Link:<a href="https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/" target="_blank" rel="noopener noreferrer nofollow">https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Thought Daylight Savings Time Was Confusing7 Nov 2013 — The addition or subtraction of leap seconds, as necessary, at two opportuniti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/RS_OneDay" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneDay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun and Moon Data for One DayThis data service provides rise, set, and transit times for the Sun and Moon, civil twilight beginning and e...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/RS_OneDay" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneDay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun and Moon Data for One DayThis data service provides rise, set, and transit times for the Sun and Moon, civil twilight beginning and e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aa.usno.navy.mil  
-   Link: <a href="https://aa.usno.navy.mil/data/Dur_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/Dur_OneYear</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Daylight/Darkness Table for One YearThis data services provides a method for obtaining a table of the duration of daylight or darkness...</p></details>
+   Link:<a href="https://aa.usno.navy.mil/data/Dur_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/Dur_OneYear</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Daylight/Darkness Table for One YearThis data services provides a method for obtaining a table of the duration of daylight or darkness...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DL8Qb0Xuo_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL8Qb0Xuo_3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Wednesday, July 2, the International Astronomical Union&#x27;s...An interstellar object is traveling through our solar system...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DL8Qb0Xuo_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL8Qb0Xuo_3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Wednesday, July 2, the International Astronomical Union&#x27;s...An interstellar object is traveling through our solar system...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases video of a UFO resembling an eight-pointed star.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases video of a UFO resembling an eight-pointed star.Read more...</p></details>

@@ -272,11 +272,11 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_81
 A bright light filmed at long range can look startlingly alive on a phone screen. It may appear to zig-zag, pulse, split into shapes, rotate or dart away from the camera. In many UFO clips, that apparent motion is not caused by the object itself but by the way modern [phone cameras]({{ 'phone-cameras/' | relative_url }}) process distant lights under difficult conditions.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" alt="Digital Zoom illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters in AI-assisted UFO sighting investigation because a dramatic-looking video can create a misleading impression of speed, manoeuvring or shape change. Investigators therefore need to separate true object movement from camera-induced artefacts. Digital zoom, low-light enhancement, autofocus hunting, image stabilisation and atmospheric distortion can all combine to make ordinary [aircraft]({{ 'aircraft/' | relative_url }}), planets or drones look highly unusual. Modern smartphones are especially prone to this because they rely heavily on computational photography rather than purely optical imaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
+This matters in AI-assisted UFO sighting investigation because a dramatic-looking video can create a misleading impression of speed, manoeuvring or shape change. Investigators therefore need to separate true object movement from camera-induced artefacts. Digital zoom, low-light enhancement, autofocus hunting, image stabilisation and atmospheric distortion can all combine to make ordinary [aircraft]({{ 'aircraft/' | relative_url }}), planets or drones look highly unusual. Modern smartphones are especially prone to this because they rely heavily on computational photography rather than purely optical imaging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
 
 ## How digital zoom exaggerates camera shake
 
-The most important thing to understand is that phone “zoom” is often not true optical magnification. Beyond a certain point, the phone is enlarging and processing a cropped section of the sensor rather than gathering more real visual detail through optics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span>
+The most important thing to understand is that phone “zoom” is often not true optical magnification. Beyond a certain point, the phone is enlarging and processing a cropped section of the sensor rather than gathering more real visual detail through optics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span>
 
 That becomes a major problem when filming a tiny point of light against a dark sky.
 
@@ -298,7 +298,7 @@ The result is a classic “dancing UFO” effect: the object appears to make sud
 
 In reality, the object may be almost stationary relative to the observer.
 
-[Astronomy]({{ 'astronomy/' | relative_url }}) hobbyists encounter the same effect constantly when filming stars or planets through handheld phones. Even [bright planets]({{ 'bright-planets/' | relative_url }}) such as Venus or Jupiter can appear to jitter wildly once heavily magnified. Reddit astronomy discussions repeatedly show users mistaking digital zoom artefacts for object structure or movement when filming stars in fog or low light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Is it a reflection / refraction situation? Or is it actually getting details...</span></span></span>
+[Astronomy]({{ 'astronomy/' | relative_url }}) hobbyists encounter the same effect constantly when filming stars or planets through handheld phones. Even [bright planets]({{ 'bright-planets/' | relative_url }}) such as Venus or Jupiter can appear to jitter wildly once heavily magnified. Reddit astronomy discussions repeatedly show users mistaking digital zoom artefacts for object structure or movement when filming stars in fog or low light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Is it a reflection / refraction situation? Or is it actually getting details...</span></span></span>
 
 For UFO investigators, this means apparent erratic motion should never be assessed without also examining:
 
@@ -328,7 +328,7 @@ Witnesses are often surprised that a distant light changes shape as they zoom in
 
 This usually happens because the camera has run out of real optical detail.
 
-Phone sensors are physically tiny compared with dedicated cameras. In darkness, they collect limited light and produce noisy images. Computational photography systems then attempt to reconstruct missing detail using sharpening, denoising and frame blending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
+Phone sensors are physically tiny compared with dedicated cameras. In darkness, they collect limited light and produce noisy images. Computational photography systems then attempt to reconstruct missing detail using sharpening, denoising and frame blending.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
 
 With a distant point light, there is often no genuine structure to reconstruct. The software instead amplifies sensor noise, atmospheric distortion and compression artefacts.
 
@@ -362,15 +362,15 @@ A compressed aircraft light may therefore seem to flicker, fragment or emit smal
 
 The atmosphere itself bends and distorts light. Astronomers call this scintillation. Stars near the horizon often appear to twinkle violently because their light passes through thicker turbulent air.
 
-When digitally zoomed, this natural distortion can look like shape-changing motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amostech.com">[AMOS Conference]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amostech.com</span><span class="citation-popover-snippet">AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</span><span class="citation-popover-meta">Published: September 4, 2015</span></span></span>
+When digitally zoomed, this natural distortion can look like shape-changing motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amostech.com">[AMOS Conference]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amostech.com</span><span class="citation-popover-snippet">AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</span><span class="citation-popover-meta">Published: September 4, 2015</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/et74Bwqw5fM" title="NASA | Wide Field Camera 3: Extending Hubble&#x27;s Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer">NASA | Wide Field Camera 3: Extending Hubble&#x27;s Vision</a></p><p class="youtube-embed-meta">Channel: NASA Goddard &middot; Views: 4.4K &middot; Uploaded: May 2009 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=et74Bwqw5fM">Open on YouTube</a></p></div></div></div>
 
 ## Night-mode processing can invent apparent detail
 
-Modern phones no longer capture a single straightforward image in low light. Instead, many devices rapidly capture multiple frames and merge them computationally. Google’s Night Sight system, for example, aligns and combines bursts of images to reduce noise and brighten dark scenes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
+Modern phones no longer capture a single straightforward image in low light. Instead, many devices rapidly capture multiple frames and merge them computationally. Google’s Night Sight system, for example, aligns and combines bursts of images to reduce noise and brighten dark scenes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
 
-Apple and Samsung use similar approaches in Night Mode and Nightography features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-us/102519" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-title">Support Use Night mode on your i Phone</span><span class="citation-popover-snippet">Apple SupportUse Night mode on your iPhone - Apple SupportOn supported iPhone models, you can use Night mode to capture photos when the c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span>
+Apple and Samsung use similar approaches in Night Mode and Nightography features.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-us/102519" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-title">Support Use Night mode on your i Phone</span><span class="citation-popover-snippet">Apple SupportUse Night mode on your iPhone - Apple SupportOn supported iPhone models, you can use Night mode to capture photos when the c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span>
 
 This processing is excellent for normal photography, but it creates complications for UFO analysis.
 
@@ -389,7 +389,7 @@ When a bright moving light is recorded against darkness, the software may:
 
 The result can resemble structured motion even when the original scene was visually simple.
 
-Research into computational mobile photography explicitly discusses frame alignment, motion estimation and synthetic blur generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.11336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Handheld Mobile Photography in Very Low Light</span><span class="citation-popover-snippet">arXiv Handheld Mobile Photography in Very Low Light</span></span></span>
+Research into computational mobile photography explicitly discusses frame alignment, motion estimation and synthetic blur generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.11336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Handheld Mobile Photography in Very Low Light</span><span class="citation-popover-snippet">arXiv Handheld Mobile Photography in Very Low Light</span></span></span>
 
 This means a phone video is not always a neutral recording of reality. It is often an interpreted reconstruction produced by software.
 
@@ -402,7 +402,7 @@ Another common illusion involves apparent acceleration.
 
 A distant aircraft crossing the sky slowly may appear to rocket across the frame once heavily zoomed. This happens because magnification compresses angular movement.
 
-At high zoom: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</span></span></span>
+At high zoom:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -500,194 +500,194 @@ This does not “debunk” every unusual video automatically. Instead, it helps 
 That distinction is central to responsible UFO case assessment. A dramatic-looking zoomed light may still document a real event, but the apparent darting, pulsing or shape-shifting behaviour often says more about the imaging system than the object in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Phone Zoom Makes UFO Lights Look Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Phone Zoom Makes UFO Lights Look Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Keeps the further-reading lane anchored in UFO investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the further-reading lane anchored in UFO investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Smartphone Photography Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pFBkvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Smartphone Photography Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Smartphone Photography Guide">The Smartphone Photography Guide</a>
-        </h4>
-        <p class="fr-book-author">By Peter Cope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Smartphone Photography Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pFBkvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Smartphone Photography Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Smartphone Photography Guide">The Smartphone Photography Guide</a>
+</h4>
+<p class="fr-book-author">By Peter Cope</p>
         
-        <p class="fr-book-desc">Matches digital zoom and phone processing artefacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches digital zoom and phone processing artefacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        <p class="fr-book-desc">Useful for understanding camera motion, focus, and image capture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding camera motion, focus, and image capture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages sceptical interpretation of dramatic footage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages sceptical interpretation of dramatic footage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Smartphone+Photography+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Smartphone Photography books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Smartphone+Photography+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Smartphone Photography books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera."><img src="https://i.ebayimg.com/images/g/qRYAAeSwSzpqEfVy/s-l225.jpg" alt="Listing image for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera."><img src="https://i.ebayimg.com/images/g/qRYAAeSwSzpqEfVy/s-l225.jpg" alt="Listing image for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/hxIAAeSwjC9qIulr/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/hxIAAeSwjC9qIulr/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK"><img src="https://i.ebayimg.com/images/g/knYAAeSw~x9oaMuh/s-l225.jpg" alt="Listing image for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK"><img src="https://i.ebayimg.com/images/g/knYAAeSw~x9oaMuh/s-l225.jpg" alt="Listing image for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-phone-zoom-makes-ufo-lights-look-alive-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -703,7 +703,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -723,7 +723,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -755,7 +755,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -807,7 +807,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -852,7 +852,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -893,116 +893,116 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: honor.com  
-   Link: <a href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow">https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</p></details>
+   Link:<a href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow">https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</p></details>
    Published: June 18, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Handheld Mobile Photography in Very Low Light  
-   Link: <a href="https://arxiv.org/abs/1910.11336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.11336</a>  
+   Link:<a href="https://arxiv.org/abs/1910.11336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.11336</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a reflection / refraction situation? Or is it actually getting details...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a reflection / refraction situation? Or is it actually getting details...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n the air for a few minutes. I would not call it a HD video...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the air for a few minutes. I would not call it a HD video...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: support.apple.com  
    Title: Support Use Night mode on your i Phone  
-   Link: <a href="https://support.apple.com/en-us/102519" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/102519</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportUse Night mode on your iPhone - Apple SupportOn supported iPhone models, you can use Night mode to capture photos when the c...</p></details>
+   Link:<a href="https://support.apple.com/en-us/102519" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/102519</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportUse Night mode on your iPhone - Apple SupportOn supported iPhone models, you can use Night mode to capture photos when the c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Computational Long Exposure Mobile Photography  
-   Link: <a href="https://arxiv.org/abs/2308.01379" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computational Long Exposure Mobile PhotographyAugust 2, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2308.01379" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computational Long Exposure Mobile PhotographyAugust 2, 2023...</p></details>
    Published: August 2, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: All the frames they shoot are at different exposure settings, light settings,  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How does night mode on phone cameras work without the colors...June 2, 2021 — They take alot of pictures over and over with just the one...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does night mode on phone cameras work without the colors...June 2, 2021 — They take alot of pictures over and over with just the one...</p></details>
    Published: June 2, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.google  
    Title: Google Research Night Sight: Seeing in the Dark on Pixel Phones  
-   Link: <a href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</p></details>
+   Link:<a href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: androidcentral.com  
-   Link: <a href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</p></details>
+   Link:<a href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amostech.com  
-   Link: <a href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</p></details>
+   Link:<a href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</p></details>
    Published: September 4, 2015  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DXOMARKExplains | The Technology...Unlike optical zoom, digital zoom is not lossless, meaning some information from the scene is discard...</p></details>
+   Link:<a href="https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DXOMARKExplains | The Technology...Unlike optical zoom, digital zoom is not lossless, meaning some information from the scene is discard...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lifewire.com  
-   Link: <a href="https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pixel suggests using Night Sight in low-light conditions, with a button prompt on the screen. Users can manually activate it by swiping o...</p></details>
+   Link:<a href="https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pixel suggests using Night Sight in low-light conditions, with a button prompt on the screen. Users can manually activate it by swiping o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</p></details>
+   Link:<a href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: boreal.org  
-   Link: <a href="https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone cameras can take in more light than the human eye12 Aug 2024 — Phone cameras can take in more light than the human eye − that&#x27;s why...</p></details>
+   Link:<a href="https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phone cameras can take in more light than the human eye12 Aug 2024 — Phone cameras can take in more light than the human eye − that&#x27;s why...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: popsa.com  
-   Link: <a href="https://popsa.com/perspectives/depth-of-field-smartphone-guide/" target="_blank" rel="noopener noreferrer nofollow">https://popsa.com/perspectives/depth-of-field-smartphone-guide/</a>  
+   Link:<a href="https://popsa.com/perspectives/depth-of-field-smartphone-guide/" target="_blank" rel="noopener noreferrer nofollow">https://popsa.com/perspectives/depth-of-field-smartphone-guide/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: nasa assembles thousands of ultra sharp images fine tunes sensors corrects atmos  
-   Link: <a href="https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA: assembles thousands of ultra-sharp images, fine...3 Apr 2026 — NASA: assembles thousands of ultra-sharp images, fine-tunes sensors...</p></details>
+   Link:<a href="https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA: assembles thousands of ultra-sharp images, fine...3 Apr 2026 — NASA: assembles thousands of ultra-sharp images, fine-tunes sensors...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=et74Bwqw5fM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA | Wide Field Camera 3: Extending Hubble&#x27;s VisionThe Widefield camera 3 is one of those instruments uh that&#x27;s going to make Hubble yo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=et74Bwqw5fM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA | Wide Field Camera 3: Extending Hubble&#x27;s VisionThe Widefield camera 3 is one of those instruments uh that&#x27;s going to make Hubble yo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
    Title: All i Phones have optical image stabilisation on the main lens. This  
-   Link: <a href="https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take stunning night photography low light photos — iPhone and...March 14, 2018 — This is caused by either a subject moving or the camera...</p></details>
+   Link:<a href="https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take stunning night photography low light photos — iPhone and...March 14, 2018 — This is caused by either a subject moving or the camera...</p></details>
    Published: March 14, 2018  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: How does i Phone 11 camera capture daylight-like photos in pitch  
-   Link: <a href="https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does iPhone 11 camera capture daylight-like photos in pitch...October 19, 2024 — The camera sensed it was low light so it created a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does iPhone 11 camera capture daylight-like photos in pitch...October 19, 2024 — The camera sensed it was low light so it created a...</p></details>
    Published: October 19, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amera. Since motion is unknown, we resort to a blind...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amera. Since motion is unknown, we resort to a blind...Read more...</p></details>

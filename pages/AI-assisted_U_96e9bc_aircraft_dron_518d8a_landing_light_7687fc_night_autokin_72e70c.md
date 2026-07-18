@@ -278,13 +278,13 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 A light that appears to hover, drift, pulse or “play games” in the night sky is not automatically evidence of unusual flight behaviour. Human vision is surprisingly unreliable when looking at isolated lights in darkness, especially when there are few nearby objects to provide scale, distance or motion references. In UFO and UAP investigations, this matters because many sincere witnesses report lights that seem to move intelligently even when the [original]({{ 'original-evidence/' | relative_url }}) source was stationary or following an ordinary flight path.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-dark.svg" | relative_url }}" alt="Night Illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-One of the best-known mechanisms behind these reports is autokinesis: a visual illusion in which a fixed point of light appears to wander or wobble when stared at against a dark, featureless background. Aviation safety organisations warn pilots about the effect because it can create false impressions of movement, collision risk or manoeuvring [aircraft]({{ 'aircraft/' | relative_url }}) at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In UFO case analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>, the same mechanism can transform distant aircraft lights, stars, planets or satellites into apparently hovering “orbs” that seem alive, responsive or intelligently controlled.
+One of the best-known mechanisms behind these reports is autokinesis: a visual illusion in which a fixed point of light appears to wander or wobble when stared at against a dark, featureless background. Aviation safety organisations warn pilots about the effect because it can create false impressions of movement, collision risk or manoeuvring [aircraft]({{ 'aircraft/' | relative_url }}) at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In UFO case analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>, the same mechanism can transform distant aircraft lights, stars, planets or satellites into apparently hovering “orbs” that seem alive, responsive or intelligently controlled.
 
 ## Autokinesis and human night vision
 
-Autokinesis is not a fringe idea or a debunking slogan. It is a documented perceptual effect studied in psychology and aviation medicine for decades. The illusion typically appears when a person fixates on a single small light in darkness with minimal visual [reference points]({{ 'reference-points/' | relative_url }}) nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may experience appare...</span></span></span>
+Autokinesis is not a fringe idea or a debunking slogan. It is a documented perceptual effect studied in psychology and aviation medicine for decades. The illusion typically appears when a person fixates on a single small light in darkness with minimal visual [reference points]({{ 'reference-points/' | relative_url }}) nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may experience appare...</span></span></span>
 
-The brain normally judges motion by comparing objects against stable surroundings. During daytime this is easy because buildings, trees, clouds and the horizon provide constant reference cues. At night, especially in rural areas or under dark skies, those anchors may disappear. A bright isolated light can then appear to shift position even though the movement exists only in perception. FAA and pilot training materials specifically warn that a stationary light can appear to move after only several seconds of fixation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually fixat...</span></span></span>
+The brain normally judges motion by comparing objects against stable surroundings. During daytime this is easy because buildings, trees, clouds and the horizon provide constant reference cues. At night, especially in rural areas or under dark skies, those anchors may disappear. A bright isolated light can then appear to shift position even though the movement exists only in perception. FAA and pilot training materials specifically warn that a stationary light can appear to move after only several seconds of fixation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually fixat...</span></span></span>
 
 Several biological factors combine to create the effect:
 
@@ -300,7 +300,7 @@ Several biological factors combine to create the effect:
 
 The result is a convincing illusion of drifting, zig-zagging or pulsing movement. Witnesses are often genuinely surprised by how “real” the motion feels because the experience is perceptual rather than imagined.
 
-Psychology research has shown that observers viewing the same stationary light can even disagree about its direction and amount of movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> This becomes important in multi-witness UFO reports where [confidence]({{ 'confidence/' | relative_url }}) may be high but descriptions vary sharply.
+Psychology research has shown that observers viewing the same stationary light can even disagree about its direction and amount of movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> This becomes important in multi-witness UFO reports where [confidence]({{ 'confidence/' | relative_url }}) may be high but descriptions vary sharply.
 
 ## Why hovering lights seem to drift or pulse
 
@@ -310,7 +310,7 @@ This creates a common UFO report pattern:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The light initially appears stationary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>
+* The light initially appears stationary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>
 * After prolonged watching, it seems to drift slightly.
 * The movement looks deliberate or responsive.
 * The light may appear to pulse, wobble or sidestep.
@@ -330,9 +330,9 @@ In reality, several ordinary processes may be overlapping:
 
 </div>
 
-The illusion becomes stronger over dark terrain, water, deserts or open countryside because the visual field lacks stable anchors. Aviation literature repeatedly warns that isolated lights over featureless environments are especially misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+The illusion becomes stronger over dark terrain, water, deserts or open countryside because the visual field lacks stable anchors. Aviation literature repeatedly warns that isolated lights over featureless environments are especially misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
-Bright astronomical objects can trigger the same effect. Venus, Sirius and Jupiter are frequent sources of reports because they are unusually bright and can remain fixed low on the horizon for long periods. Pilot safety references and sceptical investigation guides both note that stars and planets are often mistaken for moving craft once autokinesis and atmospheric shimmer begin affecting perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">UFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapidly (the effects of...</span></span></span>
+Bright astronomical objects can trigger the same effect. Venus, Sirius and Jupiter are frequent sources of reports because they are unusually bright and can remain fixed low on the horizon for long periods. Pilot safety references and sceptical investigation guides both note that stars and planets are often mistaken for moving craft once autokinesis and atmospheric shimmer begin affecting perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">UFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapidly (the effects of...</span></span></span>
 
 ## Why witnesses often become more certain over time
 
@@ -342,14 +342,14 @@ A person who stares at a hovering light for several minutes may experience:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Increasing apparent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">autokinesis is a visual phenomenon observed in aviation especially during night</span><span class="citation-popover-snippet">Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</span></span></span>
+* Increasing apparent movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">autokinesis is a visual phenomenon observed in aviation especially during night</span><span class="citation-popover-snippet">Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</span></span></span>
 * Stronger emotional engagement.
 * A growing sense that the object is reacting.
 * Reinforcement from discussing the sighting with others nearby.
 
 </div>
 
-Classic psychology experiments using autokinetic illusions demonstrated that social suggestion can influence how people describe perceived movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> In UFO settings, this means one observer saying “it just moved left” can shape how others interpret ambiguous visual input.
+Classic psychology experiments using autokinetic illusions demonstrated that social suggestion can influence how people describe perceived movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> In UFO settings, this means one observer saying “it just moved left” can shape how others interpret ambiguous visual input.
 
 This does not imply dishonesty. It highlights a key point for AI-assisted UFO investigation: witness sincerity and witness accuracy are separate questions. A highly confident account can still emerge from ordinary visual mechanisms operating under poor observational conditions.
 
@@ -419,207 +419,207 @@ A strong match between the witness line of sight and an airport approach corrido
 
 Machine-assisted timeline reconstruction can also compare reported movement against actual angular displacement. If the witness describes dramatic motion but the object’s measured position changed only minimally over several minutes, perceptual distortion becomes more likely.
 
-French government UFO analysis programme GEIPAN explicitly includes perceptual effects such as autokinesis among recognised causes of misidentification during investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMethodologyPerception mistakes due to the brain short-term processing (autokinetic effect) or due to psychological constructs (dist...</span></span></span>
+French government UFO analysis programme GEIPAN explicitly includes perceptual effects such as autokinesis among recognised causes of misidentification during investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMethodologyPerception mistakes due to the brain short-term processing (autokinetic effect) or due to psychological constructs (dist...</span></span></span>
 
 ## Witness confidence versus visual limitations
 
 One reason night-time hovering UFO reports remain persuasive is that the experience can feel deeply convincing. A witness may genuinely perceive a light accelerating, weaving or reacting intelligently. The emotional intensity of the event can reinforce memory and certainty.
 
-But human visual systems evolved for daylight survival at ground level, not for accurately judging distant isolated lights in dark skies. Aviation authorities treat these illusions seriously because even trained pilots can misinterpret them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Fighter pilots]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>, military observers and experienced aircrew have all reported confusion caused by night-time visual illusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</span></span></span>
+But human visual systems evolved for daylight survival at ground level, not for accurately judging distant isolated lights in dark skies. Aviation authorities treat these illusions seriously because even trained pilots can misinterpret them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary Fighter pilots]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>, military observers and experienced aircrew have all reported confusion caused by night-time visual illusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</span></span></span>
 
 For UFO investigation, the key lesson is not that all sightings are solved by psychology. Rather, it is that night-time perception itself becomes part of the evidence chain. A report of a hovering, drifting or pulsing light cannot be evaluated solely at face value without considering how darkness alters motion perception.
 
 That is why structured UFO analysis increasingly combines witness testimony with geometry checks, environmental reconstruction and automated correlation against known aerial activity. In many cases, the “moving UFO” is best understood not as an extraordinary craft, but as an interaction between an ordinary light source and a visual system struggling to stabilise the night sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Stationary Lights Start Moving In The Dark. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Stationary Lights Start Moving In The Dark. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why confident visual impressions can be misleading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why confident visual impressions can be misleading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Highly relevant to attention, perception and witness error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to attention, perception and witness error.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful interpretation of extraordinary-looking lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful interpretation of extraordinary-looking lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Adds context for aircraft lights and night-flight perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds context for aircraft lights and night-flight perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane"><img src="https://i.ebayimg.com/images/g/gv4AAeSwsvpqIqf~/s-l225.jpg" alt="Listing image for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane"><img src="https://i.ebayimg.com/images/g/gv4AAeSwsvpqIqf~/s-l225.jpg" alt="Listing image for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-stationary-lights-start-moving-in-the-dark-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-stationary-lights-start-moving-in-the-dark-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -784,7 +784,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -825,136 +825,136 @@ That is why structured UFO analysis increasingly combines witness testimony with
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Spatial D  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stat...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</p></details>
+   Link:<a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually fixat...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually fixat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may experience appare...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10965040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reveals a threshold for perception of visual motionby Y Liu · 2024 — A phenomenon known as autokinesis in which one may experience appare...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youcanfly.aopa.org  
-   Link: <a href="https://youcanfly.aopa.org/flying-clubs/flying-club-newsletter/2025/september/26/safety" target="_blank" rel="noopener noreferrer nofollow">https://youcanfly.aopa.org/flying-clubs/flying-club-newsletter/2025/september/26/safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brief: Illusions and Loss of Control - You Can FlySep 26, 2025 — These illusions arise from the inner ear&#x27;s misinterpretation of motion a...</p></details>
+   Link:<a href="https://youcanfly.aopa.org/flying-clubs/flying-club-newsletter/2025/september/26/safety" target="_blank" rel="noopener noreferrer nofollow">https://youcanfly.aopa.org/flying-clubs/flying-club-newsletter/2025/september/26/safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brief: Illusions and Loss of Control - You Can FlySep 26, 2025 — These illusions arise from the inner ear&#x27;s misinterpretation of motion a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIGHT VISIONVisual autokinesis can occur when a pilot stares at a single light source for several seconds on a dark night. The result is...</p></details>
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIGHT VISIONVisual autokinesis can occur when a pilot stares at a single light source for several seconds on a dark night. The result is...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapidly (the effects of...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapidly (the effects of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMethodologyPerception mistakes due to the brain short-term processing (autokinetic effect) or due to psychological constructs (dist...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMethodologyPerception mistakes due to the brain short-term processing (autokinetic effect) or due to psychological constructs (dist...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: indjaerospacemed.com  
    Title: autokinesis illusion in fighter flying revisited  
-   Link: <a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</p></details>
+   Link:<a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/federal-aviation-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-aviation-administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>viation Administration Contact Toll-free number 1-866-TELL-...Read more...</p></details>
+   Link:<a href="https://www.usa.gov/agencies/federal-aviation-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-aviation-administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>viation Administration Contact Toll-free number 1-866-TELL-...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
+   Link:<a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newworldencyclopedia.org  
-   Link: <a href="https://www.newworldencyclopedia.org/entry/Autokinesis" target="_blank" rel="noopener noreferrer nofollow">https://www.newworldencyclopedia.org/entry/Autokinesis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutokinesisSometimes called the autokinetic effect, autokinesis is a visual illusion where a light can appear to move when stared at in t...</p></details>
+   Link:<a href="https://www.newworldencyclopedia.org/entry/Autokinesis" target="_blank" rel="noopener noreferrer nofollow">https://www.newworldencyclopedia.org/entry/Autokinesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutokinesisSometimes called the autokinetic effect, autokinesis is a visual illusion where a light can appear to move when stared at in t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsAutokinetic motion can be uncanny when watching artificial satellites, which often appear to zig zag or even m...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsAutokinetic motion can be uncanny when watching artificial satellites, which often appear to zig zag or even m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sky-lens.com  
-   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
+   Link:<a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: autokinesis is a visual phenomenon observed in aviation especially during night  
-   Link: <a href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</p></details>
+   Link:<a href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: flyaeroguard.com  
-   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the dark, a static light will appear to move about when stared at for many seconds. The...Read more...</p></details>
+   Link:<a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the dark, a static light will appear to move about when stared at for many seconds. The...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: boldmethod.com  
    Title: eight things you need to consider on your next night flight  
-   Link: <a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe Lights · 3)...</p></details>
+   Link:<a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe Lights · 3)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: Flying at night is as challenging as it is breathtaking  
-   Link: <a href="https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False Horizon: city lights o...</p></details>
+   Link:<a href="https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False Horizon: city lights o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencex.com  
    Title: 2021 09 dialog mind boggling features ufos physical  
-   Link: <a href="https://sciencex.com/news/2021-09-dialog-mind-boggling-features-ufos-physical.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencex.com/news/2021-09-dialog-mind-boggling-features-ufos-physical.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How mind-boggling features of UFOs can be explained...23 Sept 2021 — A rotational motion of the source of light would cause an extremely...</p></details>
+   Link:<a href="https://sciencex.com/news/2021-09-dialog-mind-boggling-features-ufos-physical.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencex.com/news/2021-09-dialog-mind-boggling-features-ufos-physical.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How mind-boggling features of UFOs can be explained...23 Sept 2021 — A rotational motion of the source of light would cause an extremely...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
    Title: Aviation Visual Illusions Overview | PDF | Altimeter RED, RIGHT, RETURN  
-   Link: <a href="https://www.scribd.com/presentation/375563085/Visual-Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/375563085/Visual-Illusions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VISUAL ILLUSIONS AUTOKINESIS: When you stare at a static light in the dark, the light appears to move. If you take a lighted cigarette...</p></details>
+   Link:<a href="https://www.scribd.com/presentation/375563085/Visual-Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/375563085/Visual-Illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VISUAL ILLUSIONS AUTOKINESIS: When you stare at a static light in the dark, the light appears to move. If you take a lighted cigarette...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: faasafety.gov  
    Title: Your Senses in the Shadows  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>

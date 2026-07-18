@@ -269,14 +269,14 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 ## Introduction
 
-One of the quickest ways to test a drone explanation in a UK UFO sighting is to ask a simple question: could an ordinary drone legally and practically have been where the witness says it was? [UK drone rules]({{ 'uk-drone-rules/' | relative_url }}) do not prove that a sighting was mundane, but they provide useful boundaries. Most consumer drones in the UK are expected to remain below 120 metres (400 feet) above ground and within the pilot’s visual line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span>
+One of the quickest ways to test a drone explanation in a UK UFO sighting is to ask a simple question: could an ordinary drone legally and practically have been where the witness says it was? [UK drone rules]({{ 'uk-drone-rules/' | relative_url }}) do not prove that a sighting was mundane, but they provide useful boundaries. Most consumer drones in the UK are expected to remain below 120 metres (400 feet) above ground and within the pilot’s visual line of sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" alt="Height rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because witnesses often describe lights that appear “thousands of feet up”, “far out over the sea”, or “hovering silently for half an hour”. In many cases, those impressions conflict with the limits of normal multicopter operation. AI-assisted UFO investigation workflows can therefore use UK Civil Aviation Authority (CAA) rules as a reality check rather than as a definitive answer. If a reported object would have required illegal altitude, impossible visual tracking, or extreme endurance from a small multicopter, the drone theory weakens. If the sighting instead matches the height, range and behaviour expected from ordinary drone use, the explanation becomes more plausible.
 
 ## The 120 metre rule in sighting checks
 
-The core UK height rule is straightforward: drones and model [aircraft]({{ 'aircraft/' | relative_url }}) must normally stay below 120 metres above the closest point of the earth’s surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> That is not merely guidance for hobbyists. It exists to separate most drone activity from manned aviation operating at higher altitudes.
+The core UK height rule is straightforward: drones and model [aircraft]({{ 'aircraft/' | relative_url }}) must normally stay below 120 metres above the closest point of the earth’s surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> That is not merely guidance for hobbyists. It exists to separate most drone activity from manned aviation operating at higher altitudes.
 
 For UFO investigation, the important point is not whether every pilot obeys the law. Some do not. The important point is probability. Most casual consumer drone flights occur within the legal envelope because pilots want to avoid crashes, enforcement problems and loss of signal. A report that places an object dramatically above normal drone altitude therefore deserves extra scrutiny.
 
@@ -297,15 +297,15 @@ In those cases, the 120 metre rule does not solve the case by itself, but it pro
 
 The rule also helps expose claims that are internally inconsistent. If a witness says a light remained fixed directly overhead yet simultaneously appeared “as high as a commercial jet”, the description conflicts with normal perception. Commercial aircraft cruise many thousands of feet above the ground, while ordinary drones remain comparatively low. AI-assisted workflows can flag such mismatches automatically by comparing estimated angular size, reported sound, apparent speed and known [drone limits]({{ 'drone-limits/' | relative_url }}).
 
-Another important detail is that UK rules measure height from the nearest point on the ground, not from the launch point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Over hills, cliffs or valleys, a drone pilot may legally follow terrain contours while remaining within 120 metres of the surface below. That means witnesses near coastal cliffs or upland terrain can misinterpret drone height if they assume the aircraft is being measured from sea level or from a distant take-off point.
+Another important detail is that UK rules measure height from the nearest point on the ground, not from the launch point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Over hills, cliffs or valleys, a drone pilot may legally follow terrain contours while remaining within 120 metres of the surface below. That means witnesses near coastal cliffs or upland terrain can misinterpret drone height if they assume the aircraft is being measured from sea level or from a distant take-off point.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/orWpINgj3Og" title="UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer">UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More</a></p><p class="youtube-embed-meta">Channel: Ian in London &middot; Views: 113.6K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=orWpINgj3Og">Open on YouTube</a></p></div></div></div>
 
 ## Visual line of sight and likely launch points
 
-UK drone operations normally require visual line of sight, commonly shortened to VLOS. The pilot must be able to see the drone directly and maintain awareness of its position and orientation without relying entirely on cameras or binoculars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Operational guidance commonly treats around 500 metres as the practical upper boundary for standard VLOS operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filminginengland.co.uk">[Filming in England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filminginengland.co.uk</span><span class="citation-popover-snippet">Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</span></span></span>
+UK drone operations normally require visual line of sight, commonly shortened to VLOS. The pilot must be able to see the drone directly and maintain awareness of its position and orientation without relying entirely on cameras or binoculars.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Operational guidance commonly treats around 500 metres as the practical upper boundary for standard VLOS operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filminginengland.co.uk">[Filming in England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filminginengland.co.uk</span><span class="citation-popover-snippet">Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</span></span></span>
 
-For UFO investigation, this is often more revealing than the height limit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-height-limit-uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[hiredronepilot.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone height limit uk</span><span class="citation-popover-snippet">The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</span></span></span>
+For UFO investigation, this is often more revealing than the height limit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-height-limit-uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[hiredronepilot.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone height limit uk</span><span class="citation-popover-snippet">The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</span></span></span>
 
 A witness may report a hovering object “miles away over open countryside”. If the object was actually a small multicopter, someone usually had to launch and monitor it from somewhere nearby. That introduces practical questions:
 
@@ -366,7 +366,7 @@ The distinction matters because many UFO cases become distorted by binary thinki
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" alt="Height rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Illegal flights, exemptions and edge cases
 
-The 120 metre and VLOS rules are not absolute proof against drone involvement because exemptions and specialist operations exist. The UK CAA allows some authorised operators to conduct more advanced flights, including beyond visual line of sight operations in specific circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Reuters Certain model flying organisations have also received permissions allowing some aircraft types to exceed standard height limits under control <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</span></span></span> led conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpvuk.org">[FPV UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpvuk.org</span><span class="citation-popover-snippet">FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</span></span></span>
+The 120 metre and VLOS rules are not absolute proof against drone involvement because exemptions and specialist operations exist. The UK CAA allows some authorised operators to conduct more advanced flights, including beyond visual line of sight operations in specific circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Reuters Certain model flying organisations have also received permissions allowing some aircraft types to exceed standard height limits under control<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</span></span></span> led conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpvuk.org">[FPV UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpvuk.org</span><span class="citation-popover-snippet">FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</span></span></span>
 
 That means investigators should avoid overconfident statements such as “it could not have been a drone because it was above 400 feet”.
 
@@ -382,7 +382,7 @@ Instead, the more accurate assessment is:
 
 This distinction is important around airports, infrastructure inspections, emergency services operations and industrial surveys, where authorised drone activity may occur outside ordinary hobbyist patterns.
 
-Modern regulations are also changing. The UK introduced updated drone classification and [Remote ID]({{ 'remote-id/' | relative_url }}) rules in 2026, affecting registration thresholds and operational categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span> These changes may gradually improve post-event investigation because more drone operations could become traceable through broadcast identification systems.
+Modern regulations are also changing. The UK introduced updated drone classification and [Remote ID]({{ 'remote-id/' | relative_url }}) rules in 2026, affecting registration thresholds and operational categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span> These changes may gradually improve post-event investigation because more drone operations could become traceable through broadcast identification systems.
 
 For UFO analysis, however, the central lesson remains the same: legal frameworks are most useful as behavioural baselines. They describe how ordinary drone activity usually occurs in the real world.
 
@@ -428,194 +428,194 @@ The same system may downgrade the drone explanation where the object was reporte
 Used carefully, UK drone rules help investigators avoid two opposite errors: dismissing unusual reports too quickly, or accepting ordinary low-altitude drone activity as something extraordinary.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a drone explanation flies too high. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a drone explanation flies too high. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Directly relevant to drone operating limits and practical use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to drone operating limits and practical use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains real-world drone performance and constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains real-world drone performance and constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Provides aviation perspective for altitude assessments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides aviation perspective for altitude assessments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK"><img src="https://i.ebayimg.com/images/g/MuIAAeSwVNJohTUj/s-l225.jpg" alt="Listing image for 4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK"><img src="https://i.ebayimg.com/images/g/MuIAAeSwVNJohTUj/s-l225.jpg" alt="Listing image for 4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4K GPS Drone with Camera WiFi RC Quadcopter Brushless Auto Return Follow Me UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/jx8AAeSwAb5qKAp0/s-l225.jpg" alt="Listing image for RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/jx8AAeSwAb5qKAp0/s-l225.jpg" alt="Listing image for RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">RC Drone With 4K HD Dual Camera WiFi FPV Foldable Quadcopter with 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries"><img src="https://i.ebayimg.com/images/g/8GsAAeSwKLJpYMrA/s-l225.jpg" alt="Listing image for 4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries"><img src="https://i.ebayimg.com/images/g/8GsAAeSwKLJpYMrA/s-l225.jpg" alt="Listing image for 4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4K Drone with HD Dual Camera Drones WiFi FPV Foldable RC Quadcopter 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case"><img src="https://i.ebayimg.com/images/g/z5EAAeSw5XJpfz9I/s-l225.jpg" alt="Listing image for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case"><img src="https://i.ebayimg.com/images/g/z5EAAeSw5XJpfz9I/s-l225.jpg" alt="Listing image for Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">Drone with Camera 4K HD WIFI Dual Camera Foldable RC Quadcopter w/ Carrying Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-explanation-flies-too-high-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="when-a-drone-explanation-flies-too-high-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -780,7 +780,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -821,126 +821,126 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techradar.com  
    Title: Tech Radar UK drone laws have just changed  
-   Link: <a href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
+   Link:<a href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...Read more...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Normally, you must always keep your drone within direct sight. This is often called Visual Line of Sight, or VLOS for short.Read more...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Normally, you must always keep your drone within direct sight. This is often called Visual Line of Sight, or VLOS for short.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone and Model Aircraft Codeanyone wanting to fly a drone or model aircraft in the UK.... Your drone or model aircraft must be with...</p></details>
+   Link:<a href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone and Model Aircraft Codeanyone wanting to fly a drone or model aircraft in the UK.... Your drone or model aircraft must be with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hiredronepilot.uk  
    Title: drone height limit uk  
-   Link: <a href="https://hiredronepilot.uk/blog/drone-height-limit-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-height-limit-uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/drone-height-limit-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-height-limit-uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dronescene.co.uk  
-   Link: <a href="https://dronescene.co.uk/400ft" target="_blank" rel="noopener noreferrer nofollow">https://dronescene.co.uk/400ft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...</p></details>
+   Link:<a href="https://dronescene.co.uk/400ft" target="_blank" rel="noopener noreferrer nofollow">https://dronescene.co.uk/400ft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityPDRA01 overview | UK Civil Aviation AuthorityFlights must be conducted within VLOS as per the definition given in...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityPDRA01 overview | UK Civil Aviation AuthorityFlights must be conducted within VLOS as per the definition given in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: filminginengland.co.uk  
-   Link: <a href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</p></details>
+   Link:<a href="https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fpvuk.org  
-   Link: <a href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/caa-permission-for-flight-above-400ft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</p></details>
+   Link:<a href="https://fpvuk.org/caa-permission-for-flight-above-400ft/" target="_blank" rel="noopener noreferrer nofollow">https://fpvuk.org/caa-permission-for-flight-above-400ft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: greyarro.ws  
    Title: Visual Line Of Sight?  
-   Link: <a href="https://greyarro.ws/t/visual-line-of-sight/85848" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/visual-line-of-sight/85848</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &amp; Answers28 Oct 2024 — My question really relates to VLS, visual line of sight! I think my eye sight is reasonably good. I wear...</p></details>
+   Link:<a href="https://greyarro.ws/t/visual-line-of-sight/85848" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/visual-line-of-sight/85848</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &amp; Answers28 Oct 2024 — My question really relates to VLS, visual line of sight! I think my eye sight is reasonably good. I wear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: filminginengland.co.uk  
-   Link: <a href="https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations Matrix for the Open CategoryThis matrix provides an overview of the key regulations and restrictions for each drone...</p></details>
+   Link:<a href="https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations Matrix for the Open CategoryThis matrix provides an overview of the key regulations and restrictions for each drone...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: t3.com  
-   Link: <a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
+   Link:<a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: carrot.co.uk  
-   Link: <a href="https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category" target="_blank" rel="noopener noreferrer nofollow">https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Altitude in Open Category: Rules ExplainedThis regulation permits drones to ascend up to 15 metres above the peak of an &#x27;art...</p></details>
+   Link:<a href="https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category" target="_blank" rel="noopener noreferrer nofollow">https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Altitude in Open Category: Rules ExplainedThis regulation permits drones to ascend up to 15 metres above the peak of an &#x27;art...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationwidedrones.co.uk  
-   Link: <a href="https://www.nationwidedrones.co.uk/enhanced-caa-permissions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationwidedrones.co.uk/enhanced-caa-permissions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced CAA PermissionsGenerally, commercial drone operators are required to maintain a minimum distance of 50 meters from uninvolved pe...</p></details>
+   Link:<a href="https://www.nationwidedrones.co.uk/enhanced-caa-permissions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationwidedrones.co.uk/enhanced-caa-permissions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced CAA PermissionsGenerally, commercial drone operators are required to maintain a minimum distance of 50 meters from uninvolved pe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These proposals aim to maintain safe drone operations at low heights and near infrastructure, predicting fewer aircraft in these areas. K...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These proposals aim to maintain safe drone operations at low heights and near infrastructure, predicting fewer aircraft in these areas. K...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Civil Aviation AuthorityThe UK Civil Aviation Authority (CAA), the UK&#x27;s independent aerospace regulator, protects people and enables a...</p></details>
+   Link:<a href="https://www.caa.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Civil Aviation AuthorityThe UK Civil Aviation Authority (CAA), the UK&#x27;s independent aerospace regulator, protects people and enables a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
+   Link:<a href="https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
    Published: january 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/8929414957167299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/8929414957167299/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For all those questions about how far can the drone be away from you to comply with our UK CAA. To me the regulations...</p></details>
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/8929414957167299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/8929414957167299/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For all those questions about how far can the drone be away from you to comply with our UK CAA. To me the regulations...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flybydronetraining.co.uk  
    Title: Drone Legislation at a glance | Press Kit The drone must always be in sight  
-   Link: <a href="https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance" target="_blank" rel="noopener noreferrer nofollow">https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It must never be flown more than 400ft (120m) high to avoid risk of collision with planes and helicopters. Never fly closer...Read more...</p></details>
+   Link:<a href="https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance" target="_blank" rel="noopener noreferrer nofollow">https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It must never be flown more than 400ft (120m) high to avoid risk of collision with planes and helicopters. Never fly closer...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: greyarro.ws  
    Title: where does it say that vlos has max limit of 500m on the caa website  
-   Link: <a href="https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — The maximum distance a UAV should be flown from its operator is 500...</p></details>
+   Link:<a href="https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617" target="_blank" rel="noopener noreferrer nofollow">https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — The maximum distance a UAV should be flown from its operator is 500...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dronestudionortheast.co.uk  
    Title: can you fly a drone over a motorway uk drone flight guidelines 2024  
-   Link: <a href="https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/" target="_blank" rel="noopener noreferrer nofollow">https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Fly a Drone Over a Motorway?29 Aug 2025 — In the UK, drones must adhere to a maximum legal flight ceiling of 120 metres (400 feet...</p></details>
+   Link:<a href="https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/" target="_blank" rel="noopener noreferrer nofollow">https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Fly a Drone Over a Motorway?29 Aug 2025 — In the UK, drones must adhere to a maximum legal flight ceiling of 120 metres (400 feet...</p></details>

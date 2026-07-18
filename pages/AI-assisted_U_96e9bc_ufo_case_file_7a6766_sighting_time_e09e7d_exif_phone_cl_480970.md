@@ -282,7 +282,7 @@ Exchangeable Image File Format, usually shortened to EXIF, is metadata embedded 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* capture date and time <span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.apple.com/docs/DOC-250002750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.apple.com">[discussions.apple.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.apple.com</span><span class="citation-popover-title">DOC 250002750</span><span class="citation-popover-snippet">Apple Support CommunityMovie dates and Photos.app20 Sept 2025 — 3. If &#x27;Keys:CreationDate&#x27; in a movie or &#x27;ExifIFD:OffsetTimeOriginal&#x27; meta...</span></span></span>
+* capture date and time<span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.apple.com/docs/DOC-250002750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.apple.com">[discussions.apple.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.apple.com</span><span class="citation-popover-title">DOC 250002750</span><span class="citation-popover-snippet">Apple Support CommunityMovie dates and Photos.app20 Sept 2025 — 3. If &#x27;Keys:CreationDate&#x27; in a movie or &#x27;ExifIFD:OffsetTimeOriginal&#x27; meta...</span></span></span>
 * device model
 * lens and camera settings
 * GPS location
@@ -292,7 +292,7 @@ Exchangeable Image File Format, usually shortened to EXIF, is metadata embedded 
 
 </div>
 
-The most important field for UFO timeline reconstruction is usually `DateTimeOriginal`, which attempts to record when the image was captured. On newer devices there may also be timezone-related tags such as `OffsetTimeOriginal`. These became more widely supported only in recent years, meaning many older files contain local time but no explicit timezone reference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-snippet">graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</span></span></span>
+The most important field for UFO timeline reconstruction is usually `DateTimeOriginal`, which attempts to record when the image was captured. On newer devices there may also be timezone-related tags such as `OffsetTimeOriginal`. These became more widely supported only in recent years, meaning many older files contain local time but no explicit timezone reference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-snippet">graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</span></span></span>
 
 That limitation matters more than many witnesses realise. If a witness travelled recently, crossed time zones, manually changed clock settings, or restored a phone backup incorrectly, the recorded capture time may be detached from real local time. In practical UFO investigation work, that can create false matches or false eliminations.
 
@@ -313,7 +313,7 @@ These are not interchangeable. A screenshot, edited clip or re-saved video can i
 
 ## Why “automatic time” is not a guarantee
 
-Most modern phones synchronise their clocks automatically using network time services connected ultimately to highly accurate atomic clock systems. NIST explains that phone time is normally linked through telecommunications and GPS timing infrastructure to international atomic time standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">keeping us time</span><span class="citation-popover-snippet">Keeping Us On Time &#124; NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</span></span></span>
+Most modern phones synchronise their clocks automatically using network time services connected ultimately to highly accurate atomic clock systems. NIST explains that phone time is normally linked through telecommunications and GPS timing infrastructure to international atomic time standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">keeping us time</span><span class="citation-popover-snippet">Keeping Us On Time &#124; NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</span></span></span>
 
 That sounds reassuring, and in many ordinary cases it is. However, UFO investigations frequently involve edge cases where automatic synchronisation failed or became unreliable:
 
@@ -355,7 +355,7 @@ Common failure patterns include:
 
 </div>
 
-Timezone handling is inconsistent across software ecosystems. Discussions among metadata specialists and Apple Photos users repeatedly show that exported media can shift display times depending on whether timezone tags are preserved. NeededApps Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.adobe.com">[Adobe Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.adobe.com</span><span class="citation-popover-title">This means exports from Lightroom would be out of order</span><span class="citation-popover-snippet">Adobe CommunityP: Add proper UTC offset support when changing image time2 May 2024 — Some apps, such as Apple Photos, uses the utc offset...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Timezone handling is inconsistent across software ecosystems. Discussions among metadata specialists and Apple Photos users repeatedly show that exported media can shift display times depending on whether timezone tags are preserved. NeededApps Forum<span class="citation-chip-wrap"><a class="citation-chip" href="https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.adobe.com">[Adobe Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.adobe.com</span><span class="citation-popover-title">This means exports from Lightroom would be out of order</span><span class="citation-popover-snippet">Adobe CommunityP: Add proper UTC offset support when changing image time2 May 2024 — Some apps, such as Apple Photos, uses the utc offset...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 This becomes especially important when comparing a sighting against:
 
@@ -382,7 +382,7 @@ This allows later investigators to audit the conversion process instead of inher
 
 The strongest timing evidence usually comes from the untouched original file copied directly from the recording device. Every later export stage can degrade [confidence]({{ 'confidence/' | relative_url }}).
 
-Messaging apps and social media platforms commonly compress images, strip metadata or rewrite timestamps during upload and download. IPTC metadata studies and digital preservation guidance have repeatedly shown that many platforms remove embedded metadata fields entirely. IPTC 3IPTC <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">social media networks stripping data from your digital photos</span><span class="citation-popover-snippet">The Library of CongressSocial Media Networks Stripping Data from Your Digital...Apr 11, 2013 — This survey shows that a number of the mo...</span></span></span>
+Messaging apps and social media platforms commonly compress images, strip metadata or rewrite timestamps during upload and download. IPTC metadata studies and digital preservation guidance have repeatedly shown that many platforms remove embedded metadata fields entirely. IPTC 3IPTC<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">social media networks stripping data from your digital photos</span><span class="citation-popover-snippet">The Library of CongressSocial Media Networks Stripping Data from Your Digital...Apr 11, 2013 — This survey shows that a number of the mo...</span></span></span>
 
 For UFO investigations, that means:
 
@@ -396,7 +396,7 @@ For UFO investigations, that means:
 
 </div>
 
-Modern forensic studies on image metadata handling also note that social and chat platforms often apply aggressive compression and metadata stripping that substantially reduces evidential value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">images are transferred as “images” (i.e., in chat mode) or uploaded through social media, aggressive compression algorithms strip Exif me...</span></span></span>
+Modern forensic studies on image metadata handling also note that social and chat platforms often apply aggressive compression and metadata stripping that substantially reduces evidential value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">images are transferred as “images” (i.e., in chat mode) or uploaded through social media, aggressive compression algorithms strip Exif me...</span></span></span>
 
 This does not make the sighting false. It simply means the timing evidence becomes weaker.
 
@@ -406,7 +406,7 @@ A practical investigation hierarchy often looks like this:
 2. Original cloud backup export
 3. Edited file retaining metadata
 4. Messaging-app copy
-5. Social media repost <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+5. Social media repost<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 6. Screenshot or screen recording
 
 AI-assisted workflows should automatically classify files into these confidence bands rather than treating all uploads equally.
@@ -449,7 +449,7 @@ The strongest cases combine metadata with external anchors such as:
 * witness cross-confirmation
 * astronomical conditions
 * [weather]({{ 'weather/' | relative_url }}) radar
-* live social media posts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+* live social media posts<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 
 AI is most effective when it treats metadata as one layer inside a broader evidence matrix rather than as a standalone truth source.
 
@@ -473,7 +473,7 @@ Lower-confidence indicators include:
 * screenshots instead of originals
 * inconsistent timezones
 * edited or transcoded files
-* metadata stripped by social media <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+* metadata stripped by social media<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 * impossible chronology sequences
 * device clocks obviously wrong elsewhere
 * witness uncertainty about phone settings
@@ -492,194 +492,194 @@ Because of this, a hidden clock error can completely reshape the interpretation 
 The key investigative lesson is simple: phone metadata is valuable, but it is not self-authenticating. EXIF timestamps should be treated as evidence requiring validation, contextualisation and uncertainty scoring. The strongest UFO timeline reconstructions emerge not from a single timestamp, but from multiple independent [timing anchors]({{ 'timing-anchors/' | relative_url }}) that converge on the same narrow event window.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can phone metadata prove the sighting time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can phone metadata prove the sighting time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Supports treating metadata as uncertain evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports treating metadata as uncertain evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports cautious interpretation of technical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports cautious interpretation of technical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Schneier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
+</h4>
+<p class="fr-book-author">By Bruce Schneier</p>
         
-        <p class="fr-book-desc">Useful for understanding hidden data and digital records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding hidden data and digital records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Keeps the topic anchored in UFO case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the topic anchored in UFO case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/LgEAAeSwv8dqI5Y0/s-l225.jpg" alt="Listing image for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/LgEAAeSwv8dqI5Y0/s-l225.jpg" alt="Listing image for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/jmQAAeSwp2JqHpyo/s-l225.jpg" alt="Listing image for SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/jmQAAeSwp2JqHpyo/s-l225.jpg" alt="Listing image for SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra Micro SD 32GB 64GB 128GB Class 10 SDHC SDXC Memory Card &amp; Adapter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/IIcAAeSw4hZqHDiW/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/IIcAAeSw4hZqHDiW/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk"><img src="https://i.ebayimg.com/images/g/V8gAAeSwRglo89kO/s-l225.jpg" alt="Listing image for 2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk"><img src="https://i.ebayimg.com/images/g/V8gAAeSwRglo89kO/s-l225.jpg" alt="Listing image for 2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">2TB Micro SD Card 1TB 512GB 256GB 128GB Class 10 High-Speed TF Memory Card Uk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-phone-metadata-prove-the-sighting-time-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="can-phone-metadata-prove-the-sighting-time-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -695,7 +695,7 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -715,7 +715,7 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -747,7 +747,7 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -799,7 +799,7 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -844,7 +844,7 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -885,104 +885,104 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
    Title: keeping us time  
-   Link: <a href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/keeping-us-time</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Us On Time | NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</p></details>
+   Link:<a href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/keeping-us-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Us On Time | NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
    Title: how does atomic time get your phone  
-   Link: <a href="https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Atomic Time Get to Your Phone?Sep 30, 2024 — Follow the journey of time from atomic clocks in government labs to the phone i...</p></details>
+   Link:<a href="https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Atomic Time Get to Your Phone?Sep 30, 2024 — Follow the journey of time from atomic clocks in government labs to the phone i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forum.neededapps.com  
    Title: You can manually add them via the tag manager.Read more  
-   Link: <a href="https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347" target="_blank" rel="noopener noreferrer nofollow">https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NeededApps ForumEXIF time stamps-General Discussion - MetaImageJuly 30, 2023 — 30 Jul 2023 — Please note that MetaImage supports time zon...</p></details>
+   Link:<a href="https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347" target="_blank" rel="noopener noreferrer nofollow">https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NeededApps ForumEXIF time stamps-General Discussion - MetaImageJuly 30, 2023 — 30 Jul 2023 — Please note that MetaImage supports time zon...</p></details>
    Published: July 30, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: community.adobe.com  
    Title: This means exports from Lightroom would be out of order  
-   Link: <a href="https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891" target="_blank" rel="noopener noreferrer nofollow">https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe CommunityP: Add proper UTC offset support when changing image time2 May 2024 — Some apps, such as Apple Photos, uses the utc offset...</p></details>
+   Link:<a href="https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891" target="_blank" rel="noopener noreferrer nofollow">https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe CommunityP: Add proper UTC offset support when changing image time2 May 2024 — Some apps, such as Apple Photos, uses the utc offset...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discussions.apple.com  
    Title: DOC 250002750  
-   Link: <a href="https://discussions.apple.com/docs/DOC-250002750" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/docs/DOC-250002750</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Support CommunityMovie dates and Photos.app20 Sept 2025 — 3. If &#x27;Keys:CreationDate&#x27; in a movie or &#x27;ExifIFD:OffsetTimeOriginal&#x27; meta...</p></details>
+   Link:<a href="https://discussions.apple.com/docs/DOC-250002750" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/docs/DOC-250002750</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Support CommunityMovie dates and Photos.app20 Sept 2025 — 3. If &#x27;Keys:CreationDate&#x27; in a movie or &#x27;ExifIFD:OffsetTimeOriginal&#x27; meta...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iptc.org  
    Title: social media sites photo metadata test results 2019  
-   Link: <a href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</p></details>
+   Link:<a href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iptc.org  
    Title: Photo Metadata  
-   Link: <a href="https://iptc.org/standards/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://iptc.org/standards/photo-metadata/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Metadata - IPTCWe examine metadata in commonly used software, social media platforms, and more. The removal of rights informati...</p></details>
+   Link:<a href="https://iptc.org/standards/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://iptc.org/standards/photo-metadata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Metadata - IPTCWe examine metadata in commonly used software, social media platforms, and more. The removal of rights informati...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iptc.org  
    Title: Many Social Media Sites Still Remove Image Rights  
-   Link: <a href="https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 19, 2016 — Important image metadata is not retained in images after upload to some of the most popular social media sites, accord...</p></details>
+   Link:<a href="https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 19, 2016 — Important image metadata is not retained in images after upload to some of the most popular social media sites, accord...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>images are transferred as “images” (i.e., in chat mode) or uploaded through social media, aggressive compression algorithms strip Exif me...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>images are transferred as “images” (i.e., in chat mode) or uploaded through social media, aggressive compression algorithms strip Exif me...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: photo.stackexchange.com  
-   Link: <a href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</p></details>
+   Link:<a href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blogs.loc.gov  
    Title: social media networks stripping data from your digital photos  
-   Link: <a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...Apr 11, 2013 — This survey shows that a number of the mo...</p></details>
+   Link:<a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...Apr 11, 2013 — This survey shows that a number of the mo...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DateTimeOriginal timezone handling issue: r/osxphotosIn your exiftool output there is no timezone data (OffsetTimeOriginal) whic...</p></details>
+   Link:<a href="https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DateTimeOriginal timezone handling issue: r/osxphotosIn your exiftool output there is no timezone data (OffsetTimeOriginal) whic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Understanding EXIF Metadata and Photo Timestamps  
-   Link: <a href="https://www.youtube.com/watch?v=Ff57L0-f4qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ff57L0-f4qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Phone Photos Have the Wrong Date...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ff57L0-f4qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ff57L0-f4qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Phone Photos Have the Wrong Date...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Hidden Data Inside Your Digital Photos  
-   Link: <a href="https://www.youtube.com/watch?v=c7rNf46s434" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c7rNf46s434</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Time Zone Settings Affect Photo Metadata...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c7rNf46s434" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c7rNf46s434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Time Zone Settings Affect Photo Metadata...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Digital Forensics: Analyzing Image Metadata  
-   Link: <a href="https://www.youtube.com/watch?v=kYJjZ3L1oXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ3L1oXk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Data Inside Your Digital Photos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJjZ3L1oXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ3L1oXk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Data Inside Your Digital Photos...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why Your Phone Photos Have the Wrong Date  
-   Link: <a href="https://www.youtube.com/watch?v=qT2bXN2S6Hk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qT2bXN2S6Hk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics: Analyzing Image Metadata...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qT2bXN2S6Hk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qT2bXN2S6Hk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics: Analyzing Image Metadata...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How Time Zone Settings Affect Photo Metadata  
-   Link: <a href="https://www.youtube.com/watch?v=N4U3pQoI5Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4U3pQoI5Dk</a>
+   Link:<a href="https://www.youtube.com/watch?v=N4U3pQoI5Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4U3pQoI5Dk</a>

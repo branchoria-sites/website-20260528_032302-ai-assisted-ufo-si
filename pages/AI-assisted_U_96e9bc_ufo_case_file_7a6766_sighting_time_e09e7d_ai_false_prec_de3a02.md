@@ -278,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e0
 AI systems are good at turning messy witness accounts into neat-looking timelines. That is useful for organising a UFO or UAP [case file]({{ 'case-file/' | relative_url }}), but it also creates one of the biggest hidden risks in automated investigation: false precision. A witness who says “just after 9pm” can become a database entry reading “21:04:00 BST”. A phone clip uploaded hours later may be treated as if its timestamp is unquestionably accurate. An AI-generated reconstruction can look scientific even when the underlying evidence is vague, contradictory or [incomplete]({{ 'incomplete-data/' | relative_url }}).
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-dark.svg" | relative_url }}" alt="False precision illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many ordinary explanations for UFO sightings depend on exact timing. A Starlink pass, [aircraft]({{ 'aircraft/' | relative_url }}) approach, meteor, flare or bright planetary alignment may fit one three-minute window and fail completely in another. NASA’s UAP study repeatedly stressed that poor metadata, missing [calibration]({{ 'calibration/' | relative_url }}) and incomplete observations weaken analysis quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practical UFO investigation, preserving uncertainty is often more important than producing a tidy chronology.
+This matters because many ordinary explanations for UFO sightings depend on exact timing. A Starlink pass, [aircraft]({{ 'aircraft/' | relative_url }}) approach, meteor, flare or bright planetary alignment may fit one three-minute window and fail completely in another. NASA’s UAP study repeatedly stressed that poor metadata, missing [calibration]({{ 'calibration/' | relative_url }}) and incomplete observations weaken analysis quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practical UFO investigation, preserving uncertainty is often more important than producing a tidy chronology.
 
 ## How rough witness estimates become misleading exact timestamps
 
@@ -309,9 +309,9 @@ The problem grows worse when AI tools merge multiple uncertain sources together.
 
 Each source has its own uncertainty range. Yet some systems silently collapse those ranges into one clean chronology.
 
-The National UFO Reporting Center explicitly asks witnesses whether the reported date and time are approximate because timing uncertainty is common and operationally important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</span></span></span> That distinction is often lost when reports are scraped into AI-ready datasets or converted into structured case summaries.
+The National UFO Reporting Center explicitly asks witnesses whether the reported date and time are approximate because timing uncertainty is common and operationally important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</span></span></span> That distinction is often lost when reports are scraped into AI-ready datasets or converted into structured case summaries.
 
-This is not unique to UFO investigations. Digital forensic researchers repeatedly warn that timestamps and metadata are not automatically truthful. Metadata can be altered, stripped, re-exported, shifted by timezone settings or rewritten by platforms and apps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">when metadata lies exposing data manipulation in digital files</span><span class="citation-popover-snippet">Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</span></span></span> LinkedIn A screenshot timestamp may represent the moment of capture <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Digital Forensic Validation: Principles, Methods, and...In digital forensics, validation refers to the process of ensuring that extracte...</span></span></span>, not the [original]({{ 'original-evidence/' | relative_url }}) recording. A cloud backup may overwrite creation dates. A messaging platform may convert local time incorrectly after daylight saving changes.
+This is not unique to UFO investigations. Digital forensic researchers repeatedly warn that timestamps and metadata are not automatically truthful. Metadata can be altered, stripped, re-exported, shifted by timezone settings or rewritten by platforms and apps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">when metadata lies exposing data manipulation in digital files</span><span class="citation-popover-snippet">Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</span></span></span> LinkedIn A screenshot timestamp may represent the moment of capture<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Digital Forensic Validation: Principles, Methods, and...In digital forensics, validation refers to the process of ensuring that extracte...</span></span></span>, not the [original]({{ 'original-evidence/' | relative_url }}) recording. A cloud backup may overwrite creation dates. A messaging platform may convert local time incorrectly after daylight saving changes.
 
 AI systems are especially vulnerable because they tend to optimise for coherence. Large language models and automated reasoning systems naturally smooth [contradictions]({{ 'contradictions/' | relative_url }}) into a single narrative. In UFO case work, that can accidentally manufacture confidence that never existed in the raw evidence.
 
@@ -344,14 +344,14 @@ For example:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A satellite tracker shows no visible pass at 21:11.
-* The AI-generated report states the sighting happened at 21:11. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</span></span></span>
+* The AI-generated report states the sighting happened at 21:11.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</span></span></span>
 * The system therefore excludes satellites.
 
 </div>
 
 But if the real witness uncertainty was plus or minus ten minutes, a highly visible satellite pass at 21:18 may suddenly become relevant again.
 
-This is one reason NASA and other UAP analysis efforts emphasise calibrated, multi-source data rather than unsupported eyewitness timing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA The quality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span> of the timeline directly affects the quality of every downstream comparison.
+This is one reason NASA and other UAP analysis efforts emphasise calibrated, multi-source data rather than unsupported eyewitness timing alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA The quality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span> of the timeline directly affects the quality of every downstream comparison.
 
 ### Exact-looking times influence human judgement
 
@@ -398,11 +398,11 @@ Language models naturally favour coherent sequences over fragmented uncertainty.
 
 ### Overconfidence inherited from training data
 
-Many datasets contain timestamps formatted to the minute or second even when the original reports were uncertain. Public UFO databases often standardise inconsistent witness reports into rigid fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itsel...</span></span></span> Once AI models learn from these structures, they can reproduce the appearance of certainty automatically.
+Many datasets contain timestamps formatted to the minute or second even when the original reports were uncertain. Public UFO databases often standardise inconsistent witness reports into rigid fields.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itsel...</span></span></span> Once AI models learn from these structures, they can reproduce the appearance of certainty automatically.
 
 ### Metadata trust without forensic validation
 
-Some AI systems treat EXIF or upload metadata as ground truth. Digital forensic practice warns against this assumption because metadata can be modified intentionally or accidentally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">when metadata lies exposing data manipulation in digital files</span><span class="citation-popover-snippet">Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</span></span></span>
+Some AI systems treat EXIF or upload metadata as ground truth. Digital forensic practice warns against this assumption because metadata can be modified intentionally or accidentally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">when metadata lies exposing data manipulation in digital files</span><span class="citation-popover-snippet">Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</span></span></span>
 
 ## How contradiction checks prevent overconfident timeline claims
 
@@ -469,7 +469,7 @@ Each timing claim should retain:
 
 </div>
 
-This mirrors broader forensic principles around provenance and validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0379073824001014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A common framework to situate digital and physical traces...by C Weyermann · 2024 · Cited by 1 — In this article, three mai...</span></span></span> Without provenance, later investigators may mistake an inferred timestamp for a directly observed fact.
+This mirrors broader forensic principles around provenance and validation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0379073824001014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A common framework to situate digital and physical traces...by C Weyermann · 2024 · Cited by 1 — In this article, three mai...</span></span></span> Without provenance, later investigators may mistake an inferred timestamp for a directly observed fact.
 
 ## A better model: testable timelines instead of tidy timelines
 
@@ -490,7 +490,7 @@ EventTime rangeConfidenceWitness first notices light21:00–21:10LowVideo record
 
 This structure may look less polished than a single precise chronology, but it is far more useful scientifically.
 
-NASA’s UAP work repeatedly emphasises that the core problem is not a shortage of stories but a shortage of high-quality, calibrated and reproducible data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</span></span></span> AI can help organise sightings, compare timelines and search large environmental datasets quickly. But if the system hides uncertainty instead of preserving it, it risks generating attractive but misleading conclusions.
+NASA’s UAP work repeatedly emphasises that the core problem is not a shortage of stories but a shortage of high-quality, calibrated and reproducible data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</span></span></span> AI can help organise sightings, compare timelines and search large environmental datasets quickly. But if the system hides uncertainty instead of preserving it, it risks generating attractive but misleading conclusions.
 
 ## Why this matters for unresolved UFO cases
 
@@ -512,194 +512,194 @@ The safest position is neither automatic belief nor automatic dismissal. It is d
 In AI-assisted UFO investigation, a timeline should behave less like a polished story and more like a transparent measurement model. The important question is not whether the chronology looks precise. The important question is whether every timing claim can be traced, challenged and tested against the evidence that produced it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When AI makes uncertain UFO times look exact. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When AI makes uncertain UFO times look exact. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Excellent fit for false precision in AI timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for false precision in AI timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to avoiding overconfident claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to avoiding overconfident claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Supports calibrated time windows and cautious conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports calibrated time windows and cautious conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that create false certainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that create false certainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zoom R20 Multi-track Portable Recorder (10009575)"><img src="https://i.ebayimg.com/images/g/MOYAAeSw7cNqJA2L/s-l225.jpg" alt="Listing image for Zoom R20 Multi-track Portable Recorder (10009575)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Zoom R20 Multi-track Portable Recorder (10009575)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zoom R20 Multi-track Portable Recorder (10009575)"><img src="https://i.ebayimg.com/images/g/MOYAAeSw7cNqJA2L/s-l225.jpg" alt="Listing image for Zoom R20 Multi-track Portable Recorder (10009575)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Zoom R20 Multi-track Portable Recorder (10009575)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards"><img src="https://i.ebayimg.com/images/g/cccAAeSwZoxqAaJd/s-l225.jpg" alt="Listing image for Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards"><img src="https://i.ebayimg.com/images/g/cccAAeSwZoxqAaJd/s-l225.jpg" alt="Listing image for Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Korg Toneworks Pandora PXR4 Digital Recorder with Multi-FX and Memory Cards</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black"><img src="https://i.ebayimg.com/images/g/je8AAeSwXMlqKdVN/s-l225.jpg" alt="Listing image for Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black"><img src="https://i.ebayimg.com/images/g/je8AAeSwXMlqKdVN/s-l225.jpg" alt="Listing image for Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Tascam DP-008EX 8-Track Digital Portastudio Multitrack Recorder Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New In Open Box Digitnow Full Media Recorder. Capture/record."><img src="https://i.ebayimg.com/images/g/oEoAAeSwPIZp-ikB/s-l225.jpg" alt="Listing image for Brand New In Open Box Digitnow Full Media Recorder. Capture/record." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Brand New In Open Box Digitnow Full Media Recorder. Capture/record.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New In Open Box Digitnow Full Media Recorder. Capture/record."><img src="https://i.ebayimg.com/images/g/oEoAAeSwPIZp-ikB/s-l225.jpg" alt="Listing image for Brand New In Open Box Digitnow Full Media Recorder. Capture/record." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">Brand New In Open Box Digitnow Full Media Recorder. Capture/record.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital recorder">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital recorder</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="when-ai-makes-uncertain-ufo-times-look-exact-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,168 +905,168 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: When it comes to studying such phenomena, our  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</p></details>
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCDate is approximate. Sighting Time(Required). Hours.: Minutes. AM, PM. AM/PM. Untitled. Time is a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensic Validation: Principles, Methods, and...In digital forensics, validation refers to the process of ensuring that extracte...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensic Validation: Principles, Methods, and...In digital forensics, validation refers to the process of ensuring that extracte...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0379073824001014" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0379073824001014</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A common framework to situate digital and physical traces...by C Weyermann · 2024 · Cited by 1 — In this article, three mai...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0379073824001014" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0379073824001014</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A common framework to situate digital and physical traces...by C Weyermann · 2024 · Cited by 1 — In this article, three mai...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itsel...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itsel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the internet...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the internet...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: 1039 new reports posted  
-   Link: <a href="https://nuforc.org/1039-new-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/1039-new-reports-posted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
+   Link:<a href="https://nuforc.org/1039-new-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/1039-new-reports-posted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
+   Link:<a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — Right now, the limited high-quality observations of UAP make it impossi...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — Right now, the limited high-quality observations of UAP make it impossi...</p></details>
    Published: May 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 days ago — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 days ago — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, have high quality metadata, record local magnetic field, sound...Read more...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, have high quality metadata, record local magnetic field, sound...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eclipseforensics.com  
    Title: when metadata lies exposing data manipulation in digital files  
-   Link: <a href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</p></details>
+   Link:<a href="https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/when-metadata-lies-exposing-data-manipulation-in-digital-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsWhen Metadata Lies: Exposing Data Manipulation in...16 Apr 2025 — Forensic experts are often called upon to peel back t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
+   Link:<a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — NASA&#x27;s UAP study emphasizes standardizing data collection, metadata... data, und...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — NASA&#x27;s UAP study emphasizes standardizing data collection, metadata... data, und...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KTIM.org/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/992925718811133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTIM.org/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/992925718811133/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the National UFO Reporting Center (NUFORC...NUFORC Note: INVESTIGATION REPORT Witness: S Phone interview date/time: 10-12-2...</p></details>
+   Link:<a href="https://www.facebook.com/KTIM.org/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/992925718811133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTIM.org/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/992925718811133/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the National UFO Reporting Center (NUFORC...NUFORC Note: INVESTIGATION REPORT Witness: S Phone interview date/time: 10-12-2...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cellebritedigitalintelligence/posts/what-started-as-a-simple-question-about-a-timestamp-spiraled-into-pivotal-expert/1301747135301539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cellebritedigitalintelligence/posts/what-started-as-a-simple-question-about-a-timestamp-spiraled-into-pivotal-expert/1301747135301539/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CellebriteA witness who lies about her &#x27;false memory&#x27; should not become the linchpin of a prosecution – let alone a trusted police office...</p></details>
+   Link:<a href="https://www.facebook.com/cellebritedigitalintelligence/posts/what-started-as-a-simple-question-about-a-timestamp-spiraled-into-pivotal-expert/1301747135301539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cellebritedigitalintelligence/posts/what-started-as-a-simple-question-about-a-timestamp-spiraled-into-pivotal-expert/1301747135301539/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CellebriteA witness who lies about her &#x27;false memory&#x27; should not become the linchpin of a prosecution – let alone a trusted police office...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/31712514/Modeling_the_Law_of_Times" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31712514/Modeling_the_Law_of_Times</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling the Law of TimesThe Law of Times is a constant pattern present in every catalog of Unidentified Flying Object (UFO) sightings th...</p></details>
+   Link:<a href="https://www.academia.edu/31712514/Modeling_the_Law_of_Times" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31712514/Modeling_the_Law_of_Times</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling the Law of TimesThe Law of Times is a constant pattern present in every catalog of Unidentified Flying Object (UFO) sightings th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40noahhradek/ufo-reports-over-time-8ae4d7305ad2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/ufo-reports-over-time-8ae4d7305ad2</a>  
+   Link:<a href="https://medium.com/%40noahhradek/ufo-reports-over-time-8ae4d7305ad2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/ufo-reports-over-time-8ae4d7305ad2</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+   Link:<a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
+   Link:<a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
    Published: April 26, 2021  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: a diamond shaped uap moving at approximately 434 knots the observer also reporte  
-   Link: <a href="https://www.facebook.com/FOX7Austin/posts/a-diamond-shaped-uap-moving-at-approximately-434-knots-the-observer-also-reporte/1462526139246970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-diamond-shaped-uap-moving-at-approximately-434-knots-the-observer-also-reporte/1462526139246970/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “diamond-shaped” UAP moving at approximately 434...NUFORC UFO Sighting 181168 Occurred: 2024-04-12 20:10 Local Reported: 2024-04-15 12...</p></details>
+   Link:<a href="https://www.facebook.com/FOX7Austin/posts/a-diamond-shaped-uap-moving-at-approximately-434-knots-the-observer-also-reporte/1462526139246970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-diamond-shaped-uap-moving-at-approximately-434-knots-the-observer-also-reporte/1462526139246970/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “diamond-shaped” UAP moving at approximately 434...NUFORC UFO Sighting 181168 Occurred: 2024-04-12 20:10 Local Reported: 2024-04-15 12...</p></details>
    Published: April 12, 2024  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>

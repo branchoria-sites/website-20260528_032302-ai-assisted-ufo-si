@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 A surprising number of low-altitude UFO reports depend on a simple question that is rarely tested properly: could the witness actually see the proposed object from that location? A bright “hovering craft” near the horizon may later be identified as Venus, the Moon, Jupiter, an [aircraft]({{ 'aircraft/' | relative_url }}) on approach, or a satellite flare, but those explanations fail immediately if hills, ridgelines, tower blocks, woodland or coastal cliffs blocked the line of sight at the reported angle.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-dark.svg" | relative_url }}" alt="Horizon Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why terrain-aware horizons matter in reproducible sky mapping. A flat astronomical horizon assumes an unobstructed 0° skyline. Real observers almost never have that view. In valleys, dense cities and coastal roads, the visible horizon may sit several degrees above the true horizon, enough to hide bright celestial objects entirely. Modern AI-assisted UFO investigation workflows increasingly combine astronomical software with digital [elevation]({{ 'elevation/' | relative_url }}) models, terrain profiles, GIS tools and calibrated witness photography to test whether a suspected explanation was physically visible at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
+This is why terrain-aware horizons matter in reproducible sky mapping. A flat astronomical horizon assumes an unobstructed 0° skyline. Real observers almost never have that view. In valleys, dense cities and coastal roads, the visible horizon may sit several degrees above the true horizon, enough to hide bright celestial objects entirely. Modern AI-assisted UFO investigation workflows increasingly combine astronomical software with digital [elevation]({{ 'elevation/' | relative_url }}) models, terrain profiles, GIS tools and calibrated witness photography to test whether a suspected explanation was physically visible at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
 
 ## Why Flat Horizons Create False Matches
 
@@ -295,7 +295,7 @@ The same problem affects:
 
 </div>
 
-The visible horizon is not the same as the astronomical horizon. The visible horizon is shaped by terrain, buildings, vegetation and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The visible horizon is not the same as the astronomical horizon. The visible horizon is shaped by terrain, buildings, vegetation and atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Even small elevation changes matter. A witness standing at street level in a dense city may lose several degrees of low-altitude sky behind buildings. Likewise, an observer in a Welsh valley or Scottish glen may not see the western sky until an object climbs well above the theoretical horizon.
 
@@ -311,14 +311,14 @@ The core workflow usually includes:
 
 1. Exact observer coordinates
 2. Observer height above ground
-3. Terrain elevation data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
+3. Terrain elevation data<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
 4. Direction and altitude calculations
 5. Time-synchronised astronomical positions
 6. Witness imagery or skyline references
 
 </div>
 
-The terrain component commonly comes from a Digital Elevation Model (DEM), which represents the Earth’s surface as a grid of elevation values. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">digital elevation models terminology and definitions</span><span class="citation-popover-snippet">Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
+The terrain component commonly comes from a Digital Elevation Model (DEM), which represents the Earth’s surface as a grid of elevation values.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">digital elevation models terminology and definitions</span><span class="citation-popover-snippet">Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
 
 An investigation system can then calculate the maximum terrain angle in every compass direction around the witness. Instead of assuming a perfectly flat 0° horizon, the software builds a custom skyline.
 
@@ -375,7 +375,7 @@ A common mistake is to analyse only the luminous object while ignoring the skyli
 * the apparent hover occurred above a ridgeline
 * the “rapid descent” was simply movement behind terrain
 
-Custom landscape imports in astronomy tools such as Stellarium are often used for this purpose. Investigators can build a witness-specific skyline panorama or terrain profile so that reconstructed celestial positions appear against the actual visible horizon rather than a generic flat one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hubhorizon landscape with peakfinder or peakvisor?</span><span class="citation-popover-snippet">#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-snippet">Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</span></span></span>
+Custom landscape imports in astronomy tools such as Stellarium are often used for this purpose. Investigators can build a witness-specific skyline panorama or terrain profile so that reconstructed celestial positions appear against the actual visible horizon rather than a generic flat one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hubhorizon landscape with peakfinder or peakvisor?</span><span class="citation-popover-snippet">#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-snippet">Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</span></span></span>
 
 This becomes particularly important in long-duration UFO reports where witnesses insist that a bright object remained fixed relative to a hill, church tower or mountain notch. If the reconstructed Venus or Jupiter track follows the same apparent geometry over time, the identification strengthens considerably. If the terrain profile contradicts the witness view, the explanation weakens.
 
@@ -422,11 +422,11 @@ In coastal cases, investigators must additionally account for:
 
 * cliff elevations
 * sea-horizon refraction
-* observer height above water <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ringbell.co.uk">[ringbell.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ringbell.co.uk</span><span class="citation-popover-snippet">Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</span></span></span>
+* observer height above water<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ringbell.co.uk">[ringbell.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ringbell.co.uk</span><span class="citation-popover-snippet">Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</span></span></span>
 * harbour lighting
 * offshore platforms
 
-At sea level, the visible horizon differs significantly from an inland ridge horizon. Atmospheric refraction can also slightly extend or distort apparent visibility near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At sea level, the visible horizon differs significantly from an inland ridge horizon. Atmospheric refraction can also slightly extend or distort apparent visibility near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" alt="Horizon Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witness Height And Camera Position Matter
@@ -443,7 +443,7 @@ Critical variables include:
 * drone footage
 * upper-floor windows
 
-Even a small height increase can expose a previously hidden celestial object. Distance-to-horizon calculations demonstrate how observer height changes visibility range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</span></span></span>
+Even a small height increase can expose a previously hidden celestial object. Distance-to-horizon calculations demonstrate how observer height changes visibility range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</span></span></span>
 
 This matters in UFO investigations because witnesses often relocate during the sighting:
 
@@ -482,12 +482,12 @@ Low-resolution elevation models can smooth away small but important ridges. A br
 * seawalls
 * urban structures
 
-High-resolution lidar-derived terrain data usually performs better where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</span></span></span>
+High-resolution lidar-derived terrain data usually performs better where available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Ignoring Buildings And Vegetation
 
-Most DEMs represent bare earth rather than the real skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
+Most DEMs represent bare earth rather than the real skyline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
 
 That means the calculated horizon may still differ from reality in cities or forests. A witness may have lost visibility behind:
 
@@ -510,7 +510,7 @@ A terrain-aware system only works if the azimuth alignment is credible.
 
 ### Atmospheric Effects
 
-Refraction near the horizon can slightly raise apparent object altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Refraction near the horizon can slightly raise apparent object altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Under unusual conditions, bright objects can appear distorted or temporarily visible beyond the expected geometric horizon. This does not usually invalidate terrain analysis, but it can complicate low-altitude edge cases near sea horizons or temperature [inversions]({{ 'inversions/' | relative_url }}).
 
@@ -538,194 +538,194 @@ This prevents two opposite errors:
 In practical UFO case analysis, the skyline is often as important as the sky itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did The Real Horizon Hide The Suspected UFO Object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did The Real Horizon Hide The Suspected UFO Object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Covers observing conditions and horizon effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observing conditions and horizon effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand sky visibility and object identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand sky visibility and object identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for assessing horizon-level celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing horizon-level celestial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/YwwAAeSwCYVqJDq6/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps"><img src="https://i.ebayimg.com/images/g/YwwAAeSwCYVqJDq6/s-l225.jpg" alt="Listing image for Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;s Planisphere (Latitude 51.5 North): For use in... - Philip&#x27;s Maps</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Planisphere Latitude 51.5 North Star And Constellation Map"><img src="https://i.ebayimg.com/images/g/nEIAAeSw3Hxp4USw/s-l225.jpg" alt="Listing image for Philips Planisphere Latitude 51.5 North Star And Constellation Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Planisphere Latitude 51.5 North Star And Constellation Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Planisphere Latitude 51.5 North Star And Constellation Map"><img src="https://i.ebayimg.com/images/g/nEIAAeSw3Hxp4USw/s-l225.jpg" alt="Listing image for Philips Planisphere Latitude 51.5 North Star And Constellation Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Planisphere Latitude 51.5 North Star And Constellation Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planisphere: Latitude 50°N – for us..., Collins Astrono"><img src="https://i.ebayimg.com/images/g/WuAAAeSw7UNpOq~i/s-l225.jpg" alt="Listing image for Planisphere: Latitude 50°N – for us..., Collins Astrono" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Planisphere: Latitude 50°N – for us..., Collins Astrono</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planisphere: Latitude 50°N – for us..., Collins Astrono"><img src="https://i.ebayimg.com/images/g/WuAAAeSw7UNpOq~i/s-l225.jpg" alt="Listing image for Planisphere: Latitude 50°N – for us..., Collins Astrono" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Planisphere: Latitude 50°N – for us..., Collins Astrono</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North"><img src="https://i.ebayimg.com/images/g/YHoAAeSwslZpCj2L/s-l225.jpg" alt="Listing image for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Glow-In-The-Dark Planisphere Latitude 51.5 North</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North"><img src="https://i.ebayimg.com/images/g/YHoAAeSwslZpCj2L/s-l225.jpg" alt="Listing image for Philips Glow-In-The-Dark Planisphere Latitude 51.5 North" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Glow-In-The-Dark Planisphere Latitude 51.5 North</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search<span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-real-horizon-hide-the-suspected-ufo-object-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="did-the-real-horizon-hide-the-suspected-ufo-object-planisphere" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ In practical UFO case analysis, the skyline is often as important as the sky its
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ In practical UFO case analysis, the skyline is often as important as the sky its
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ In practical UFO case analysis, the skyline is often as important as the sky its
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ In practical UFO case analysis, the skyline is often as important as the sky its
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ In practical UFO case analysis, the skyline is often as important as the sky its
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,192 +931,192 @@ In practical UFO case analysis, the skyline is often as important as the sky its
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Horizon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Horizon</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</p></details>
+   Link:<a href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usgs.gov  
    Title: digital elevation models terminology and definitions  
-   Link: <a href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: github.com  
    Title: Git Hubhorizon landscape with peakfinder or peakvisor?  
-   Link: <a href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Stellarium/stellarium/discussions/3574</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</p></details>
+   Link:<a href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Stellarium/stellarium/discussions/3574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</p></details>
+   Link:<a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on dataset that merges trillions of lidar-derived terrain points...</p></details>
+   Link:<a href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on dataset that merges trillions of lidar-derived terrain points...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</p></details>
+   Link:<a href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</p></details>
+   Link:<a href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/files/guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/files/guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium 26.1 User GuidePermission is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Document...</p></details>
+   Link:<a href="https://stellarium.org/files/guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/files/guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium 26.1 User GuidePermission is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Document...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/doc/0.20/classLandscape.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/0.20/classLandscape.html</a>  
+   Link:<a href="https://stellarium.org/doc/0.20/classLandscape.html" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/doc/0.20/classLandscape.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: github.com  
-   Link: <a href="https://github.com/chengxinlun/Stellarium-android/issues/11" target="_blank" rel="noopener noreferrer nofollow">https://github.com/chengxinlun/Stellarium-android/issues/11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Possibility to add custom landscape based on horizon...7 May 2019 — Would you give the user to add his own landscape configuration as ho...</p></details>
+   Link:<a href="https://github.com/chengxinlun/Stellarium-android/issues/11" target="_blank" rel="noopener noreferrer nofollow">https://github.com/chengxinlun/Stellarium-android/issues/11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Possibility to add custom landscape based on horizon...7 May 2019 — Would you give the user to add his own landscape configuration as ho...</p></details>
    Published: May 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Your Own Landscape in Stellarium  
-   Link: <a href="http://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZmJ9m9fMVAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZmJ9m9fMVAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Stellarium with Sky Surveys: Astrophotography Game-Changer!  
-   Link: <a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the Sky...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the Sky...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Best App To Observe Planets, Satellites, Stars And Constellations  
-   Link: <a href="http://www.youtube.com/watch?v=2NfZoxZmox0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2NfZoxZmox0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium celestial navigation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2NfZoxZmox0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2NfZoxZmox0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium celestial navigation...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Stellarium celestial navigation  
-   Link: <a href="http://www.youtube.com/watch?v=Ea2ZKuGf-hE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ea2ZKuGf-hE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium horizon line for observation Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ea2ZKuGf-hE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ea2ZKuGf-hE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium horizon line for observation Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stargazerslounge.com  
-   Link: <a href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stargazerslounge.com  
    Title: 408222 how to create a bespoke stellarium landscape  
-   Link: <a href="https://stargazerslounge.com/topic/408222-how-to-create-a-bespoke-stellarium-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/408222-how-to-create-a-bespoke-stellarium-landscape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Bespoke Stellarium Landscape24 Mar 2023 — The Stellarium User Manual gives some pointers to creating a bespoke landscape...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/408222-how-to-create-a-bespoke-stellarium-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/408222-how-to-create-a-bespoke-stellarium-landscape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Bespoke Stellarium Landscape24 Mar 2023 — The Stellarium User Manual gives some pointers to creating a bespoke landscape...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kloppenborg.net  
    Title: stellarium fisheye landscape  
-   Link: <a href="https://kloppenborg.net/blog/stellarium-fisheye-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://kloppenborg.net/blog/stellarium-fisheye-landscape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create a fisheye horizon landscape for Stellarium3 Dec 2023 — In this blog post I explain how to use your mobile phone and some cross-pla...</p></details>
+   Link:<a href="https://kloppenborg.net/blog/stellarium-fisheye-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://kloppenborg.net/blog/stellarium-fisheye-landscape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create a fisheye horizon landscape for Stellarium3 Dec 2023 — In this blog post I explain how to use your mobile phone and some cross-pla...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aty.sdsu.edu  
-   Link: <a href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/explain/atmos_refr/horizon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</p></details>
+   Link:<a href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/explain/atmos_refr/horizon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stargazerslounge.com  
    Title: Obstructed horizon  
-   Link: <a href="https://stargazerslounge.com/topic/406254-obstructed-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/406254-obstructed-horizon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Astro Lounge7 Feb 2023 — The higher you are and the further away from the obstruction you are the less it affects your view. In my ex...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/406254-obstructed-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/406254-obstructed-horizon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Astro Lounge7 Feb 2023 — The higher you are and the further away from the obstruction you are the less it affects your view. In my ex...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eoportal.org  
    Title: digital elevation models  
-   Link: <a href="https://www.eoportal.org/other-space-activities/digital-elevation-models" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/digital-elevation-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DEMs)19 Sept 2025 — DEMs are commonly used to help correct distortions in satellite data products caused by terrain elevation in a proce...</p></details>
+   Link:<a href="https://www.eoportal.org/other-space-activities/digital-elevation-models" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/digital-elevation-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DEMs)19 Sept 2025 — DEMs are commonly used to help correct distortions in satellite data products caused by terrain elevation in a proce...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archeoastronomy.org  
-   Link: <a href="https://www.archeoastronomy.org/assets/downloads/slides/ast/ast-12_seac2025-stellarium-landscape-course-notes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archeoastronomy.org/assets/downloads/slides/ast/ast-12_seac2025-stellarium-landscape-course-notes.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Panorama (Landscape) TutorialFirst, find a principal match of only the horizon row with as little error as possible...</p></details>
+   Link:<a href="https://www.archeoastronomy.org/assets/downloads/slides/ast/ast-12_seac2025-stellarium-landscape-course-notes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archeoastronomy.org/assets/downloads/slides/ast/ast-12_seac2025-stellarium-landscape-course-notes.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Panorama (Landscape) TutorialFirst, find a principal match of only the horizon row with as little error as possible...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/947470-stellarium-mark-specific-altitude-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/947470-stellarium-mark-specific-altitude-line/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Works with declinations as well. Perfect, that was exactly what I was looking for!Read more...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/947470-stellarium-mark-specific-altitude-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/947470-stellarium-mark-specific-altitude-line/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Works with declinations as well. Perfect, that was exactly what I was looking for!Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cloudynights.com  
    Title: 859139 stellarium landscape image howto  
-   Link: <a href="https://www.cloudynights.com/forums/topic/859139-stellarium-landscape-image-howto/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/859139-stellarium-landscape-image-howto/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Landscape Image Howto14 Jan 2023 — 1.Use an iPhone mounted on a simple tripod · 2.Set it vertical and angled up about 20 degre...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/859139-stellarium-landscape-image-howto/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/859139-stellarium-landscape-image-howto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Landscape Image Howto14 Jan 2023 — 1.Use an iPhone mounted on a simple tripod · 2.Set it vertical and angled up about 20 degre...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: schoolofthefuture.eu  
    Title: Stellarium User Guide  
-   Link: <a href="https://www.schoolofthefuture.eu/sites/default/files/stellarium_user_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.schoolofthefuture.eu/sites/default/files/stellarium_user_guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>polygonal horizon line. Each. R,G,B component is a float within 0...Read more...</p></details>
+   Link:<a href="https://www.schoolofthefuture.eu/sites/default/files/stellarium_user_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.schoolofthefuture.eu/sites/default/files/stellarium_user_guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>polygonal horizon line. Each. R,G,B component is a float within 0...Read more...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ringbell.co.uk  
-   Link: <a href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ringbell.co.uk/info/hdist.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</p></details>
+   Link:<a href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ringbell.co.uk/info/hdist.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: physics.unlv.edu  
-   Link: <a href="https://www.physics.unlv.edu/~jeffery/astro/celestial_sphere/horizon_types_formula.html" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.unlv.edu/~jeffery/astro/celestial_sphere/horizon_types_formula.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNLV Physicshorizon_types_formula.htmlThe visible horizon is the actual local line dividing Earth features and sky. The visible horizon i...</p></details>
+   Link:<a href="https://www.physics.unlv.edu/~jeffery/astro/celestial_sphere/horizon_types_formula.html" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.unlv.edu/~jeffery/astro/celestial_sphere/horizon_types_formula.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNLV Physicshorizon_types_formula.htmlThe visible horizon is the actual local line dividing Earth features and sky. The visible horizon i...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: support.simulationcurriculum.com  
-   Link: <a href="https://support.simulationcurriculum.com/hc/en-us/community/posts/360043200193-How-To-Accurately-Include-A-Custom-Landscape-In-SkySafari-6-Pro-Answer-Read-On" target="_blank" rel="noopener noreferrer nofollow">https://support.simulationcurriculum.com/hc/en-us/community/posts/360043200193-How-To-Accurately-Include-A-Custom-Landscape-In-SkySafari-6-Pro-Answer-Read-On</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Accurately Include A Custom Landscape In...6 Apr 2020 — The vertical sweep of the image represents 180 degrees of altitude, from the...</p></details>
+   Link:<a href="https://support.simulationcurriculum.com/hc/en-us/community/posts/360043200193-How-To-Accurately-Include-A-Custom-Landscape-In-SkySafari-6-Pro-Answer-Read-On" target="_blank" rel="noopener noreferrer nofollow">https://support.simulationcurriculum.com/hc/en-us/community/posts/360043200193-How-To-Accurately-Include-A-Custom-Landscape-In-SkySafari-6-Pro-Answer-Read-On</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Accurately Include A Custom Landscape In...6 Apr 2020 — The vertical sweep of the image represents 180 degrees of altitude, from the...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: omnicalculator.com  
-   Link: <a href="https://www.omnicalculator.com/physics/distance-to-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.omnicalculator.com/physics/distance-to-horizon</a>  
+   Link:<a href="https://www.omnicalculator.com/physics/distance-to-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.omnicalculator.com/physics/distance-to-horizon</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wv_Fpvf06Bw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a Custom Landscape for StellariumThis video is a tutorial that shows you how to make a custom landscape and install it into sola...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wv_Fpvf06Bw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a Custom Landscape for StellariumThis video is a tutorial that shows you how to make a custom landscape and install it into sola...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: up42.com  
    Title: everything you need to know about digital elevation models dem digital  
-   Link: <a href="https://up42.com/blog/everything-you-need-to-know-about-digital-elevation-models-dem-digital" target="_blank" rel="noopener noreferrer nofollow">https://up42.com/blog/everything-you-need-to-know-about-digital-elevation-models-dem-digital</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UP42 Official WebsiteEverything you need to know about Digital Elevation...12 Mar 2021 — A Digital Elevation Model, also known as a DEM...</p></details>
+   Link:<a href="https://up42.com/blog/everything-you-need-to-know-about-digital-elevation-models-dem-digital" target="_blank" rel="noopener noreferrer nofollow">https://up42.com/blog/everything-you-need-to-know-about-digital-elevation-models-dem-digital</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UP42 Official WebsiteEverything you need to know about Digital Elevation...12 Mar 2021 — A Digital Elevation Model, also known as a DEM...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: photoplanet360.fr  
    Title: creer ses paysages panoramiques pour stellarium  
-   Link: <a href="https://photoplanet360.fr/2018/03/02/creer-ses-paysages-panoramiques-pour-stellarium/" target="_blank" rel="noopener noreferrer nofollow">https://photoplanet360.fr/2018/03/02/creer-ses-paysages-panoramiques-pour-stellarium/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Créer ses paysages panoramiques pour Stellarium2 Mar 2018 — La configuration à réaliser pour intégrer le paysage est assez simple, il fau...</p></details>
+   Link:<a href="https://photoplanet360.fr/2018/03/02/creer-ses-paysages-panoramiques-pour-stellarium/" target="_blank" rel="noopener noreferrer nofollow">https://photoplanet360.fr/2018/03/02/creer-ses-paysages-panoramiques-pour-stellarium/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Créer ses paysages panoramiques pour Stellarium2 Mar 2018 — La configuration à réaliser pour intégrer le paysage est assez simple, il fau...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/5246310025458334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/5246310025458334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w I have provided a simple, straight forward perspective drawing...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1295673443855365/posts/5246310025458334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/5246310025458334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w I have provided a simple, straight forward perspective drawing...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: almanac.com  
    Title: What Can You See on the Horizon?  
-   Link: <a href="https://www.almanac.com/what-can-you-see-horizon-and-how-far-it" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/what-can-you-see-horizon-and-how-far-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(And How Far Is It?)6 Oct 2025 — The horizon is that magical but invisible line that appears to separate our Earth from the sky. It&#x27;s the...</p></details>
+   Link:<a href="https://www.almanac.com/what-can-you-see-horizon-and-how-far-it" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/what-can-you-see-horizon-and-how-far-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(And How Far Is It?)6 Oct 2025 — The horizon is that magical but invisible line that appears to separate our Earth from the sky. It&#x27;s the...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nightskymiddleton.uk  
-   Link: <a href="https://nightskymiddleton.uk/2023/01/16/creating-a-custom-horizon-in-n-i-n-a-stellarium-and-sky-safari/" target="_blank" rel="noopener noreferrer nofollow">https://nightskymiddleton.uk/2023/01/16/creating-a-custom-horizon-in-n-i-n-a-stellarium-and-sky-safari/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a custom horizon in N.I.N.A, Stellarium and Sky Safari16 Jan 2023 — In Sky Safari, in Settings – Horizon &amp; Sky, select Show Hori...</p></details>
+   Link:<a href="https://nightskymiddleton.uk/2023/01/16/creating-a-custom-horizon-in-n-i-n-a-stellarium-and-sky-safari/" target="_blank" rel="noopener noreferrer nofollow">https://nightskymiddleton.uk/2023/01/16/creating-a-custom-horizon-in-n-i-n-a-stellarium-and-sky-safari/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a custom horizon in N.I.N.A, Stellarium and Sky Safari16 Jan 2023 — In Sky Safari, in Settings – Horizon &amp; Sky, select Show Hori...</p></details>

@@ -294,7 +294,7 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 ## Introduction
 
-The wave of reported drone sightings over New Jersey in late 2024 became a useful stress test for modern UFO and UAP triage. Thousands of people reported lights, hovering objects and apparent drone formations across New Jersey and nearby states, yet investigators eventually concluded that the reports did not point to a single extraordinary cause. Instead, the episode exposed how quickly public anxiety, social media amplification, lawful [aircraft]({{ 'aircraft/' | relative_url }}) traffic, ordinary drones and genuine uncertainty can merge into a mass-reporting event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
+The wave of reported drone sightings over New Jersey in late 2024 became a useful stress test for modern UFO and UAP triage. Thousands of people reported lights, hovering objects and apparent drone formations across New Jersey and nearby states, yet investigators eventually concluded that the reports did not point to a single extraordinary cause. Instead, the episode exposed how quickly public anxiety, social media amplification, lawful [aircraft]({{ 'aircraft/' | relative_url }}) traffic, ordinary drones and genuine uncertainty can merge into a mass-reporting event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-dark.svg" | relative_url }}" alt="NJ drone wave illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, the New Jersey case matters less as a mystery and more as a workflow lesson. It showed why investigators need structured intake, rapid aviation checks, [confidence]({{ 'confidence/' | relative_url }}) scoring, duplicate filtering and careful communication. A large [sighting wave]({{ 'sighting-wave/' | relative_url }}) can contain real drones, mistaken aircraft identifications, astronomical objects, exaggerated retellings and unresolved fragments at the same time. Treating every report as either “obviously nothing” or “proof of something hidden” leads to poor triage in both directions.
@@ -303,20 +303,20 @@ For AI-assisted UFO investigation, the New Jersey case matters less as a mystery
 
 One reason the New Jersey reports spread so rapidly is that night-time aerial observations are genuinely difficult to interpret from the ground. Witnesses often described lights that appeared to hover, move silently, change direction or fly in coordinated patterns. Yet many of those descriptions are also compatible with normal aircraft seen head-on, helicopters holding position, or distant lights viewed without depth cues.
 
-Federal investigators later stated that many sightings involved lawful manned aircraft, hobby drones, commercial drones and even stars or planets mistakenly identified as drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Drones over New Jersey are all &#x27;lawful&#x27; aircraft</span><span class="citation-popover-snippet">The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span>
+Federal investigators later stated that many sightings involved lawful manned aircraft, hobby drones, commercial drones and even stars or planets mistakenly identified as drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Drones over New Jersey are all &#x27;lawful&#x27; aircraft</span><span class="citation-popover-snippet">The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span>
 
 The New Jersey reports highlighted several recurring misperception patterns that matter directly for UFO triage:
 
-* **Head-on aircraft illusion:** aircraft flying toward an observer can appear nearly stationary for several minutes, especially at night. TSA analysis reportedly concluded that some “hovering drones” near Solberg Airport were actually conventional aircraft on [approach paths]({{ 'approach-paths/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+* **Head-on aircraft illusion:** aircraft flying toward an observer can appear nearly stationary for several minutes, especially at night. TSA analysis reportedly concluded that some “hovering drones” near Solberg Airport were actually conventional aircraft on [approach paths]({{ 'approach-paths/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 * **Brightness distortion:** [landing lights]({{ 'landing-lights/' | relative_url }}) can make ordinary aircraft appear larger, closer or lower than they really are.
 * **Formation illusion:** unrelated aircraft on converging routes may look coordinated from one viewing angle.
 * **Silent-distance effect:** distant aircraft can appear silent because atmospheric conditions reduce audible engine noise.
-* **Celestial confusion:** bright planets and stars near the horizon were repeatedly reported as hovering drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
+* **Celestial confusion:** bright planets and stars near the horizon were repeatedly reported as hovering drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 * **Social reinforcement:** once people expected to see drones, ambiguous lights were more likely to be interpreted as drones.
 
 For AI-assisted UFO investigation, this means witness sincerity cannot be treated as equivalent to object identification. Many New Jersey witnesses probably did observe real lights. The harder question was what those lights actually were.
 
-An important lesson is that “mass sightings” do not automatically imply a single object or coordinated event. During the New Jersey wave, reports spread geographically and behaviour descriptions varied widely. Some reports may have involved real drones, while others likely involved aircraft, helicopters or misidentified celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+An important lesson is that “mass sightings” do not automatically imply a single object or coordinated event. During the New Jersey wave, reports spread geographically and behaviour descriptions varied widely. Some reports may have involved real drones, while others likely involved aircraft, helicopters or misidentified celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 A good triage system therefore separates:
 
@@ -334,7 +334,7 @@ Without that separation, investigators can accidentally merge unrelated events i
 
 ## Official screening and public-tip triage
 
-The New Jersey episode demonstrated how quickly reporting pipelines can become overloaded. The FBI stated that it received thousands of public tips during the wave. Federal agencies later said they had examined more than 5,000 reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
+The New Jersey episode demonstrated how quickly reporting pipelines can become overloaded. The FBI stated that it received thousands of public tips during the wave. Federal agencies later said they had examined more than 5,000 reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
 That volume creates a practical UFO-investigation problem: most reports cannot receive deep manual [review]({{ 'review/' | relative_url }}). AI-assisted filtering becomes essential.
 
@@ -411,7 +411,7 @@ The New Jersey wave showed how easily those categories blur during a fast-moving
 
 One major lesson from the New Jersey case is that aviation checks should occur immediately, not after speculation spreads.
 
-Federal agencies repeatedly stressed that many sightings were explainable as conventional aircraft or lawful drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span>
+Federal agencies repeatedly stressed that many sightings were explainable as conventional aircraft or lawful drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span>
 
 In UFO triage terms, this means automated correlation against:
 
@@ -444,7 +444,7 @@ The New Jersey drone wave became polarised partly because different groups overc
 
 Some commentators treated every report as evidence of secret activity or non-human craft. Others dismissed the entire episode as mass hysteria. The available evidence supports neither extreme cleanly.
 
-Federal agencies said they found no evidence of a national security threat or anomalous craft, while also acknowledging that some reports initially remained unresolved during the investigation process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
+Federal agencies said they found no evidence of a national security threat or anomalous craft, while also acknowledging that some reports initially remained unresolved during the investigation process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
 For UFO triage, this distinction matters.
 
@@ -460,7 +460,7 @@ A sighting can remain unresolved because:
 
 That does not automatically elevate the case into evidence of something exotic.
 
-The New Jersey episode demonstrated this clearly. Some dramatic claims later proved weak or incorrect, including reports tied to ordinary aircraft behaviour or atmospheric interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+The New Jersey episode demonstrated this clearly. Some dramatic claims later proved weak or incorrect, including reports tied to ordinary aircraft behaviour or atmospheric interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 AI-assisted workflows should therefore separate:
 
@@ -475,7 +475,7 @@ Those are very different categories.
 
 Another lesson from New Jersey is that official messaging can unintentionally reshape future reports.
 
-Once media coverage intensified, people actively searched the sky for drones. Reports multiplied across neighbouring states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+Once media coverage intensified, people actively searched the sky for drones. Reports multiplied across neighbouring states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 This creates a feedback loop:
 
@@ -511,7 +511,7 @@ A robust UFO triage system should be able to say:
 
 The alternative is a false choice between “explained” and “mysterious”.
 
-The New Jersey reports illustrate why that middle ground matters. Some sightings almost certainly involved ordinary causes. Some reports were duplicates or misinterpretations. Some likely involved genuine drone operations. A smaller residue lacked enough evidence for firm classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
+The New Jersey reports illustrate why that middle ground matters. Some sightings almost certainly involved ordinary causes. Some reports were duplicates or misinterpretations. Some likely involved genuine drone operations. A smaller residue lacked enough evidence for firm classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
 That layered outcome is normal in large UFO-reporting waves.
 
@@ -532,194 +532,194 @@ The episode also showed why investigators should resist simplistic narratives. L
 That ambiguity is not a failure of investigation. In many UFO cases, careful triage is less about producing one dramatic answer than about reducing confusion without overstating certainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What New Jersey teaches about mass drone reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What New Jersey teaches about mass drone reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for public UAP reporting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for public UAP reporting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful background on case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains perception and judgement errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception and judgement errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/213263-M.jpg" alt="Cover for The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations">The Wisdom of Crowds:Why the Many Are Smarter Than the Few an...</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/213263-M.jpg" alt="Cover for The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations">The Wisdom of Crowds:Why the Many Are Smarter Than the Few an...</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Sociology, Common good, Business, Group decision making, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Sociology, Common good, Business, Group decision making, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic"><img src="https://i.ebayimg.com/images/g/TM8AAeSwbzppzZjS/s-l225.jpg" alt="Listing image for Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic"><img src="https://i.ebayimg.com/images/g/TM8AAeSwbzppzZjS/s-l225.jpg" alt="Listing image for Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Lightweight Drone Landing Gear Display Rack for Mavic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro"><img src="https://i.ebayimg.com/images/g/niwAAeSwz6Bpud5j/s-l225.jpg" alt="Listing image for Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro"><img src="https://i.ebayimg.com/images/g/niwAAeSwz6Bpud5j/s-l225.jpg" alt="Listing image for Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Exhibition Drone Stand for Mavic Series Mavic 3Pro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI FPV Drone Combo - Ex-Demo Display Model"><img src="https://i.ebayimg.com/images/g/LOIAAeSwgoJowrXJ/s-l225.jpg" alt="Listing image for DJI FPV Drone Combo - Ex-Demo Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">DJI FPV Drone Combo - Ex-Demo Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI FPV Drone Combo - Ex-Demo Display Model"><img src="https://i.ebayimg.com/images/g/LOIAAeSwgoJowrXJ/s-l225.jpg" alt="Listing image for DJI FPV Drone Combo - Ex-Demo Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">DJI FPV Drone Combo - Ex-Demo Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight"><img src="https://i.ebayimg.com/images/g/aioAAeSwoCJpTgmY/s-l225.jpg" alt="Listing image for Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight"><img src="https://i.ebayimg.com/images/g/aioAAeSwoCJpTgmY/s-l225.jpg" alt="Listing image for Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">Model Plane Display Stand Portable Drone Mounted Base Bracket Lightweight</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-jersey-teaches-about-mass-drone-reports-drone-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone display model" data-ebay-reference="what-new-jersey-teaches-about-mass-drone-reports-drone-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,98 +925,98 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fbi.gov  
    Title: joint dhs fbi statement on reports of drones in new jersey  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone scare: Newly released documents...May 9, 2025 — On December 3, 2024, the FBI and New Jersey State Police put out a call...</p></details>
+   Link:<a href="https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone scare: Newly released documents...May 9, 2025 — On December 3, 2024, the FBI and New Jersey State Police put out a call...</p></details>
    Published: May 9, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: new jersey drone sightings  
-   Link: <a href="https://time.com/7202191/new-jersey-drone-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7202191/new-jersey-drone-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the &#x27;Drone&#x27; Sightings in New Jersey13 Dec 2024 — Residents in New Jersey have reported sightings of drones “the size o...</p></details>
+   Link:<a href="https://time.com/7202191/new-jersey-drone-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7202191/new-jersey-drone-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the &#x27;Drone&#x27; Sightings in New Jersey13 Dec 2024 — Residents in New Jersey have reported sightings of drones “the size o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
    Title: New York Post Drones over New Jersey are all 'lawful' aircraft  
-   Link: <a href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</p></details>
+   Link:<a href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dhs.gov  
-   Link: <a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
+   Link:<a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gottheimer.house.gov  
-   Link: <a href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow">https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</p></details>
+   Link:<a href="https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity" target="_blank" rel="noopener noreferrer nofollow">https://gottheimer.house.gov/posts/release-gottheimer-calls-on-fbi-dhs-faa-for-an-immediate-public-briefing-on-drone-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govRELEASE: Gottheimer Calls on FBI, DHS, FAA for an...10 Dec 2024 — US Congressman Josh Gottheimer (NJ-5) announced new action to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: politico.com  
-   Link: <a href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</p></details>
+   Link:<a href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/drone-sightings-where-drones-news-update-rj3mfgvkn" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/drone-sightings-where-drones-news-update-rj3mfgvkn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los testigos han descrito objetos &quot;del tamaño de un autobús escolar&quot; con luces intermitentes sobrevolando bases militares, hogares y luga...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/drone-sightings-where-drones-news-update-rj3mfgvkn" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/drone-sightings-where-drones-news-update-rj3mfgvkn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los testigos han descrito objetos &quot;del tamaño de un autobús escolar&quot; con luces intermitentes sobrevolando bases militares, hogares y luga...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feds are urged to deploy high-tech drone hunters to solve...15 Dec 2024 — Top New York political leaders are urging the federal governme...</p></details>
+   Link:<a href="https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/drones-shut-down-airport-runways-new-york-alejandro-mayorkas-says-authorities-are-addressing-jersey-drone-sightings/15659316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feds are urged to deploy high-tech drone hunters to solve...15 Dec 2024 — Top New York political leaders are urging the federal governme...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DougWarner.Journalist/posts/meanwhile-did-the-drones-just-stop-flying-around-me-looking-up-not-seeing-anythi/1160443322108143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DougWarner.Journalist/posts/meanwhile-did-the-drones-just-stop-flying-around-me-looking-up-not-seeing-anythi/1160443322108143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEANWHILE.. did the #drones just stop flying around?...TFR Restrictions on Drones in New Jersey from December 18, 2024, to January 17...</p></details>
+   Link:<a href="https://www.facebook.com/DougWarner.Journalist/posts/meanwhile-did-the-drones-just-stop-flying-around-me-looking-up-not-seeing-anythi/1160443322108143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DougWarner.Journalist/posts/meanwhile-did-the-drones-just-stop-flying-around-me-looking-up-not-seeing-anythi/1160443322108143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEANWHILE.. did the #drones just stop flying around?...TFR Restrictions on Drones in New Jersey from December 18, 2024, to January 17...</p></details>
    Published: December 18, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Phil Murphy has reassured the public that investigations led by the FBI, state police, and other federal authorities have found...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Phil Murphy has reassured the public that investigations led by the FBI, state police, and other federal authorities have found...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — The White House is providing an explanation for the drones that were spot...</p></details>
+   Link:<a href="https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — The White House is providing an explanation for the drones that were spot...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
+   Link:<a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NEWS7/posts/the-faa-has-temporarily-banned-drone-flights-in-areas-of-new-jersey-as-dozens-of/1018499253656042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWS7/posts/the-faa-has-temporarily-banned-drone-flights-in-areas-of-new-jersey-as-dozens-of/1018499253656042/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA has temporarily banned drone flights in areas...19 Dec 2024 — The FAA has temporarily banned drone flights in areas of New Jerse...</p></details>
+   Link:<a href="https://www.facebook.com/NEWS7/posts/the-faa-has-temporarily-banned-drone-flights-in-areas-of-new-jersey-as-dozens-of/1018499253656042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWS7/posts/the-faa-has-temporarily-banned-drone-flights-in-areas-of-new-jersey-as-dozens-of/1018499253656042/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA has temporarily banned drone flights in areas...19 Dec 2024 — The FAA has temporarily banned drone flights in areas of New Jerse...</p></details>

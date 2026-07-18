@@ -276,7 +276,7 @@ In AI-assisted UFO sighting investigation, this matters because a witness may ho
 
 ## Why Point Lights Deform At High Zoom
 
-A distant light source occupies very few pixels on a phone sensor. When the camera cannot maintain proper focus, that point spreads into a larger blur pattern known in optics as a “circle of confusion” or bokeh shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Focus (optics</span><span class="citation-popover-snippet">Focus (optics</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A distant light source occupies very few pixels on a phone sensor. When the camera cannot maintain proper focus, that point spreads into a larger blur pattern known in optics as a “circle of confusion” or bokeh shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Focus (optics</span><span class="citation-popover-snippet">Focus (optics</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The crucial detail is that the blur is not random. It often reflects the internal [geometry]({{ 'geometry/' | relative_url }}) of the lens system itself. Depending on the phone, telescope, binocular attachment, or digital processing pipeline, the resulting blur can appear as:
 
@@ -291,7 +291,7 @@ The crucial detail is that the blur is not random. It often reflects the interna
 
 </div>
 
-People are often surprised that a single bright point can become so elaborate, but out-of-focus highlights routinely inherit aperture and lens characteristics. Optical explanations of bokeh and defocus show that lens shape, aperture blades, aberrations, diffraction, and sensor processing all influence the final pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Defocus aberration</span><span class="citation-popover-snippet">Defocus aberration</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Airy_disk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Airy disk</span><span class="citation-popover-snippet">Airy disk</span></span></span>
+People are often surprised that a single bright point can become so elaborate, but out-of-focus highlights routinely inherit aperture and lens characteristics. Optical explanations of bokeh and defocus show that lens shape, aperture blades, aberrations, diffraction, and sensor processing all influence the final pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Defocus aberration</span><span class="citation-popover-snippet">Defocus aberration</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Airy_disk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Airy disk</span><span class="citation-popover-snippet">Airy disk</span></span></span>
 
 This becomes far more obvious when users apply extreme digital zoom. Most smartphones cannot optically resolve a distant aircraft light or planet at high magnification. Instead, the software enlarges a tiny patch of light and aggressively sharpens it. Once focus slips, the camera is effectively enlarging a blur artefact rather than a detailed object.
 
@@ -299,7 +299,7 @@ That is why a bright point can suddenly appear to “open”, “rotate”, “b
 
 ## Autofocus Hunting During Night Recording
 
-Autofocus systems work by searching for contrast. In daylight, edges and textures provide reliable targets. At night, a bright isolated light against darkness gives the camera very little information to lock onto. Autofocus systems can therefore oscillate back and forth trying to decide where focus should sit. HowStuffWorks This process is commonly called autofocus hunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">How Autofocus Works</span><span class="citation-popover-snippet">ComputerphileWhy are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside came...</span></span></span>
+Autofocus systems work by searching for contrast. In daylight, edges and textures provide reliable targets. At night, a bright isolated light against darkness gives the camera very little information to lock onto. Autofocus systems can therefore oscillate back and forth trying to decide where focus should sit. HowStuffWorks This process is commonly called autofocus hunting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">How Autofocus Works</span><span class="citation-popover-snippet">ComputerphileWhy are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside came...</span></span></span>
 
 In UFO recordings, autofocus hunting can create several misleading behaviours:
 
@@ -316,7 +316,7 @@ In UFO recordings, autofocus hunting can create several misleading behaviours:
 
 To a viewer unfamiliar with optical artefacts, these changes can look like genuine transformations of the object itself. In reality, the camera is continuously moving the focus point.
 
-Night-sky photographers regularly disable autofocus for this reason. Guidance for astrophotography commonly recommends manual focus or focus locking because autofocus becomes unreliable in dark conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gregbenzphotography.com">[Greg Benz Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gregbenzphotography.com</span><span class="citation-popover-title">three easy ways to focus your camera at night</span><span class="citation-popover-snippet">Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</span></span></span> Facebook An important investigative clue is that autofocus-driven morphing often happens in synchrony with zoom changes. The moment the witness pinche <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nity. This will give you better control to get sharp...Read more...</span></span></span> s to zoom further, the shape suddenly becomes exotic. That timing strongly suggests an imaging artefact rather than a physical transformation in the sky.
+Night-sky photographers regularly disable autofocus for this reason. Guidance for astrophotography commonly recommends manual focus or focus locking because autofocus becomes unreliable in dark conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gregbenzphotography.com">[Greg Benz Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gregbenzphotography.com</span><span class="citation-popover-title">three easy ways to focus your camera at night</span><span class="citation-popover-snippet">Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</span></span></span> Facebook An important investigative clue is that autofocus-driven morphing often happens in synchrony with zoom changes. The moment the witness pinche<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nity. This will give you better control to get sharp...Read more...</span></span></span> s to zoom further, the shape suddenly becomes exotic. That timing strongly suggests an imaging artefact rather than a physical transformation in the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ToN15U6dy1Q" title="How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer">How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners</a></p><p class="youtube-embed-meta">Channel: Dr. Becky &middot; Views: 100.2K &middot; Uploaded: March 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ToN15U6dy1Q">Open on YouTube</a></p></div></div></div>
 
@@ -338,11 +338,11 @@ The human eye has limited night detail resolution and naturally stabilises perce
 
 </div>
 
-Those systems can exaggerate patterns that never existed in the [original]({{ 'original-evidence/' | relative_url }}) scene. Research into synthetic bokeh and AI-assisted autofocus in mobile imaging demonstrates how much modern devices computationally manipulate focus and blur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Rendering Natural Camera Bokeh Effect with Deep Learning</span><span class="citation-popover-snippet">Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</span><span class="citation-popover-meta">Published: June 10, 2020</span></span></span>
+Those systems can exaggerate patterns that never existed in the [original]({{ 'original-evidence/' | relative_url }}) scene. Research into synthetic bokeh and AI-assisted autofocus in mobile imaging demonstrates how much modern devices computationally manipulate focus and blur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Rendering Natural Camera Bokeh Effect with Deep Learning</span><span class="citation-popover-snippet">Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</span><span class="citation-popover-meta">Published: June 10, 2020</span></span></span>
 
 This matters in UFO investigations because later viewers often treat the video as more authoritative than the witness account. Yet the opposite may be true. The witness may have seen only a bright light, while the device generated a far more dramatic image.
 
-A recurring pattern in online UFO clips is the “structured orb”: a glowing object with apparent internal geometry visible only at high zoom. In many cases, investigators reproduce similar shapes simply by defocusing [bright planets]({{ 'bright-planets/' | relative_url }}) or aircraft lights through phones or telescopes. Discussions in UFO analysis communities repeatedly identify this effect as a common source of confusion. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</span></span></span>
+A recurring pattern in online UFO clips is the “structured orb”: a glowing object with apparent internal geometry visible only at high zoom. In many cases, investigators reproduce similar shapes simply by defocusing [bright planets]({{ 'bright-planets/' | relative_url }}) or aircraft lights through phones or telescopes. Discussions in UFO analysis communities repeatedly identify this effect as a common source of confusion. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" alt="Focus Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating Lens Artefacts From Object Structure
@@ -426,194 +426,194 @@ That is why video timelines and evidence handling matter so much in UFO investig
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHGn1c7nIP4" title="Red Dot Forum Camera Talk: The Bokeh Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHGn1c7nIP4" target="_blank" rel="noopener noreferrer">Red Dot Forum Camera Talk: The Bokeh Episode</a></p><p class="youtube-embed-meta">Channel: RedDotForum &middot; Views: 15.9K &middot; Uploaded: September 2023 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHGn1c7nIP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHGn1c7nIP4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did The UFO Change Shape Or Did Focus Fail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did The UFO Change Shape Or Did Focus Fail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to focus, exposure and point-light distortion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to focus, exposure and point-light distortion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Strong fit for distinguishing object structure from image artefacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for distinguishing object structure from image artefacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports testing camera explanations before accepting anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports testing camera explanations before accepting anomalous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Photographer&#x27;s Eye on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OsoqBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Photographer&#x27;s Eye" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Photographer&#x27;s Eye">The Photographer&#x27;s Eye</a>
-        </h4>
-        <p class="fr-book-author">By Michael Freeman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Photographer&#x27;s Eye on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OsoqBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Photographer&#x27;s Eye" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Photographer&#x27;s Eye">The Photographer&#x27;s Eye</a>
+</h4>
+<p class="fr-book-author">By Michael Freeman</p>
         
-        <p class="fr-book-desc">Helps readers understand composition, perception and visual interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand composition, perception and visual interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°"><img src="https://i.ebayimg.com/images/g/spEAAOSwZRJoN8QD/s-l225.jpg" alt="Listing image for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°"><img src="https://i.ebayimg.com/images/g/spEAAOSwZRJoN8QD/s-l225.jpg" alt="Listing image for UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">UK Manbily Tripod for Shooting &amp; Camera Picatinny Arca Swiss Adapter 360°</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-ufo-change-shape-or-did-focus-fail-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="did-the-ufo-change-shape-or-did-focus-fail-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,154 +819,154 @@ That is why video timelines and evidence handling matter so much in UFO investig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Focus (optics)  
-   Link: <a href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Focus_%28optics%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Focus_%28optics%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Defocus aberration  
-   Link: <a href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defocus_aberration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defocus_aberration</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Airy disk  
-   Link: <a href="https://en.wikipedia.org/wiki/Airy_disk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airy_disk</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Airy_disk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airy_disk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Autofocus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autofocus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 2004 — An autofocus (AF) optical system uses a sensor, a control system and a motor to focus on an automatically- or manual...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Autofocus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autofocus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 2004 — An autofocus (AF) optical system uses a sensor, a control system and a motor to focus on an automatically- or manual...</p></details>
    Published: September 18, 2004  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: electronics.howstuffworks.com  
-   Link: <a href="https://electronics.howstuffworks.com/autofocus.htm" target="_blank" rel="noopener noreferrer nofollow">https://electronics.howstuffworks.com/autofocus.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autofocus Cameras WorkEver wonder how your camera knows what you&#x27;re looking at? Understand how autofocus cameras lock on to the object yo...</p></details>
+   Link:<a href="https://electronics.howstuffworks.com/autofocus.htm" target="_blank" rel="noopener noreferrer nofollow">https://electronics.howstuffworks.com/autofocus.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autofocus Cameras WorkEver wonder how your camera knows what you&#x27;re looking at? Understand how autofocus cameras lock on to the object yo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nity. This will give you better control to get sharp...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nity. This will give you better control to get sharp...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preventing focus issues when recording night sky videosThe image sensor in a smartphone camera is weak and practically &quot;blind,&quot; especiall...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preventing focus issues when recording night sky videosThe image sensor in a smartphone camera is weak and practically &quot;blind,&quot; especiall...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Rendering Natural Camera Bokeh Effect with Deep Learning  
-   Link: <a href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.05698</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.05698</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</p></details>
    Published: June 10, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Synthetic Defocus and Look-Ahead Autofocus for Casual Videography  
-   Link: <a href="https://arxiv.org/abs/1905.06326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.06326</a>  
+   Link:<a href="https://arxiv.org/abs/1905.06326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.06326</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch this to better understand in focus and out of...December 11, 2024 — Is it a UFO or something ordinary? From the guy&#x27;s reacti...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch this to better understand in focus and out of...December 11, 2024 — Is it a UFO or something ordinary? From the guy&#x27;s reacti...</p></details>
    Published: December 11, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deo is 100% a Chinese latern not an alien space craft. https...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deo is 100% a Chinese latern not an alien space craft. https...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/</a>  
+   Link:<a href="https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/343329786021733/posts/2324191084602250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/343329786021733/posts/2324191084602250/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last time it looked like a ufo 🛸...</p></details>
+   Link:<a href="https://www.facebook.com/groups/343329786021733/posts/2324191084602250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/343329786021733/posts/2324191084602250/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Last time it looked like a ufo 🛸...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practically what...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practically what...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DS2MuDuDTiL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS2MuDuDTiL/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create this effect using only your phone 🥰 This technique is...Here&#x27;s how it works: Bokeh is the soft, dreamy blur you see in the backgr...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DS2MuDuDTiL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS2MuDuDTiL/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create this effect using only your phone 🥰 This technique is...Here&#x27;s how it works: Bokeh is the soft, dreamy blur you see in the backgr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gregbenzphotography.com  
    Title: three easy ways to focus your camera at night  
-   Link: <a href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</p></details>
+   Link:<a href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: interceptor121.com  
    Title: focussing techniques for video part ii auto focus settings  
-   Link: <a href="https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/" target="_blank" rel="noopener noreferrer nofollow">https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Focussing Techniques for Video – Part II Auto Focus Settings17 Feb 2020 — In this article I diagnose 3 classic focus issues and provide s...</p></details>
+   Link:<a href="https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/" target="_blank" rel="noopener noreferrer nofollow">https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Focussing Techniques for Video – Part II Auto Focus Settings17 Feb 2020 — In this article I diagnose 3 classic focus issues and provide s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: electronics.alibaba.com  
    Title: autofocus camera mobile phone guide what actually matters  
-   Link: <a href="https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters" target="_blank" rel="noopener noreferrer nofollow">https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Choose an Autofocus Camera Mobile Phone30 Apr 2026 — Learn how autofocus works in smartphones, what specs truly affect focus speed and...</p></details>
+   Link:<a href="https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters" target="_blank" rel="noopener noreferrer nofollow">https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Choose an Autofocus Camera Mobile Phone30 Apr 2026 — Learn how autofocus works in smartphones, what specs truly affect focus speed and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aldomedia.com  
    Title: Best Tips for UFO and UAP Photography with Your  
-   Link: <a href="https://www.aldomedia.com/blog/ufo-uap-photography-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.aldomedia.com/blog/ufo-uap-photography-tips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs directly, external lighting can help illuminate surrounding details if needed. Reporting and Sharing Your Photos. Once you&#x27;ve captur...</p></details>
+   Link:<a href="https://www.aldomedia.com/blog/ufo-uap-photography-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.aldomedia.com/blog/ufo-uap-photography-tips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs directly, external lighting can help illuminate surrounding details if needed. Reporting and Sharing Your Photos. Once you&#x27;ve captur...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: photo.stackexchange.com  
-   Link: <a href="https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comTechnically, why is the out of focus area blurred more when...25 Jun 2011 — I&#x27;m wondering, technically, why and how doe...</p></details>
+   Link:<a href="https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comTechnically, why is the out of focus area blurred more when...25 Jun 2011 — I&#x27;m wondering, technically, why and how doe...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fstoppers.com  
    Title: original what lens diffraction and when does diffraction happen 6022  
-   Link: <a href="https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022" target="_blank" rel="noopener noreferrer nofollow">https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The resulting 36 megapixel images revealed that...Read more...</p></details>
+   Link:<a href="https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022" target="_blank" rel="noopener noreferrer nofollow">https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The resulting 36 megapixel images revealed that...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cambridgeincolour.com  
-   Link: <a href="https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge in ColourDiffraction Limited Photography: Pixel Size, Aperture and...It happens because light begins to disperse or &quot;diffract&quot;...</p></details>
+   Link:<a href="https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge in ColourDiffraction Limited Photography: Pixel Size, Aperture and...It happens because light begins to disperse or &quot;diffract&quot;...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: How Autofocus Works  
-   Link: <a href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B-TOUPXytw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ComputerphileWhy are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside came...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B-TOUPXytw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ComputerphileWhy are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside came...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: photographylife.com  
    Title: what is diffraction in photography  
-   Link: <a href="https://photographylife.com/what-is-diffraction-in-photography" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/what-is-diffraction-in-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, every time that waves pass through a slit, they will...Read more...</p></details>
+   Link:<a href="https://photographylife.com/what-is-diffraction-in-photography" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/what-is-diffraction-in-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, every time that waves pass through a slit, they will...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: photographylife.com  
    Title: autofocus modes  
-   Link: <a href="https://photographylife.com/autofocus-modes" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/autofocus-modes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained2 Aug 2023 — In this article, I will teach you everything I know about focus modes on modern DSLR and mirrorless cameras.Read more...</p></details>
+   Link:<a href="https://photographylife.com/autofocus-modes" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/autofocus-modes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained2 Aug 2023 — In this article, I will teach you everything I know about focus modes on modern DSLR and mirrorless cameras.Read more...</p></details>

@@ -269,24 +269,24 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 ## Introduction
 
-A low-flying [aircraft]({{ 'aircraft/' | relative_url }}) can vanish from a public tracking map even when it is broadcasting normally. In UFO investigations, this is one of the most important reasons not to treat an empty flight-tracker screen as proof that no aircraft was present. Public tracking services depend on networks of ground receivers, and those receivers only work when they have a usable line of sight to the aircraft. Hills, valleys, cliffs, forests, urban skylines and even the curvature of the Earth can interrupt reception at surprisingly short distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[2Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000115347 what is the coverage area of an ads b receiver</span><span class="citation-popover-snippet">However, coverage can extend up to 400 km (about 250...Read more...</span></span></span>
+A low-flying [aircraft]({{ 'aircraft/' | relative_url }}) can vanish from a public tracking map even when it is broadcasting normally. In UFO investigations, this is one of the most important reasons not to treat an empty flight-tracker screen as proof that no aircraft was present. Public tracking services depend on networks of ground receivers, and those receivers only work when they have a usable line of sight to the aircraft. Hills, valleys, cliffs, forests, urban skylines and even the curvature of the Earth can interrupt reception at surprisingly short distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[2Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000115347 what is the coverage area of an ads b receiver</span><span class="citation-popover-snippet">However, coverage can extend up to 400 km (about 250...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-dark.svg" | relative_url }}" alt="Coverage gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters especially for helicopters, police aircraft, air ambulances, coastguard flights and light aircraft operating below a few thousand feet. Witnesses often report these aircraft as unusually silent, hovering, suddenly accelerating or “disappearing”, particularly at night or over uneven terrain. When the matching track is fragmented or absent from a public map, the sighting can appear more mysterious than it really is. A careful AI-assisted UFO investigation therefore needs to examine tracking coverage quality, local geography and probable flight [geometry]({{ 'geometry/' | relative_url }}) before concluding that the airspace was empty.
 
 ## Receiver Blind Spots And Terrain Masking
 
-ADS-B and similar tracking systems are fundamentally radio systems. Most public aircraft maps rely on signals being picked up by volunteers or commercial ground receivers. Those signals travel mainly by line of sight. If terrain blocks the path between aircraft and receiver, the track may vanish. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</span></span></span>
+ADS-B and similar tracking systems are fundamentally radio systems. Most public aircraft maps rely on signals being picked up by volunteers or commercial ground receivers. Those signals travel mainly by line of sight. If terrain blocks the path between aircraft and receiver, the track may vanish. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</span></span></span>
 
-At cruising altitude, this is less of a problem because airliners are high enough to “see” many receivers at once. A helicopter following a river valley at 400 feet is a different situation entirely. Even modest ridgelines can obstruct reception. A coastline can create the same effect because there may be few receivers offshore. Rural areas often have sparse receiver coverage compared with cities and airports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000115347 what is the coverage area of an ads b receiver</span><span class="citation-popover-snippet">However, coverage can extend up to 400 km (about 250...Read more...</span></span></span> [2Flightradar24]
+At cruising altitude, this is less of a problem because airliners are high enough to “see” many receivers at once. A helicopter following a river valley at 400 feet is a different situation entirely. Even modest ridgelines can obstruct reception. A coastline can create the same effect because there may be few receivers offshore. Rural areas often have sparse receiver coverage compared with cities and airports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000115347 what is the coverage area of an ads b receiver</span><span class="citation-popover-snippet">However, coverage can extend up to 400 km (about 250...Read more...</span></span></span> [2Flightradar24]
 
-The geometry is easy to underestimate. A receiver mounted on a suburban rooftop may track aircraft hundreds of kilometres away at high altitude, yet lose a helicopter only a short distance beyond a hill. Researchers examining ADS-B collection in US national parks found that terrain shielding and building obstruction significantly affected aircraft signal capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169204618313197" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Fig. 3...Read more...</span></span></span>
+The geometry is easy to underestimate. A receiver mounted on a suburban rooftop may track aircraft hundreds of kilometres away at high altitude, yet lose a helicopter only a short distance beyond a hill. Researchers examining ADS-B collection in US national parks found that terrain shielding and building obstruction significantly affected aircraft signal capture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169204618313197" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Fig. 3...Read more...</span></span></span>
 
 This produces a common UFO-investigation mistake: assuming that a public tracker’s clean map reflects complete surveillance coverage. In reality, coverage is highly uneven. A sighting above central London and a sighting in a coastal valley in Wales may have completely different tracking reliability even if both use the same app.
 
 ### Why Low Altitude Changes Everything
 
-Low altitude dramatically reduces radio horizon distance. The lower the aircraft, the less area its transmissions can physically reach before terrain or Earth curvature intervene. Aviation guidance from the FAA notes that ADS-B range depends heavily on altitude and terrain blocking the line of sight to ground stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span>
+Low altitude dramatically reduces radio horizon distance. The lower the aircraft, the less area its transmissions can physically reach before terrain or Earth curvature intervene. Aviation guidance from the FAA notes that ADS-B range depends heavily on altitude and terrain blocking the line of sight to ground stations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span>
 
 In practice, this means:
 
@@ -296,11 +296,11 @@ In practice, this means:
 * A helicopter flying behind a ridge may briefly vanish and reappear.
 * Aircraft operating beneath surrounding terrain can produce intermittent tracks.
 * Water crossings and remote coastlines often create reception gaps.
-* MLAT tracking, which requires multiple receivers, becomes unreliable at low altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with mlat</span><span class="citation-popover-snippet">How We Track Flights with MLAT &#124; Flightradar24 Blog13 May 2015 — Additional receivers bring MLAT coverage to new locations a...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+* MLAT tracking, which requires multiple receivers, becomes unreliable at low altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with mlat</span><span class="citation-popover-snippet">How We Track Flights with MLAT &#124; Flightradar24 Blog13 May 2015 — Additional receivers bring MLAT coverage to new locations a...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
 </div>
 
-Online tracking communities repeatedly observe this effect. Pilots and ADS-B hobbyists frequently report helicopters disappearing below roughly 500 feet during low-level manoeuvres or river operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">hi what does it mean when there are helicopters</span><span class="citation-popover-snippet">What does it mean when there are helicopters that aren&#x27;...July 8, 2025 — Depending on the helicopter altitude and terrain it could simpl...</span><span class="citation-popover-meta">Published: July 8, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">verage, especially at lower altitudes where signals cannot travel as far...</span></span></span>
+Online tracking communities repeatedly observe this effect. Pilots and ADS-B hobbyists frequently report helicopters disappearing below roughly 500 feet during low-level manoeuvres or river operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">hi what does it mean when there are helicopters</span><span class="citation-popover-snippet">What does it mean when there are helicopters that aren&#x27;...July 8, 2025 — Depending on the helicopter altitude and terrain it could simpl...</span><span class="citation-popover-meta">Published: July 8, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">verage, especially at lower altitudes where signals cannot travel as far...</span></span></span>
 
 For UFO case analysis, this means the exact altitude estimate from witnesses becomes important. An object described as “just above the treeline” should immediately raise the possibility of [incomplete]({{ 'incomplete-data/' | relative_url }}) tracking coverage.
 
@@ -321,9 +321,9 @@ Helicopters are disproportionately associated with broken or partial public trac
 
 Unlike commercial jets, helicopters frequently operate close to obstacles. Police helicopters orbit cities at low level. Air ambulances land near hospitals. Military helicopters may use valleys or coastal routes. Agricultural and utility helicopters can operate extremely low to the ground.
 
-Researchers studying helicopter manoeuvres from ADS-B data specifically noted the challenge of low-altitude coverage when analysing helicopter trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2673-4591/13/1/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Helicopter Flight Manoeuvre Statistics via ADS-B: An Initial...by J Hoole · 2021 · Cited by 5 — This paper explores the feasibility...</span></span></span>
+Researchers studying helicopter manoeuvres from ADS-B data specifically noted the challenge of low-altitude coverage when analysing helicopter trajectories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2673-4591/13/1/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Helicopter Flight Manoeuvre Statistics via ADS-B: An Initial...by J Hoole · 2021 · Cited by 5 — This paper explores the feasibility...</span></span></span>
 
-Public tracking systems also rely on different technologies depending on the aircraft. Some helicopters transmit full ADS-B position data. Others may only transmit Mode S signals requiring multilateration, or MLAT. MLAT works by comparing signal timing across multiple receivers. At low altitude, there may not be enough simultaneous receiver visibility to calculate a stable position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">common errors on flightradar24</span><span class="citation-popover-snippet">Common Errors on Flightradar2410 Aug 2015 — This can also happen when we&#x27;re tracking flights with MLAT when the signal is we...</span></span></span>
+Public tracking systems also rely on different technologies depending on the aircraft. Some helicopters transmit full ADS-B position data. Others may only transmit Mode S signals requiring multilateration, or MLAT. MLAT works by comparing signal timing across multiple receivers. At low altitude, there may not be enough simultaneous receiver visibility to calculate a stable position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">common errors on flightradar24</span><span class="citation-popover-snippet">Common Errors on Flightradar2410 Aug 2015 — This can also happen when we&#x27;re tracking flights with MLAT when the signal is we...</span></span></span>
 
 This can create strange-looking tracks:
 
@@ -345,7 +345,7 @@ These artefacts can strongly affect witness interpretation. A helicopter glimpse
 
 Certain landscapes repeatedly generate tracking blind spots.
 
-Mountain valleys are the clearest example. Receivers may only detect aircraft once they climb above surrounding ridges. A helicopter can therefore appear on a tracker during transit, disappear while crossing a valley system, then reappear farther away. Flightradar24 community discussions regularly identify terrain blocking as a major reason for missing helicopter tracks in mountainous areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[FlightRadar24 Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">10520 low helicopters in a valley</span><span class="citation-popover-snippet">FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</span></span></span>
+Mountain valleys are the clearest example. Receivers may only detect aircraft once they climb above surrounding ridges. A helicopter can therefore appear on a tracker during transit, disappear while crossing a valley system, then reappear farther away. Flightradar24 community discussions regularly identify terrain blocking as a major reason for missing helicopter tracks in mountainous areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[FlightRadar24 Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">10520 low helicopters in a valley</span><span class="citation-popover-snippet">FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</span></span></span>
 
 Coastlines produce a different problem. Receiver networks are usually land-based. Aircraft flying low over water may have weak reception because there are simply fewer receivers in the correct direction. A coastguard helicopter flying offshore at low level can therefore drop off public maps despite remaining fully visible to official systems.
 
@@ -355,7 +355,7 @@ This distinction matters in UFO reports near cliffs, beaches, islands or estuari
 
 Another source of confusion is that different public services use different receiver networks and filtering rules. One site may show a partial helicopter track while another shows nothing at all.
 
-Some platforms rely heavily on volunteer ADS-B receivers. Others combine MLAT, radar feeds or satellite-based ADS-B. Coverage density therefore varies from one service to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">10520 low helicopters in a valley</span><span class="citation-popover-snippet">FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">222817 possible reasons for missing helicopters in the mountains</span><span class="citation-popover-snippet">FlightRadar24 ForumPossible reasons for missing helicopters in the mountains15 Dec 2023 — Other reasons: Aircraft is MLAT equipped and n...</span></span></span>
+Some platforms rely heavily on volunteer ADS-B receivers. Others combine MLAT, radar feeds or satellite-based ADS-B. Coverage density therefore varies from one service to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">10520 low helicopters in a valley</span><span class="citation-popover-snippet">FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.flightradar24.com</span><span class="citation-popover-title">222817 possible reasons for missing helicopters in the mountains</span><span class="citation-popover-snippet">FlightRadar24 ForumPossible reasons for missing helicopters in the mountains15 Dec 2023 — Other reasons: Aircraft is MLAT equipped and n...</span></span></span>
 
 This creates an important investigative principle: a single negative tracker result is [weak evidence]({{ 'weak-evidence/' | relative_url }}).
 
@@ -444,7 +444,7 @@ When a witness says:
 the next investigative step should not be immediate dismissal or immediate escalation to extraordinary explanations. Instead, the investigation should examine:
 
 * local topography
-* probable aircraft altitude <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span>
+* probable aircraft altitude<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span>
 * nearby receiver density
 * coastline or mountain masking
 * MLAT dependence
@@ -458,194 +458,194 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OYouEQaoAPI" title="How Aircraft Fool Radars by Flying Low" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OYouEQaoAPI" target="_blank" rel="noopener noreferrer">How Aircraft Fool Radars by Flying Low</a></p><p class="youtube-embed-meta">Channel: Not What You Think &middot; Views: 1.2M &middot; Uploaded: November 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OYouEQaoAPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OYouEQaoAPI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Low Aircraft Sometimes Vanish From Tracking Maps. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Low Aircraft Sometimes Vanish From Tracking Maps. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Fits missing data, coverage gaps and false confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits missing data, coverage gaps and false confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful interpretation of absent tracker results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful interpretation of absent tracker results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Keeps the lane within aviation and aircraft operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the lane within aviation and aircraft operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Provides context for low-level aircraft and flight behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for low-level aircraft and flight behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9"><img src="https://i.ebayimg.com/images/g/pXYAAeSwYflpXkME/s-l225.jpg" alt="Listing image for ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9"><img src="https://i.ebayimg.com/images/g/pXYAAeSwYflpXkME/s-l225.jpg" alt="Listing image for ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADS-B Microstrip 1090MHZ Transmission Range 1-1.2GHz for Adsb Receiver U8V9</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB SDR receiver with filter for flight tracking. Tested"><img src="https://i.ebayimg.com/images/g/xbMAAOSwkkRkY87S/s-l225.jpg" alt="Listing image for ADSB SDR receiver with filter for flight tracking. Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB SDR receiver with filter for flight tracking. Tested</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADSB SDR receiver with filter for flight tracking. Tested"><img src="https://i.ebayimg.com/images/g/xbMAAOSwkkRkY87S/s-l225.jpg" alt="Listing image for ADSB SDR receiver with filter for flight tracking. Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">ADSB SDR receiver with filter for flight tracking. Tested</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals"><img src="https://i.ebayimg.com/images/g/7H8AAeSw4GhpDPBD/s-l225.jpg" alt="Listing image for Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals"><img src="https://i.ebayimg.com/images/g/7H8AAeSw4GhpDPBD/s-l225.jpg" alt="Listing image for Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">Full Band 0 1MHz 1 7GHz TCXO Stable Receiver for RTL Aviation ADSB Signals</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Panorama AS-1105 ADSB Antenna"><img src="https://i.ebayimg.com/images/g/GXMAAeSwy7NqHpx-/s-l225.jpg" alt="Listing image for Panorama AS-1105 ADSB Antenna" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">Panorama AS-1105 ADSB Antenna</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search <span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Panorama AS-1105 ADSB Antenna"><img src="https://i.ebayimg.com/images/g/GXMAAeSwy7NqHpx-/s-l225.jpg" alt="Listing image for Panorama AS-1105 ADSB Antenna" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">Panorama AS-1105 ADSB Antenna</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for adsb receiver">Search<span data-ebay-domain-label>eBay.co.uk</span>: adsb receiver</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="why-low-aircraft-sometimes-vanish-from-tracking-maps-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,192 +851,192 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
    Title: how we track flights with mlat  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with MLAT | Flightradar24 Blog13 May 2015 — Additional receivers bring MLAT coverage to new locations a...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with MLAT | Flightradar24 Blog13 May 2015 — Additional receivers bring MLAT coverage to new locations a...</p></details>
    Published: May 2015  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169204618313197" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169204618313197</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fig. 3...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0169204618313197" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169204618313197</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fig. 3...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightradar24.com  
    Title: common errors on flightradar24  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Errors on Flightradar2410 Aug 2015 — This can also happen when we&#x27;re tracking flights with MLAT when the signal is we...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Errors on Flightradar2410 Aug 2015 — This can also happen when we&#x27;re tracking flights with MLAT when the signal is we...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: hi what does it mean when there are helicopters  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What does it mean when there are helicopters that aren&#x27;...July 8, 2025 — Depending on the helicopter altitude and terrain it could simpl...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What does it mean when there are helicopters that aren&#x27;...July 8, 2025 — Depending on the helicopter altitude and terrain it could simpl...</p></details>
    Published: July 8, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>verage, especially at lower altitudes where signals cannot travel as far...</p></details>
+   Link:<a href="https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1jqstem/he_just_vanished_while_loosing_altitude_and_still/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>verage, especially at lower altitudes where signals cannot travel as far...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/r37989/adsb_typical_flights_per_day/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/r37989/adsb_typical_flights_per_day/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r reception significantly. Line of...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/r37989/adsb_typical_flights_per_day/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/r37989/adsb_typical_flights_per_day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r reception significantly. Line of...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-4591/13/1/10" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4591/13/1/10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Flight Manoeuvre Statistics via ADS-B: An Initial...by J Hoole · 2021 · Cited by 5 — This paper explores the feasibility...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-4591/13/1/10" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4591/13/1/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Flight Manoeuvre Statistics via ADS-B: An Initial...by J Hoole · 2021 · Cited by 5 — This paper explores the feasibility...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: forum.flightradar24.com  
    Title: 10520 low helicopters in a valley  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/10520-low-helicopters-in-a-valley</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FlightRadar24 ForumLow helicopters in a valley25 Jan 2017 — I suspect by the very short tracks it has that it is a MLAT target (no positi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: forum.flightradar24.com  
    Title: 222817 possible reasons for missing helicopters in the mountains  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FlightRadar24 ForumPossible reasons for missing helicopters in the mountains15 Dec 2023 — Other reasons: Aircraft is MLAT equipped and n...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/222817-possible-reasons-for-missing-helicopters-in-the-mountains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FlightRadar24 ForumPossible reasons for missing helicopters in the mountains15 Dec 2023 — Other reasons: Aircraft is MLAT equipped and n...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>air traffic control. This...Read more...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>air traffic control. This...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) information broadcast on 1090ES? Do I have to use the same altitude source...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) information broadcast on 1090ES? Do I have to use the same altitude source...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ins and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, altitude, ground speed and other d...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ins and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, altitude, ground speed and other d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LuftRaum/comments/1m687cl/warum_sehe_ich_den_nicht_auf_flightradar24_wenn/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LuftRaum/comments/1m687cl/warum_sehe_ich_den_nicht_auf_flightradar24_wenn/?tl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>itudes, the aircraft are often not &quot;seen&quot; by enough receivers.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/LuftRaum/comments/1m687cl/warum_sehe_ich_den_nicht_auf_flightradar24_wenn/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LuftRaum/comments/1m687cl/warum_sehe_ich_den_nicht_auf_flightradar24_wenn/?tl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>itudes, the aircraft are often not &quot;seen&quot; by enough receivers.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/RTLSDR/comments/1hc56rh/is_direct_vision_required_for_adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RTLSDR/comments/1hc56rh/is_direct_vision_required_for_adsb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I am able to pick and decode only one or two ADS-B transmissions...</p></details>
+   Link:<a href="https://www.reddit.com/r/RTLSDR/comments/1hc56rh/is_direct_vision_required_for_adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RTLSDR/comments/1hc56rh/is_direct_vision_required_for_adsb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I am able to pick and decode only one or two ADS-B transmissions...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2025 — Learn how Flightradar24 uses MLAT or Multilateration to combat the problem of GPS interference, including GPS jamming and G...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2025 — Learn how Flightradar24 uses MLAT or Multilateration to combat the problem of GPS interference, including GPS jamming and G...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: forum.flightradar24.com  
    Title: 200091 helicopter tracking and data anomalies  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/200091-helicopter-tracking-and-data-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/200091-helicopter-tracking-and-data-anomalies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cover below 200ft is at best, best effort in most places - with caveats. There may be multiple...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/200091-helicopter-tracking-and-data-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/200091-helicopter-tracking-and-data-anomalies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cover below 200ft is at best, best effort in most places - with caveats. There may be multiple...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: flightradar24.com  
    Title: The helicopter was not broadcasting ADS-B data.Read more  
-   Link: <a href="https://www.flightradar24.com/blog/flight-tracking-news/major-incident/psa-airlines-crj-700-collides-with-us-military-helicopter-in-washington-dc/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/flight-tracking-news/major-incident/psa-airlines-crj-700-collides-with-us-military-helicopter-in-washington-dc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PSA Airlines CRJ-700 collides with US military helicopter...Jan 30, 2025 — The last position received from the CRJ via ADS-B was 38.8438...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/flight-tracking-news/major-incident/psa-airlines-crj-700-collides-with-us-military-helicopter-in-washington-dc/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/flight-tracking-news/major-incident/psa-airlines-crj-700-collides-with-us-military-helicopter-in-washington-dc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PSA Airlines CRJ-700 collides with US military helicopter...Jan 30, 2025 — The last position received from the CRJ via ADS-B was 38.8438...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: forum.flightradar24.com  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-aircraft-database/11995-discussion-about-flightradar24-database/page21" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-aircraft-database/11995-discussion-about-flightradar24-database/page21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about Flightradar24 databaseA seemingly simple suggestion is for the FR24 to make more receivers available to meet this demand for low-al...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-aircraft-database/11995-discussion-about-flightradar24-database/page21" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-aircraft-database/11995-discussion-about-flightradar24-database/page21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about Flightradar24 databaseA seemingly simple suggestion is for the FR24 to make more receivers available to meet this demand for low-al...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/about_android.php" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/about_android.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Flightradar24.com for AndroidSecond, if the aircraft is fitted with a Mode S transponder and not visible, it may be flying in areas...</p></details>
+   Link:<a href="https://www.flightradar24.com/about_android.php" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/about_android.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Flightradar24.com for AndroidSecond, if the aircraft is fitted with a Mode S transponder and not visible, it may be flying in areas...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How it worksYou can customize how long aircraft out of coverage are estimated on the map under Settings. Estimations are displayed with a...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How it worksYou can customize how long aircraft out of coverage are estimated on the map under Settings. Estimations are displayed with a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.fr24.com  
    Title: 3000115347 what is the coverage area of an ads b receiver  
-   Link: <a href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, coverage can extend up to 400 km (about 250...Read more...</p></details>
+   Link:<a href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, coverage can extend up to 400 km (about 250...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: allegro.pl  
-   Link: <a href="https://allegro.pl/ads?srsltid=AfmBOop4cMUJjKVPuu7orZN5YjsuTkmKqw02jqei6Q81ab9yEd4ajICo" target="_blank" rel="noopener noreferrer nofollow">https://allegro.pl/ads?srsltid=AfmBOop4cMUJjKVPuu7orZN5YjsuTkmKqw02jqei6Q81ab9yEd4ajICo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allegro Ads - reklama Twoich ofert na AllegroPoznaj intuicyjny panel reklamowy Allegro Ads, który pomoże Ci dotrzeć z ofertami do nowych...</p></details>
+   Link:<a href="https://allegro.pl/ads?srsltid=AfmBOop4cMUJjKVPuu7orZN5YjsuTkmKqw02jqei6Q81ab9yEd4ajICo" target="_blank" rel="noopener noreferrer nofollow">https://allegro.pl/ads?srsltid=AfmBOop4cMUJjKVPuu7orZN5YjsuTkmKqw02jqei6Q81ab9yEd4ajICo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allegro Ads - reklama Twoich ofert na AllegroPoznaj intuicyjny panel reklamowy Allegro Ads, który pomoże Ci dotrzeć z ofertami do nowych...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B 101. What It Is, and What It Means to You | by FAA...ADS-B provides 21% more airspace coverage than radar at 1,500 feet above grou...</p></details>
+   Link:<a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B 101. What It Is, and What It Means to You | by FAA...ADS-B provides 21% more airspace coverage than radar at 1,500 feet above grou...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: l3harris.com  
-   Link: <a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Air Traffic SurveillanceADS-B enables near instantaneous position update (about one second) as opposed to 5–12 seconds from traditi...</p></details>
+   Link:<a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Air Traffic SurveillanceADS-B enables near instantaneous position update (about one second) as opposed to 5–12 seconds from traditi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Out Explained&quot;ADS-B requires extremely accurate, three-dimensional position reporting to reduce reliance on ground-based radar to a...</p></details>
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Out Explained&quot;ADS-B requires extremely accurate, three-dimensional position reporting to reduce reliance on ground-based radar to a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedroneprofessor.com  
-   Link: <a href="https://www.thedroneprofessor.com/wp-content/uploads/2018/06/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thedroneprofessor.com/wp-content/uploads/2018/06/16-4497-AIAA-2017-ADS-B.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Surveillance System Performance with Small UAS...by RM Guterres · Cited by 78 — The reduced GA ADS-B message decode rate is due to...</p></details>
+   Link:<a href="https://www.thedroneprofessor.com/wp-content/uploads/2018/06/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thedroneprofessor.com/wp-content/uploads/2018/06/16-4497-AIAA-2017-ADS-B.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Surveillance System Performance with Small UAS...by RM Guterres · Cited by 78 — The reduced GA ADS-B message decode rate is due to...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cutteraviation.com  
-   Link: <a href="https://cutteraviation.com/aircraft-service-avionics-support/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://cutteraviation.com/aircraft-service-avionics-support/ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BADS-B allows air traffic controllers to route traffic more efficiently, reducing congestion, noise, emission and fuel consumption.Re...</p></details>
+   Link:<a href="https://cutteraviation.com/aircraft-service-avionics-support/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://cutteraviation.com/aircraft-service-avionics-support/ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BADS-B allows air traffic controllers to route traffic more efficiently, reducing congestion, noise, emission and fuel consumption.Re...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: airnavradar.com  
-   Link: <a href="https://www.airnavradar.com/satellite-based-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.airnavradar.com/satellite-based-ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Based ADS-B... B tracking is based on the line of sight principle and mountains, tall buildings, vast water bodies etc. can sig...</p></details>
+   Link:<a href="https://www.airnavradar.com/satellite-based-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.airnavradar.com/satellite-based-ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Based ADS-B... B tracking is based on the line of sight principle and mountains, tall buildings, vast water bodies etc. can sig...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1039851440994942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1039851440994942/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not all aircraft are required to have ADS-B. Quite common for helicopters &amp; crop dusters not to show up.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1039851440994942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1039851440994942/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not all aircraft are required to have ADS-B. Quite common for helicopters &amp; crop dusters not to show up.Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: support.fr24.com  
    Title: 3000115496 i was following an aircraft when it suddenly disappeared why  
-   Link: <a href="https://support.fr24.com/support/solutions/articles/3000115496-i-was-following-an-aircraft-when-it-suddenly-disappeared-why-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000115496-i-was-following-an-aircraft-when-it-suddenly-disappeared-why-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>why an aircraft can suddenly disappear from a map10 Apr 2026 — If an aircraft suddenly disappears from Flightradar24, it&#x27;s usually becaus...</p></details>
+   Link:<a href="https://support.fr24.com/support/solutions/articles/3000115496-i-was-following-an-aircraft-when-it-suddenly-disappeared-why-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000115496-i-was-following-an-aircraft-when-it-suddenly-disappeared-why-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>why an aircraft can suddenly disappear from a map10 Apr 2026 — If an aircraft suddenly disappears from Flightradar24, it&#x27;s usually becaus...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: support.fr24.com  
    Title: 3000117423 why are some aircraft missing on the map  
-   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117423-why-are-some-aircraft-missing-on-the-map-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117423-why-are-some-aircraft-missing-on-the-map-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are some aircraft missing on the map?29 Sept 2022 — The visibility of flights on our map will vary based on several factors, including ou...</p></details>
+   Link:<a href="https://support.fr24.com/support/solutions/articles/3000117423-why-are-some-aircraft-missing-on-the-map-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117423-why-are-some-aircraft-missing-on-the-map-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are some aircraft missing on the map?29 Sept 2022 — The visibility of flights on our map will vary based on several factors, including ou...</p></details>

@@ -272,13 +272,13 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_ff
 Many of the most famous UFO incidents became famous precisely because witnesses claimed that radar confirmed what people saw in the sky. A “radar-visual” case sounded stronger than a simple eyewitness report because radar implied instrumented detection rather than memory alone. Yet in many Cold War-era incidents, the [original]({{ 'original-evidence/' | relative_url }}) radar tapes, scope photographs, [calibration]({{ 'calibration/' | relative_url }}) records, operator logs, and raw telemetry no longer exist. That loss has become one of the biggest obstacles in modern AI-assisted UFO sighting investigation.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-dark.svg" | relative_url }}" alt="Lost Radar illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not only historical curiosity. Missing radar evidence prevents investigators from reconstructing object speed, altitude, direction changes, radar reliability, and environmental conditions. It also blocks attempts to compare old incidents against [aircraft]({{ 'aircraft/' | relative_url }}) traffic, atmospheric effects, electronic interference, or modern sensor models. NASA’s recent UAP review stressed that analysis is weakened by poor calibration, missing [metadata]({{ 'metadata/' | relative_url }}), and lack of multiple measurements. Those weaknesses become even more severe when the underlying radar records disappeared decades ago. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</span></span></span>
+The problem is not only historical curiosity. Missing radar evidence prevents investigators from reconstructing object speed, altitude, direction changes, radar reliability, and environmental conditions. It also blocks attempts to compare old incidents against [aircraft]({{ 'aircraft/' | relative_url }}) traffic, atmospheric effects, electronic interference, or modern sensor models. NASA’s recent UAP review stressed that analysis is weakened by poor calibration, missing [metadata]({{ 'metadata/' | relative_url }}), and lack of multiple measurements. Those weaknesses become even more severe when the underlying radar records disappeared decades ago. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</span></span></span>
 
 ## How Radar-Visual UFO Cases Became So Influential
 
 In the 1950s and 1960s, radar carried enormous cultural authority. Military radar systems were associated with air defence, nuclear warning networks, and professional tracking operators. When witnesses reported that a UFO appeared both visually and on radar, the case often gained lasting credibility in public discussion.
 
-The classic example is the July 1952 Washington, DC sightings, where radar operators at National Airport and Andrews Air Force Base reported unknown targets while pilots and ground observers also described unusual lights. The incident became central to UFO history because it appeared to combine independent human observation with electronic tracking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The classic example is the July 1952 Washington, DC sightings, where radar operators at National Airport and Andrews Air Force Base reported unknown targets while pilots and ground observers also described unusual lights. The incident became central to UFO history because it appeared to combine independent human observation with electronic tracking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Other famous radar-linked incidents followed a similar pattern:
 
@@ -340,7 +340,7 @@ Radar systems require calibration and maintenance records to interpret returns c
 
 </div>
 
-NASA’s modern UAP review repeatedly highlighted the importance of calibration and sensor metadata in evaluating anomalous reports. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">nasas unidentified anomalous phenomena report key takeaways</span><span class="citation-popover-snippet">UAP sightings. “At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of s...</span></span></span>
+NASA’s modern UAP review repeatedly highlighted the importance of calibration and sensor metadata in evaluating anomalous reports. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">nasas unidentified anomalous phenomena report key takeaways</span><span class="citation-popover-snippet">UAP sightings. “At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of s...</span></span></span>
 
 Older UFO cases rarely preserved that supporting technical context. Even when witnesses honestly believed radar confirmed an unknown craft, investigators today often cannot determine whether the equipment was functioning normally.
 
@@ -405,7 +405,7 @@ Several practical factors contributed to the loss:
 
 In many cases, UFO investigators only retained narrative conclusions rather than the underlying sensor evidence.
 
-Project Blue Book itself depended heavily on summaries, interviews, and correspondence rather than complete sensor archives. The US National Archives preserves large amounts of Blue Book paperwork, but surviving files are uneven and often [incomplete]({{ 'incomplete-data/' | relative_url }}) from a modern forensic standpoint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Project Blue Book itself depended heavily on summaries, interviews, and correspondence rather than complete sensor archives. The US National Archives preserves large amounts of Blue Book paperwork, but surviving files are uneven and often [incomplete]({{ 'incomplete-data/' | relative_url }}) from a modern forensic standpoint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 This creates an important difference between a documented radar event and a reproducible radar event. Many historical incidents remain documented only through testimony that radar once existed.
 
@@ -414,7 +414,7 @@ This creates an important difference between a documented radar event and a repr
 
 The Washington, DC sightings illustrate the problem clearly. The case became iconic because radar operators, pilots, and observers all reported unusual activity. Yet the surviving public record consists mainly of reports, recollections, press coverage, and later interpretation rather than a complete preserved radar dataset.
 
-Sceptical explanations later focused on atmospheric temperature inversions causing anomalous radar propagation. UFO advocates argued the targets behaved intelligently and manoeuvred beyond known aircraft capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States UFO files</span><span class="citation-popover-snippet">United States UFO filesThe United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encoun...</span></span></span>
+Sceptical explanations later focused on atmospheric temperature inversions causing anomalous radar propagation. UFO advocates argued the targets behaved intelligently and manoeuvred beyond known aircraft capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States UFO files</span><span class="citation-popover-snippet">United States UFO filesThe United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encoun...</span></span></span>
 
 The difficulty is that modern investigators cannot fully re-run the event scientifically because crucial underlying records are incomplete or absent. Researchers therefore end up debating interpretations of summaries instead of testing the original sensor stream directly.
 
@@ -431,7 +431,7 @@ Once that happens, the case often becomes permanently unresolved rather than dec
 
 The 1980 Rendlesham Forest incident is often discussed as a military witness case rather than a radar case, but it demonstrates a broader evidence problem relevant to missing sensor records.
 
-Witnesses, audio recordings, memos, and later interviews survived. However, debates continue over missing or incomplete military documentation, uncertain timelines, and inconsistencies between early and later testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+Witnesses, audio recordings, memos, and later interviews survived. However, debates continue over missing or incomplete military documentation, uncertain timelines, and inconsistencies between early and later testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 This distinction is critical in UFO investigation:
 
@@ -455,10 +455,10 @@ AI-assisted workflows can still provide value by:
 * Reconstructing astronomical skies
 * Matching sightings against archived satellite databases
 * Identifying known radar artefacts
-* Estimating possible flight paths <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+* Estimating possible flight paths<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 * Detecting contradictions across witness timelines
 
-Researchers have already attempted partial reconstruction approaches for modern UAP cases using surviving telemetry and geometry data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+Researchers have already attempted partial reconstruction approaches for modern UAP cases using surviving telemetry and geometry data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 But AI reconstruction has hard limits. If original radar tapes are gone, the system cannot determine:
 
@@ -484,7 +484,7 @@ Today, a potentially unusual aerial event may produce:
 * Infrared imagery
 * GPS timing
 * Satellite observations
-* Digital sensor metadata <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* Digital sensor metadata<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 * Sensor health logs
 * Network synchronisation records
 
@@ -493,14 +493,14 @@ This creates a much stronger evidential chain than many historical UFO incidents
 Modern investigative standards also place greater emphasis on:
 
 * Exact timestamps
-* Sensor calibration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</span></span></span>
+* Sensor calibration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</span></span></span>
 * [Chain of custody]({{ 'chain-of-custody/' | relative_url }})
 * Multi-sensor correlation
 * Raw data retention
 * Reproducibility
 * Metadata preservation
 
-NASA’s UAP study stressed that meaningful analysis depends on calibrated, multi-source, high-quality observations rather than isolated anecdotes. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</span></span></span>
+NASA’s UAP study stressed that meaningful analysis depends on calibrated, multi-source, high-quality observations rather than isolated anecdotes. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</span></span></span>
 
 That shift has changed how investigators evaluate extraordinary claims. A modern case supported by preserved telemetry can be examined repeatedly by independent analysts. A historical case built around missing radar tapes cannot.
 
@@ -515,194 +515,194 @@ For AI-assisted UFO sighting investigation, this creates a practical lesson rath
 The absence of that evidence is one of the main reasons so many classic radar-visual UFO cases remain permanently open.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Missing Radar Data Keeps UFO Cases Open. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Missing Radar Data Keeps UFO Cases Open. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits official case files and historical evidence gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits official case files and historical evidence gaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses credible cases and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses credible cases and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides military aviation context for radar-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides military aviation context for radar-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to historical UFO cases and evidence limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to historical UFO cases and evidence limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military"><img src="https://i.ebayimg.com/images/g/OoAAAeSwJ~ZqIxda/s-l225.jpg" alt="Listing image for De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military"><img src="https://i.ebayimg.com/images/g/OoAAAeSwJ~ZqIxda/s-l225.jpg" alt="Listing image for De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">De Havilland DH-98 Mosquito Military Aircraft Model on Display Stand - Military</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme"><img src="https://i.ebayimg.com/images/g/SdoAAeSwii1qIxNQ/s-l225.jpg" alt="Listing image for Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme"><img src="https://i.ebayimg.com/images/g/SdoAAeSwii1qIxNQ/s-l225.jpg" alt="Listing image for Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Airfix Junkers Ju 88 Military Aircraft Model 1:72 Scale - Military Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme"><img src="https://i.ebayimg.com/images/g/5tkAAeSwFhpqIxct/s-l225.jpg" alt="Listing image for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme"><img src="https://i.ebayimg.com/images/g/5tkAAeSwFhpqIxct/s-l225.jpg" alt="Listing image for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="https://i.ebayimg.com/images/g/qZAAAeSwEmJqH~vP/s-l225.jpg" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="https://i.ebayimg.com/images/g/qZAAAeSwEmJqH~vP/s-l225.jpg" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-missing-radar-data-keeps-ufo-cases-open-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -718,7 +718,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -738,7 +738,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -770,7 +770,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -822,7 +822,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -867,7 +867,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -908,122 +908,122 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</p></details>
    Published: August 15, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: United States UFO files  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_UFO_files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United States UFO filesThe United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encoun...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_UFO_files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States UFO filesThe United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encoun...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
    Published: May 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings. “At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of s...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings. “At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is ha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — ODNI&#x27;s declassified preliminary intelligence assessment on UAP that outlines what...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — ODNI&#x27;s declassified preliminary intelligence assessment on UAP that outlines what...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: zhihu.com  
-   Link: <a href="https://www.zhihu.com/en/answer/3211845828" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/3211845828</a>  
+   Link:<a href="https://www.zhihu.com/en/answer/3211845828" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/3211845828</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: avi-loeb.medium.com  
    Title: analysis of the second batch of ufo files released by the pentagon 1d76e7724073  
-   Link: <a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has released here two batches of files on Unidentified Objects (UFO/UAP). These are objects that the Pentagon and...Re...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has released here two batches of files on Unidentified Objects (UFO/UAP). These are objects that the Pentagon and...Re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+   Link:<a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases 33 Page Report On UFOs After Yearlong...14 Sept 2023 — At present, analysis of UAP data is hampered by poor sensor calibra...</p></details>
+   Link:<a href="https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/nasa-releases-33-page-report-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases 33 Page Report On UFOs After Yearlong...14 Sept 2023 — At present, analysis of UAP data is hampered by poor sensor calibra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>

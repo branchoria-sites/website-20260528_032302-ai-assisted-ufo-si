@@ -284,7 +284,7 @@ For AI-assisted UFO sighting investigation, separating these two possibilities i
 
 A multicopter drone can maintain position relative to the ground with very little forward movement. A fixed-wing aircraft generally cannot. Yet human perception at night often compresses depth and speed cues so heavily that a head-on aircraft can mimic hovering surprisingly well.
 
-The classic example is an aircraft on approach to an airport. When a plane is flying directly towards an observer, its forward motion produces little sideways change against the background sky. The aircraft grows brighter but does not appear to move much left or right. This effect is widely recognised in aviation and often described through parallax and perspective illusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.kerbalspaceprogram.com">[Kerbal Space Program Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.kerbalspaceprogram.com</span><span class="citation-popover-title">143487 strange sight while watching the night sky what could it be</span><span class="citation-popover-snippet">sky, it can appear to be stationary. You can see aircraft do this for many, many kilometres away, hundreds even, depending on conditions...</span></span></span> 3youtube.com 3Facebook
+The classic example is an aircraft on approach to an airport. When a plane is flying directly towards an observer, its forward motion produces little sideways change against the background sky. The aircraft grows brighter but does not appear to move much left or right. This effect is widely recognised in aviation and often described through parallax and perspective illusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.kerbalspaceprogram.com">[Kerbal Space Program Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.kerbalspaceprogram.com</span><span class="citation-popover-title">143487 strange sight while watching the night sky what could it be</span><span class="citation-popover-snippet">sky, it can appear to be stationary. You can see aircraft do this for many, many kilometres away, hundreds even, depending on conditions...</span></span></span> 3youtube.com 3Facebook
 
 Several clues usually separate true hovering from this “coming straight at you” effect:
 
@@ -344,13 +344,13 @@ The strongest drone-like patterns include:
 
 </div>
 
-The Associated Press summarised this distinction in interviews with aviation specialists: multicopter drones can “stop on a dime” and reverse direction in ways aircraft generally cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane?</span><span class="citation-popover-snippet">Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
+The Associated Press summarised this distinction in interviews with aviation specialists: multicopter drones can “stop on a dime” and reverse direction in ways aircraft generally cannot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane?</span><span class="citation-popover-snippet">Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
 ### Watch for apparent movement caused by the observer
 
 Not all drift belongs to the object itself. Moving observers create false impressions.
 
-A person walking, driving or turning their head can unintentionally generate parallax effects. An aircraft maintaining a steady course may appear to slide sideways or pause depending on the observer’s own motion. Several widely shared “motionless plane” clips are produced this way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/shorts/zuq_s3jtBeM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Plane appears to pause mid-air in optical illusionThis plane traveling into San Francisco is seemingly defying the laws of physics it app...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Defying the laws of physics?</span><span class="citation-popover-snippet">This video recorded over San...This video recorded over San Francisco appears to show a plane just hanging in the air. So what&#x27;s going o...</span></span></span>
+A person walking, driving or turning their head can unintentionally generate parallax effects. An aircraft maintaining a steady course may appear to slide sideways or pause depending on the observer’s own motion. Several widely shared “motionless plane” clips are produced this way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/shorts/zuq_s3jtBeM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Plane appears to pause mid-air in optical illusionThis plane traveling into San Francisco is seemingly defying the laws of physics it app...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Defying the laws of physics?</span><span class="citation-popover-snippet">This video recorded over San...This video recorded over San Francisco appears to show a plane just hanging in the air. So what&#x27;s going o...</span></span></span>
 
 This is why witness interviews should capture:
 
@@ -371,7 +371,7 @@ Without those details, “hovering” becomes a much weaker data point.
 
 Distance estimation failures are central to many drone-versus-aircraft misidentifications.
 
-At night, a single bright point provides very little scale information. Aviation researchers and investigators repeatedly note that isolated lights in darkness are extremely difficult to judge accurately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+At night, a single bright point provides very little scale information. Aviation researchers and investigators repeatedly note that isolated lights in darkness are extremely difficult to judge accurately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 A nearby drone with strong LEDs may be interpreted as:
 
@@ -401,11 +401,11 @@ Common distortions include:
 
 * dark skies removing scale cues
 * isolated lights appearing larger than their true size
-* blinking anti-collision strobes exaggerating brightness <span class="citation-chip-wrap"><a class="citation-chip" href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betalight-tactical.com">[betalight-tactical.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betalight-tactical.com</span><span class="citation-popover-snippet">Drone Anti-Collision Lights &#124; Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</span></span></span>
+* blinking anti-collision strobes exaggerating brightness<span class="citation-chip-wrap"><a class="citation-chip" href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betalight-tactical.com">[betalight-tactical.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betalight-tactical.com</span><span class="citation-popover-snippet">Drone Anti-Collision Lights &#124; Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</span></span></span>
 
 </div>
 
-Modern drone regulations often require bright anti-collision lighting visible for miles during night operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statut...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span> Consumer drones can therefore appear surprisingly prominent despite being physically small.
+Modern drone regulations often require bright anti-collision lighting visible for miles during night operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statut...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span> Consumer drones can therefore appear surprisingly prominent despite being physically small.
 
 Investigators should avoid treating apparent size estimates as reliable unless the witness had strong environmental reference points.
 
@@ -438,7 +438,7 @@ Once the aircraft turns slightly, the illusion collapses and the object suddenly
 
 ### Autokinesis and night perception effects
 
-Aviation literature also documents autokinetic illusion: when a person stares at a single light in darkness, tiny involuntary eye movements can make the light appear to drift or manoeuvre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+Aviation literature also documents autokinetic illusion: when a person stares at a single light in darkness, tiny involuntary eye movements can make the light appear to drift or manoeuvre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 This is one reason witnesses sometimes report:
 
@@ -481,194 +481,194 @@ Importantly, these systems should not overstate certainty. Consumer drones, heli
 The strongest conclusions usually come from combining several weak clues rather than relying on any single dramatic observation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is that light really hovering?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is that light really hovering?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Explains hovering capabilities and limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains hovering capabilities and limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evaluation of perception-based claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evaluation of perception-based claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for aircraft operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for aircraft operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Useful for understanding aircraft approach geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding aircraft approach geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/Jn8AAeSwSQRqEtsi/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/Jn8AAeSwSQRqEtsi/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries"><img src="https://i.ebayimg.com/images/g/TnMAAeSwrBxnuIBE/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries"><img src="https://i.ebayimg.com/images/g/TnMAAeSwrBxnuIBE/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV GPS Foldable Selfie RC Quadcopter +4 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries"><img src="https://i.ebayimg.com/images/g/mlkAAeSwEQho3N9b/s-l225.jpg" alt="Listing image for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries"><img src="https://i.ebayimg.com/images/g/mlkAAeSwEQho3N9b/s-l225.jpg" alt="Listing image for 4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">4k HD Wide Angle Dual Camera RC Drone Foldable FPV WiFi Quadcopter + 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/hVQAAeSwwXdpvEtq/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries"><img src="https://i.ebayimg.com/images/g/hVQAAeSwwXdpvEtq/s-l225.jpg" alt="Listing image for 8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">8K HD Drone Dual Camera WIFI FPV Foldable Selfie RC Quadcopter with 3 Batteries</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter drone">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter drone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+drone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-light-really-hovering-quadcopter-drone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter drone" data-ebay-reference="is-that-light-really-hovering-quadcopter-drone" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -684,7 +684,7 @@ The strongest conclusions usually come from combining several weak clues rather 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -704,7 +704,7 @@ The strongest conclusions usually come from combining several weak clues rather 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -736,7 +736,7 @@ The strongest conclusions usually come from combining several weak clues rather 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -788,7 +788,7 @@ The strongest conclusions usually come from combining several weak clues rather 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -833,7 +833,7 @@ The strongest conclusions usually come from combining several weak clues rather 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -874,171 +874,171 @@ The strongest conclusions usually come from combining several weak clues rather 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/zuq_s3jtBeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zuq_s3jtBeM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane appears to pause mid-air in optical illusionThis plane traveling into San Francisco is seemingly defying the laws of physics it app...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/zuq_s3jtBeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zuq_s3jtBeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane appears to pause mid-air in optical illusionThis plane traveling into San Francisco is seemingly defying the laws of physics it app...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: Defying the laws of physics?  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This video recorded over San...This video recorded over San Francisco appears to show a plane just hanging in the air. So what&#x27;s going o...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-appears-to-sh/948881113765436/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video recorded over San...This video recorded over San Francisco appears to show a plane just hanging in the air. So what&#x27;s going o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statut...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statut...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6P-bOpUvX28</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>i-colision beacon or a strobe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6P-bOpUvX28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>i-colision beacon or a strobe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6BD9fyyIJzY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ppens how it affects pilots and how to prevent it during flight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6BD9fyyIJzY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ppens how it affects pilots and how to prevent it during flight...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fXFs0ZNA-zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fXFs0ZNA-zc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wo conditions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fXFs0ZNA-zc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fXFs0ZNA-zc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wo conditions...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/961481447272242/posts/7331440183609638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/961481447272242/posts/7331440183609638/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n the sky when the plane is actually moving very slowly...</p></details>
+   Link:<a href="https://www.facebook.com/groups/961481447272242/posts/7331440183609638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/961481447272242/posts/7331440183609638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the sky when the plane is actually moving very slowly...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nino.dolim.14/posts/-apparent-vs-real-height-a-visual-illusion-in-sloping-terrainwhen-flying-over-ri/1546512636611535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nino.dolim.14/posts/-apparent-vs-real-height-a-visual-illusion-in-sloping-terrainwhen-flying-over-ri/1546512636611535/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Visual Illusion in Sloping Terrain When flying over rising...During rapid acceleration, G-forces push you back into your seat — creati...</p></details>
+   Link:<a href="https://www.facebook.com/nino.dolim.14/posts/-apparent-vs-real-height-a-visual-illusion-in-sloping-terrainwhen-flying-over-ri/1546512636611535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nino.dolim.14/posts/-apparent-vs-real-height-a-visual-illusion-in-sloping-terrainwhen-flying-over-ri/1546512636611535/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Visual Illusion in Sloping Terrain When flying over rising...During rapid acceleration, G-forces push you back into your seat — creati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100027126177015/videos/dopplers-effect/1664681571636820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100027126177015/videos/dopplers-effect/1664681571636820/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>server moves, physics changes the frequency! ⚡...</p></details>
+   Link:<a href="https://www.facebook.com/100027126177015/videos/dopplers-effect/1664681571636820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100027126177015/videos/dopplers-effect/1664681571636820/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>server moves, physics changes the frequency! ⚡...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-on-thursday-a/716405730346310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-on-thursday-a/716405730346310/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he sky. Both are turning right, but the higher plane is going...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-on-thursday-a/716405730346310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/defying-the-laws-of-physics-this-video-recorded-over-san-francisco-on-thursday-a/716405730346310/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he sky. Both are turning right, but the higher plane is going...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to spot the difference: Drones vs. planes  
-   Link: <a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0G-QMKNN9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed-Wing vs Multirotor: Pros and Cons...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0G-QMKNN9g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixed-Wing vs Multirotor: Pros and Cons...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Fixed-Wing vs Multirotor: Pros and Cons  
-   Link: <a href="https://www.youtube.com/watch?v=F1Wb58xVp2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F1Wb58xVp2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Physics: How Multirotors Stay in the Air...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F1Wb58xVp2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F1Wb58xVp2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Physics: How Multirotors Stay in the Air...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Drone Flight Physics: How Multirotors Stay in the Air  
-   Link: <a href="https://www.youtube.com/watch?v=68Yn9Xo4G90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=68Yn9Xo4G90</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Drones Can Hover and Planes Can&#x27;t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=68Yn9Xo4G90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=68Yn9Xo4G90</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Drones Can Hover and Planes Can&#x27;t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why Drones Can Hover and Planes Can't  
-   Link: <a href="https://www.youtube.com/watch?v=2K4V5P2a1_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2K4V5P2a1_g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Drone Flight Dynamics and Control...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2K4V5P2a1_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2K4V5P2a1_g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Drone Flight Dynamics and Control...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Understanding Drone Flight Dynamics and Control  
-   Link: <a href="https://www.youtube.com/watch?v=7XlS_R86g9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7XlS_R86g9c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7XlS_R86g9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7XlS_R86g9c</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: forum.kerbalspaceprogram.com  
    Title: 143487 strange sight while watching the night sky what could it be  
-   Link: <a href="https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/" target="_blank" rel="noopener noreferrer nofollow">https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky, it can appear to be stationary. You can see aircraft do this for many, many kilometres away, hundreds even, depending on conditions...</p></details>
+   Link:<a href="https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/" target="_blank" rel="noopener noreferrer nofollow">https://forum.kerbalspaceprogram.com/topic/143487-strange-sight-while-watching-the-night-sky-what-could-it-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky, it can appear to be stationary. You can see aircraft do this for many, many kilometres away, hundreds even, depending on conditions...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane?  
-   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</p></details>
+   Link:<a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</p></details>
    Published: December 16, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
    Title: operations over people  
-   Link: <a href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/operations_over_people</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</p></details>
+   Link:<a href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/operations_over_people</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: betalight-tactical.com  
-   Link: <a href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/product/anti-collision-drone-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights | Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</p></details>
+   Link:<a href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/product/anti-collision-drone-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights | Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a plane, stationary in the sky: r/ExperiencersIt&#x27;s an optical illusion. I live by a major airport, see that phenomenon here and th...</p></details>
+   Link:<a href="https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a plane, stationary in the sky: r/ExperiencersIt&#x27;s an optical illusion. I live by a major airport, see that phenomenon here and th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jrupprechtlaw.com  
-   Link: <a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
+   Link:<a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessVisual illusions (such as the black-hole effect) affect the flight crew vertical and horizontal situational awa...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessVisual illusions (such as the black-hole effect) affect the flight crew vertical and horizontal situational awa...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: newsweek.com  
    Title: plane frozen sky remaining still optical illusion parallax viral tiktok 1841903  
-   Link: <a href="https://www.newsweek.com/plane-frozen-sky-remaining-still-optical-illusion-parallax-viral-tiktok-1841903" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/plane-frozen-sky-remaining-still-optical-illusion-parallax-viral-tiktok-1841903</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane in &#x27;Strangest&#x27; Position in the Sky Baffles InternetNov 8, 2023 — A plane in the sky may appear like it&#x27;s moving extremely slowly, o...</p></details>
+   Link:<a href="https://www.newsweek.com/plane-frozen-sky-remaining-still-optical-illusion-parallax-viral-tiktok-1841903" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/plane-frozen-sky-remaining-still-optical-illusion-parallax-viral-tiktok-1841903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane in &#x27;Strangest&#x27; Position in the Sky Baffles InternetNov 8, 2023 — A plane in the sky may appear like it&#x27;s moving extremely slowly, o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: faa.gov  
    Title: small unmanned aircraft systems uas regulations part 107  
-   Link: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small Unmanned Aircraft Systems (UAS) Regulations (Part...6 Oct 2020 — You can fly during daylight (30 minutes before official sunrise t...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small Unmanned Aircraft Systems (UAS) Regulations (Part...6 Oct 2020 — You can fly during daylight (30 minutes before official sunrise t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: homework.study.com  
    Title: why do airplanes appear stationary at times why don t they fall  
-   Link: <a href="https://homework.study.com/explanation/why-do-airplanes-appear-stationary-at-times-why-don-t-they-fall.html" target="_blank" rel="noopener noreferrer nofollow">https://homework.study.com/explanation/why-do-airplanes-appear-stationary-at-times-why-don-t-they-fall.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why don&#x27;t...Answer and Explanation: 1... Therefore, if we observe a plane flying, our brain will compare the position of the plane with...</p></details>
+   Link:<a href="https://homework.study.com/explanation/why-do-airplanes-appear-stationary-at-times-why-don-t-they-fall.html" target="_blank" rel="noopener noreferrer nofollow">https://homework.study.com/explanation/why-do-airplanes-appear-stationary-at-times-why-don-t-they-fall.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why don&#x27;t...Answer and Explanation: 1... Therefore, if we observe a plane flying, our brain will compare the position of the plane with...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor1xt206XsONTLjGrNgaeC4CaE2cnIm8bxRlA3rjK5z8UgIooB9" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor1xt206XsONTLjGrNgaeC4CaE2cnIm8bxRlA3rjK5z8UgIooB9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — To observers, they resemble rapidly moving stars, but unlike planes...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor1xt206XsONTLjGrNgaeC4CaE2cnIm8bxRlA3rjK5z8UgIooB9" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor1xt206XsONTLjGrNgaeC4CaE2cnIm8bxRlA3rjK5z8UgIooB9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — To observers, they resemble rapidly moving stars, but unlike planes...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dronefly.com  
-   Link: <a href="https://www.dronefly.com/blogs/news/drone-flying-at-night-faa-rules-lighting-requirements-and-penalties-2025-guide?srsltid=AfmBOoq7yOaxOsjhZBXzd1HsdU4Lc5JUoPdqAsQQJ0xM8ty2YRj45H5G" target="_blank" rel="noopener noreferrer nofollow">https://www.dronefly.com/blogs/news/drone-flying-at-night-faa-rules-lighting-requirements-and-penalties-2025-guide?srsltid=AfmBOoq7yOaxOsjhZBXzd1HsdU4Lc5JUoPdqAsQQJ0xM8ty2YRj45H5G</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flying at Night: FAA Rules and Penalties (2025 Guide)11 Apr 2025 — This guide breaks down exactly what it takes to fly a drone at n...</p></details>
+   Link:<a href="https://www.dronefly.com/blogs/news/drone-flying-at-night-faa-rules-lighting-requirements-and-penalties-2025-guide?srsltid=AfmBOoq7yOaxOsjhZBXzd1HsdU4Lc5JUoPdqAsQQJ0xM8ty2YRj45H5G" target="_blank" rel="noopener noreferrer nofollow">https://www.dronefly.com/blogs/news/drone-flying-at-night-faa-rules-lighting-requirements-and-penalties-2025-guide?srsltid=AfmBOoq7yOaxOsjhZBXzd1HsdU4Lc5JUoPdqAsQQJ0xM8ty2YRj45H5G</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flying at Night: FAA Rules and Penalties (2025 Guide)11 Apr 2025 — This guide breaks down exactly what it takes to fly a drone at n...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: police1.com  
    Title: They are not bright enough for manned aircraft to see — day or night.Read more  
-   Link: <a href="https://www.police1.com/drones/why-every-public-safety-drone-needs-an-anti-collision-light" target="_blank" rel="noopener noreferrer nofollow">https://www.police1.com/drones/why-every-public-safety-drone-needs-an-anti-collision-light</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why every public safety drone needs an anti-collision light23 Aug 2025 — Note: The green and red navigation lights are not anti-collision...</p></details>
+   Link:<a href="https://www.police1.com/drones/why-every-public-safety-drone-needs-an-anti-collision-light" target="_blank" rel="noopener noreferrer nofollow">https://www.police1.com/drones/why-every-public-safety-drone-needs-an-anti-collision-light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why every public safety drone needs an anti-collision light23 Aug 2025 — Note: The green and red navigation lights are not anti-collision...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion, a well known pilot killer. A forward acceleration is...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion, a well known pilot killer. A forward acceleration is...Read more...</p></details>
