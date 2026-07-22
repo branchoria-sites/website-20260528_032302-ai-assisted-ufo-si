@@ -475,7 +475,7 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Encourages testing optical causes before accepting triangle UFO claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -509,7 +509,7 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
 <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
 </h4>
 <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
-        
+
 <p class="fr-book-desc">Relevant to distinguishing real shape from photographic artefact.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -526,7 +526,7 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
 <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Photographer&#x27;s Eye">The Photographer&#x27;s Eye</a>
 </h4>
 <p class="fr-book-author">By Michael Freeman</p>
-        
+
 <p class="fr-book-desc">Supports visual interpretation and composition under camera limits.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

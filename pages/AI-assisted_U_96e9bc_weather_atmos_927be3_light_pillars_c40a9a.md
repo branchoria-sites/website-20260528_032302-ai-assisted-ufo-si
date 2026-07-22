@@ -485,7 +485,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
 <p class="fr-book-desc">Introduces atmospheric phenomena that are often misidentified.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -502,7 +502,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Useful for evaluating unusual visual claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -519,7 +519,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
 </h4>
 <p class="fr-book-author">By John D. Cox</p>
-        
+
 <p class="fr-book-desc">Provides foundational weather and atmospheric knowledge.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -536,7 +536,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos%2C+and+Glories+by+Robert+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rainbows, Halos, and Glories">Rainbows, Halos, and Glories</a>
 </h4>
 <p class="fr-book-author">By Robert Greenler</p>
-        
+
 <p class="fr-book-desc">Directly explains light pillars and related optical effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos%2C+and+Glories+by+Robert+Greenler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

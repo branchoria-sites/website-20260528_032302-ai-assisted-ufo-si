@@ -501,7 +501,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Adam Juniper</p>
-        
+
 <p class="fr-book-desc">Explains ordinary drone capabilities and operating realities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -518,7 +518,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
 </h4>
 <p class="fr-book-author">By Adam Juniper</p>
-        
+
 <p class="fr-book-desc">Helps readers understand why drones may not appear on flight maps.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -535,7 +535,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
 </h4>
 <p class="fr-book-author">By Nate Silver</p>
-        
+
 <p class="fr-book-desc">Relevant to interpreting missing tracker evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -552,7 +552,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
 </h4>
 <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
-        
+
 <p class="fr-book-desc">Provides airspace and aircraft context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
