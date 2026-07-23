@@ -547,6 +547,23 @@ That distinction matters because weather can either explain away apparent anomal
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch: A Practical Guide to Viewing the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch: A Practical Guide to Viewing the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch: A Practical Guide to Viewing the Universe">NightWatch: A Practical Guide to Viewing the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+
+        <p class="fr-book-desc">Supports weather-informed sky observation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -562,26 +579,9 @@ That distinction matters because weather can either explain away apparent anomal
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson+and+Ken+Hewitt-White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch: A Practical Guide to Viewing the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson+and+Ken+Hewitt-White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch: A Practical Guide to Viewing the Universe">NightWatch: A Practical Guide to Viewing the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson and Ken Hewitt-White</p>
-
-        <p class="fr-book-desc">Supports weather-informed sky observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+Guide+to+Viewing+the+Universe+Terence+Dickinson+and+Ken+Hewitt-White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch%3A+A+Practical+to+Viewing+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch: A Practical to Viewing the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
