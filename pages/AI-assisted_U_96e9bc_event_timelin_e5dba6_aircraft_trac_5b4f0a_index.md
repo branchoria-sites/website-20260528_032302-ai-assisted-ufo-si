@@ -4,7 +4,7 @@ title_full: Aircraft tracks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-event-timelin/
+permalink: /ai-assisted-u-96e9bc-event-timelin-aircraft-tracks/
 description: Focused pages that expand on Aircraft tracks.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Media files Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-ufo-case-file/
+permalink: /ai-assisted-u-96e9bc-ufo-case-file-media-files/
 description: Focused pages that expand on Media files.
 date: '2026'
 layout: default

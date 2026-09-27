@@ -4,7 +4,7 @@ title_full: Sensor Artefacts Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-video-evidenc/
+permalink: /ai-assisted-u-96e9bc-video-evidenc-sensor-artefacts/
 description: Focused pages that expand on Sensor Artefacts.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Bright planets Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-astronomy-che/
+permalink: /ai-assisted-u-96e9bc-astronomy-che-bright-planets/
 description: Focused pages that expand on Bright planets.
 date: '2026'
 layout: default

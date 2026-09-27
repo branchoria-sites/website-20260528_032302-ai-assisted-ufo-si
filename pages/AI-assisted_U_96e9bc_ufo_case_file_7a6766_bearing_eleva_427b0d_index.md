@@ -4,7 +4,7 @@ title_full: Geometry Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-ufo-case-file/
+permalink: /ai-assisted-u-96e9bc-ufo-case-file-geometry/
 description: Focused pages that expand on Geometry.
 date: '2026'
 layout: default

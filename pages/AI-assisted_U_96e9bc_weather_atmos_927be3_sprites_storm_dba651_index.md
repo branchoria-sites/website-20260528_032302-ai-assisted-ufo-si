@@ -4,7 +4,7 @@ title_full: Sprites Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-weather-atmos/
+permalink: /ai-assisted-u-96e9bc-weather-atmos-sprites/
 description: Focused pages that expand on Sprites.
 date: '2026'
 layout: default

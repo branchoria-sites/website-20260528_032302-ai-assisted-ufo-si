@@ -4,7 +4,7 @@ title_full: Sensor Errors Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-human-review/
+permalink: /ai-assisted-u-96e9bc-human-review-sensor-errors/
 description: Focused pages that expand on Sensor Errors.
 date: '2026'
 layout: default

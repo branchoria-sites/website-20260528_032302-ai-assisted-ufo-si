@@ -4,7 +4,7 @@ title_full: Weather layers Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-event-timelin/
+permalink: /ai-assisted-u-96e9bc-event-timelin-weather-layers/
 description: Focused pages that expand on Weather layers.
 date: '2026'
 layout: default

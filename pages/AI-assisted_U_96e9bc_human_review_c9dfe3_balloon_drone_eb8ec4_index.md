@@ -4,7 +4,7 @@ title_full: False Matches Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-human-review/
+permalink: /ai-assisted-u-96e9bc-human-review-false-matches/
 description: Focused pages that expand on False Matches.
 date: '2026'
 layout: default

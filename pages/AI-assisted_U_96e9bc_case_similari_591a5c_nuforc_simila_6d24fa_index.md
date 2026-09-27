@@ -4,7 +4,7 @@ title_full: NUFORC Cases Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-case-similari/
+permalink: /ai-assisted-u-96e9bc-case-similari-nuforc-cases/
 description: Focused pages that expand on NUFORC Cases.
 date: '2026'
 layout: default

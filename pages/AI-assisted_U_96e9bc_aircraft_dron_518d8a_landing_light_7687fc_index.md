@@ -4,7 +4,7 @@ title_full: Landing lights Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-aircraft-dron/
+permalink: /ai-assisted-u-96e9bc-aircraft-dron-landing-lights/
 description: Focused pages that expand on Landing lights.
 date: '2026'
 layout: default

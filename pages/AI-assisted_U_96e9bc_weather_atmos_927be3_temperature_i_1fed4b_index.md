@@ -4,7 +4,7 @@ title_full: Inversions Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-weather-atmos/
+permalink: /ai-assisted-u-96e9bc-weather-atmos-inversions/
 description: Focused pages that expand on Inversions.
 date: '2026'
 layout: default

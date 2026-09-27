@@ -4,7 +4,7 @@ title_full: Starlink Trains Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-satellite-sta/
+permalink: /ai-assisted-u-96e9bc-satellite-sta-starlink-trains/
 description: Focused pages that expand on Starlink Trains.
 date: '2026'
 layout: default

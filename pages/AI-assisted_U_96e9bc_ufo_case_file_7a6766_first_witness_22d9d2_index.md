@@ -4,7 +4,7 @@ title_full: First account Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-ufo-case-file/
+permalink: /ai-assisted-u-96e9bc-ufo-case-file-first-account/
 description: Focused pages that expand on First account.
 date: '2026'
 layout: default

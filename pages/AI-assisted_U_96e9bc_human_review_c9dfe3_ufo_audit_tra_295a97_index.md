@@ -4,7 +4,7 @@ title_full: Audit Trails Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-human-review/
+permalink: /ai-assisted-u-96e9bc-human-review-audit-trails/
 description: Focused pages that expand on Audit Trails.
 date: '2026'
 layout: default

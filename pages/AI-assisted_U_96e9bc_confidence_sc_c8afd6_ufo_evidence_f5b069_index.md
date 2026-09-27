@@ -4,7 +4,7 @@ title_full: Evidence Grades Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-confidence-sc/
+permalink: /ai-assisted-u-96e9bc-confidence-sc-evidence-grades/
 description: Focused pages that expand on Evidence Grades.
 date: '2026'
 layout: default

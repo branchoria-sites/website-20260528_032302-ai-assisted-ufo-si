@@ -4,7 +4,7 @@ title_full: Sky maps Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-assisted-u-96e9bc-astronomy-che/
+permalink: /ai-assisted-u-96e9bc-astronomy-che-sky-maps/
 description: Focused pages that expand on Sky maps.
 date: '2026'
 layout: default
