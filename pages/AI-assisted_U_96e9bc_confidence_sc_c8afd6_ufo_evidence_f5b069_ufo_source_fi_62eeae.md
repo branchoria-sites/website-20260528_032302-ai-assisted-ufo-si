@@ -261,6 +261,7 @@ prev_link:
   short_title: Sensor Data
   heading_title: Why Multi Sensor UFO Cases Carry More Weight
 date: '2026-06-11 18:30:34 '
+last_modified_at: '2026-06-11 18:30:34 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-1.webp

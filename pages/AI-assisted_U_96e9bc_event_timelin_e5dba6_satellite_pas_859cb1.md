@@ -286,6 +286,7 @@ next_link:
   short_title: Video timeline
   heading_title: What the video really shows
 date: '2026-06-11 18:19:29 '
+last_modified_at: '2026-06-11 18:19:29 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-1.webp

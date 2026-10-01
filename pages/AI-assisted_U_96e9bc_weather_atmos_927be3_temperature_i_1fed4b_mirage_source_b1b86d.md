@@ -261,6 +261,7 @@ prev_link:
   short_title: Radar Ducting
   heading_title: When Radar UFOs Might Be Weather Ghosts
 date: '2026-06-11 19:06:59 '
+last_modified_at: '2026-06-11 19:06:59 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-1.webp

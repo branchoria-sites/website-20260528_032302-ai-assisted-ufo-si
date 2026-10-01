@@ -267,6 +267,7 @@ next_link:
   short_title: Sightlines
   heading_title: Did the UFO vanish or just pass behind something?
 date: '2026-06-11 18:58:40 '
+last_modified_at: '2026-06-11 18:58:40 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1.webp

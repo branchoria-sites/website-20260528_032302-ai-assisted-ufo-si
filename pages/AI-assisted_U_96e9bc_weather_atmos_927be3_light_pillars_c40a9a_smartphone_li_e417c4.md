@@ -261,6 +261,7 @@ prev_link:
   short_title: Light Maps
   heading_title: Can Night Light Maps Explain A UFO Beam?
 date: '2026-06-11 19:06:14 '
+last_modified_at: '2026-06-11 19:06:14 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1.webp

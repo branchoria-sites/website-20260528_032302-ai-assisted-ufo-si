@@ -267,6 +267,7 @@ next_link:
   short_title: Tumbling Rockets
   heading_title: Why Some UFO Lights Pulse With Mechanical Precision
 date: '2026-06-11 18:52:28 '
+last_modified_at: '2026-06-11 18:52:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1.webp

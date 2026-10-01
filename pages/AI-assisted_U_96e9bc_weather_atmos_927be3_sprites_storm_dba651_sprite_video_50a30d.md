@@ -261,6 +261,7 @@ prev_link:
   short_title: Storm geometry
   heading_title: Why sprites can look like hovering craft
 date: '2026-06-11 18:36:37 '
+last_modified_at: '2026-06-11 18:36:37 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1.webp

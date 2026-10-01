@@ -267,6 +267,7 @@ next_link:
   short_title: Phone Distortion
   heading_title: Why Bright Planets Look Strange On Phone Cameras
 date: '2026-06-11 18:44:43 '
+last_modified_at: '2026-06-11 18:44:43 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1.webp

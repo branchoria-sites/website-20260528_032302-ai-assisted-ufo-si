@@ -267,6 +267,7 @@ next_link:
   short_title: Video tests
   heading_title: What one frame can reveal
 date: '2026-06-11 19:06:27 '
+last_modified_at: '2026-06-11 19:06:27 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1.webp

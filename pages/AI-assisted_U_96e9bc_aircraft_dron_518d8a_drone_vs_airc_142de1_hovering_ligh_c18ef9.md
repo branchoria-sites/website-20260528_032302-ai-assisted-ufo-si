@@ -267,6 +267,7 @@ next_link:
   short_title: Sound clues
   heading_title: Why silent drones are not always silent
 date: '2026-06-11 18:38:13 '
+last_modified_at: '2026-06-11 18:38:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-1.webp

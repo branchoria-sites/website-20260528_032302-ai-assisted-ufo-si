@@ -261,6 +261,7 @@ prev_link:
   short_title: Geolocation
   heading_title: Did This UFO Video Really Come From Here?
 date: '2026-06-11 19:05:01 '
+last_modified_at: '2026-06-11 19:05:01 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1.webp

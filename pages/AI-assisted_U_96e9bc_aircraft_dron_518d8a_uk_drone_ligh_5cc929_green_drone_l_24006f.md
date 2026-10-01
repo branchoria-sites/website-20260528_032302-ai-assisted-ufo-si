@@ -267,6 +267,7 @@ next_link:
   short_title: Remote ID
   heading_title: Why no Remote ID does not solve it
 date: '2026-06-11 18:41:17 '
+last_modified_at: '2026-06-11 18:41:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-1.webp

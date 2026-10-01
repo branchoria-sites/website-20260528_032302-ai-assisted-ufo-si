@@ -314,6 +314,7 @@ next_link:
   short_title: Video Limits
   heading_title: Why Clear UFO Videos Can Still Mislead
 date: '2026-06-11 18:10:15 '
+last_modified_at: '2026-06-11 18:10:15 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview.webp

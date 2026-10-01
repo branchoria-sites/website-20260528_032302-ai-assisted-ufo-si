@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-astronomy-che-fireballs/
 description: Focused pages that expand on Fireballs.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
 parent_title: Fireballs

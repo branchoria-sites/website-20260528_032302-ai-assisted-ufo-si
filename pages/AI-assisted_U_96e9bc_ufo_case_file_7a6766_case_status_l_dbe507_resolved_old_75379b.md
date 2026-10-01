@@ -267,6 +267,7 @@ next_link:
   short_title: Weak Evidence
   heading_title: When Poor UFO Evidence Creates False Mystery
 date: '2026-06-11 18:34:27 '
+last_modified_at: '2026-06-11 18:34:27 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-1.webp

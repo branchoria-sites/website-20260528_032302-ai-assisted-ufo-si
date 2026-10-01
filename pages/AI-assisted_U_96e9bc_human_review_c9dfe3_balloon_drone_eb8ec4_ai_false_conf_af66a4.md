@@ -267,6 +267,7 @@ next_link:
   short_title: Infrared orbs
   heading_title: Why infrared orbs fool balloon checks
 date: '2026-06-11 18:31:29 '
+last_modified_at: '2026-06-11 18:31:29 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-1.webp

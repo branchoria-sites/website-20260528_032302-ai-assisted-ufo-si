@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-weather-atmos-inversions/
 description: Focused pages that expand on Inversions.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b
 parent_title: Inversions

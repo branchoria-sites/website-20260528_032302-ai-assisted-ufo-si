@@ -267,6 +267,7 @@ next_link:
   short_title: Wide reports
   heading_title: Why mass sightings can make spirals less mysterious
 date: '2026-06-11 18:55:35 '
+last_modified_at: '2026-06-11 18:55:35 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-1.webp
