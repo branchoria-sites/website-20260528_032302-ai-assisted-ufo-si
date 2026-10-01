@@ -280,6 +280,7 @@ next_link:
   short_title: First account
   heading_title: Why the first UFO account matters most
 date: '2026-06-11 18:22:11 '
+last_modified_at: '2026-06-11 18:22:11 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Stellarium Logs
   heading_title: Why UFO Sky Screenshots Are Not Enough
 date: '2026-06-11 18:29:18 '
+last_modified_at: '2026-06-11 18:29:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1.webp

@@ -261,6 +261,7 @@ prev_link:
   short_title: Timing Checks
   heading_title: Do The Timelines Really Match The UFO Claim
 date: '2026-06-11 18:51:35 '
+last_modified_at: '2026-06-11 18:51:35 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Reposted Clips
   heading_title: Why Viral UFO Videos Become Worse Evidence
 date: '2026-06-11 18:53:07 '
+last_modified_at: '2026-06-11 18:53:07 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1.webp

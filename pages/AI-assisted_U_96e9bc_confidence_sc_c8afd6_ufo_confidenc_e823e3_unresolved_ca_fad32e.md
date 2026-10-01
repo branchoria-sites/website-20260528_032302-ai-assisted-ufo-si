@@ -261,6 +261,7 @@ prev_link:
   short_title: Official Language
   heading_title: Why Official UAP Reports Rarely Use Exact Numbers
 date: '2026-06-11 18:50:06 '
+last_modified_at: '2026-06-11 18:50:06 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1.webp

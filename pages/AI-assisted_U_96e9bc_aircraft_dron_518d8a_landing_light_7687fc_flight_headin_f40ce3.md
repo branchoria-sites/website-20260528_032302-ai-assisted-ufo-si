@@ -261,6 +261,7 @@ prev_link:
   short_title: Night Illusions
   heading_title: Why Stationary Lights Start Moving In The Dark
 date: '2026-06-11 18:39:02 '
+last_modified_at: '2026-06-11 18:39:02 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1.webp

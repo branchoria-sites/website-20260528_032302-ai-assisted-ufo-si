@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-ufo-case-file-media-files/
 description: Focused pages that expand on Media files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
 parent_title: Media files

@@ -267,6 +267,7 @@ next_link:
   short_title: Weak Explanations
   heading_title: Why A UFO Explanation Can Fit Only Partly
 date: '2026-06-11 18:31:09 '
+last_modified_at: '2026-06-11 18:31:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1.webp

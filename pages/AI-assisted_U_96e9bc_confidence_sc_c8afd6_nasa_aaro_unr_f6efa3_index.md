@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-confidence-sc-nasa-aaro/
 description: Focused pages that expand on NASA AARO.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3
 parent_title: NASA AARO

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-weather-atmos-light-pillars/
 description: Focused pages that expand on Light pillars.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a
 parent_title: Light pillars

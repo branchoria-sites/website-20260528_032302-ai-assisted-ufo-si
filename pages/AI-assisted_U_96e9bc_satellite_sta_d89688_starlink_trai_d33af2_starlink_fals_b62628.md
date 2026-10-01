@@ -267,6 +267,7 @@ next_link:
   short_title: Twilight passes
   heading_title: Why Starlink looks strangest at twilight
 date: '2026-06-11 18:58:09 '
+last_modified_at: '2026-06-11 18:58:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Tip Intake
   heading_title: What Makes A Drone Tip Useful?
 date: '2026-06-11 18:40:07 '
+last_modified_at: '2026-06-11 18:40:07 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-1.webp

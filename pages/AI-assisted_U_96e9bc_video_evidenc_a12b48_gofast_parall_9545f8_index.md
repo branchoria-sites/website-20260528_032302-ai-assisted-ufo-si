@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-video-evidenc-go-fast-parallax/
 description: Focused pages that expand on Go Fast Parallax.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8
 parent_title: Go Fast Parallax

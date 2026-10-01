@@ -286,6 +286,7 @@ next_link:
   short_title: Review Checks
   heading_title: What Should Be Challenged Before a UFO Verdict?
 date: '2026-06-11 18:12:21 '
+last_modified_at: '2026-06-11 18:12:21 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4-Illustration-1.webp

@@ -280,6 +280,7 @@ next_link:
   short_title: Chain of Custody
   heading_title: Can You Trust Where the UFO Video Came From
 date: '2026-06-11 18:23:32 '
+last_modified_at: '2026-06-11 18:23:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-1.webp

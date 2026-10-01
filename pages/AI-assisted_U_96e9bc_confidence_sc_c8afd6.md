@@ -314,6 +314,7 @@ next_link:
   short_title: Review
   heading_title: Who Checks the AI UFO Verdict?
 date: '2026-06-11 18:09:50 '
+last_modified_at: '2026-06-11 18:09:50 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-overview.webp

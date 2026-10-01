@@ -261,6 +261,7 @@ next_link:
   short_title: ATFLIR Data
   heading_title: What the Go Fast Display Data Really Revealed
 date: '2026-06-11 19:02:59 '
+last_modified_at: '2026-06-11 19:02:59 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-1.webp
