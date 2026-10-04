@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-ufo-case-file-timeline-e3b338/
 description: Focused pages that expand on Timeline.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d
 parent_title: Timeline
