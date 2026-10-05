@@ -267,6 +267,7 @@ next_link:
   short_title: Triangle labels
   heading_title: Is it a craft or three lights?
 date: '2026-06-11 18:47:08 '
+last_modified_at: '2026-06-11 18:47:08 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1.webp

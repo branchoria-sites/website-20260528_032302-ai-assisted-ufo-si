@@ -286,6 +286,7 @@ next_link:
   short_title: Media files
   heading_title: What does a UFO video really prove?
 date: '2026-06-11 18:21:52 '
+last_modified_at: '2026-06-11 18:21:52 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1.webp

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-event-timelin-video-timeline/
 description: Focused pages that expand on Video timeline.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966
 parent_title: Video timeline

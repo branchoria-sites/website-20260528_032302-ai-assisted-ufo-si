@@ -261,6 +261,7 @@ prev_link:
   short_title: Starlink Trains
   heading_title: Why Starlink Trains Look Like Coordinated UFO Fleets
 date: '2026-06-11 18:52:44 '
+last_modified_at: '2026-06-11 18:52:44 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1.webp

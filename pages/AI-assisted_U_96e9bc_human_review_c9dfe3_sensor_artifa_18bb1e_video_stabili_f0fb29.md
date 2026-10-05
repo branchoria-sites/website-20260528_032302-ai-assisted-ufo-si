@@ -261,6 +261,7 @@ next_link:
   short_title: Focus Blur
   heading_title: Why blurry lights become triangle UFOs on camera
 date: '2026-06-11 18:32:52 '
+last_modified_at: '2026-06-11 18:32:52 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1.webp

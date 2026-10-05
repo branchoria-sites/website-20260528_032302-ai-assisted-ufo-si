@@ -267,6 +267,7 @@ next_link:
   short_title: Sirius
   heading_title: Why Sirius fools so many UFO witnesses
 date: '2026-06-11 18:43:42 '
+last_modified_at: '2026-06-11 18:43:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1.webp

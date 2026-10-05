@@ -267,6 +267,7 @@ next_link:
   short_title: Timeline Match
   heading_title: Can Flight Data Recreate A Hovering UFO Sighting
 date: '2026-06-11 18:39:17 '
+last_modified_at: '2026-06-11 18:39:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1.webp

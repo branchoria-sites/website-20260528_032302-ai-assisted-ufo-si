@@ -261,6 +261,7 @@ prev_link:
   short_title: Starlink Drift
   heading_title: When Starlink is only a weak UFO answer
 date: '2026-06-11 18:57:01 '
+last_modified_at: '2026-06-11 18:57:01 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1.webp

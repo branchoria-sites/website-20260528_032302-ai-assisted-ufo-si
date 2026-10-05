@@ -280,6 +280,7 @@ prev_link:
   short_title: Fit Scores
   heading_title: How Competing UFO Explanations Can Both Fit
 date: '2026-06-11 18:17:40 '
+last_modified_at: '2026-06-11 18:17:40 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-1.webp

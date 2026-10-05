@@ -267,6 +267,7 @@ next_link:
   short_title: IR Glare
   heading_title: Are rotating UFO shapes just infrared camera glare?
 date: '2026-06-11 18:32:18 '
+last_modified_at: '2026-06-11 18:32:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1.webp

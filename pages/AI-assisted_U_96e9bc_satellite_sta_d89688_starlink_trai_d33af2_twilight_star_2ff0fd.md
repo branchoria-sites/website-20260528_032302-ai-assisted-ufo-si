@@ -261,6 +261,7 @@ prev_link:
   short_title: False manoeuvres
   heading_title: When satellite flares look like turns
 date: '2026-06-11 18:58:28 '
+last_modified_at: '2026-06-11 18:58:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-1.webp

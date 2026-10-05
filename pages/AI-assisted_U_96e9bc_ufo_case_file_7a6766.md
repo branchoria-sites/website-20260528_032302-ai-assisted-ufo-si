@@ -314,6 +314,7 @@ next_link:
   short_title: Case Match
   heading_title: Has This UFO Sighting Happened Before?
 date: '2026-06-11 18:10:56 '
+last_modified_at: '2026-06-11 18:10:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview.webp

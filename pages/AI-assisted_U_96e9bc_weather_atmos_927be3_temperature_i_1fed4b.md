@@ -280,6 +280,7 @@ next_link:
   short_title: Lenticulars
   heading_title: When clouds really do look like saucers
 date: '2026-06-11 18:25:47 '
+last_modified_at: '2026-06-11 18:25:47 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-1.webp

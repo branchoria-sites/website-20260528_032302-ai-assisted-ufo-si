@@ -267,6 +267,7 @@ next_link:
   short_title: Two Axis Labels
   heading_title: Why One UFO Verdict Is Often Not Enough
 date: '2026-06-11 18:50:23 '
+last_modified_at: '2026-06-11 18:50:23 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1.webp

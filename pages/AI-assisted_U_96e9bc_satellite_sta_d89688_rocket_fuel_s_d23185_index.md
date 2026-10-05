@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-satellite-sta-rocket-spirals/
 description: Focused pages that expand on Rocket Spirals.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185
 parent_title: Rocket Spirals

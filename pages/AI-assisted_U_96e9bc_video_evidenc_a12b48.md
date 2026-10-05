@@ -314,6 +314,7 @@ next_link:
   short_title: Weather
   heading_title: Can Weather Make a UFO Look Stranger?
 date: '2026-06-11 18:11:13 '
+last_modified_at: '2026-06-11 18:11:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview.webp

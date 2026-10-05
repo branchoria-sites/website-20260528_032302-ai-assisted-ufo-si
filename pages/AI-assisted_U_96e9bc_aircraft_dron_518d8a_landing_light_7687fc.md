@@ -286,6 +286,7 @@ next_link:
   short_title: NJ drone wave
   heading_title: What New Jersey teaches about mass drone reports
 date: '2026-06-11 18:14:15 '
+last_modified_at: '2026-06-11 18:14:15 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1.webp

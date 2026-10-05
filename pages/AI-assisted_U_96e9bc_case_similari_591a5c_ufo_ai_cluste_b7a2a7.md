@@ -280,6 +280,7 @@ next_link:
   short_title: Balloon Matches
   heading_title: Why Balloon Cases Often Solve New UFO Reports
 date: '2026-06-11 18:17:04 '
+last_modified_at: '2026-06-11 18:17:04 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7-Illustration-1.webp

@@ -314,6 +314,7 @@ next_link:
   short_title: Satellites
   heading_title: Could It Be Starlink or a Satellite?
 date: '2026-06-11 18:08:41 '
+last_modified_at: '2026-06-11 18:08:41 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview.webp

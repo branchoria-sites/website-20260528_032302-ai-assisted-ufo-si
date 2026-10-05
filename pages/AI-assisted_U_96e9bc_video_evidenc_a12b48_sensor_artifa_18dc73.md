@@ -280,6 +280,7 @@ prev_link:
   short_title: Original Files
   heading_title: Why the Original UFO File Matters More
 date: '2026-06-11 18:24:20 '
+last_modified_at: '2026-06-11 18:24:20 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1.webp
