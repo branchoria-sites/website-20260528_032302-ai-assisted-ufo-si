@@ -1028,7 +1028,7 @@ Only after those checks should the explanation move from “possible” to “cr
 
 23.<a id="endnote-23"></a>
    Source: nifc.gov  
-   Link:<a href="https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf</a>  
+   Link:https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Part 107 Fact SheetMinimum weather visibility is three miles from your control station. The maximum allowable altitude is 400 feet ab...</p></details>
 
 24.<a id="endnote-24"></a>

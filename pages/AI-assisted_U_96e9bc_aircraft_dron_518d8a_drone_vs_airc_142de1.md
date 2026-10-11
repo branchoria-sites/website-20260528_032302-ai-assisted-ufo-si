@@ -974,7 +974,7 @@ At the same time, drone explanations should not be stretched beyond their practi
 
 21.<a id="endnote-21"></a>
    Source: nifc.gov  
-   Link:<a href="https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf</a>  
+   Link:https://www.nifc.gov/drones/blm/FAA%20Part%20107%20Fact%20Sheet.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Part 107 Fact SheetThe maximum allowable altitude is 400 feet above the ground, and higher if your drone remains within 400 feet of a...</p></details>
 
 22.<a id="endnote-22"></a>
