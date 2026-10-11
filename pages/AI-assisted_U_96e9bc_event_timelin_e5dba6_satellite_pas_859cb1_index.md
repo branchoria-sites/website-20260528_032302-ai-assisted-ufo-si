@@ -1,11 +1,11 @@
 ---
-title: Satellites Sub-Topic Index
-title_full: Satellites Sub-Topic Index
+title: "Satellites Sub-Topic Index (ai assisted u event timelin satellites)"
+title_full: "Satellites Sub-Topic Index (ai assisted u event timelin satellites)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-event-timelin-satellites-06e013/
-description: Focused pages that expand on Satellites.
+description: "Focused pages that expand on Satellites (ai assisted u event timelin satellites)."
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default
